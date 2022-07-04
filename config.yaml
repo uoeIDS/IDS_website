@@ -1,8 +1,64 @@
 baseurl: 'https://dulcet-stardust-5fd858.netlify.app'
-theme: "hugo-theme-learn"
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
+languageCode: en-US
+defaultContentLanguage: en
+title: Introduction to Data Science (2022)
+theme: hugo-theme-learn
+metaDataFormat: yaml
+defaultContentLanguageInSubdir: true
+params:
+  editURL: >-
+    https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/
+  description: '[Introduction to Data Science DESC]'
+  author: Amy Wilson and Simon Taylor
+  showVisitedLinks: false
+  disableBreadcrumb: false
+  disableNextPrev: false
+  disableLandingPageButton: false
+  disableMermaid: false
+  customMermaidURL: 'https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js'
+  titleSeparator: '::'
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+Languages:
+  en:
+    title: Introduction to Data Science (2022)
+    weight: 1
+    languageName: English
+    landingPageURL: /en
+    landingPageName: <i class='fas fa-home'></i> Home
+    menu:
+      shortcuts:
+        - name: <i class='fas fa-bullhorn'></i> Announcements
+          identifier: announce
+          url: >-
+            https://www.learn.ed.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_87184_1&handle=cp_announcements&mode=cpview
+          weight: 2
+        - name: <i class='fas fa-edit'></i> Errata
+          identifier: errata
+          url: errata
+          weight: 3
+        - name: <i class='far fa-question-circle'></i> Help
+          identifier: help
+          url: help
+          weight: 4
+        - name: <i class='fas fa-users'></i> People
+          identifier: cont
+          url: people
+          weight: 5
+        - name: <i class='far fa-handshake'></i> Policies
+          identifier: pol
+          url: policies
+          weight: 6
+        - name: <i class='fas fa-book'></i> Resources
+          identifier: res
+          url: resources
+          weight: 7
+        - name: <i class='fas fa-tools'></i> Setup & Troubleshooting
+          url: /troubleshoot
+          weight: 8
 
 ignoreFiles:
   - \.Rmd$
