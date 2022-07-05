@@ -28,35 +28,35 @@ Languages:
     weight: 1
     languageName: English
     landingPageURL: /en
-    landingPageName: <i class='fas fa-home'></i> Home
+    landingPageName: <i class='fa fa-home'></i> Home
     menu:
       shortcuts:
-        - name: <i class='fas fa-bullhorn'></i> Announcements
+        - name: <i class='fa fa-bullhorn'></i> Announcements
           identifier: announce
           url: >-
             https://www.learn.ed.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_87184_1&handle=cp_announcements&mode=cpview
           weight: 2
-        - name: <i class='fas fa-edit'></i> Errata
+        - name: <i class='fa fa-edit'></i> Errata
           identifier: errata
           url: errata
           weight: 3
-        - name: <i class='far fa-question-circle'></i> Help
+        - name: <i class='fa fa-question-circle'></i> Help
           identifier: help
           url: help
           weight: 4
-        - name: <i class='fas fa-users'></i> People
+        - name: <i class='fa fa-users'></i> People
           identifier: cont
           url: people
           weight: 5
-        - name: <i class='far fa-handshake'></i> Policies
+        - name: <i class="fa fa-handshake-o" aria-hidden="true"></i> Policies
           identifier: pol
           url: policies
           weight: 6
-        - name: <i class='fas fa-book'></i> Resources
+        - name: <i class='fa fa-book'></i> Resources
           identifier: res
           url: resources
           weight: 7
-        - name: <i class='fas fa-tools'></i> Setup & Troubleshooting
+        - name: <i class='fa fa-wrench'></i> Setup & Troubleshooting
           url: /troubleshoot
           weight: 8
 
