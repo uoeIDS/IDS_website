@@ -31,13 +31,13 @@ Harvesting data from the web, writing functions, and iteration.
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | 
 |:---:|:---------------------|:-------:|:-----------:|:--------:|:------|
-| 01  | Keeping up with IDS: Week 6 | <a id="W6L1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W6L1MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
-| 02  | 	Web scraping | <a id="W6L2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W6L2MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W6L2S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
-| 03  | 	Scraping top 250 movies on IMDB  | <a id="W6L3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W6L3MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W6L3S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
-| 04  | 	Web scraping considerations    | <a id="W6L4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W6L4MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W6L4S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
-| 05  | AE: IMDB + Web scraping | <a id="W6L5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W6L5MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | <li><a id="AE8">AE8. Repository</a></li> |
-| 06  | Functions | <a id="W6L6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W6L6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W6L6S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>   | - |
-| 07  | Iteration | <a id="W6L7YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W6L7MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W6L7S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>   | - |
+| 01  | Keeping up with IDS: Week 6 | <a id="W6L1YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W6L1MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | - | - |
+| 02  | 	Web scraping | <a id="W6L2YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W6L2MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | <a id="W6L2S"><span style="color: #4b5357;"><i class="fa fa-desktop" aria-hidden="true"/></span></a>  | - |
+| 03  | 	Scraping top 250 movies on IMDB  | <a id="W6L3YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W6L3MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | <a id="W6L3S"><span style="color: #4b5357;"><i class="fa fa-desktop" aria-hidden="true"/></span></a>  | - |
+| 04  | 	Web scraping considerations    | <a id="W6L4YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W6L4MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | <a id="W6L4S"><span style="color: #4b5357;"><i class="fa fa-desktop" aria-hidden="true"/></span></a>  | - |
+| 05  | AE: IMDB + Web scraping | <a id="W6L5YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W6L5MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | - | <li><a id="AE8">AE8. Repository</a></li> |
+| 06  | Functions | <a id="W6L6YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W6L6MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | <a id="W6L6S"><span style="color: #4b5357;"><i class="fa fa-desktop" aria-hidden="true"/></span></a>   | - |
+| 07  | Iteration | <a id="W6L7YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W6L7MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | <a id="W6L7S"><span style="color: #4b5357;"><i class="fa fa-desktop" aria-hidden="true"/></span></a>   | - |
 
 ## Assignments
 
@@ -57,9 +57,8 @@ Harvesting data from the web, writing functions, and iteration.
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| <i class="fas fa-laptop"></i> | <a id="selector">Selector Gadget</a> | **Required** |
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS19">Chp 19 - Functions</a> | **Required** |
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS21">Chp 21 - Iteration</a> | Optional |
+| <i class="fa fa-laptop" aria-hidden="true"></i> | <a id="selector">Selector Gadget</a> | **Required** |
+| <i class="fa fa-book" aria-hidden="true"></i> | R4DS: <a id="R4DS21">Chp 21 - Iteration</a> | Optional |
 
 ## Code-along
 
@@ -67,7 +66,7 @@ Harvesting data from the web, writing functions, and iteration.
 
 | <div style="width:200px"></div>  | <div style="width:480px"></div>  |
 |:---|:---|
-| Recording | <a id="CA6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg"> </i></span></a> <a id="CA6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span></a> 
+| Recording | <a id="CA6YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true"> </i></span></a> <a id="CA6MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"></i></span></a> 
 | Session artifacts | <a id="CA6Rmd">.Rmd</a> <a id="CA6Md">.md</a>|
 
 ## Interactive R tutorials

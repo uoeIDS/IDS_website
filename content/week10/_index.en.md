@@ -30,12 +30,12 @@ Evaluating models with cross validation and uncertainty quantification with boot
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | 
 |:---:|:---------------------|:-------:|:-----------:|:--------:|:------|
-| 01  | Keeping up with IDS: Week 10 | <a id="W10L1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W10L1MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
-| 02  |	Cross validation | <a id="W10L2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W10L2MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W10L2S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
-| 03  | AE - The Office, Part 1 | <a id="W10L3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W10L3MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | <li><a id="AE9">AE9. Repository</a></li> |
-| 04  | AE - The Office, Part 2 | <a id="W10L4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W10L4MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | -  | <li><a id="AE9">AE9. Repository</a></li> |
-| 05  | Quantifying uncertainty | <a id="W10L5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W10L5MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> |  <a id="W10L5S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
-| 06  | Bootstrapping | <a id="W10L6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W10L6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W10L6S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>   | - |
+| 01  | Keeping up with IDS: Week 10 | <a id="W10L1YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W10L1MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | - | - |
+| 02  |	Cross validation | <a id="W10L2YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W10L2MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | <a id="W10L2S"><span style="color: #4b5357;"><i class="fa fa-desktop" aria-hidden="true"/></span></a>  | - |
+| 03  | AE - The Office, Part 1 | <a id="W10L3YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W10L3MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | - | <li><a id="AE9">AE9. Repository</a></li> |
+| 04  | AE - The Office, Part 2 | <a id="W10L4YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W10L4MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | -  | <li><a id="AE9">AE9. Repository</a></li> |
+| 05  | Quantifying uncertainty | <a id="W10L5YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W10L5MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> |  <a id="W10L5S"><span style="color: #4b5357;"><i class="fa fa-desktop" aria-hidden="true"/></span></a> | - |
+| 06  | Bootstrapping | <a id="W10L6YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W10L6MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | <a id="W10L6S"><span style="color: #4b5357;"><i class="fa fa-desktop" aria-hidden="true"/></span></a>   | - |
 
 ## Assignments
 
@@ -57,8 +57,8 @@ Evaluating models with cross validation and uncertainty quantification with boot
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| <i class="fab fa-readme"></i> | tidymodels: <a id="TMER">Evaluate your model with resampling</a> | **Required** |
-| <i class="fas fa-book"></i> | IMS: <a id="IMS12">Chp 12 - Confidence intervals with bootstrapping</a> | **Required** |
+| <svg aria-hidden="true" role="img" viewBox="0 0 576 512" style="height:1em;width:1.12em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M528.3 46.5H388.5c-48.1 0-89.9 33.3-100.4 80.3-10.6-47-52.3-80.3-100.4-80.3H48c-26.5 0-48 21.5-48 48v245.8c0 26.5 21.5 48 48 48h89.7c102.2 0 132.7 24.4 147.3 75 .7 2.8 5.2 2.8 6 0 14.7-50.6 45.2-75 147.3-75H528c26.5 0 48-21.5 48-48V94.6c0-26.4-21.3-47.9-47.7-48.1zM242 311.9c0 1.9-1.5 3.5-3.5 3.5H78.2c-1.9 0-3.5-1.5-3.5-3.5V289c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5v22.9zm0-60.9c0 1.9-1.5 3.5-3.5 3.5H78.2c-1.9 0-3.5-1.5-3.5-3.5v-22.9c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5V251zm0-60.9c0 1.9-1.5 3.5-3.5 3.5H78.2c-1.9 0-3.5-1.5-3.5-3.5v-22.9c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5v22.9zm259.3 121.7c0 1.9-1.5 3.5-3.5 3.5H337.5c-1.9 0-3.5-1.5-3.5-3.5v-22.9c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5v22.9zm0-60.9c0 1.9-1.5 3.5-3.5 3.5H337.5c-1.9 0-3.5-1.5-3.5-3.5V228c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5v22.9zm0-60.9c0 1.9-1.5 3.5-3.5 3.5H337.5c-1.9 0-3.5-1.5-3.5-3.5v-22.8c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5V190z"/></svg> | tidymodels: <a id="TMER">Evaluate your model with resampling</a> | **Required** |
+| <i class="fa fa-book" aria-hidden="true"></i> | IMS: <a id="IMS12">Chp 12 - Confidence intervals with bootstrapping</a> | **Required** |
 
 ## Code-along
 
@@ -66,7 +66,7 @@ Evaluating models with cross validation and uncertainty quantification with boot
 
 | <div style="width:200px"></div>  | <div style="width:480px"></div>  |
 |:---|:---|
-| Recording | <a id="CA10YT"><span style="color: red;"><i class="fab fa-youtube fa-lg"> </i></span></a> <a id="CA10MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span></a> 
+| Recording | <a id="CA10YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true"> </i></span></a> <a id="CA10MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"></i></span></a> 
 | Session artifacts | <a id="CA10Rmd">.Rmd</a> <a id="CA10Md">.md</a>|
 
 ## Interactive R tutorials

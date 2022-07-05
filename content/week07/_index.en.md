@@ -33,16 +33,16 @@ Misrepresentation of findings, data privacy, and algorithmic bias.
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | 
 |:---:|:---------------------|:-------:|:-----------:|:--------:|:------|
-| 01  | Keeping up with IDS: Week 7 | <a id="W7L1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W7L1MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
-| 02  | 	Misrepresentation | <a id="W7L2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W7L2MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W7L2S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
-| 🎤  | 	*Alberto Cairo - How charts lie*  | <a id="W7GL1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | - | -  | - |
-| 03  | 	Data privacy    | <a id="W7L3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W7L3MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W7L3S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
-| 🎤  | *The Guardian - Cambridge Analytica whistleblower*| <a id="W7GL2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | - | - | - |
-| 04  | Algorithmic bias | <a id="W7L4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W7L4MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W7L4S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>   | - |
-| 🎤  | *Joy Buolamwini - How I’m fighting bias in algorithms* | <a id="W7GL3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | - | -   | - |
-| 🎤  | *Cathy O’Neil - Weapons of Math Destruction* | <a id="W7GL4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | - | - | - |
-| 🎤  | *Safiya Umoja Noble - Imagining a Future Free from the Algorithms of Oppression* | <a id="W7GL5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | - | - | - |
-| 🎤  | *Kristian Lum - What’s An Algorithm Got To Do With It* | <a id="W7GL6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | - | - | - |
+| 01  | Keeping up with IDS: Week 7 | <a id="W7L1YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W7L1MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | - | - |
+| 02  | 	Misrepresentation | <a id="W7L2YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W7L2MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | <a id="W7L2S"><span style="color: #4b5357;"><i class="fa fa-desktop" aria-hidden="true"/></span></a>  | - |
+| 🎤  | 	*Alberto Cairo - How charts lie*  | <a id="W7GL1YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | - | -  | - |
+| 03  | 	Data privacy    | <a id="W7L3YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W7L3MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | <a id="W7L3S"><span style="color: #4b5357;"><i class="fa fa-desktop" aria-hidden="true"/></span></a>  | - |
+| 🎤  | *The Guardian - Cambridge Analytica whistleblower*| <a id="W7GL2YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | - | - | - |
+| 04  | Algorithmic bias | <a id="W7L4YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W7L4MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | <a id="W7L4S"><span style="color: #4b5357;"><i class="fa fa-desktop" aria-hidden="true"/></span></a>   | - |
+| 🎤  | *Joy Buolamwini - How I’m fighting bias in algorithms* | <a id="W7GL3YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | - | -   | - |
+| 🎤  | *Cathy O’Neil - Weapons of Math Destruction* | <a id="W7GL4YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | - | - | - |
+| 🎤  | *Safiya Umoja Noble - Imagining a Future Free from the Algorithms of Oppression* | <a id="W7GL5YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | - | - | - |
+| 🎤  | *Kristian Lum - What’s An Algorithm Got To Do With It* | <a id="W7GL6YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | - | - | - |
 
 ## Assignments
 
@@ -63,9 +63,9 @@ Misrepresentation of findings, data privacy, and algorithmic bias.
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| <i class="fas fa-book"></i> | MDSR: <a id="MDSR8">Chp 8 - Data science ethics</a> | **Required** |
-| <i class="fab fa-readme"></i> | <a id="EthChal">Ethical challenges in online research: Public/private perceptions</a> | Optional |
-| <i class="fas fa-pen-fancy"></i> | <a id="AUWB">Algorithmic Unfairness Without Any Bias Baked In</a> | Optional |
+| <i class="fa fa-book" aria-hidden="true"></i> | MDSR: <a id="MDSR8">Chp 8 - Data science ethics</a> | **Required** |
+| <svg aria-hidden="true" role="img" viewBox="0 0 576 512" style="height:1em;width:1.12em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M528.3 46.5H388.5c-48.1 0-89.9 33.3-100.4 80.3-10.6-47-52.3-80.3-100.4-80.3H48c-26.5 0-48 21.5-48 48v245.8c0 26.5 21.5 48 48 48h89.7c102.2 0 132.7 24.4 147.3 75 .7 2.8 5.2 2.8 6 0 14.7-50.6 45.2-75 147.3-75H528c26.5 0 48-21.5 48-48V94.6c0-26.4-21.3-47.9-47.7-48.1zM242 311.9c0 1.9-1.5 3.5-3.5 3.5H78.2c-1.9 0-3.5-1.5-3.5-3.5V289c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5v22.9zm0-60.9c0 1.9-1.5 3.5-3.5 3.5H78.2c-1.9 0-3.5-1.5-3.5-3.5v-22.9c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5V251zm0-60.9c0 1.9-1.5 3.5-3.5 3.5H78.2c-1.9 0-3.5-1.5-3.5-3.5v-22.9c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5v22.9zm259.3 121.7c0 1.9-1.5 3.5-3.5 3.5H337.5c-1.9 0-3.5-1.5-3.5-3.5v-22.9c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5v22.9zm0-60.9c0 1.9-1.5 3.5-3.5 3.5H337.5c-1.9 0-3.5-1.5-3.5-3.5V228c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5v22.9zm0-60.9c0 1.9-1.5 3.5-3.5 3.5H337.5c-1.9 0-3.5-1.5-3.5-3.5v-22.8c0-1.9 1.5-3.5 3.5-3.5h160.4c1.9 0 3.5 1.5 3.5 3.5V190z"/></svg> | <a id="EthChal">Ethical challenges in online research: Public/private perceptions</a> | Optional |
+| <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M79.18 282.94a32.005 32.005 0 0 0-20.24 20.24L0 480l4.69 4.69 92.89-92.89c-.66-2.56-1.57-5.03-1.57-7.8 0-17.67 14.33-32 32-32s32 14.33 32 32-14.33 32-32 32c-2.77 0-5.24-.91-7.8-1.57l-92.89 92.89L32 512l176.82-58.94a31.983 31.983 0 0 0 20.24-20.24l33.07-84.07-98.88-98.88-84.07 33.07zM369.25 28.32L186.14 227.81l97.85 97.85 199.49-183.11C568.4 67.48 443.73-55.94 369.25 28.32z"/></svg> | <a id="AUWB">Algorithmic Unfairness Without Any Bias Baked In</a> | Optional |
 
 ## Code-along
 
@@ -73,7 +73,7 @@ Misrepresentation of findings, data privacy, and algorithmic bias.
 
 | <div style="width:200px"></div>  | <div style="width:480px"></div>  |
 |:---|:---|
-| Recording | <a id="CA7YT"><span style="color: red;"><i class="fab fa-youtube fa-lg"> </i></span></a> <a id="CA7MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span></a> 
+| Recording | <a id="CA7YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true"> </i></span></a> <a id="CA7MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"></i></span></a> 
 
 ## Interactive R tutorials
 
