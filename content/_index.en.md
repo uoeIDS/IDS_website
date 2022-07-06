@@ -4,7 +4,7 @@ title: IDS
 
 ![corp](/images/UoE_Logo.png)
 
-# Introduction to Data Science <br>(MATH08077)
+# Introduction to Data Science - 2022<br>(MATH08077)
 
 <p style="font-size:90%; text-align: center">
   This is the website for the Introduction to Data Science (MATH08077) course offered at the University of Edinburgh in 2021. Click <a id="ids2020">here</a> if you are looking for the 2020 version of the course and <a id="ids2019">here</a> for the 2019 version.</p>
