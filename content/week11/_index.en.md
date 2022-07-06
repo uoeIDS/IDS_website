@@ -31,12 +31,12 @@ Additional topics beyond IDS.
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | 
 |:---:|:---------------------|:-------:|:-----------:|:--------:|:------|
-| 01  | Keeping up with IDS: Week 11 | <a id="W11L1YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W11L1MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | - | - |
-| 02  |	Text analysis | <a id="W11L2YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W11L2MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | <a id="W11L2S"><span style="color: #4b5357;"><i class="fa fa-desktop" aria-hidden="true"/></span></a>  | <li><a id="FMS">fm-speeches-covid19</a></li> |
-| 03  | Comparing texts	 | <a id="W11L3YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W11L3MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | <a id="W11L3S"><span style="color: #4b5357;"><i class="fa fa-desktop" aria-hidden="true"/></span></a> | - |
-| 04  | Interactive web apps | <a id="W11L4YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W11L4MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | <a id="W11L4S"><span style="color: #4b5357;"><i class="fa fa-desktop" aria-hidden="true"/></span></a>  | - |
-| 05  | Machine learning | <a id="W11L5YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W11L5MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> |  <a id="W11L5S"><span style="color: #4b5357;"><i class="fa fa-desktop" aria-hidden="true"/></span></a> | - |
-| 06  | Wrapping up IDS | <a id="W11L6YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true" /></span></a> | <a id="W11L6MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"/></span></a> | - | - |
+| 01  | Keeping up with IDS: Week 11 | <a id="W11L1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W11L1MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
+| 02  |	Text analysis | <a id="W11L2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W11L2MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W11L2S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | <li><a id="FMS">fm-speeches-covid19</a></li> |
+| 03  | Comparing texts	 | <a id="W11L3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W11L3MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W11L3S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
+| 04  | Interactive web apps | <a id="W11L4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W11L4MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W11L4S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
+| 05  | Machine learning | <a id="W11L5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W11L5MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> |  <a id="W11L5S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
+| 06  | Wrapping up IDS | <a id="W11L6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W11L6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
 
 ## Assignments
 
@@ -59,11 +59,11 @@ Additional topics beyond IDS.
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| <i class="fa fa-book" aria-hidden="true"></i> | TMwR: <a id="TMwR1">Chp 1 - The tidy text format</a> | Optional |
-| <i class="fa fa-book" aria-hidden="true"></i> | TMwR: <a id="TMwR2">Chp 2 - Sentiment analysis with tidy data</a> | Optional |
-| <i class="fa fa-book" aria-hidden="true"></i> | TMwR: <a id="TMwR3">Chp 3 - Analyzing word and document frequency: tf-idf</a> | Optional |
-| <i class="fa fa-book" aria-hidden="true"></i> | MS: <a id="MS1">Chp 1 - Your first Shiny app</a> | Optional |
-| <i class="fa fa-book" aria-hidden="true"></i> | SMLTAR: <a id="SMLTAR7">Chp 7 - Classification</a> | Optional |
+| <i class="fas fa-book"></i> | TMwR: <a id="TMwR1">Chp 1 - The tidy text format</a> | Optional |
+| <i class="fas fa-book"></i> | TMwR: <a id="TMwR2">Chp 2 - Sentiment analysis with tidy data</a> | Optional |
+| <i class="fas fa-book"></i> | TMwR: <a id="TMwR3">Chp 3 - Analyzing word and document frequency: tf-idf</a> | Optional |
+| <i class="fas fa-book"></i> | MS: <a id="MS1">Chp 1 - Your first Shiny app</a> | Optional |
+| <i class="fas fa-book"></i> | SMLTAR: <a id="SMLTAR7">Chp 7 - Classification</a> | Optional |
 
 ## Code-along
 
@@ -71,7 +71,7 @@ Additional topics beyond IDS.
 
 | <div style="width:200px"></div>  | <div style="width:480px"></div>  |
 |:---|:---|
-| Recording | <a id="CA11YT"><span style="color: red;"><i class="fa fa-youtube-play" aria-hidden="true"> </i></span></a> <a id="CA11MH"><span style="color: #0A1E3F;"><i class="fa fa-file-video-o" aria-hidden="true"></i></span></a> 
+| Recording | <a id="CA11YT"><span style="color: red;"><i class="fab fa-youtube fa-lg"> </i></span></a> <a id="CA11MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span></a> 
 | Session artifacts | <a id="CA11pdf">.pdf</a>|
 
 ## Interactive R tutorials

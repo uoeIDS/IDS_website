@@ -36,8 +36,8 @@ title: People
 <div class="row">
   <div class="column_small">
     <img src="/images/people/alex.jpg" />
-    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailAlex"><i class="fa fa-envelope-o" aria-hidden="true" style="margin-right:1vw;"></i></a><a id="AlexWeb"><i class="fa fa-home"></i></a>
-    <a id="AlexGitHub"><i class="fa fa-github" style="margin-right:1vw;"></i></a></p>
+    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailAlex"><i class="far fa-envelope" style="margin-right:1vw;"></i></a><a id="AlexWeb"><i class="fas fa-home"></i></a>
+    <a id="AlexGitHub"><i class="fab fa-github" style="margin-right:1vw;"></i></a></p>
   </div>
   <div class="column_large">
     <p style="text-align: left; font-size: 1vw; overflow:hidden;">Office 2257, James Clerk Maxwell Building, King's Buildings Campus</p>
@@ -50,8 +50,8 @@ title: People
 <div class="row">
   <div class="column_small">
     <img src="/images/people/david.jpg" />
-    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailDavid"><i class="fa fa-envelope-o" aria-hidden="true" style="margin-right:1vw;"></i></a><a id="DavidWeb"><i class="fa fa-home"></i></a>
-    <a id="DavidGitHub"><i class="fa fa-github" style="margin-right:1vw;"></i></a></p>
+    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailDavid"><i class="far fa-envelope" style="margin-right:1vw;"></i></a><a id="DavidWeb"><i class="fas fa-home"></i></a>
+    <a id="DavidGitHub"><i class="fab fa-github" style="margin-right:1vw;"></i></a></p>
   </div>
   <div class="column_large">
     <p style="text-align: left; font-size: 1vw; overflow:hidden;">Office 2257, James Clerk Maxwell Building, King's Buildings Campus</p>
@@ -64,8 +64,8 @@ title: People
 <div class="row">
   <div class="column_small">
     <img src="/images/people/mine.jpg" />
-    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MineWeb"><i class="fa fa-home"></i></a>
-    <a id="MineGitHub"><i class="fa fa-github" style="margin-right:1vw;"></i></a></p>
+    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MineWeb"><i class="fas fa-home"></i></a>
+    <a id="MineGitHub"><i class="fab fa-github" style="margin-right:1vw;"></i></a></p>
   </div>
   <div class="column_large">
     <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;"><em>My pronouns are she/her.</em> I am an Associate Professor of the Practice in the Department of Statistical Science at Duke University as well as a Professional Educator and Data Scientist at RStudio. My work focuses on innovation in statistics and data science pedagogy, with an emphasis on computing, reproducible research, student-centered learning, and open-source education as well as pedagogical approaches for enhancing retention of women and under-represented minorities in STEM. I work on integrating computation into the undergraduate statistics curriculum, using reproducible research methodologies and analysis of real and complex datasets. I also organize ASA DataFest, an annual two-day competition in which teams of undergraduate students work to reveal insights into a rich and complex data set. I also work on the OpenIntro project, whose mission is to make educational products that are free, transparent, and lower barriers to education. As part of this project I co-authored three open-source introductory statistics textbooks. I am also the creator and maintainer of datasciencebox.org and I teach the popular Statistics with R MOOC on Coursera.</p>
@@ -78,24 +78,24 @@ Please do not contact Mine regarding any questions regarding the course or perso
 
 ### Tutors
 <ul>
-  <li>Alaa Amri <a id="AlaaMail"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-  <li>Bruce Worton <a id="BruceMail"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-  <li>Jacob Bradley <a id="JacobMail"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-  <li>Jinlu Liu <a id="JinluMail"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-  <li>Karolina Benkova <a id="KarolinaMail"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-  <li>Kevin Tsang <a id="KevinMail"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-  <li>Kit Searle <a id="KitMail"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-  <li>Mary LLewellyn <a id="MaryMail"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-  <li>Monserrat Guedes Ayala <a id="MonserratMail"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-  <li>Nicole Augustin <a id="NicoleMail"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-  <li>Paula Fermin Cueto <a id="PaulaMail"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-  <li>Riki Herliansyah <a id="RikiMail"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-  <li>Yik (Eddie) Leung Fung <a id="YikMail"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+  <li>Alaa Amri <a id="AlaaMail"><i class="far fa-envelope"></i></a></li>
+  <li>Bruce Worton <a id="BruceMail"><i class="far fa-envelope"></i></a></li>
+  <li>Jacob Bradley <a id="JacobMail"><i class="far fa-envelope"></i></a></li>
+  <li>Jinlu Liu <a id="JinluMail"><i class="far fa-envelope"></i></a></li>
+  <li>Karolina Benkova <a id="KarolinaMail"><i class="far fa-envelope"></i></a></li>
+  <li>Kevin Tsang <a id="KevinMail"><i class="far fa-envelope"></i></a></li>
+  <li>Kit Searle <a id="KitMail"><i class="far fa-envelope"></i></a></li>
+  <li>Mary LLewellyn <a id="MaryMail"><i class="far fa-envelope"></i></a></li>
+  <li>Monserrat Guedes Ayala <a id="MonserratMail"><i class="far fa-envelope"></i></a></li>
+  <li>Nicole Augustin <a id="NicoleMail"><i class="far fa-envelope"></i></a></li>
+  <li>Paula Fermin Cueto <a id="PaulaMail"><i class="far fa-envelope"></i></a></li>
+  <li>Riki Herliansyah <a id="RikiMail"><i class="far fa-envelope"></i></a></li>
+  <li>Yik (Eddie) Leung Fung <a id="YikMail"><i class="far fa-envelope"></i></a></li>
 </ul>
 
 ### Maths Teaching Organization Staff
 <ul>
-  <li>Frances Reid (Course Secretary) <a id="CourseSec"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-  <li>Kat Kiernan (Student Learning Advisor) <a id="SLA1"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
-  <li>Kathleen Lloyd (Student Learning Advisor) <a id="SLA2"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
+  <li>Frances Reid (Course Secretary) <a id="CourseSec"><i class="far fa-envelope"></i></a></li>
+  <li>Kat Kiernan (Student Learning Advisor) <a id="SLA1"><i class="far fa-envelope"></i></a></li>
+  <li>Kathleen Lloyd (Student Learning Advisor) <a id="SLA2"><i class="far fa-envelope"></i></a></li>
 </ul>
