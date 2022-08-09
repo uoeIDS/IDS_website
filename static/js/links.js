@@ -654,7 +654,8 @@ try {document.getElementById('assessReg').href = "https://edin.ac/assessment-reg
 try {document.getElementById('timetable').href = "https://edadfed.ed.ac.uk/adfs/ls/?RedirectToIdentityProvider=https%3a%2f%2fidp.ed.ac.uk%2fshibboleth&username=&wa=wsignin1.0&wtrealm=urn%3afederation%3aMicrosoftOnline&wctx=wa%3Dwsignin1.0%26whr%3Dhttps:%252f%252fedadfed.ed.ac.uk%252fadfs%252fls%26wreply%3dhttps:%252f%252foutlook.com%252fowa%252f%253frealm%253ded.ac.uk%2526path%253d%252fcalendar%252fview%252fWorkWeek)";} catch { };
 try {document.getElementById('timetableInfo').href = "https://edin.ac/student-timetables";} catch { };
 try {document.getElementById('UsefulLinks').href = "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_6018051_1&course_id=_87184_1&mode=reset";} catch { };
-try {document.getElementById('RStudioCloud').href = "https://rstudio.cloud/";} catch { };
+try {document.getElementById('R').href = "https://www.r-project.org/about.html";} catch { };
+try {document.getElementById('RStudio').href = "https://www.rstudio.com/products/rstudio/#rstudio-desktop";} catch { };
 try {document.getElementById('GitHub').href = "https://github.com/";} catch { };
 try {document.getElementById('IAD').href = "https://www.ed.ac.uk/institute-academic-development";} catch { }; //Institute for Academic Development
 try {document.getElementById('Advice').href = "https://www.eusa.ed.ac.uk/support_and_advice/the_advice_place/";} catch { }; //Institute for Academic Development

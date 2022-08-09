@@ -4,7 +4,7 @@ title: Resources
 ---
 
 ## Books
-_All books on this course are free to read in full online at the links below. If you wish to purchase physical copies, please visit your local bookshop (e.g. heres a course specific URL for [Blackwells](https://blackwells.co.uk/bookshop/readinglists/displaylist.jsp?fm_course=59215)), or your online retailer of choice._
+_All books on this course are free to read in full online at the links below. If you wish to purchase physical copies, please visit your local bookshop, or your online retailer of choice._
 
 <ul>
   <li><a id="R4DS">R for Data Science</a></li>
@@ -21,7 +21,8 @@ The following books can be used to follow on from the topics taught on this cour
 ## Tools
 
 <ul>
-  <li><a id="RStudioCloud">RStudio Cloud</a></li>
+  <li><a id="R">R</a></li>
+  <li><a id="RStudio">RStudio</a></li>
   <li><a id="ids2021Git">GitHub</a></li>
   <li><a id="Piazza">Piazza</a></li>
   <li><a id="Zoom">Zoom</a></li>
