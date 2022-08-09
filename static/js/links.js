@@ -613,13 +613,13 @@ try {document.getElementById("OECD").href = "https://data.oecd.org/";} catch { }
 
 // Contacts ---------------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("MailAmy").href = "mailto:amy.l.wilson@ed.ac.uk";} catch { };
-try {document.getElementById("DavidWeb").href = "https://eldave93.github.io";} catch { };
+try {document.getElementById("AmyWeb").href = "https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=558";} catch { };
+
 try {document.getElementById("DavidGitHub").href = "https://github.com/Eldave93";} catch { };
 try {document.getElementById("MailSimon").href = "mailto:simon.taylor@ed.ac.uk";} catch { };
-try {document.getElementById("AlexWeb").href = "https://www.alexjhomer.co.uk/";} catch { };
+try {document.getElementById("SimonWeb").href = "https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=748";} catch { };
 try {document.getElementById("AlexGitHub").href = "https://github.com/AlexJHomer";} catch { };
-try {document.getElementById("MineWeb").href = "http://www2.stat.duke.edu/~mc301/";} catch { };
-try {document.getElementById("MineGitHub").href = "https://github.com/mine-cetinkaya-rundel";} catch { };
+
 try {document.getElementById("CourseSec").href = "mailto:f.c.reid@ed.ac.uk";} catch { };
 try {document.getElementById("SLA1").href = "mailto:Kat.Kiernan@ed.ac.uk";} catch { };
 try {document.getElementById("SLA2").href = "mailto:Kathleen.Lloyd@ed.ac.uk";} catch { };

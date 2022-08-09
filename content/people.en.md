@@ -36,11 +36,11 @@ title: People
 <div class="row">
   <div class="column_small">
     <img src="/images/people/Amy.jpg" />
-    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailAmy"><i class="far fa-envelope" style="margin-right:1vw;"></i></a></p>
+    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailAmy"><i class="far fa-envelope" style="margin-right:1vw;"></i></a></p><a id="AmyWeb"></i></a></p>
   </div>
   <div class="column_large">
     <p style="text-align: left; font-size: 1vw; overflow:hidden;">Office 5409, James Clerk Maxwell Building, King's Buildings Campus</p>
-    <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;"><em>My pronouns are she/her.</em>  I am a Lecturer in Industrial Mathematics in the School of Mathematics with a focus on applied statistics. My work is mainly centred around the modelling of uncertainty for decision-making in applied problems in industry and government. I work across a number of application areas such as energy systems (e.g. assessing the risk of the lights going out), forensic science (e.g. what is the evidential strength of cocaine traces on banknotes) and assessing uncertainty in large computer simulators (e.g. in models of UK landscapes). The sorts of statistical approaches I have used in these applications have included the modelling of time series and spatial data and use of graphical approaches for representing statistical models. I am very interested in using statistical modelling to help people solve real-life problems -- a crucial part of that is being able to extract the key messages from datasets and communicate those to non-statisticians!</p>
+    <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;"><em>My pronouns are she/her.</em>  I am a Lecturer in Industrial Mathematics in the School of Mathematics with a focus on applied statistics. My work is mainly centred around the modelling of uncertainty for decision-making in applied problems in industry and government. I work across a number of application areas such as energy systems (e.g. assessing the risk of the lights going out), forensic science (e.g. what is the evidential strength of cocaine traces on banknotes) and assessing uncertainty in large computer simulators (e.g. in models of UK landscapes). The sorts of statistical approaches I have used in these applications have included the modelling of time series and spatial data and use of graphical approaches for representing statistical models. I am very interested in using statistical modelling to help people solve real-life problems - a crucial part of that is being able to extract the key messages from datasets and communicate those to non-statisticians!</p>
   </div>
 </div>
 
@@ -49,8 +49,7 @@ title: People
 <div class="row">
   <div class="column_small">
     <img src="/images/people/david.jpg" />
-    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailSimon"><i class="far fa-envelope" style="margin-right:1vw;"></i></a><a id="DavidWeb"><i class="fas fa-home"></i></a>
-    <a id="DavidGitHub"><i class="fab fa-github" style="margin-right:1vw;"></i></a></p>
+    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailSimon"><i class="far fa-envelope" style="margin-right:1vw;"></i></a><a id="SimonWeb"></i></a></p>
   </div>
   <div class="column_large">
     <p style="text-align: left; font-size: 1vw; overflow:hidden;">Office 2257, James Clerk Maxwell Building, King's Buildings Campus</p>
@@ -58,6 +57,10 @@ title: People
   </div>
 </div>
 
+  {{% notice info %}}
+With thanks to Dr. Mine Çetinkaya-Rundel for setting up the first version of this course. 
+  {{% /notice %}}
+  
 
 ### Maths Teaching Organization Staff
 <ul>
@@ -65,3 +68,7 @@ title: People
   <li>Kat Kiernan (Student Learning Advisor) <a id="SLA1"><i class="far fa-envelope"></i></a></li>
   <li>Kathleen Lloyd (Student Learning Advisor) <a id="SLA2"><i class="far fa-envelope"></i></a></li>
 </ul>
+
+
+
+  
