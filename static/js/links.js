@@ -612,10 +612,10 @@ try {document.getElementById("HarvardData").href = "https://dataverse.harvard.ed
 try {document.getElementById("OECD").href = "https://data.oecd.org/";} catch { };
 
 // Contacts ---------------------------------------------------------------------------------------------------------------------------------------------------
-try {document.getElementById("MailDavid").href = "mailto:david.elliott@ed.ac.uk";} catch { };
+try {document.getElementById("MailAmy").href = "mailto:amy.l.wilson@ed.ac.uk";} catch { };
 try {document.getElementById("DavidWeb").href = "https://eldave93.github.io";} catch { };
 try {document.getElementById("DavidGitHub").href = "https://github.com/Eldave93";} catch { };
-try {document.getElementById("MailAlex").href = "mailto:alexander.homer@ed.ac.uk";} catch { };
+try {document.getElementById("MailSimon").href = "mailto:simon.taylor@ed.ac.uk";} catch { };
 try {document.getElementById("AlexWeb").href = "https://www.alexjhomer.co.uk/";} catch { };
 try {document.getElementById("AlexGitHub").href = "https://github.com/AlexJHomer";} catch { };
 try {document.getElementById("MineWeb").href = "http://www2.stat.duke.edu/~mc301/";} catch { };
