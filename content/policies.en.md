@@ -4,6 +4,8 @@ title: Policies
 
 ### On-campus expectations
 
+AMY TEST EDIT
+
 When attending an in-person session (e.g. Student Hour or Workshops), you are required to follow the current Scottish and university safety measures.
 
 - There is currently (3rd September) legislation in Scotland on the mandatory wearing of face coverings and also statutory exemptions (see [here](https://www.ed.ac.uk/news/covid-19/hygiene-and-health)).
