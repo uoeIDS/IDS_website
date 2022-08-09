@@ -33,10 +33,11 @@ title: People
 
 ### Dr. Amy Wilson (Course Organiser)
 
+    
 <div class="row">
   <div class="column_small">
     <img src="/images/people/Amy.jpg" />
-    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailAmy"><i class="far fa-envelope" style="margin-right:1vw;"></i></a></p><a id="AmyWeb"></i></a></p>
+    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailAmy"><i class="far fa-envelope" style="margin-right:1vw;"></i></a><a id="AmyWeb"><i class="fas fa-home"></i></a></p>
   </div>
   <div class="column_large">
     <p style="text-align: left; font-size: 1vw; overflow:hidden;">Office 5409, James Clerk Maxwell Building, King's Buildings Campus</p>
@@ -49,7 +50,7 @@ title: People
 <div class="row">
   <div class="column_small">
     <img src="/images/people/david.jpg" />
-    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailSimon"><i class="far fa-envelope" style="margin-right:1vw;"></i></a><a id="SimonWeb"></i></a></p>
+    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailSimon"><i class="far fa-envelope" style="margin-right:1vw;"></i></a><a id="SimonWeb"><i class="fas fa-home"></i></a></p>
   </div>
   <div class="column_large">
     <p style="text-align: left; font-size: 1vw; overflow:hidden;">Office 2257, James Clerk Maxwell Building, King's Buildings Campus</p>
