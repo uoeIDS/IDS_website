@@ -31,26 +31,25 @@ title: People
 }
 </style>
 
-### Dr. Alexander Homer (Co-Organiser)
+### Dr. Amy Wilson (Course Organiser)
 
 <div class="row">
   <div class="column_small">
-    <img src="/images/people/alex.jpg" />
-    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailAlex"><i class="far fa-envelope" style="margin-right:1vw;"></i></a><a id="AlexWeb"><i class="fas fa-home"></i></a>
-    <a id="AlexGitHub"><i class="fab fa-github" style="margin-right:1vw;"></i></a></p>
+    <img src="/images/people/Amy.jpg" />
+    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailAmy"><i class="far fa-envelope" style="margin-right:1vw;"></i></a></p>
   </div>
   <div class="column_large">
-    <p style="text-align: left; font-size: 1vw; overflow:hidden;">Office 2257, James Clerk Maxwell Building, King's Buildings Campus</p>
-    <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;"><em>My pronouns are he/him.</em>  I am a University Teacher in Statistics in the School of Mathematics, and so I’m involved in teaching probability/statistics courses to undergrads and master’s students.  I recently completed my DPhil degree in probability theory, with my research investigating limiting properties of a particular random graph model.  I’ve also taught statistical methods and R to a variety of audiences, most recently teaching a course aimed at introducing R to complete programming novices.  I believe that everyone can learn to code, and really enjoy helping others apply statistical and programming techniques to their problems.</p>
+    <p style="text-align: left; font-size: 1vw; overflow:hidden;">Office 5409, James Clerk Maxwell Building, King's Buildings Campus</p>
+    <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;"><em>My pronouns are she/her.</em>  I am a Lecturer in Industrial Mathematics in the School of Mathematics with a focus on applied statistics. My work is mainly centred around the modelling of uncertainty for decision-making in applied problems in industry and government. I work across a number of application areas such as energy systems (e.g. assessing the risk of the lights going out), forensic science (e.g. what is the evidential strength of cocaine traces on banknotes) and assessing uncertainty in large computer simulators (e.g. in models of UK landscapes). The sorts of statistical approaches I have used in these applications have included the modelling of time series and spatial data and use of graphical approaches for representing statistical models. I am very interested in using statistical modelling to help people solve real-life problems -- a crucial part of that is being able to extract the key messages from datasets and communicate those to non-statisticians!</p>
   </div>
 </div>
 
-### Dr. David Elliott (Co-Organiser)
+### Dr. Simon Taylor (Lecturer)
 
 <div class="row">
   <div class="column_small">
     <img src="/images/people/david.jpg" />
-    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailDavid"><i class="far fa-envelope" style="margin-right:1vw;"></i></a><a id="DavidWeb"><i class="fas fa-home"></i></a>
+    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailSimon"><i class="far fa-envelope" style="margin-right:1vw;"></i></a><a id="DavidWeb"><i class="fas fa-home"></i></a>
     <a id="DavidGitHub"><i class="fab fa-github" style="margin-right:1vw;"></i></a></p>
   </div>
   <div class="column_large">
@@ -59,39 +58,6 @@ title: People
   </div>
 </div>
 
-### Dr. Mine Çetinkaya-Rundel (Lecturer)
-
-<div class="row">
-  <div class="column_small">
-    <img src="/images/people/mine.jpg" />
-    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MineWeb"><i class="fas fa-home"></i></a>
-    <a id="MineGitHub"><i class="fab fa-github" style="margin-right:1vw;"></i></a></p>
-  </div>
-  <div class="column_large">
-    <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;"><em>My pronouns are she/her.</em> I am an Associate Professor of the Practice in the Department of Statistical Science at Duke University as well as a Professional Educator and Data Scientist at RStudio. My work focuses on innovation in statistics and data science pedagogy, with an emphasis on computing, reproducible research, student-centered learning, and open-source education as well as pedagogical approaches for enhancing retention of women and under-represented minorities in STEM. I work on integrating computation into the undergraduate statistics curriculum, using reproducible research methodologies and analysis of real and complex datasets. I also organize ASA DataFest, an annual two-day competition in which teams of undergraduate students work to reveal insights into a rich and complex data set. I also work on the OpenIntro project, whose mission is to make educational products that are free, transparent, and lower barriers to education. As part of this project I co-authored three open-source introductory statistics textbooks. I am also the creator and maintainer of datasciencebox.org and I teach the popular Statistics with R MOOC on Coursera.</p>
-  </div>
-</div>
-
-{{% notice note %}}
-Please do not contact Mine regarding any questions regarding the course or personal matters as these are to be handled by the course organisers.
-{{% /notice %}}
-
-### Tutors
-<ul>
-  <li>Alaa Amri <a id="AlaaMail"><i class="far fa-envelope"></i></a></li>
-  <li>Bruce Worton <a id="BruceMail"><i class="far fa-envelope"></i></a></li>
-  <li>Jacob Bradley <a id="JacobMail"><i class="far fa-envelope"></i></a></li>
-  <li>Jinlu Liu <a id="JinluMail"><i class="far fa-envelope"></i></a></li>
-  <li>Karolina Benkova <a id="KarolinaMail"><i class="far fa-envelope"></i></a></li>
-  <li>Kevin Tsang <a id="KevinMail"><i class="far fa-envelope"></i></a></li>
-  <li>Kit Searle <a id="KitMail"><i class="far fa-envelope"></i></a></li>
-  <li>Mary LLewellyn <a id="MaryMail"><i class="far fa-envelope"></i></a></li>
-  <li>Monserrat Guedes Ayala <a id="MonserratMail"><i class="far fa-envelope"></i></a></li>
-  <li>Nicole Augustin <a id="NicoleMail"><i class="far fa-envelope"></i></a></li>
-  <li>Paula Fermin Cueto <a id="PaulaMail"><i class="far fa-envelope"></i></a></li>
-  <li>Riki Herliansyah <a id="RikiMail"><i class="far fa-envelope"></i></a></li>
-  <li>Yik (Eddie) Leung Fung <a id="YikMail"><i class="far fa-envelope"></i></a></li>
-</ul>
 
 ### Maths Teaching Organization Staff
 <ul>
