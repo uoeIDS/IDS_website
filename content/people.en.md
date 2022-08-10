@@ -49,12 +49,12 @@ title: People
 
 <div class="row">
   <div class="column_small">
-    <img src="/images/people/david.jpg" />
+    <img src="/images/people/Simon.jpg" />
     <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailSimon"><i class="far fa-envelope" style="margin-right:1vw;"></i></a><a id="SimonWeb"><i class="fas fa-home"></i></a></p>
   </div>
   <div class="column_large">
-    <p style="text-align: left; font-size: 1vw; overflow:hidden;">Office 2257, James Clerk Maxwell Building, King's Buildings Campus</p>
-    <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;"><em>My pronouns are he/him.</em> I am a University Teacher in Mathematical Sciences Computing in the School of Mathematics. My work focuses on teaching probability, statistics, and data science to undergraduate and master’s students; with previous experience teaching hypothesis testing and research design. My recent research focuses on developing machine learning algorithms to improve the diagnosis speed and accuracy of identifying seizures in clinical records of electrical brain activity. Alike to many data scientists from a neuroscience background, I appreciate how human neurology and behaviour has inspired many modern machine learning advancements. I am passionate about the practical applications of machine learning and aim to educate and inspire others to develop research and models to tackle real-world challenges.</p>
+    <p style="text-align: left; font-size: 1vw; overflow:hidden;">Office 5314, James Clerk Maxwell Building, King's Buildings Campus</p>
+    <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;"><em>My pronouns are he/him.</em> I am a University Teacher in Statistics in the School of Mathematics. My work focuses on teaching statistics and data science to undergraduate and Master’s students. I have a varied background in statistical research: from applied investigations into Alzheimer's research to computational intensive methods in statistics. Currently, my research is in a branch of time series analysis (where data are measured in sequential order over time) called changepoint analysis where we would like to estimate the point in time where the underlying mechanism generating the data shifts from one regime to another. My interest in data science as a subject goes far beyond the tediousness of computing standard statistics like means, variances and correlations. Rather, to me, data science is about the process of discovering the data's story, and begin able to communicate its story to others with accuracy, robustness and impartiality.</p>
   </div>
 </div>
 
