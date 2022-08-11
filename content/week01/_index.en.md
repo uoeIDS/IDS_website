@@ -39,6 +39,9 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 | -  | not active | <a id="test5"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="test6"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
 | -  | active | <a id="test7"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="test8"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
 
+<p style="text-align: left">
+Comment: see the examples at the bottom of 'link.js' for how the above time restricted links (IDs "test1"-"test8") are defined using the newly created function 'DateRestrictLink'. I've tried to make this function robust to whatever is included between the HTML &lt;a&gt;&lt;/a&gt; <!-- <a></a> --> link elements, but I expect there will  be cases where the behaviour is not what is expected - let me know if spot any of these and I can have a look at editing the function if needed. Advice: if the link and style works as designed without the 'DateRestrictLink' function but then causes problems with it, then add a extra 'span' element within the 'a' link element like &lt;a&gt;&lt;span&gt; ... &lt;/span&gt;&lt;/a&gt; <!-- <a><span></span></a> --> and try to avoid having anything too complicated inside.
+</p>
 
 ## Tasks
 

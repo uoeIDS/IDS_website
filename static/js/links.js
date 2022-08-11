@@ -683,29 +683,17 @@ try {document.getElementById('feedbackW3').href = "https://forms.office.com/r/mS
 try {document.getElementById('feedbackW5').href = "https://forms.office.com/r/6hB8MmAwjp";} catch { }; // week 5/6 course evaluation
 
 
+// - EDIT ------------------------------------------------------------------
 
-//need to check that a <span> exists as a child element for <a> and add if one does not exist!
-function myFunction2(object, AccessDate, URL){
-  if( new Date() >= new Date(AccessDate) ){
-    object.href = URL;
-  } else {
-    const x = object.getElementsByTagName('span')
-    if(x.length === 0){
-      //need to add span
-      //var myspan = document.createElement('span');
-      //myspan.style = "color: silver";
-      //myspan.innerHML = object
-        
-    }else{
-      for(let i = 0; i < x.length; i++){
-        x[i].style = "color: silver";
-        //object.getElementsByTagName('span')[0].style = "color: silver";
-      }
-    }
-  }
-}
 
-function myFunction3(object, AccessDate, URL){
+function DateRestrictLink(object, AccessDate, URL){
+  
+  //object: The <a> element (obtained using unique ID) that we would like to assign href details.
+  //AccessDate: string containing the date from which we would like the link to be active.
+  //            I think style for specifying the date is flexible, but I've only tried "<dd> <month_text> <yyyy>" and it seems to work well!
+  //URL: string contain the href information, can be an external website (eg "htps://google.com") or can reference another page in 
+  //     this website (eg "/error" or "/assessments"). See above for more examples!
+  
   if( new Date() >= new Date(AccessDate) ){
     //Current date larger than access date, hence define href to make link available...
     object.href = URL;
@@ -730,14 +718,14 @@ function myFunction3(object, AccessDate, URL){
 }
 
 
-try {myFunction3(document.getElementById("test1"), "01 August 2022", "https://google.com");} catch { };	// youtube
-try {myFunction3(document.getElementById("test2"), "01 August 2023", "https://google.com");} catch { };	// youtube
-try {myFunction3(document.getElementById("test3"), "01 August 2022", "https://google.com");} catch { };	// youtube
-try {myFunction3(document.getElementById("test4"), "01 August 2023", "https://google.com");} catch { };	// youtube
-try {myFunction3(document.getElementById("test5"), "01 August 2022", "/error");} catch { };	// youtube
-try {myFunction3(document.getElementById("test6"), "01 August 2022", "/error");} catch { };	// youtube
-try {myFunction3(document.getElementById("test7"), "01 August 2023", "/error");} catch { };	// youtube
-try {myFunction3(document.getElementById("test8"), "01 August 2023", "/error");} catch { };	// youtube
+try {DateRestrictLink(document.getElementById("test1"), "01 August 2022", "https://google.com");} catch { };	
+try {DateRestrictLink(document.getElementById("test2"), "01 August 2023", "https://google.com");} catch { };	
+try {DateRestrictLink(document.getElementById("test3"), "01 August 2022", "https://google.com");} catch { };	
+try {DateRestrictLink(document.getElementById("test4"), "01 August 2023", "https://google.com");} catch { };	
+try {DateRestrictLink(document.getElementById("test5"), "01 August 2022", "/error");} catch { };	
+try {DateRestrictLink(document.getElementById("test6"), "01 August 2022", "/error");} catch { };	
+try {DateRestrictLink(document.getElementById("test7"), "01 August 2023", "/error");} catch { };	
+try {DateRestrictLink(document.getElementById("test8"), "01 August 2023", "/error");} catch { };	
 
 
 
