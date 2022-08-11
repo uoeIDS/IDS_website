@@ -1,6 +1,8 @@
 // Get the ids associated with links (e.g. <a id="people">People</a>)
 // and then assign them to a variable
 
+
+
 // Webpage Links ---------------------------------------------------------------------------------------------------
 try {document.getElementById('assessments').href = "/assessments";} catch { };		// / link to the assessments page
 try {document.getElementById('errata').href = "/errata";} catch { };
@@ -29,6 +31,7 @@ try {document.getElementById('Error4').href = "/error";} catch { };
 // Videos -----------------------------------------------------------------------------------------------------------
 try {document.getElementById("playlistmh").href = "https://media.ed.ac.uk/playlist/dedicated/1_p6bmjbvr/";} catch { };	// link to the mediahopper page
 try {document.getElementById('playlistyt').href = "https://youtube.com/playlist?list=PLPpngierSrQQXWJYxcejlR-DI2YSp0gD2";} catch { };	// link to the youtube playlist
+
 
 // week 1 lecture 0
 try {document.getElementById("W1L0YT").href = "https://youtu.be/GNslnHoxTDQ";} catch { };	// youtube
@@ -678,6 +681,68 @@ try {document.getElementById('TMwR').href = "https://www.tmwr.org/";} catch { };
 
 try {document.getElementById('feedbackW3').href = "https://forms.office.com/r/mSAw5ic3Vt";} catch { }; // week 3 course evaluation
 try {document.getElementById('feedbackW5').href = "https://forms.office.com/r/6hB8MmAwjp";} catch { }; // week 5/6 course evaluation
+
+
+
+//need to check that a <span> exists as a child element for <a> and add if one does not exist!
+function myFunction2(object, AccessDate, URL){
+  if( new Date() >= new Date(AccessDate) ){
+    object.href = URL;
+  } else {
+    const x = object.getElementsByTagName('span')
+    if(x.length === 0){
+      //need to add span
+      //var myspan = document.createElement('span');
+      //myspan.style = "color: silver";
+      //myspan.innerHML = object
+        
+    }else{
+      for(let i = 0; i < x.length; i++){
+        x[i].style = "color: silver";
+        //object.getElementsByTagName('span')[0].style = "color: silver";
+      }
+    }
+  }
+}
+
+function myFunction3(object, AccessDate, URL){
+  if( new Date() >= new Date(AccessDate) ){
+    //Current date larger than access date, hence define href to make link available...
+    object.href = URL;
+  } else {
+    //...otherwise do not specify href and set link text/contents to be grey
+    const x = object.getElementsByTagName('span')
+    if(x.length === 0){
+      // link does not contain a <span>, eg just text. Need to create new span element, set color and copy contents.
+      var newspan = document.createElement("SPAN");
+      var contents = object.innerHTML;
+      newspan.style = "color: silver";
+      newspan.innerHTML = contents;
+      object.innerHTML = "";
+      object.appendChild(newspan);
+    }else{
+      //over-ride the color for all span elements (assume that all child elements for link are spans).
+      for(let i = 0; i < x.length; i++){
+        x[i].style = "color: silver";
+      }
+    }
+  }
+}
+
+
+try {myFunction3(document.getElementById("test1"), "01 August 2022", "https://google.com");} catch { };	// youtube
+try {myFunction3(document.getElementById("test2"), "01 August 2023", "https://google.com");} catch { };	// youtube
+try {myFunction3(document.getElementById("test3"), "01 August 2022", "https://google.com");} catch { };	// youtube
+try {myFunction3(document.getElementById("test4"), "01 August 2023", "https://google.com");} catch { };	// youtube
+try {myFunction3(document.getElementById("test5"), "01 August 2022", "/error");} catch { };	// youtube
+try {myFunction3(document.getElementById("test6"), "01 August 2022", "/error");} catch { };	// youtube
+try {myFunction3(document.getElementById("test7"), "01 August 2023", "/error");} catch { };	// youtube
+try {myFunction3(document.getElementById("test8"), "01 August 2023", "/error");} catch { };	// youtube
+
+
+
+
+
 
 // Complete -------------------------------------------------------------------------------------------------------------------------------------------------
 console.log('Links Added');

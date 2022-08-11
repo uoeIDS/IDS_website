@@ -23,6 +23,23 @@ _Week 1 (20 Sep 2021 - 26 Sep 2021)_
 
 Get acquainted with the course, the technology, the workflow, and the skills you will acquire throughout the semester.
 
+## TEST SPACE - TO DELETE!!!
+
+<span><a id = "test1"><span style = "color: red">test1 - with span - active</span></a></span>
+<br>
+<span><a id = "test2"><span style = "color: red">text2 - with span - inactive</span></a></span>
+<br>
+<span><a id = "test3">test3 - without span - active</a></span>
+<br>
+<span><a id = "test4">text4 - without span - inactive</a></span>
+<br>
+
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | 
+|:---:|:---------------------|:-------:|:-----------:|:--------:|:------|
+| -  | not active | <a id="test5"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="test6"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
+| -  | active | <a id="test7"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="test8"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
+
+
 ## Tasks
 
 <p style="text-align: left">Each week you will be given a series of tasks to do. Normally you could do the tasks in any order, however this week it is strongly advised that you follow the order below. This week you have to...</p>
