@@ -9,12 +9,12 @@ description = "Instructions to setup the toolkit for the course and fix common i
 <p>If you have just started the course then please follow the <em>first time setup instructions</em> below:</p>
 
 <div>
-  1. <a id="GitHubSetup">GitHub Setup</a>
-  <dt style= "font-size: 0.8em; margin-left:16px;">Instructions for signing up and gaining access to your course repos.</dt>
+1. <a id="RStudioSetup">RStudio Setup</a>
+  <dt style= "font-size: 0.8em; margin-left:18px;">Instructions for downloading and installing RStudio.</dt>
 </div>
 <div>
-  2. <a id="RStudioCloudSetup">RStudio Cloud Setup</a>
-  <dt style= "font-size: 0.8em; margin-left:18px;">Instructions for signing up and gaining access to your RStudio Cloud space.</dt>
+  2. <a id="GitHubSetup">GitHub Setup</a>
+  <dt style= "font-size: 0.8em; margin-left:16px;">Instructions for signing up and linking GitHub to RStudio.</dt>
 </div>
 <div>
   3. <a id="ZoomSetup">Zoom Setup</a>
