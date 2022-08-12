@@ -3,8 +3,6 @@ title: "RStudio Setup"
 weight: 2
 ---
 
-<li><a id="RStudio">RStudio</a></li>
-
 <ol>
 <li>The first step is to install <strong>R</strong>.  R is the free statistical programming language and environment that we will use in this course. You can get a copy from the Comprehensive R Archive Network (CRAN) [here](https://cran.r-project.org/)
 just follow the links under ‘Download and Install R’.
@@ -17,9 +15,7 @@ just follow the links under ‘Download and Install R’.
 <ol>
   <li> Open RStudio from the Start menu on your computer.
   <li> In the console (bottom left - see the demo in lectures if you are not sure!) type 
-  <tt>  install.packages("rmarkdown")<tt>
 
-  
   ```{r colplot, echo = T}
   install.packages("rmarkdown")
 
