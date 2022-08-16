@@ -52,9 +52,9 @@ git version 2.37.0.windows.1
 
 ```
 {
-git config --global user.name 'Jane Doe'
-git config --global user.email 'jane@example.com'
-git config --global --list
+  git config --global user.name 'Jane Doe'
+  git config --global user.email 'jane@example.com'
+  git config --global --list
 }
 ```
 
