@@ -48,13 +48,11 @@ This should return the version number of Git that you have installed. For me thi
 
 <li> You then need to link your Git installation to your GitHub account. To do this, type
 
-```
-{
-  git config --global user.name 'Jane Doe'
-  git config --global user.email 'jane@example.com'
+<code>
+  git config --global user.name 'Jane Doe'\
+  git config --global user.email 'jane@example.com'\
   git config --global --list
-}
-```
+</code>
 
 
 in the terminal, replacing <em>Jane Doe</em> by your name and <em>jane@example.com</em> by the email address <strong>that is associated with your GitHub account</strong>.
