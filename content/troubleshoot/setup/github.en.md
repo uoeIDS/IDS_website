@@ -49,7 +49,7 @@ Git is a version control system that keeps track of changes to projects. GitHub 
 This should return the version number of Git that you have installed. For me this is:
 
 <pre>
-<code>git version 2.37.0.windows.1</code>.
+<code>git version 2.37.0.windows.1</code>
 </pre>
 
 <li> You then need to link your Git installation to your GitHub account. To do this, type
@@ -77,6 +77,7 @@ First we need to set up a new <strong>repository</strong> (repo) to work on:
 <ul>
 <li> Login to your GitHub account <a href="https://www.github.com/">here</a>, click on <em>Repositories</em> and then click on <em>New</em> to set up a new repository.
 <li> Follow the instructions. If you are working on assessed coursework you will want to set your repository to private. Add a README file so that we have something to edit.
+<li> You can add files directly to your repo via the web interface, but below we will see how to add files using RStudio. For the homework and labs you will be provided with a skeleton file that you can either upload to your GitHub repository via the web interface or add to your RStudio project as described below.
 </ul>
 <br><br>
 
@@ -85,7 +86,6 @@ For group homework, one person can set up the repo and invite the rest of their 
 <li> Log on to GitHub, nagivate to your repo, and click on Settings.
 <li> Click on Manage Access from the left hand menu, and then on Invite a collaborator - you will need their github user name.
 <li> Note that collaborators have to accept the invitation before they can save work (push) to the github repo – this applies whether the repo is private or public.
-<li> You can add files directly to your repo via the web interface, but we will see how to add files using RStudio. 
 </ul>
 
 ### Use RStudio to clone the repository to your local computer
