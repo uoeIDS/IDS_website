@@ -18,7 +18,9 @@ to earlier versions, if you need to.
 
 <li> Linux systems often have Git installed already. If not, typing something like
 
-```sudo apt install git``` should install it. 
+```sudo apt install git```
+
+should install it. 
 
 
 <li> For Mac or Linux systems you also need to install the Git Credential Manager Core (this is automatically installed for
@@ -33,21 +35,23 @@ Windows). Instructions are <a href="https://docs.github.com/en/get-started/getti
 Git is a version control system that keeps track of changes to projects. GitHub is an internet repository where these projects are stored. We will work with projects that are stored on your own computer but will regularly sync local data to the online GitHub repository. To do this, we need to make sure that your local Git installation can communicate with your online GitHub account.  
 
 <ul>
-<li> You will need to use a <strong>terminal</strong> to talk to Git. In RStudio you can launch a terminal using *Tools>Terminal* (the terminal will be in the bottom left panel). Make sure you have re-started RStudio after installing Git before you do this. There are other terminal options but these depend on your operating system. See <a href="https://happygitwithr.com/shell.html">here</a> for some suggestions. 
+<li> You will need to use a <strong>terminal</strong> to talk to Git. In RStudio you can launch a terminal using <em>Tools>Terminal</em> (the terminal will be in the bottom left panel). Make sure you have re-started RStudio after installing Git before you do this. There are other terminal options but these depend on your operating system. See <a href="https://happygitwithr.com/shell.html">here</a> for some suggestions. 
 <li> Once you have opened a terminal window, try typing 
 
 ```git --version ```
 
 This should return the version number of Git that you have installed. For me this is:
+
 ```git version 2.25.1```
 
 <li> You then need to link your Git installation to your GitHub account. To do this, type
-``` 
-git config --global user.name 'Jane Doe'
+
+```git config --global user.name 'Jane Doe'
 git config --global user.email 'jane@example.com'
-git config --global --list
-```
-in the terminal, replacing _Jane Doe_ by your name and _jane@example.com_ by the email address <strong>that is associated with your GitHub account</strong>.
+git config --global --list```
+
+
+in the terminal, replacing <em>Jane Doe</em> by your name and <em>jane@example.com</em> by the email address <strong>that is associated with your GitHub account</strong>.
 
 </ul>
 
@@ -60,7 +64,7 @@ RStudio has inbuilt tools that make it easier to work with Git and GitHub. The f
 
 First we need to set up a new <strong>repository</strong> (repo) to work on:
 <ul>
-<li> Login to your GitHub account <a href="https://www.github.com.com/">here</a>, click on _Repositories_ and then click on _New_ to set up a new repository.
+<li> Login to your GitHub account <a href="https://www.github.com.com/">here</a>, click on <em>Repositories</em> and then click on <em>New</em> to set up a new repository.
 <li> Follow the instructions. If you are working on assessed coursework you will want to set your repository to private. Add a README file so that we have something to edit.
 </ul>
 <br><br>
@@ -86,11 +90,14 @@ The next few steps will walk you through the process of getting information from
   
   <img src="/images/troubleshoot/clone-repo-link.png">
   
-<li> In RStudio open a new project using _File > New Project > Version Control > Git_. In _Repository URL_, paste the URL of your new GitHub repository. It will be something like this _https://github.com/wilsonamy/Test.git_.
+<li> In RStudio open a new project using \
+<em>File > New Project > Version Control > Git</em>. \
 
-<li> Accept the default name, check the project is being saved in the place you want and click _Create Project_.
+In <em>Repository URL</em>, paste the URL of your new GitHub repository.
 
-<li> These steps should open your test GitHub project. If you check in the files pane (bottom right in RStudio) you should see the README file you created. Try opening this, editing it and saving the changes. You have successfully cloned the repo!
+<li> Accept the default name, check the project is being saved in the place you want and click <em>Create Project</em>.
+
+<li> These steps should open your test GitHub project. If you check in the files pane (bottom right panel in RStudio) you should see the README file you created. Try opening this, editing it and saving the changes. You have successfully cloned the repo!
 </ol>
 
 ### Pushing changes back to GitHub.
