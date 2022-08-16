@@ -32,6 +32,9 @@ description = "Instructions to setup the toolkit for the course and fix common i
 
 If you want to start working on an application exercise, homework, workshop, or your project, then follow the instructions provided under <a id="GitHubSetup">GitHub Setup</a> to set up a new GitHub repository and add any files you need to using the instructions given for linking GitHub to RStudio. 
 
+<a id="GitHubSetup">GitHub Setup</a>
+  <dt style= "font-size: 0.8em; margin-left:16px;">Instructions for signing up and linking GitHub to RStudio.</dt>
+  
 <br>
 
 <p>If you are having an issue that affects your participation on the course, please see if the following pages can assist:</p>
