@@ -38,17 +38,25 @@ Git is a version control system that keeps track of changes to projects. GitHub 
 <li> You will need to use a <strong>terminal</strong> to talk to Git. In RStudio you can launch a terminal using <em>Tools>Terminal</em> (the terminal will be in the bottom left panel). Make sure you have re-started RStudio after installing Git before you do this. There are other terminal options but these depend on your operating system. See <a href="https://happygitwithr.com/shell.html">here</a> for some suggestions. 
 <li> Once you have opened a terminal window, try typing 
 
-```git --version ```
+```
+git --version
+```
 
 This should return the version number of Git that you have installed. For me this is:
 
-```git version 2.25.1```
+```
+git version 2.37.0.windows.1
+```.
 
 <li> You then need to link your Git installation to your GitHub account. To do this, type
 
-```git config --global user.name 'Jane Doe'
+```
+{
+git config --global user.name 'Jane Doe'
 git config --global user.email 'jane@example.com'
-git config --global --list```
+git config --global --list
+}
+```
 
 
 in the terminal, replacing <em>Jane Doe</em> by your name and <em>jane@example.com</em> by the email address <strong>that is associated with your GitHub account</strong>.
