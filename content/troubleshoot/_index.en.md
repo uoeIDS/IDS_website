@@ -30,6 +30,8 @@ description = "Instructions to setup the toolkit for the course and fix common i
   <dt style= "font-size: 0.8em; margin-left:25px;">Guidance for posting on the course forum.</dt>
 </div>
 
+<p style="color:red">WHY IS THIS LINK NOT WORKING??</p>
+
 If you want to start working on an application exercise, homework, workshop, or your project, then follow the instructions provided under <a id="GitHubSetup">GitHub Setup</a> to set up a new GitHub repository and add any files you need to using the instructions given for linking GitHub to RStudio. 
 
 <br>
