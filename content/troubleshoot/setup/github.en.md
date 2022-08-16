@@ -43,9 +43,8 @@ Git is a version control system that keeps track of changes to projects. GitHub 
 
 This should return the version number of Git that you have installed. For me this is:
 
-```
-git version 2.37.0.windows.1
-```.
+
+<code>git version 2.37.0.windows.1</code>.
 
 <li> You then need to link your Git installation to your GitHub account. To do this, type
 
