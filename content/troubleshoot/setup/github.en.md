@@ -69,7 +69,7 @@ RStudio has inbuilt tools that make it easier to work with Git and GitHub. The f
 
 First we need to set up a new <strong>repository</strong> (repo) to work on:
 <ul>
-<li> Login to your GitHub account <a href="https://www.github.com.com/">here</a>, click on <em>Repositories</em> and then click on <em>New</em> to set up a new repository.
+<li> Login to your GitHub account <a href="https://www.github.com/">here</a>, click on <em>Repositories</em> and then click on <em>New</em> to set up a new repository.
 <li> Follow the instructions. If you are working on assessed coursework you will want to set your repository to private. Add a README file so that we have something to edit.
 </ul>
 <br><br>
@@ -95,8 +95,8 @@ The next few steps will walk you through the process of getting information from
   
   <img src="/images/troubleshoot/clone-repo-link.png">
   
-<li> In RStudio open a new project using \
-<em>File > New Project > Version Control > Git</em>. \
+<li> In RStudio open a new project using <br>
+<em>File > New Project > Version Control > Git</em>. <br>
 
 In <em>Repository URL</em>, paste the URL of your new GitHub repository.
 
