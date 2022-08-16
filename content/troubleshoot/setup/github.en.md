@@ -18,7 +18,11 @@ to earlier versions, if you need to.
 
 <li> Linux systems often have Git installed already. If not, typing something like
 
-```sudo apt install git```
+<pre>
+<code>
+sudo apt install git
+</code>
+</pre>
 
 should install it. 
 
@@ -44,8 +48,9 @@ Git is a version control system that keeps track of changes to projects. GitHub 
 
 This should return the version number of Git that you have installed. For me this is:
 
-
+<pre>
 <code>git version 2.37.0.windows.1</code>.
+</pre>
 
 <li> You then need to link your Git installation to your GitHub account. To do this, type
 
