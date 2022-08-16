@@ -38,9 +38,8 @@ Git is a version control system that keeps track of changes to projects. GitHub 
 <li> You will need to use a <strong>terminal</strong> to talk to Git. In RStudio you can launch a terminal using <em>Tools>Terminal</em> (the terminal will be in the bottom left panel). Make sure you have re-started RStudio after installing Git before you do this. There are other terminal options but these depend on your operating system. See <a href="https://happygitwithr.com/shell.html">here</a> for some suggestions. 
 <li> Once you have opened a terminal window, try typing 
 
-```
-git --version
-```
+
+<code>git --version</code>
 
 This should return the version number of Git that you have installed. For me this is:
 
