@@ -38,8 +38,9 @@ Git is a version control system that keeps track of changes to projects. GitHub 
 <li> You will need to use a <strong>terminal</strong> to talk to Git. In RStudio you can launch a terminal using <em>Tools>Terminal</em> (the terminal will be in the bottom left panel). Make sure you have re-started RStudio after installing Git before you do this. There are other terminal options but these depend on your operating system. See <a href="https://happygitwithr.com/shell.html">here</a> for some suggestions. 
 <li> Once you have opened a terminal window, try typing 
 
-
+<pre>
 <code>git --version</code>
+</pre>
 
 This should return the version number of Git that you have installed. For me this is:
 
@@ -107,7 +108,7 @@ In <em>Repository URL</em>, paste the URL of your new GitHub repository.
 
 ### Pushing changes back to GitHub.
 
-In the last section we saw how to clone a repo, but we also need to be able to sync change we make in RStudio to GitHub. This is known as **pushing** changes to the repo. The following steps explain how to do this:
+In the last section we saw how to clone a repo, but we also need to be able to sync changes we make in RStudio to GitHub. This is known as **pushing** changes to the repo. The following steps explain how to do this:
 
 <ol>
 <li> Click the Git tab in the upper right pane in RStudio. Check the staged box for the README file and click commit. A Git box should pop up. 
@@ -116,5 +117,5 @@ In the last section we saw how to clone a repo, but we also need to be able to s
 </ol>
 <br><br>
 
-Congratulations! You have now set up RStudio to work with GitHub. If you need more help with this there is lots of information <a href="https://happygitwithr.com">here</a>. We will also be available to work through these steps with you in the workshops on Fridays. 
+Congratulations! You have now set up RStudio to work with GitHub. If you need more help with this there is lots of information <a href="https://happygitwithr.com">here</a>. The lecturers and tutors will also be available to work through these steps with you in the workshops on Fridays. 
 
