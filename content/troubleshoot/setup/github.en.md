@@ -3,13 +3,13 @@ title: "GitHub Setup"
 weight: 1
 ---
 
-### GitHub Account
+## GitHub Account
 
 __If you do not currently have a GitHub account__, please [sign up](https://github.com/signup).</li>
 <li>See <a id="gituseradv">here</a> for advice on selecting a username.</li>
-<li>After, make sure to verify your GitHub email address.</li>
+<li>After this, make sure to verify your GitHub email address.</li>
 
-### Install Git
+## Install Git
 
 <strong>Git</strong> is a version control system. It helps you to write code in teams, as you must do for this course, without breaking each other's code. It also lets you keep a record of the changes you make, so that you can go back
 to earlier versions, if you need to. 
@@ -27,7 +27,7 @@ Windows). Instructions are <a href="https://docs.github.com/en/get-started/getti
 
 </ul>
 
-### Link Git and GitHub
+## Link Git and GitHub
 
 Git is a version control system that keeps track of changes to projects. GitHub is an internet repository where these projects are stored. We will work with projects that are stored on your own computer but will regularly sync local data to the online GitHub repository. To do this, we need to make sure that your local Git installation can communicate with your online GitHub account.  
 
@@ -50,12 +50,12 @@ in the terminal, replacing _Jane Doe_ by your name and _jane@example.com_ by the
 
 </ul>
 
-### Link GitHub and RStudio
+## Link GitHub and RStudio
 
 
 RStudio has inbuilt tools that make it easier to work with Git and GitHub. The final step is to check that we can link RStudio to GitHub.
 
-# Set up a new GitHub repository
+### Set up a new GitHub repository
 
 First we need to set up a new <strong>repository</strong> (repo) to work on:
 <ul>
@@ -72,7 +72,7 @@ For group homework, one person can set up the repo and invite the rest of their 
 <li> You can add files directly to your repo via the web interface, but we will see how to add files using RStudio. 
 </ul>
 
-# Use RStudio to clone the repository to your local computer
+### Use RStudio to clone the repository to your local computer
 
 The first step is always to bring files into RStudio so that you can edit them, run them, view your results, and interpret them. This action is called **cloning**.
 
@@ -92,7 +92,7 @@ The next few steps will walk you through the process of getting information from
 <li> These steps should open your test GitHub project. If you check in the files pane (bottom right in RStudio) you should see the README file you created. Try opening this, editing it and saving the changes. You have successfully cloned the repo!
 </ol>
 
-# Pushing changes back to GitHub.
+### Pushing changes back to GitHub.
 
 In the last section we saw how to clone a repo, but we also need to be able to sync change we make in RStudio to GitHub. This is known as **pushing** changes to the repo. The following steps explain how to do this:
 
