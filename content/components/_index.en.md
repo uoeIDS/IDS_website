@@ -10,8 +10,8 @@ date: "2021-08-03"
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
-  width: 20%;
-  min-width: 20%;
+  width: 25%;
+  min-width: 25%;
   padding: 1em;
   white-space: normal;
 }
@@ -29,19 +29,15 @@ date: "2021-08-03"
 
 <div class="row">
   <div class="column">
-    <img src="/images/overview/youtube.png">
+    <img src="/images/overview/book.png">
     <p style="margin-top: -40px; text-align: center; font-size: 2vw; overflow:hidden;">Mon</p>
   </div>
   <div class="column">
-    <img src="/images/overview/speech-bubble.png">
+    <img src="/images/overview/laptop.png">
     <p style="margin-top: -40px; text-align: center; font-size: 2vw; overflow:hidden;">Tues</p>
   </div>
   <div class="column">
-    <img src="/images/overview/speech-bubble.png">
-    <p style="margin-top: -40px; text-align: center; font-size: 2vw; overflow:hidden;">Wed</p>
-  </div>
-  <div class="column">
-    <img src="/images/overview/keyboard.png">
+    <img src="/images/overview/lecture.png">
     <p style="margin-top: -40px; text-align: center; font-size: 2vw; overflow:hidden;">Thur</p>
   </div>
   <div class="column">
@@ -50,7 +46,7 @@ date: "2021-08-03"
   </div>
 </div>
 
-Videos are released on Mondays, student hours are on Tuesdays and Wednesdays, code alongs on Thursdays, and workshops on Fridays.
+The reading material and the interactive R tutorials are released on Mondays, the online lectures and the student hours are on Tuesdays, the live lectures are on Thursdays, and the workshops on Fridays.
 
 <p style="text-align: left">
 If you are looking for your class times for this course, these can be found via your University of Edinburgh calendar:
