@@ -1,11 +1,11 @@
 ---
 title: Workshops
-weight: 1
+weight: 3
 ---
 
-These will be held on Fridays and will be held in-person.
+These will be held on Fridays and will be held in-person. 
 
-The full list of times and locations are detailed below:
+<!--The full list of times and locations are detailed below:
 
 | Times         | Locations (Central/Holyrood Campus) |
 |---------------|--------------------------------------------|
@@ -17,11 +17,11 @@ The full list of times and locations are detailed below:
 <div>
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2234.278803882371!2d-3.18889008394796!3d55.94453948465495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c78385c7685d%3A0x6f9d3da4d39209ee!2sAppleton%20Tower%2C%20The%20University%20of%20Edinburgh!5e0!3m2!1sen!2suk!4v1629884943189!5m2!1sen!2suk" width=49.7% height=300ut style="border:0;" allowfullscreen="" loading="lazy" scrolling="no"></iframe>
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2233.968978532958!2d-3.1816150847673086!3d55.94990958424092!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c787dbaf4e4f%3A0xcd0b25472389981!2sPaterson&#39;s%20Land%2C%20The%20University%20of%20Edinburgh!5e0!3m2!1sen!2suk!4v1631865851892!5m2!1sen!2suk" width=49.7% height=300ut style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-</div>
+</div>-->
 
-You are expected to bring a laptop to this session. Please read the school's [Technology and equipment](https://teaching.maths.ed.ac.uk/main/undergraduate/studies/equipment) page for information on equipment or to request a device. There is also a [loan service](https://www.ed.ac.uk/information-services/library-museum-gallery/using-library/borrowing-a-book/borrowing-laptops) in the main library in case anything is wrong with your device at short notice.
+You are expected to bring a laptop to the workshops. Please read the school's [Technology and equipment](https://teaching.maths.ed.ac.uk/main/undergraduate/studies/equipment) page for information on equipment or to request a device. There is also a [loan service](https://www.ed.ac.uk/information-services/library-museum-gallery/using-library/borrowing-a-book/borrowing-laptops) in the main library in case anything is wrong with your device at short notice. The school provides IT support for Windows laptops. Support for other operating systems cannot be guaranteed. If your laptop uses another operating system and you cannot install the required software you may need to look into borrowing a laptop under the [loan service](https://www.ed.ac.uk/information-services/library-museum-gallery/using-library/borrowing-a-book/borrowing-laptops).
 
-During these sessions you will work in preassigned  __teams__ of 3 or 4 students on computing lab exercises. You can meet up with your team later to complete anything that you didn't manage to finish during the workshop. 
+During the workshops you will work in preassigned  __teams__ of 3 or 4 students on computing lab exercises. You can meet up with your team later to complete anything that you didn't manage to finish during the workshop. 
 
 {{% notice tip %}}
 Set up weekly team meetings between Friday and Tuesday.
@@ -36,6 +36,6 @@ To take part in workshops you will need to first set up your GitHub account, dow
 
 A frequently asked question is “What happens if I can’t make my workshop time?” 
 
-If you have another obligation every week at the time of your workshop, you should change into another group (workshops are held at four separate hours on Friday, pick a time slot that works for your schedule). You can change your allocated timetable slot on MyEd, by clicking on "Studies", and "Change tutorial, workshop or lab group". This will then be changed by the timetabling team. If you can’t make any of the times of the workshops, you should drop this class.
+If you have another obligation every week at the time of your workshop, you should change into another group. You can change your allocated timetable slot on MyEd, by clicking on "Studies", and "Change tutorial, workshop or lab group". This will then be changed by the timetabling team. If you can’t make any of the times of the workshops, you should drop this class.
 <img src="/images/assessments/change_tutorial.png"/>
 
