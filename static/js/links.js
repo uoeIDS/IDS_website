@@ -649,7 +649,8 @@ try {document.getElementById('drps').href = "http://www.drps.ed.ac.uk/22-23/dpt/
 try {document.getElementById('ids2020').href = "https://introds-2020.netlify.app/";} catch { };	// link to ids 2020 page
 try {document.getElementById('ids2019').href = "https://introds-2019.netlify.app/";} catch { };	// link to ids 2019 page
 try {document.getElementById('learn').href = "https://www.learn.ed.ac.uk/";} catch { };	// link to learn
-try {document.getElementById('learnids').href = "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_6018051_1&course_id=_87184_1&mode=reset";} catch { };	// link to the IDS course on learn
+try {document.getElementById('learnids').href = "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254185_1&course_id=_98726_1&mode=reset";} catch { };	// link to the IDS course on learn
+try {document.getElementById('learnidsstack').href =  "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?course_id=_98726_1&content_id=_7254189_1&mode=Q";} catch { };	// link to the IDS course assessment page on learn
 try {document.getElementById('survey1').href = "https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYdffF13VDSBAsmaFgj3BcYtUREVZQUVSWjY2UlZDTVdMWjM3NzI3VzVQUi4u";} catch { };	// link to the "Getting to know you survey"
 try {document.getElementById('assessPol').href = "https://teaching.maths.ed.ac.uk/main/undergraduate/studies/assessment/rules";} catch { };
 try {document.getElementById('UCMS').href = "https://edin.ac/common-marking-scheme";} catch { };

@@ -1,6 +1,6 @@
 ---
 title: Final Projects
-weight: 4
+weight: 3
 ---
 
 You, as part of a __team__, will be responsible for the completion of an open ended final project for this course, the goal of which is to tackle an “interesting” problem using the tools and techniques covered in this class. Each team’s work will also be shared with and evaluated by at least one other team at an earlier stage in order to provide feedback in the form of code review.
@@ -21,7 +21,7 @@ The final project for this class will consist of analysis on a dataset of your o
 
 The goal is not to do an exhaustive data analysis i.e., do not calculate every statistic and procedure you have learned for every variable, but rather let us know that you are proficient at asking meaningful questions and answering them with results of data analysis, that you are proficient in using R, and that you are proficient at interpreting and presenting the results. Focus on methods that help you begin to answer your research questions. You do not have to apply every statistical procedure we learned. Also, critique your own methods and provide suggestions for improving your analysis. Issues pertaining to the reliability and validity of your data, and appropriateness of the statistical analysis should be discussed here.
 
-The project is very open ended. You should create some kind of compelling visualization(s) of this data in R. There is no limit on what tools or packages you may use, but sticking to packages we learned in class (e.g. `tidyverse`) is advised. You do not need to visualize all of the data at once. A single high quality visualization will contribute much more to a good mark than a large number of poor quality visualizations. Also pay attention to your presentation. Neatness, coherency, and clarity will count. All analyses must be done in RStudio, using R. 
+The project is very open ended. You should create some kind of compelling visualization(s) of this data in R. There is no limit on what tools or packages you may use, but sticking to packages we learned in class (e.g. `tidyverse`) is advised. You do not need to visualize all of the data at once. A single high quality visualization will contribute much more to a good mark than a large number of poor quality visualizations. Also pay attention to your presentation. Neatness, coherency, and clarity will count. All analyses must be done in RStudio, using R. You must also use GitHub to collaborate with your team. 
 
 ### Data
 
@@ -54,33 +54,31 @@ Below are a list of data repositories that might be of interest to browse. You'r
 
 ### Deliverables
 
-1. Proposal     - due Tuesday, 26 Oct, at 16:00 UK
-1. Presentation - due Friday, 3 Dec, at 09:00 UK
-1. Write-up     - due Friday, 3 Dec, at 09:00 UK
+1. Proposal     - presentation in the workshop on Friday 28 October
+1. Presentation - due Friday, 2 Dec, at 09:00 UK
+1. Write-up     - due Friday, 2 Dec, at 09:00 UK
 
 #### Proposal
 
+The proposal does not count towards your final grade, but you will receive feedback from the tutors and from your peers in the workshop so we highly recommend completing this stage to make sure that you are on the right track!
+
+You should prepare a slide deck using one of the templates provided. There are two templates to choose from, using two different HTML presentation packages which allow you to make presentation slides using R Markdown syntax. The first is a package called `xaringan`, the second is a package called `reveal.js`.
+
+There isn't a limit to how many slides you can use, just a time limit (5 minutes total). Each team member should get a chance to speak during the presentation. Your presentation should cover:
+
 - Section 1 - Introduction: The introduction should introduce your general 
 research question and your data (where it came from, how it was collected, 
-what are the cases, what are the  variables, etc.).
+what are the cases, what are the  variables, etc.). You should include the output of `glimpse()` or `skim()` of your data frame in the slides.
 
-- Section 2 - Data: Place your data in the `/data` folder, and add dimensions 
-and codebook to the README in that folder. Then print out the output of 
-`glimpse()` or `skim()` of your data frame.
-
-- Section 3 - Data analysis plan:
+- Section 2 - Data analysis plan:
   - The outcome (response, Y) and predictor (explanatory, X) variables you will use to answer your question.
   - The comparison groups you will use, if applicable.
   - Very preliminary exploratory data analysis, including some summary statistics.
-and visualizations, along with some explanation on how they help you learn more 
-about your data. (You can add to these later as you work on your project.)
-  - The statistical method(s) that you believe will be useful in answering your 
-question(s). (You can update these later as you work on your project.)
-  -  What results from these specific statistical methods are needed to support 
-your hypothesized answer?
+and visualizations, along with some explanation on how they help you learn more about your data. (You can add to these later as you work on your project.)
+  - The statistical method(s) that you believe will be useful in answering your question(s). (You can update these later as you work on your project.)
+  -  What results from these specific statistical methods are needed to support your hypothesized answer?
 
-Each section should be no more than 1 page (excluding figures). You can check a 
-print preview to confirm length. 
+
 
 #### Presentation
 
@@ -92,11 +90,11 @@ There isn't a limit to how many slides you can use, just a time limit (5 minutes
 Before you finalize your presentation, make sure your chunks are turned off with `echo = FALSE`.
 {{% /notice %}}
 
-Presentation schedule: Presentations will take place during the last workshop of the semester. All teams (that can) will give them as a live presentation in workshop, although in some cases we will accept submission of a pre-recorded video depending on individual team circumstances (please discuss this with the course team). During your workshop you will watch presentations from other teams in your workshop and provide feedback in the form of peer evaluations. The presentation line-up will be generated randomly.
+Presentation schedule: Presentations will take place during the last workshop of the semester. All teams will give them as a live presentation in the workshop. During your workshop you will watch presentations from other teams in your workshop and provide feedback in the form of peer evaluations. The presentation line-up will be generated randomly.
 
-{{% notice note %}}
+<!--{{% notice note %}}
 Should you need to [pre-record your presentation](https://docs.google.com/document/d/1FxpFqUbEVpOzp7PWICC8gEvmIKfsNPT3mmQuSufsGHQ/edit?usp=sharing), you will need to upload your presentation *somewhere* and then add a link to the video in your repo README. We recommend you upload your video to MediaHopper. To do so, go to [media.ed.ac.uk](https://media.ed.ac.uk/), log in from the top left corner, then click on Add New Media and upload your video as unlisted. Once uploaded, grab the sharing link and add it to your repo README, next to the link to your slides. [This video](https://www.youtube.com/watch?v=rqxhOgrifyk) goes through this process. Ask questions **early** if anything is unclear. Your video must be updated and a link must be added to your repo by 9am UK time on 3 December!
-{{% /notice %}}
+{{% /notice %}}-->
 
 #### Write-up
 
