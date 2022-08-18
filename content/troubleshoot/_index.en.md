@@ -32,6 +32,8 @@ description = "Instructions to setup the toolkit for the course and fix common i
 
 <p style="color:red">WHY IS THIS LINK NOT WORKING??</p>
 
+<a id="GitHubSetup">GitHub Setup</a>
+
 If you want to start working on an application exercise, homework, workshop, or your project, then follow the instructions provided under <a id="GitHubSetup">GitHub Setup</a> to set up a new GitHub repository and add any files you need to using the instructions given for linking GitHub to RStudio. 
 
 <br>

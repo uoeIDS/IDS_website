@@ -108,8 +108,10 @@ In <em>Repository URL</em>, paste the URL of your new GitHub repository.
 
 <li> Accept the default name, check the project is being saved in the place you want and click <em>Create Project</em>.
 
-<li> These steps should open your test GitHub project. If you check in the files pane (bottom right panel in RStudio) you should see the README file you created. Try opening this, editing it and saving the changes. You have successfully cloned the repo!
+<li> These steps should open your test GitHub project. If you check in the files pane (bottom right panel in RStudio) you should see the README file you created. Try opening this, editing it and saving the changes. 
 </ol>
+
+Well done - you have successfully cloned the repo!
 
 ### Pushing changes back to GitHub.
 
@@ -122,5 +124,8 @@ In the last section we saw how to clone a repo, but we also need to be able to s
 </ol>
 <br><br>
 
-Congratulations! You have now set up RStudio to work with GitHub. If you need more help with this there is lots of information <a href="https://happygitwithr.com">here</a>. The lecturers and tutors will also be available to work through these steps with you in the workshops on Fridays. 
+Congratulations! You have now set up RStudio to work with GitHub. 
+<br><br>
+
+If you need more help with any of this a good place to start is the information <a href="https://happygitwithr.com">here</a>. The lecturers and tutors will also be available to work through these steps with you in the workshops on Fridays. 
 

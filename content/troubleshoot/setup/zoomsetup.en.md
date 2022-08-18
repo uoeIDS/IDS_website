@@ -15,7 +15,5 @@ weight: 4
   <li>Once logged in go to the <strong>Settings</strong> (see <a href="https://support.zoom.us/hc/en-us/articles/201362623-Changing-settings-in-the-desktop-client-or-mobile-app">here</a> for details where to find it).</li>
   <ul>
     <li>It is expected that you turn on your camera during sessions, but if you are unable to please add a photo to your profile.</li>
-    <li>Make sure your name shows up as the preferred name you indicated on the course survey.</li>
   </ul>
-  <img src="/images/troubleshoot/zoom-profile.png"/>
 </ol>
