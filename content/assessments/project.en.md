@@ -150,6 +150,6 @@ Team peer evaluation           | 10 pts
 
 ### Late work policy
 
-- There is no late submission / make up for the presentation. You must be in class on the day of the presentation to get credit for it (In case of illness, requirement to self-isolate or similar, special circumstances can be applied for from the university: see the <a id="Policies">Policies page</a>).
+- There is no late submission / make up for the presentation. You must be in class on the day of the presentation to get credit for it (In case of illness, requirement to self-isolate or similar, special circumstances can be applied for from the university: see the <a id="policies">Policies page</a>).
 
 - The late work policy for the write-up is 5% of the maximum obtainable mark per calendar day up to seven calendar days after the deadline.
