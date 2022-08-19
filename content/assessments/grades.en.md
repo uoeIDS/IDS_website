@@ -1,6 +1,6 @@
 ---
 title: Feedback and Grades
-weight: 6
+weight: 4
 ---
 
 Feedback on assignments will be submitted on __GitHub__ as _issues_ in the relevant repository. Grades can be found on __Learn__ in the "My Grades" tab accessible by clicking in the top right corner (or in the blackboard app).
