@@ -38,17 +38,15 @@ Below are a list of data repositories that might be of interest to browse. You'r
 <ul>
   <li><a id="TidyTuesday">TidyTuesday</a></li>
   <li><a id="NHSSOD">NHS Scotland Open Data</a></li>
-  <li><a id="EDOD">Edinburgh Open Data</a></li>
   <li><a id="SOS">Open access to Scotland's official statistics</a></li>
-  <li><a id="BSDP">Bikeshare data portal</a></li>
   <li><a id="UKGov">UK Gov Data</a></li>
   <li><a id="KaggleData">Kaggle datasets</a></li>
   <li><a id="OpenIntroData">OpenIntro datasets</a></li>
   <li><a id="Awesome">Awesome public datasets</a></li>
   <li><a id="YRBSS">Youth Risk Behavior Surveillance System (YRBSS)</a></li>
-  <li><a id="PRISM">PRISM Data Archive Project</a></li>
   <li><a id="HarvardData">Harvard Dataverse</a></li>
   <li><a id="OECD">Organisation for Economic Co-operation and Development (OECD)</a></li>
+    <li><a id="UCI">UCI machine learning repository</a></li>
   <li>If you know of others, let me know, and we'll add here...</li>
 </ul>
 

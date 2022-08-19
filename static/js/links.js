@@ -613,6 +613,8 @@ try {document.getElementById("PRISM").href = "https://www.icpsr.umich.edu/icpsrw
 try {document.getElementById("HarvardData").href = "https://dataverse.harvard.edu/";} catch { };
 // Organisation for Economic Co-operation and Development (OECD)
 try {document.getElementById("OECD").href = "https://data.oecd.org/";} catch { };
+// UCI  machine learning repository
+try {document.getElementById("UCI").href = "https://archive.ics.uci.edu/ml/index.php";} catch { };
 
 // Contacts ---------------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("MailAmy").href = "mailto:amy.l.wilson@ed.ac.uk";} catch { };
