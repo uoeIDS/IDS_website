@@ -34,7 +34,7 @@ All work is due on the stated due date. Due dates are there to help guide your p
 Please review the official University and School policies <a id="extensions">here</a>. If you intend to submit work late for the project, you must **notify the course organizer** before the original deadline.
 
 {{% notice note %}}
-For example, the following penelties will apply for late HW:
+For example, the following penalties will apply for late HW:
 <br/> 5%: 10am Thursday - 10am Friday
 <br/> 10%: 10am Friday - 10am Saturday
 <br/> 15%: 10am Saturday - 10am Sunday

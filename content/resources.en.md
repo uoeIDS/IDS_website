@@ -21,7 +21,7 @@ The following books can be used to follow on from the topics taught on this cour
 ## Tools
 
 <ul>
-  <li><a id="R">R</a></li>
+  <li><a id="Rproject">R</a></li>
   <li><a id="RStudio">RStudio</a></li>
   <li><a id="ids2021Git">GitHub</a></li>
   <li><a id="Piazza">Piazza</a></li>

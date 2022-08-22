@@ -16,7 +16,7 @@ try {document.getElementById('tags').href = "/tags";} catch { };					// link to 
 try {document.getElementById('troubleshoot').href = "/troubleshoot";} catch { };	// link to the troubleshoot page
 try {document.getElementById('troubleshoot2').href = "/troubleshoot";} catch { };	// link to the troubleshoot page
 try {document.getElementById('GitHubSetup').href = "/troubleshoot/setup/github";} catch { };	// link to github setup
-try {document.getElementById('RStudioCloudSetup').href = "/troubleshoot/setup/rstudiocloud";} catch { };	// link to github setup
+try {document.getElementById('RStudioSetup').href = "/troubleshoot/setup/rstudio";} catch { };	// link to github setup
 try {document.getElementById('ZoomSetup').href = "/troubleshoot/setup/zoomsetup";} catch { };	// link to github setup
 try {document.getElementById('RepoHelp').href = "/troubleshoot/trouble/repos";} catch { };
 try {document.getElementById('ZoomHelp').href = "/troubleshoot/trouble/zoom";} catch { };
@@ -613,6 +613,8 @@ try {document.getElementById("PRISM").href = "https://www.icpsr.umich.edu/icpsrw
 try {document.getElementById("HarvardData").href = "https://dataverse.harvard.edu/";} catch { };
 // Organisation for Economic Co-operation and Development (OECD)
 try {document.getElementById("OECD").href = "https://data.oecd.org/";} catch { };
+// UCI  machine learning repository
+try {document.getElementById("UCI").href = "https://archive.ics.uci.edu/ml/index.php";} catch { };
 
 // Contacts ---------------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("MailAmy").href = "mailto:amy.l.wilson@ed.ac.uk";} catch { };
@@ -645,11 +647,12 @@ try {document.getElementById("KitMail").href = "mailto:ksearle@ed.ac.uk";} catch
 try {
 	document.getElementById('announcements').href = "https://www.learn.ed.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_87184_1&handle=cp_announcements&mode=cpview";
 } catch { };	// link to annoucements page
-try {document.getElementById('drps').href = "http://www.drps.ed.ac.uk/21-22/dpt/cxmath08077.htm";} catch { };	// link to the official drps course page
+try {document.getElementById('drps').href = "http://www.drps.ed.ac.uk/22-23/dpt/cxmath08077.htm";} catch { };	// link to the official drps course page
 try {document.getElementById('ids2020').href = "https://introds-2020.netlify.app/";} catch { };	// link to ids 2020 page
 try {document.getElementById('ids2019').href = "https://introds-2019.netlify.app/";} catch { };	// link to ids 2019 page
 try {document.getElementById('learn').href = "https://www.learn.ed.ac.uk/";} catch { };	// link to learn
-try {document.getElementById('learnids').href = "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_6018051_1&course_id=_87184_1&mode=reset";} catch { };	// link to the IDS course on learn
+try {document.getElementById('learnids').href = "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254185_1&course_id=_98726_1&mode=reset";} catch { };	// link to the IDS course on learn
+try {document.getElementById('learnidsstack').href =  "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?course_id=_98726_1&content_id=_7254189_1&mode=Q";} catch { };	// link to the IDS course assessment page on learn
 try {document.getElementById('survey1').href = "https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYdffF13VDSBAsmaFgj3BcYtUREVZQUVSWjY2UlZDTVdMWjM3NzI3VzVQUi4u";} catch { };	// link to the "Getting to know you survey"
 try {document.getElementById('assessPol').href = "https://teaching.maths.ed.ac.uk/main/undergraduate/studies/assessment/rules";} catch { };
 try {document.getElementById('UCMS').href = "https://edin.ac/common-marking-scheme";} catch { };
@@ -657,7 +660,7 @@ try {document.getElementById('assessReg').href = "https://edin.ac/assessment-reg
 try {document.getElementById('timetable').href = "https://edadfed.ed.ac.uk/adfs/ls/?RedirectToIdentityProvider=https%3a%2f%2fidp.ed.ac.uk%2fshibboleth&username=&wa=wsignin1.0&wtrealm=urn%3afederation%3aMicrosoftOnline&wctx=wa%3Dwsignin1.0%26whr%3Dhttps:%252f%252fedadfed.ed.ac.uk%252fadfs%252fls%26wreply%3dhttps:%252f%252foutlook.com%252fowa%252f%253frealm%253ded.ac.uk%2526path%253d%252fcalendar%252fview%252fWorkWeek)";} catch { };
 try {document.getElementById('timetableInfo').href = "https://edin.ac/student-timetables";} catch { };
 try {document.getElementById('UsefulLinks').href = "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_6018051_1&course_id=_87184_1&mode=reset";} catch { };
-try {document.getElementById('R').href = "https://www.r-project.org/about.html";} catch { };
+try {document.getElementById('Rproject').href = "https://www.r-project.org/about.html";} catch { };
 try {document.getElementById('RStudio').href = "https://www.rstudio.com/products/rstudio/#rstudio-desktop";} catch { };
 try {document.getElementById('GitHub').href = "https://github.com/";} catch { };
 try {document.getElementById('IAD').href = "https://www.ed.ac.uk/institute-academic-development";} catch { }; //Institute for Academic Development
