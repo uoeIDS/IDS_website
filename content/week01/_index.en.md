@@ -10,16 +10,15 @@ tags:
 - videos
 - assignments
 - readings
-- code-along
 - tutorials
-description: 'Week 1 (20 Sep 2021 - 26 Sep 2021): Get acquainted with the course,
+description: 'Week 1 (19 Sep 2022 - 23 Sep 2022): Get acquainted with the course,
   the technology, the workflow, and the skills you will acquire throughout the semester.'
 hidden: no
 ---
 
 # Welcome to IDS
 
-_Week 1 (26 Sep 2022 - 30 Sep 2022)_
+_Week 1 (19 Sep 2022 - 23 Sep 2022)_
 
 Get acquainted with the course, the technology, the workflow, and the skills you will acquire throughout the semester.
 
@@ -91,7 +90,7 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab00: Hello IDS!| <li><a id="LAB0I">Instructions</a></li> <li><a id="LAB0R">Repository</a></li>| Tue, 28 Sep, 16:00 UK |
+| Lab00: Hello IDS!| <li><a id="LAB0I">Instructions</a></li> <li><a id="LAB0R">Repository</a></li>| Tue, 26 Sep, 16:00 UK |
 
 
 ## Assignments
