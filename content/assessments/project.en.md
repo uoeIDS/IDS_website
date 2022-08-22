@@ -103,7 +103,7 @@ This write-up should provide information on the dataset you're using, your resea
 
 You will be asked to fill out a survey where you rate the contribution and teamwork of each team member out of 10 points. You will additionally report a contribution percentage for each team member. Submitting this information is a prerequisite for getting credit on the team member evaluation. If you are suggesting that an individual did less than 20% of the work, please provide some explanation. If any individual gets an average peer score indicating that they did less than 10% of the work, this person will receive half the grade of the rest of the group.
 
-#### Submission and GitHub repository
+### Submission and GitHub repository
 
 You will need to submit to Learn by 9am on the 2 December:
 
@@ -122,7 +122,7 @@ We expect your GitHub repository to contain the following folders and files:
 
 Style and format does count for this assignment, so please take the time to make sure everything looks good and your data and code are properly formatted. There are also 10pts available for reproducibility and organisation - the marks for this will be based on your GitHub repository so make sure you include this.
 
-## Tips
+### Tips
 
 - You're working in the same repo as your teammates, so merge conflicts will happen and issues will arise, and that’s fine! Commit and push often, and ask questions when stuck.
 - Review the marking guidelines below and ask questions if any of the expectations are unclear.
@@ -132,7 +132,7 @@ Style and format does count for this assignment, so please take the time to make
 - Code: In your presentation your code should be hidden (`echo = FALSE`) so that your document is neat and easy to read. However, your document should include all your code such that if I re-knit your R Markdown file I should be able to obtain the results you presented. **Exception:** If you want to highlight something specific about a piece of code, you're welcome to show that portion. 
 - Teamwork: You are to complete the assignment as a team. All team members are expected to contribute equally to the completion of this assignment and team evaluations will be given at its completion---anyone judged to not have sufficiently contributed to the final product will have their grade penalized. While different teams members may have different backgrounds and abilities, it is the responsibility of every team member to understand how and why all code and approaches in the assignment work.
 
-## Marking
+### Marking
 
 Total                          | 100 pts
 -------------------------------|--------
