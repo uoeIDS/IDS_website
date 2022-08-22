@@ -389,7 +389,7 @@ try {document.getElementById("OQ3").href = "https://uoe-maths.shinyapps.io/03-wr
 try {document.getElementById("OQ4").href = "https://uoe-maths.shinyapps.io/04-coding/";} catch { };			// quiz 4 - Coding style
 try {document.getElementById("OQ5").href = "https://uoe-maths.shinyapps.io/05-scrape-iterate/";} catch { };	// quiz 5 - Scrape + Iterate
 try {document.getElementById("OQ6").href = "https://uoe-maths.shinyapps.io/06-review/";} catch { };		    // quiz 6 - Review
-try {document.getElementById("OQ7").href = "https://uoe-maths.shinyapps.io/07-modeling-simple/";} catch { };		// quiz 7 - 
+try {document.getElementById("OQ7").href = "https://uoe-maths.shinyapps.io/07-modeling-simple/";} catch { };		// quiz 7 -
 try {document.getElementById("OQ8").href = "https://uoe-maths.shinyapps.io/08-modeling-multiple/";} catch { };		// quiz 8 - Multiple Regression
 try {document.getElementById("OQ9").href = "https://uoe-maths.shinyapps.io/09-modeling-overview/";} catch { };		// quiz 9 - Modeling Overview
 try {document.getElementById("OQ10").href = "https://uoe-maths.shinyapps.io/10-looking-beyond/";} catch { };		// quiz 10 - Looking Beyond
@@ -432,27 +432,27 @@ try {document.getElementById("LAB8I").href = "https://ids-s1-21.github.io/lab_in
 // Homework --------------------------------------------------------------------------------------------------------------------------------------------
 // HW 0
 try {document.getElementById("HW0I").href = "https://ids-s1-21.github.io/homework_instructions/hw-00/hw-00-pet-names.html";} catch { };
-try {document.getElementById("HW0R").href = "https://github.com/ids-s1-21?q=hw-00-pet-names&type=&language=&sort=";} catch { };	
+try {document.getElementById("HW0R").href = "https://github.com/ids-s1-21?q=hw-00-pet-names&type=&language=&sort=";} catch { };
 
 // HW 1
 try {document.getElementById("HW1I").href = "https://ids-s1-21.github.io/homework_instructions/hw-01/hw-01-edinburgh.html";} catch { };
-try {document.getElementById("HW1R").href = "https://github.com/ids-s1-21?q=hw-01-edinburgh&type=&language=&sort=";} catch { };	
+try {document.getElementById("HW1R").href = "https://github.com/ids-s1-21?q=hw-01-edinburgh&type=&language=&sort=";} catch { };
 
 // HW 2 - Majors + legos
 try {document.getElementById("HW2I").href = "https://ids-s1-21.github.io/homework_instructions/hw-02/hw-02-majors-legos.html";} catch { };
-try {document.getElementById("HW2R").href = "https://github.com/ids-s1-21?q=hw-02-majors-legos&type=&language=&sort=";} catch { };	
+try {document.getElementById("HW2R").href = "https://github.com/ids-s1-21?q=hw-02-majors-legos&type=&language=&sort=";} catch { };
 
 // HW 3 - Money in politics
 try {document.getElementById("HW3I").href = "https://ids-s1-21.github.io/homework_instructions/hw-03/hw-03-money-in-politics.html";} catch { };
-try {document.getElementById("HW3R").href = "https://github.com/ids-s1-21?q=hw-03-money-in-politics&type=&language=&sort=";} catch { };	
+try {document.getElementById("HW3R").href = "https://github.com/ids-s1-21?q=hw-03-money-in-politics&type=&language=&sort=";} catch { };
 
 // HW 4 - Potpourri
 try {document.getElementById("HW4I").href = "https://ids-s1-21.github.io/homework_instructions/hw-04/hw-04-potpourri.html";} catch { };
-try {document.getElementById("HW4R").href = "https://github.com/ids-s1-21?q=hw-04-potpourri&type=&language=&sort=";} catch { };	
+try {document.getElementById("HW4R").href = "https://github.com/ids-s1-21?q=hw-04-potpourri&type=&language=&sort=";} catch { };
 
 // HW 5 - Model and Review
 try {document.getElementById("HW5I").href = "https://ids-s1-21.github.io/homework_instructions/hw-05/hw-05-model-review.html";} catch { };
-try {document.getElementById("HW5R").href = "https://github.com/ids-s1-21?q=hw-05-model-review&type=&language=&sort=";} catch { };	
+try {document.getElementById("HW5R").href = "https://github.com/ids-s1-21?q=hw-05-model-review&type=&language=&sort=";} catch { };
 
 // Project
 try {document.getElementById('project').href = "/assessments/project";} catch { };
@@ -523,7 +523,7 @@ try {document.getElementById("IMS12").href = "https://openintro-ims.netlify.app/
 
 try {document.getElementById("TMwR1").href = "https://www.tidytextmining.com/tidytext.html";} catch { };
 try {document.getElementById("TMwR2").href = "https://www.tidytextmining.com/sentiment.html";} catch { };
-try {document.getElementById("TMwR3").href = "https://www.tidytextmining.com/tfidf.html";} catch { }; 
+try {document.getElementById("TMwR3").href = "https://www.tidytextmining.com/tfidf.html";} catch { };
 try {document.getElementById("MS1").href = "https://mastering-shiny.org/basic-app.html";} catch { };
 try {document.getElementById("SMLTAR7").href = "https://smltar.com/mlclassification.html";} catch { };
 
@@ -690,13 +690,13 @@ try {document.getElementById('feedbackW5').href = "https://forms.office.com/r/6h
 
 
 function DateRestrictLink(object, AccessDate, URL){
-  
+
   //object: The <a> element (obtained using unique ID) that we would like to assign href details.
   //AccessDate: string containing the date from which we would like the link to be active.
   //            I think style for specifying the date is flexible, but I've only tried "<dd> <month_text> <yyyy>" and it seems to work well!
-  //URL: string contain the href information, can be an external website (eg "htps://google.com") or can reference another page in 
+  //URL: string contain the href information, can be an external website (eg "htps://google.com") or can reference another page in
   //     this website (eg "/error" or "/assessments"). See above for more examples!
-  
+
   if( new Date() >= new Date(AccessDate) ){
     //Current date larger than access date, hence define href to make link available...
     object.href = URL;
@@ -721,16 +721,19 @@ function DateRestrictLink(object, AccessDate, URL){
 }
 
 
-try {DateRestrictLink(document.getElementById("test1"), "01 August 2022", "https://google.com");} catch { };	
-try {DateRestrictLink(document.getElementById("test2"), "01 August 2023", "https://google.com");} catch { };	
-try {DateRestrictLink(document.getElementById("test3"), "01 August 2022", "https://google.com");} catch { };	
-try {DateRestrictLink(document.getElementById("test4"), "01 August 2023", "https://google.com");} catch { };	
-try {DateRestrictLink(document.getElementById("test5"), "01 August 2022", "/error");} catch { };	
-try {DateRestrictLink(document.getElementById("test6"), "01 August 2022", "/error");} catch { };	
-try {DateRestrictLink(document.getElementById("test7"), "01 August 2023", "/error");} catch { };	
-try {DateRestrictLink(document.getElementById("test8"), "01 August 2023", "/error");} catch { };	
+try {DateRestrictLink(document.getElementById("test1"), "01 August 2022", "https://google.com");} catch { };
+try {DateRestrictLink(document.getElementById("test2"), "01 August 2023", "https://google.com");} catch { };
+try {DateRestrictLink(document.getElementById("test3"), "01 August 2022", "https://google.com");} catch { };
+try {DateRestrictLink(document.getElementById("test4"), "01 August 2023", "https://google.com");} catch { };
+try {DateRestrictLink(document.getElementById("test5"), "01 August 2022", "/error");} catch { };
+try {DateRestrictLink(document.getElementById("test6"), "01 August 2022", "/error");} catch { };
+try {DateRestrictLink(document.getElementById("test7"), "01 August 2023", "/error");} catch { };
+try {DateRestrictLink(document.getElementById("test8"), "01 August 2023", "/error");} catch { };
 
+// link to Learn page
 
+// week 1 lecture 0
+try {DateRestrictLink(document.getElementById("lecture01"), "01 August 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 
 
 
