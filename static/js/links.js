@@ -381,19 +381,6 @@ try {document.getElementById("AE7_2").href = "https://github.com/ids-s1-21?q=ae-
 try {document.getElementById("AE8").href = "https://github.com/ids-s1-21?q=ae-08-imdb-webscraping&type=&language=&sort=";} catch { };
 try {document.getElementById("AE9").href = "https://github.com/ids-s1-21?q=ae-09-feat-eng-cv&type=&language=&sort=";} catch { };
 
-// Quizzes --------------------------------------------------------------------------------------------------------------------------------------------
-try {document.getElementById("OQ0").href = "https://uoe-maths.shinyapps.io/00-overview/";} catch { };		// quiz 0 - Syllabus and data
-try {document.getElementById("OQ1").href = "https://uoe-maths.shinyapps.io/01-dataviz/";} catch { };		// quiz 1 - Data visualization
-try {document.getElementById("OQ2").href = "https://uoe-maths.shinyapps.io/02-datawrangle/";} catch { };	// quiz 2 - Data wrangling
-try {document.getElementById("OQ3").href = "https://uoe-maths.shinyapps.io/03-wrangleviz/";} catch { };		// quiz 3 - Data wrangling and visualisation
-try {document.getElementById("OQ4").href = "https://uoe-maths.shinyapps.io/04-coding/";} catch { };			// quiz 4 - Coding style
-try {document.getElementById("OQ5").href = "https://uoe-maths.shinyapps.io/05-scrape-iterate/";} catch { };	// quiz 5 - Scrape + Iterate
-try {document.getElementById("OQ6").href = "https://uoe-maths.shinyapps.io/06-review/";} catch { };		    // quiz 6 - Review
-try {document.getElementById("OQ7").href = "https://uoe-maths.shinyapps.io/07-modeling-simple/";} catch { };		// quiz 7 -
-try {document.getElementById("OQ8").href = "https://uoe-maths.shinyapps.io/08-modeling-multiple/";} catch { };		// quiz 8 - Multiple Regression
-try {document.getElementById("OQ9").href = "https://uoe-maths.shinyapps.io/09-modeling-overview/";} catch { };		// quiz 9 - Modeling Overview
-try {document.getElementById("OQ10").href = "https://uoe-maths.shinyapps.io/10-looking-beyond/";} catch { };		// quiz 10 - Looking Beyond
-
 // Labs --------------------------------------------------------------------------------------------------------------------------------------------
 // lab 0 - Hello IDS!
 try {document.getElementById("LAB0I").href = "https://ids-s1-21.github.io/lab_instructions/lab-00/lab-00-hello-ids.html";} catch { };
@@ -428,31 +415,6 @@ try {document.getElementById("LAB7I").href = "https://ids-s1-21.github.io/lab_in
 
 // lab 8 - Make Progress on Projects
 try {document.getElementById("LAB8I").href = "https://ids-s1-21.github.io/lab_instructions/lab-08/lab-08-work-on-projects.html";} catch { };
-
-// Homework --------------------------------------------------------------------------------------------------------------------------------------------
-// HW 0
-try {document.getElementById("HW0I").href = "https://ids-s1-21.github.io/homework_instructions/hw-00/hw-00-pet-names.html";} catch { };
-try {document.getElementById("HW0R").href = "https://github.com/ids-s1-21?q=hw-00-pet-names&type=&language=&sort=";} catch { };
-
-// HW 1
-try {document.getElementById("HW1I").href = "https://ids-s1-21.github.io/homework_instructions/hw-01/hw-01-edinburgh.html";} catch { };
-try {document.getElementById("HW1R").href = "https://github.com/ids-s1-21?q=hw-01-edinburgh&type=&language=&sort=";} catch { };
-
-// HW 2 - Majors + legos
-try {document.getElementById("HW2I").href = "https://ids-s1-21.github.io/homework_instructions/hw-02/hw-02-majors-legos.html";} catch { };
-try {document.getElementById("HW2R").href = "https://github.com/ids-s1-21?q=hw-02-majors-legos&type=&language=&sort=";} catch { };
-
-// HW 3 - Money in politics
-try {document.getElementById("HW3I").href = "https://ids-s1-21.github.io/homework_instructions/hw-03/hw-03-money-in-politics.html";} catch { };
-try {document.getElementById("HW3R").href = "https://github.com/ids-s1-21?q=hw-03-money-in-politics&type=&language=&sort=";} catch { };
-
-// HW 4 - Potpourri
-try {document.getElementById("HW4I").href = "https://ids-s1-21.github.io/homework_instructions/hw-04/hw-04-potpourri.html";} catch { };
-try {document.getElementById("HW4R").href = "https://github.com/ids-s1-21?q=hw-04-potpourri&type=&language=&sort=";} catch { };
-
-// HW 5 - Model and Review
-try {document.getElementById("HW5I").href = "https://ids-s1-21.github.io/homework_instructions/hw-05/hw-05-model-review.html";} catch { };
-try {document.getElementById("HW5R").href = "https://github.com/ids-s1-21?q=hw-05-model-review&type=&language=&sort=";} catch { };
 
 // Project
 try {document.getElementById('project').href = "/assessments/project";} catch { };
@@ -730,8 +692,7 @@ try {DateRestrictLink(document.getElementById("test6"), "01 August 2022", "/erro
 try {DateRestrictLink(document.getElementById("test7"), "01 August 2023", "/error");} catch { };
 try {DateRestrictLink(document.getElementById("test8"), "01 August 2023", "/error");} catch { };
 
-// links to Learn page
-
+// Lectures link to learn --------------------------------------------------------------------------------------------------------------------------------------------
 // week 1 lecture 01
 try {DateRestrictLink(document.getElementById("lecture01"), "19 September 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 // week 2 lecture 02
@@ -755,6 +716,66 @@ try {DateRestrictLink(document.getElementById("lecture10"), "21 November 2022", 
 // week 11 lecture 11
 try {DateRestrictLink(document.getElementById("lecture11"), "28 November 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 
+// Quizzes --------------------------------------------------------------------------------------------------------------------------------------------
+// week 1 quiz 01
+try {DateRestrictLink(document.getElementById("OQ0"), "19 September 2022", "https://uoe-maths.shinyapps.io/IDS_Q00/");} catch { };
+// week 2 quiz 02
+try {DateRestrictLink(document.getElementById("OQ1"), "26 September 2022", "https://uoe-maths.shinyapps.io/IDS_Q01/");} catch { };
+// week 3 quiz 03
+try {DateRestrictLink(document.getElementById("OQ2"), "03 October 2022", "https://uoe-maths.shinyapps.io/IDS_Q02/");} catch { };
+// week 4 quiz 04
+try {DateRestrictLink(document.getElementById("OQ3"), "10 October 2022", "https://uoe-maths.shinyapps.io/IDS_Q03/");} catch { };
+// week 5 quiz 05
+try {DateRestrictLink(document.getElementById("OQ4"), "17 October 2022", "https://uoe-maths.shinyapps.io/IDS_Q04/");} catch { };
+// week 6 quiz 06
+try {DateRestrictLink(document.getElementById("OQ5"), "24 October 2022", "https://uoe-maths.shinyapps.io/IDS_Q05/");} catch { };
+// week 7 quiz 07
+try {DateRestrictLink(document.getElementById("OQ6"), "31 October 2022", "https://uoe-maths.shinyapps.io/IDS_Q06/");} catch { };
+// week 8 quiz 08
+try {DateRestrictLink(document.getElementById("OQ7"), "07 November 2022", "https://uoe-maths.shinyapps.io/IDS_Q07/");} catch { };
+// week 9 quiz 09
+try {DateRestrictLink(document.getElementById("OQ8"), "14 November 2022", "https://uoe-maths.shinyapps.io/IDS_Q08/");} catch { };
+// week 10 quiz 10
+try {DateRestrictLink(document.getElementById("OQ9"), "21 November 2022", "https://uoe-maths.shinyapps.io/IDS_Q09/");} catch { };
+// week 11 quiz 11
+try {DateRestrictLink(document.getElementById("OQ10"), "21 November 2022", "https://uoe-maths.shinyapps.io/IDS_Q10/");} catch { };
+//last links ELIMINATE
+//try {document.getElementById("OQ0").href = "https://uoe-maths.shinyapps.io/00-overview/";} catch { };		// quiz 0 - Syllabus and data
+//try {document.getElementById("OQ1").href = "https://uoe-maths.shinyapps.io/01-dataviz/";} catch { };		// quiz 1 - Data visualization
+//try {document.getElementById("OQ2").href = "https://uoe-maths.shinyapps.io/02-datawrangle/";} catch { };	// quiz 2 - Data wrangling
+//try {document.getElementById("OQ3").href = "https://uoe-maths.shinyapps.io/03-wrangleviz/";} catch { };		// quiz 3 - Data wrangling and visualisation
+//try {document.getElementById("OQ4").href = "https://uoe-maths.shinyapps.io/04-coding/";} catch { };			// quiz 4 - Coding style
+//try {document.getElementById("OQ5").href = "https://uoe-maths.shinyapps.io/05-scrape-iterate/";} catch { };	// quiz 5 - Scrape + Iterate
+//try {document.getElementById("OQ6").href = "https://uoe-maths.shinyapps.io/06-review/";} catch { };		    // quiz 6 - Review
+//try {document.getElementById("OQ7").href = "https://uoe-maths.shinyapps.io/07-modeling-simple/";} catch { };		// quiz 7 -
+//try {document.getElementById("OQ8").href = "https://uoe-maths.shinyapps.io/08-modeling-multiple/";} catch { };		// quiz 8 - Multiple Regression
+//try {document.getElementById("OQ9").href = "https://uoe-maths.shinyapps.io/09-modeling-overview/";} catch { };		// quiz 9 - Modeling Overview
+//try {document.getElementById("OQ10").href = "https://uoe-maths.shinyapps.io/10-looking-beyond/";} catch { };		// quiz 10 - Looking Beyond
+
+// Homework --------------------------------------------------------------------------------------------------------------------------------------------
+// HW 0
+try {document.getElementById("HW0I").href = "https://ids-s1-21.github.io/homework_instructions/hw-00/hw-00-pet-names.html";} catch { };
+try {document.getElementById("HW0R").href = "https://github.com/ids-s1-21?q=hw-00-pet-names&type=&language=&sort=";} catch { };
+
+// HW 1
+try {document.getElementById("HW1I").href = "https://ids-s1-21.github.io/homework_instructions/hw-01/hw-01-edinburgh.html";} catch { };
+try {document.getElementById("HW1R").href = "https://github.com/ids-s1-21?q=hw-01-edinburgh&type=&language=&sort=";} catch { };
+
+// HW 2 - Majors + legos
+try {document.getElementById("HW2I").href = "https://ids-s1-21.github.io/homework_instructions/hw-02/hw-02-majors-legos.html";} catch { };
+try {document.getElementById("HW2R").href = "https://github.com/ids-s1-21?q=hw-02-majors-legos&type=&language=&sort=";} catch { };
+
+// HW 3 - Money in politics
+try {document.getElementById("HW3I").href = "https://ids-s1-21.github.io/homework_instructions/hw-03/hw-03-money-in-politics.html";} catch { };
+try {document.getElementById("HW3R").href = "https://github.com/ids-s1-21?q=hw-03-money-in-politics&type=&language=&sort=";} catch { };
+
+// HW 4 - Potpourri
+try {document.getElementById("HW4I").href = "https://ids-s1-21.github.io/homework_instructions/hw-04/hw-04-potpourri.html";} catch { };
+try {document.getElementById("HW4R").href = "https://github.com/ids-s1-21?q=hw-04-potpourri&type=&language=&sort=";} catch { };
+
+// HW 5 - Model and Review
+try {document.getElementById("HW5I").href = "https://ids-s1-21.github.io/homework_instructions/hw-05/hw-05-model-review.html";} catch { };
+try {document.getElementById("HW5R").href = "https://github.com/ids-s1-21?q=hw-05-model-review&type=&language=&sort=";} catch { };
 
 
 

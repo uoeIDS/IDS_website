@@ -105,7 +105,7 @@ This week's assignments will not be marked, as they are provided as practice and
 |:---|:---|:---|
 | *Due next week* | | |
 | HW00: Pet names | <li><a id="HW0I">Instructions</a></li> <li><a id="HW0R">Repository</a></li> | Thur, 30 Sep, 16:00 UK |
-| OQ01: Data visuallization | <li><a id="OQ1">Quiz</a></li> | Sun, 03 Oct, 23:59 UK |
+| OQ00: Syllabus and data | <li><a id="OQ0">Quiz</a></li> | Mon, 26 Sep, 12:00 UK |
 
 <!-- ## Code-along
 | <div style="width:200px"></div>  | <div style="width:480px"></div>  |
