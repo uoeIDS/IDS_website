@@ -19,7 +19,7 @@ hidden: no
 
 # Welcome to IDS
 
-_Week 1 (20 Sep 2021 - 26 Sep 2021)_
+_Week 1 (20 Sep 2022 - 30 Sep 2022)_
 
 Get acquainted with the course, the technology, the workflow, and the skills you will acquire throughout the semester.
 
