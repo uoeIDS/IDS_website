@@ -104,7 +104,6 @@ This week's assignments will not be marked, as they are provided as practice and
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due next week* | | |
-| HW00: Pet names | <li><a id="HW0I">Instructions</a></li> <li><a id="HW0R">Repository</a></li> | Thur, 30 Sep, 16:00 UK |
 | OQ00: Syllabus and data | <li><a id="OQ0">Quiz</a></li> | Mon, 26 Sep, 12:00 UK |
 
 <!-- ## Code-along
