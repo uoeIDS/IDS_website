@@ -26,7 +26,7 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:-----------:|:--------:|:------|
-| 01  | Lecture name | - |<span><a id = "lecture01"> Lecture -01- from Learn </a></span> | - |
+| 01  | Welcome | - |<span><a id = "lecture01"> Lecture -01- from Learn </a></span> | - |
 
 
 ## TEST SPACE - TO DELETE!!!

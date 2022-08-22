@@ -21,7 +21,7 @@ Data visualization and interpretation of graphical information.
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:-----------:|:--------:|:------|
-| 01  | Lecture name | - |<span><a id = "lecture02"> Lecture -02- from Learn </a></span> | - |
+| 01  | Data and visualisation | - |<span><a id = "lecture02"> Lecture -02- from Learn </a></span> | - |
 
 ## Tasks
 {{% notice warning %}}
@@ -71,8 +71,8 @@ If you have not completed the <em>first time setup instructions</em> found on th
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due next week* | | |
-| HW01: name homework | <li><a id="HW1I">Instructions</a></li> <li><a id="HW1R">Repository</a></li> | Thur, 30 Sep, 16:00 UK |
-| OQ01: Data visuallization | <li><a id="OQ1">Quiz</a></li> | Sun, 03 Oct, 23:59 UK |
+| HW01: name homework | <li><a id="HW1I">Instructions</a></li> <li><a id="HW1R">Repository</a></li> | Thur, 06 Oct, 10:00 UK |
+| OQ01: Data visuallization | <li><a id="OQ1">Quiz</a></li> | Sun, 03 Oct, 12:00 UK |
 
 
 <!--
