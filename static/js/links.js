@@ -754,7 +754,7 @@ try {DateRestrictLink(document.getElementById("OQ10"), "21 November 2022", "http
 
 // Homework --------------------------------------------------------------------------------------------------------------------------------------------
 // week 2 hw 01
-try {DateRestrictLink(document.getElementById("HW1I"), "26 March 2022", "/error");} catch { };
+try {DateRestrictLink(document.getElementById("HW1I"), "26 September 2022", "/error");} catch { };
 try {DateRestrictLink(document.getElementById("HW1R"), "26 September 2022", "/error");} catch { };
 // week 4 hw 02
 try {DateRestrictLink(document.getElementById("HW2I"), "10 October 2022", "/error");} catch { };
