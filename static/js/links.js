@@ -732,7 +732,7 @@ try {DateRestrictLink(document.getElementById("HW4R"), "07 November 2022", "/err
 
 // Labs --------------------------------------------------------------------------------------------------------------------------------------------
 // lab 0 - Hello IDS! WEEK 01
-try {DateRestrictLink(document.getElementById("LAB0I"), "19 September 2022", "https://ids-s1-21.github.io/lab_instructions/lab-00/lab-00-hello-ids.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB0I"), "19 September 2021", "https://ids-s1-21.github.io/lab_instructions/lab-00/lab-00-hello-ids.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB0R"), "19 September 2022", "https://github.com/ids-s1-21?q=lab-00-hello-ids&type=&language=&sort=");} catch { };
 // lab 1 - Plastic Waste WEEK 02
 //try {DateRestrictLink(document.getElementById("LAB1I"), "26 September 2022", "https://ids-s1-21.github.io/lab_instructions/lab-01/lab-01-plastic-waste.html");} catch { };
