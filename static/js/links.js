@@ -1,8 +1,6 @@
 // Get the ids associated with links (e.g. <a id="people">People</a>)
 // and then assign them to a variable
 
-
-
 // Webpage Links ---------------------------------------------------------------------------------------------------
 try {document.getElementById('assessments').href = "/assessments";} catch { };		// / link to the assessments page
 try {document.getElementById('errata').href = "/errata";} catch { };
@@ -676,9 +674,9 @@ try {DateRestrictLink(document.getElementById("lecture11"), "28 November 2022", 
 
 // Quizzes --------------------------------------------------------------------------------------------------------------------------------------------
 // week 1 quiz 01
-try {DateRestrictLink(document.getElementById("OQ0"), "19 September 2021", "https://uoe-maths.shinyapps.io/IDS_Q00/");} catch { };
+try {DateRestrictLink(document.getElementById("OQ0"), "19 September 2022", "https://uoe-maths.shinyapps.io/IDS_Q00/");} catch { };
 // week 2 quiz 02
-try {DateRestrictLink(document.getElementById("OQ1"), "26 September 2021", "https://uoe-maths.shinyapps.io/IDS_Q01/");} catch { };
+try {DateRestrictLink(document.getElementById("OQ1"), "26 September 2022", "https://uoe-maths.shinyapps.io/IDS_Q01/");} catch { };
 // week 3 quiz 03
 try {DateRestrictLink(document.getElementById("OQ2"), "03 October 2022", "https://uoe-maths.shinyapps.io/IDS_Q02/");} catch { };
 // week 4 quiz 04
@@ -734,66 +732,64 @@ try {DateRestrictLink(document.getElementById("HW4R"), "07 November 2022", "/err
 
 // Labs --------------------------------------------------------------------------------------------------------------------------------------------
 // lab 0 - Hello IDS! WEEK 01
-try {DateRestrictLink(document.getElementById("LAB0I"), "19 September 2021", "https://ids-s1-21.github.io/lab_instructions/lab-00/lab-00-hello-ids.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB0R"), "19 September 2021", "https://github.com/ids-s1-21?q=lab-00-hello-ids&type=&language=&sort=");} catch { };
+//try {DateRestrictLink(document.getElementById("LAB0I"), "19 September 2022", "https://ids-s1-21.github.io/lab_instructions/lab-00/lab-00-hello-ids.html");} catch { };
+//try {DateRestrictLink(document.getElementById("LAB0R"), "19 September 2022", "https://github.com/ids-s1-21?q=lab-00-hello-ids&type=&language=&sort=");} catch { };
 // lab 1 - Plastic Waste WEEK 02
-try {DateRestrictLink(document.getElementById("LAB1I"), "26 September 2021", "https://ids-s1-21.github.io/lab_instructions/lab-01/lab-01-plastic-waste.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB1R"), "26 September 2021", "https://github.com/ids-s1-21?q=lab-01-plastic-waste&type=&language=&sort=");} catch { };
+//try {DateRestrictLink(document.getElementById("LAB1I"), "26 September 2022", "https://ids-s1-21.github.io/lab_instructions/lab-01/lab-01-plastic-waste.html");} catch { };
+//try {DateRestrictLink(document.getElementById("LAB1R"), "26 September 2022", "https://github.com/ids-s1-21?q=lab-01-plastic-waste&type=&language=&sort=");} catch { };
 // lab 2 - Take a sad plot and make it better WEEK 03
-try {DateRestrictLink(document.getElementById("LAB2I"), "03 October 2022", "https://ids-s1-21.github.io/lab_instructions/lab-02/lab-02-sad-plot.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB2R"), "03 October 2022", "https://github.com/ids-s1-21?q=lab-02-sad-plot&type=&language=&sort=");} catch { };
+//try {DateRestrictLink(document.getElementById("LAB2I"), "03 October 2022", "https://ids-s1-21.github.io/lab_instructions/lab-02/lab-02-sad-plot.html");} catch { };
+//try {DateRestrictLink(document.getElementById("LAB2R"), "03 October 2022", "https://github.com/ids-s1-21?q=lab-02-sad-plot&type=&language=&sort=");} catch { };
 // lab 3 - Nobel Laureates WEEK 04
-try {DateRestrictLink(document.getElementById("LAB3I"), "10 October 2022", "https://ids-s1-21.github.io/lab_instructions/lab-03/lab-03-nobel-laureates.html";} catch { };
-try {DateRestrictLink(document.getElementById("LAB3R"), "10 October 2022", "https://github.com/ids-s1-21?q=lab-03-nobel-laureates&type=&language=&sort=";} catch { };
+//try {DateRestrictLink(document.getElementById("LAB3I"), "10 October 2022", "https://ids-s1-21.github.io/lab_instructions/lab-03/lab-03-nobel-laureates.html";} catch { };
+//try {DateRestrictLink(document.getElementById("LAB3R"), "10 October 2022", "https://github.com/ids-s1-21?q=lab-03-nobel-laureates&type=&language=&sort=";} catch { };
 // lab 4 - Project WEEK 05 AND WEEK 06
-try {DateRestrictLink(document.getElementById("project"), "17 October 2022", "/assessments/project";} catch { };
-try {DateRestrictLink(document.getElementById("projectR"), "17 October 2022", "https://github.com/ids-s1-21?q=project&type=&language=&sort=";} catch { };
-try {DateRestrictLink(document.getElementById("project_1"), "17 October 2022", "/assessments/project";} catch { };
-try {DateRestrictLink(document.getElementById("projectR_1"), "17 October 2022", "https://github.com/ids-s1-21?q=project&type=&language=&sort=";} catch { };
+//try {DateRestrictLink(document.getElementById("project"), "17 October 2022", "/assessments/project";} catch { };
+//try {DateRestrictLink(document.getElementById("projectR"), "17 October 2022", "https://github.com/ids-s1-21?q=project&type=&language=&sort=";} catch { };
+//try {DateRestrictLink(document.getElementById("project_1"), "17 October 2022", "/assessments/project";} catch { };
+//try {DateRestrictLink(document.getElementById("projectR_1"), "17 October 2022", "https://github.com/ids-s1-21?q=project&type=&language=&sort=";} catch { };
 // lab 5 - Conveying the right message through visualisation WEEK 07
-try {DateRestrictLink(document.getElementById("LAB5I"), "31 October 2022", "https://ids-s1-21.github.io/lab_instructions/lab-05/lab-05-better-viz.html";} catch { };
-try {DateRestrictLink(document.getElementById("LAB5R"), "31 October 2022", "https://github.com/ids-s1-21?q=lab-05-better-viz&type=&language=&sort=";} catch { };
+//try {DateRestrictLink(document.getElementById("LAB5I"), "31 October 2022", "https://ids-s1-21.github.io/lab_instructions/lab-05/lab-05-better-viz.html";} catch { };
+//try {DateRestrictLink(document.getElementById("LAB5R"), "31 October 2022", "https://github.com/ids-s1-21?q=lab-05-better-viz&type=&language=&sort=";} catch { };
 // lab 6 - Course Evaluations WEEK 08
-try {DateRestrictLink(document.getElementById("LAB6I"), "07 November 2022", "https://ids-s1-21.github.io/lab_instructions/lab-06/lab-06-modelling-course-evals.html";} catch { };
-try {DateRestrictLink(document.getElementById("LAB6R"), "07 November 2022", "https://github.com/ids-s1-21?q=lab-06-modelling-course-evals&type=&language=&sort=";} catch { };
+//try {DateRestrictLink(document.getElementById("LAB6I"), "07 November 2022", "https://ids-s1-21.github.io/lab_instructions/lab-06/lab-06-modelling-course-evals.html";} catch { };
+//try {DateRestrictLink(document.getElementById("LAB6R"), "07 November 2022", "https://github.com/ids-s1-21?q=lab-06-modelling-course-evals&type=&language=&sort=";} catch { };
 // lab 7 - Work on Projects WEEK 09
-try {DateRestrictLink(document.getElementById("LAB7I"), "14 November 2022", "https://ids-s1-21.github.io/lab_instructions/lab-07/lab-07-work-on-projects.html";} catch { };
+//try {DateRestrictLink(document.getElementById("LAB7I"), "14 November 2022", "https://ids-s1-21.github.io/lab_instructions/lab-07/lab-07-work-on-projects.html";} catch { };
 // lab 8 - Make Progress on Projects WEEK 10
-try {DateRestrictLink(document.getElementById("LAB8I"), "21 November 2022","https://ids-s1-21.github.io/lab_instructions/lab-08/lab-08-work-on-projects.html";} catch { };
+//try {DateRestrictLink(document.getElementById("LAB8I"), "21 November 2022", "https://ids-s1-21.github.io/lab_instructions/lab-08/lab-08-work-on-projects.html";} catch { };
 
 //LAST LINK TO LABS ELIMINATE WHEN ADECUATE
 // lab 0 - Hello IDS!
-//try {document.getElementById("LAB0I").href = "https://ids-s1-21.github.io/lab_instructions/lab-00/lab-00-hello-ids.html";} catch { };
-//try {document.getElementById("LAB0R").href = "https://github.com/ids-s1-21?q=lab-00-hello-ids&type=&language=&sort=";} catch { };
+try {document.getElementById("LAB0I").href = "https://ids-s1-21.github.io/lab_instructions/lab-00/lab-00-hello-ids.html";} catch { };
+try {document.getElementById("LAB0R").href = "https://github.com/ids-s1-21?q=lab-00-hello-ids&type=&language=&sort=";} catch { };
 // lab 1 - Plastic Waste
-//try {document.getElementById("LAB1I").href = "https://ids-s1-21.github.io/lab_instructions/lab-01/lab-01-plastic-waste.html";} catch { };
-//try {document.getElementById("LAB1R").href = "https://github.com/ids-s1-21?q=lab-01-plastic-waste&type=&language=&sort=";} catch { };
+try {document.getElementById("LAB1I").href = "https://ids-s1-21.github.io/lab_instructions/lab-01/lab-01-plastic-waste.html";} catch { };
+try {document.getElementById("LAB1R").href = "https://github.com/ids-s1-21?q=lab-01-plastic-waste&type=&language=&sort=";} catch { };
 // lab 2 - Take a sad plot and make it better
-//try {document.getElementById("LAB2I").href = "https://ids-s1-21.github.io/lab_instructions/lab-02/lab-02-sad-plot.html";} catch { };
-//try {document.getElementById("LAB2R").href = "https://github.com/ids-s1-21?q=lab-02-sad-plot&type=&language=&sort=";} catch { };
+try {document.getElementById("LAB2I").href = "https://ids-s1-21.github.io/lab_instructions/lab-02/lab-02-sad-plot.html";} catch { };
+try {document.getElementById("LAB2R").href = "https://github.com/ids-s1-21?q=lab-02-sad-plot&type=&language=&sort=";} catch { };
 // lab 3 - Nobel Laureates
-//try {document.getElementById("LAB3I").href = "https://ids-s1-21.github.io/lab_instructions/lab-03/lab-03-nobel-laureates.html";} catch { };
-//try {document.getElementById("LAB3R").href = "https://github.com/ids-s1-21?q=lab-03-nobel-laureates&type=&language=&sort=";} catch { };
+try {document.getElementById("LAB3I").href = "https://ids-s1-21.github.io/lab_instructions/lab-03/lab-03-nobel-laureates.html";} catch { };
+try {document.getElementById("LAB3R").href = "https://github.com/ids-s1-21?q=lab-03-nobel-laureates&type=&language=&sort=";} catch { };
 // lab 4 - UoE Art Collection
-//try {document.getElementById("LAB4I").href = "https://ids-s1-21.github.io/lab_instructions/lab-04/lab-04-uoe-art.html";} catch { };
-//try {document.getElementById("LAB4R").href = "https://github.com/ids-s1-21?q=lab-04-uoe-art&type=&language=&sort=";} catch { };
+try {document.getElementById("LAB4I").href = "https://ids-s1-21.github.io/lab_instructions/lab-04/lab-04-uoe-art.html";} catch { };
+try {document.getElementById("LAB4R").href = "https://github.com/ids-s1-21?q=lab-04-uoe-art&type=&language=&sort=";} catch { };
 // lab 5 - Conveying the right message through visualisation
-//try {document.getElementById("LAB5I").href = "https://ids-s1-21.github.io/lab_instructions/lab-05/lab-05-better-viz.html";} catch { };
-//try {document.getElementById("LAB5R").href = "https://github.com/ids-s1-21?q=lab-05-better-viz&type=&language=&sort=";} catch { };
+try {document.getElementById("LAB5I").href = "https://ids-s1-21.github.io/lab_instructions/lab-05/lab-05-better-viz.html";} catch { };
+try {document.getElementById("LAB5R").href = "https://github.com/ids-s1-21?q=lab-05-better-viz&type=&language=&sort=";} catch { };
 // lab 6 - Course Evaluations
-//try {document.getElementById("LAB6I").href = "https://ids-s1-21.github.io/lab_instructions/lab-06/lab-06-modelling-course-evals.html";} catch { };
-//try {document.getElementById("LAB6R").href = "https://github.com/ids-s1-21?q=lab-06-modelling-course-evals&type=&language=&sort=";} catch { };
+try {document.getElementById("LAB6I").href = "https://ids-s1-21.github.io/lab_instructions/lab-06/lab-06-modelling-course-evals.html";} catch { };
+try {document.getElementById("LAB6R").href = "https://github.com/ids-s1-21?q=lab-06-modelling-course-evals&type=&language=&sort=";} catch { };
 // lab 7 - Work on Projects
-//try {document.getElementById("LAB7I").href = "https://ids-s1-21.github.io/lab_instructions/lab-07/lab-07-work-on-projects.html";} catch { };
+try {document.getElementById("LAB7I").href = "https://ids-s1-21.github.io/lab_instructions/lab-07/lab-07-work-on-projects.html";} catch { };
 // lab 8 - Make Progress on Projects
-//try {document.getElementById("LAB8I").href = "https://ids-s1-21.github.io/lab_instructions/lab-08/lab-08-work-on-projects.html";} catch { };
+try {document.getElementById("LAB8I").href = "https://ids-s1-21.github.io/lab_instructions/lab-08/lab-08-work-on-projects.html";} catch { };
 // Project
-//try {document.getElementById('project').href = "/assessments/project";} catch { };
-//try {document.getElementById("projectR").href = "https://github.com/ids-s1-21?q=project&type=&language=&sort=";} catch { };
-//try {document.getElementById('project_1').href = "/assessments/project";} catch { };
-//try {document.getElementById("projectR_1").href = "https://github.com/ids-s1-21?q=project&type=&language=&sort=";} catch { };
-
-
+try {document.getElementById('project').href = "/assessments/project";} catch { };
+try {document.getElementById("projectR").href = "https://github.com/ids-s1-21?q=project&type=&language=&sort=";} catch { };
+try {document.getElementById('project_1').href = "/assessments/project";} catch { };
+try {document.getElementById("projectR_1").href = "https://github.com/ids-s1-21?q=project&type=&language=&sort=";} catch { };
 
 // Complete -------------------------------------------------------------------------------------------------------------------------------------------------
 console.log('Links Added');
