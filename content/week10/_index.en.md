@@ -60,7 +60,7 @@ Evaluating models with cross validation and uncertainty quantification with boot
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due next week* | | |
-| OQ09: Modeling overview | <li><a id="OQ9">Quiz</a></li> | Mon, 28 Nov, 12:00 UK |
+| OQ09: Modelling overview | <li><a id="OQ9">Quiz</a></li> | Mon, 28 Nov, 12:00 UK |
 
 <!--
 ## Code-along

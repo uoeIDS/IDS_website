@@ -49,8 +49,6 @@ Logistic regression for predicting categorical data and model building.
 
 ## Workshop
 
-<p style="text-align: left"> This week's workshop will help you get familiar with the workflow for the rest of the course.
-
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
 | Lab06: Course evaluations | <li><a id="LAB6I">Instructions</a></li> <li><a id="LAB6R">Repository</a></li> | Fri, 11 Nov, 10:00 UK  |

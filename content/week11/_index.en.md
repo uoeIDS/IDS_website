@@ -66,7 +66,7 @@ Additional topics beyond IDS.
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due next week* | | |
-| OQ10: Model and review | <li><a id="OQ10">Quiz</a></li> | Mon, 5 Dec, 12:00 UK |
+| OQ10: Looking beyond | <li><a id="OQ10">Quiz</a></li> | Mon, 5 Dec, 12:00 UK |
 
 <!--
 ## Code-along
@@ -81,4 +81,4 @@ Additional topics beyond IDS.
 
 ## Interactive R tutorials
 
-<p style="text-align: left"> No new interactive R tutorials this week. If you haven’t completed last week’s tutorials, you should do so before starting HW 05.</p>
+<p style="text-align: left"> No new interactive R tutorials this week. If you haven’t completed last week’s tutorials, you should do so.</p>

@@ -59,8 +59,6 @@ Misrepresentation of findings, data privacy, and algorithmic bias.
 
 ## Workshop
 
-<p style="text-align: left"> This week's workshop will help you get familiar with the workflow for the rest of the course.
-
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
 | Lab07: Work on projects | <li><a id="LAB7I">Instructions</a></li> | Fri, 18 Nov, 10:00 UK |

@@ -50,8 +50,6 @@ Linear models for predicting numerical data from single and multiple variables.
 
 ## Workshop
 
-<p style="text-align: left"> This week's workshop will help you get familiar with the workflow for the rest of the course.
-
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
 | Lab05: 	Conveying the right message through visualisation | <li><a id="LAB5I">Instructions</a></li> <li><a id="LAB5R">Repository</a></li> | Fri, 4 Nov, 10:00 UK |
@@ -64,7 +62,7 @@ Linear models for predicting numerical data from single and multiple variables.
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due next week* | | |
-| OQ06: Review | <li><a id="OQ6">Quiz</a></li> | Mon, 7 Nov, 12:00 UK |
+| OQ06: Recap & Review | <li><a id="OQ6">Quiz</a></li> | Mon, 7 Nov, 12:00 UK |
 
 
 <!--

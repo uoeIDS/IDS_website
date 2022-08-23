@@ -20,7 +20,7 @@ Importing data, data types and classes, recoding.
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:-----------:|:--------:|:------|
-| 01  | Importing and Recoding Data | - |<span><a id = "lecture04"> Lecture -04- from Learn </a></span> | - |
+| 01  | Importing and Recording Data | - |<span><a id = "lecture04"> Lecture -04- from Learn </a></span> | - |
 
 ## Tasks
 
@@ -54,8 +54,6 @@ Importing data, data types and classes, recoding.
 
 ## Workshop
 
-<p style="text-align: left"> This week's workshop will help you get familiar with the workflow for the rest of the course.
-
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
 | Lab03: Nobel laureates | <li><a id="LAB3I">Instructions</a></li> <li><a id="LAB3R">Repository</a></li> |  Fri, 14 Oct, 10:00 UK  |
@@ -67,7 +65,7 @@ Importing data, data types and classes, recoding.
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due next week* | | |
-| HW02: name homework | <li><a id="HW2I">Instructions</a></li> <li><a id="HW2R">Repository</a></li> | Thur, 20 Oct, 10:00 UK |
+| HW02: Name homework | <li><a id="HW2I">Instructions</a></li> <li><a id="HW2R">Repository</a></li> | Thur, 20 Oct, 10:00 UK |
 | OQ03: Data wrangling and Visualisation | <li><a id="OQ3">Quiz</a></li> | Mon, 17 Oct, 12:00 UK |
 
 <!--

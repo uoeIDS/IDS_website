@@ -65,7 +65,7 @@ Harvesting data from the web, writing functions, and iteration.
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due next week* | | |
-| HW02: Name homework | <li><a id="HW2I">Instructions</a></li><li><a id="HW2R">Repository</a></li> | Thur, 03 Nov, 10:00 UK |
+| HW03: Name homework | <li><a id="HW3I">Instructions</a></li><li><a id="HW3R">Repository</a></li> | Thur, 03 Nov, 10:00 UK |
 | OQ05: Scrape + iterate | <li><a id="OQ5">Quiz</a></li> | Mon, 31 Oct, 12:00 UK |
 
 <!--
