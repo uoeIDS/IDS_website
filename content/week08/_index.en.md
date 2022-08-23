@@ -16,6 +16,12 @@ _Week 8 (7 Nov 2022 - 11 Nov 2022)_
 
 Logistic regression for predicting categorical data and model building.
 
+## Lectures
+
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
+|:---:|:---------------------|:-----------:|:--------:|:------|
+| 01  | Classification and Model Building | - |<span><a id = "lecture08"> Lecture -08- from Learn </a></span> | - |
+
 ## Tasks
 
 <ol>
