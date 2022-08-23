@@ -90,7 +90,7 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab00: Hello IDS!| <li><a id="LAB0I">Instructions</a></li> <li><a id="LAB0R">Repository</a></li>| Tue, 26 Sep, 16:00 UK |
+| Lab00: Hello IDS!| <li><a id="LAB0I">Instructions</a></li> <li><a id="LAB0R">Repository</a></li>| Fri, 23 Sep, 16:00 UK |
 
 
 ## Assignments
