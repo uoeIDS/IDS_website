@@ -16,6 +16,11 @@ _Week 7 (31 Oct 2022 - 4 Nov 2022)_
 
 Linear models for predicting numerical data from single and multiple variables.
 
+## Lectures
+
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
+|:---:|:---------------------|:-----------:|:--------:|:------|
+| 01  | Modelling Data | - |<span><a id = "lecture07"> Lecture -07- from Learn </a></span> | - |
 
 ## Tasks
 
