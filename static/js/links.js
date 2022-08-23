@@ -739,18 +739,6 @@ try {DateRestrictLink(document.getElementById("OQ8"), "14 November 2022", "https
 try {DateRestrictLink(document.getElementById("OQ9"), "21 November 2022", "https://uoe-maths.shinyapps.io/IDS_Q09/");} catch { };
 // week 11 quiz 11
 try {DateRestrictLink(document.getElementById("OQ10"), "21 November 2022", "https://uoe-maths.shinyapps.io/IDS_Q10/");} catch { };
-//last links ELIMINATE
-//try {document.getElementById("OQ0").href = "https://uoe-maths.shinyapps.io/00-overview/";} catch { };		// quiz 0 - Syllabus and data
-//try {document.getElementById("OQ1").href = "https://uoe-maths.shinyapps.io/01-dataviz/";} catch { };		// quiz 1 - Data visualization
-//try {document.getElementById("OQ2").href = "https://uoe-maths.shinyapps.io/02-datawrangle/";} catch { };	// quiz 2 - Data wrangling
-//try {document.getElementById("OQ3").href = "https://uoe-maths.shinyapps.io/03-wrangleviz/";} catch { };		// quiz 3 - Data wrangling and visualisation
-//try {document.getElementById("OQ4").href = "https://uoe-maths.shinyapps.io/04-coding/";} catch { };			// quiz 4 - Coding style
-//try {document.getElementById("OQ5").href = "https://uoe-maths.shinyapps.io/05-scrape-iterate/";} catch { };	// quiz 5 - Scrape + Iterate
-//try {document.getElementById("OQ6").href = "https://uoe-maths.shinyapps.io/06-review/";} catch { };		    // quiz 6 - Review
-//try {document.getElementById("OQ7").href = "https://uoe-maths.shinyapps.io/07-modeling-simple/";} catch { };		// quiz 7 -
-//try {document.getElementById("OQ8").href = "https://uoe-maths.shinyapps.io/08-modeling-multiple/";} catch { };		// quiz 8 - Multiple Regression
-//try {document.getElementById("OQ9").href = "https://uoe-maths.shinyapps.io/09-modeling-overview/";} catch { };		// quiz 9 - Modeling Overview
-//try {document.getElementById("OQ10").href = "https://uoe-maths.shinyapps.io/10-looking-beyond/";} catch { };		// quiz 10 - Looking Beyond
 
 // Homework --------------------------------------------------------------------------------------------------------------------------------------------
 // week 2 hw 01
