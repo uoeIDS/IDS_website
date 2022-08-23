@@ -1,8 +1,8 @@
 ---
 chapter: true
 pre: "<b>6. </b>"
-title: "6. Web Scraping and Programming"
-menuTitle: "Web Scraping and Programming"
+title: "6. Programming"
+menuTitle: "Programming"
 weight: 6
 tags: ["week 6", "tasks", "videos", "assignments", "readings", "tutorials"]
 description: "Week 6 (24 Oct 2022 - 28 Oct 2022): Harvesting data from the web, writing functions, and iteration."
@@ -10,7 +10,7 @@ description: "Week 6 (24 Oct 2022 - 28 Oct 2022): Harvesting data from the web, 
 hidden: false
 ---
 
-# Web Scraping and Programming
+# Programming
 
 _Week 6 (24 Oct 2022 - 28 Oct 2022)_
 
