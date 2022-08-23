@@ -51,7 +51,7 @@ Logistic regression for predicting categorical data and model building.
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab06: Course evaluations | <li><a id="LAB6I">Instructions</a></li> <li><a id="LAB6R">Repository</a></li> | Fri, 11 Nov, 10:00 UK  |
+| Lab06: Course evaluations |  <span><a id = "LAB6I"> Instructions </a></span>  <span><a id = "LAB6R"> Repository </a></span>| Fri, 11 Nov, 10:00 UK  |
 
 ## Assignments
 
