@@ -56,7 +56,7 @@ Harvesting data from the web, writing functions, and iteration.
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Project: Proposal | <li><a id="project">Instructions</a></li><li><a id="projectR">Repository</a></li> | Fri, 28 Oct, 10:00 UK  |
+| Project: Proposal | <span><a id = "project_1"> Instructions </a></span>  <span><a id = "projectR_1"> Repository </a></span> | Fri, 28 Oct, 10:00 UK  |
 
 ## Assignments
 

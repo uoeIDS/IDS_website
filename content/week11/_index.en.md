@@ -57,7 +57,7 @@ Additional topics beyond IDS.
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Project | <li><a id="project">Instructions</a></li><li><a id="projectR">Repository</a></li> | Fri, 2 Dec, 10:00 UK |
+| Project |  <span><a id = "project"> Instructions </a></span>  <span><a id = "projectR"> Repository </a></span> | Fri, 2 Dec, 10:00 UK |
 
 ## Assignments
 
