@@ -674,7 +674,7 @@ try {DateRestrictLink(document.getElementById("lecture11"), "28 November 2022", 
 
 // Quizzes --------------------------------------------------------------------------------------------------------------------------------------------
 // week 1 quiz 01
-try {DateRestrictLink(document.getElementById("OQ0"), "19 September 2021", "https://uoe-maths.shinyapps.io/IDS_Q00/");} catch { };
+try {DateRestrictLink(document.getElementById("OQ0"), "19 September 2022", "https://uoe-maths.shinyapps.io/IDS_Q00/");} catch { };
 // week 2 quiz 02
 try {DateRestrictLink(document.getElementById("OQ1"), "26 September 2022", "https://uoe-maths.shinyapps.io/IDS_Q01/");} catch { };
 // week 3 quiz 03
@@ -698,7 +698,7 @@ try {DateRestrictLink(document.getElementById("OQ10"), "21 November 2022", "http
 
 // Homework --------------------------------------------------------------------------------------------------------------------------------------------
 // week 2 hw 01
-try {DateRestrictLink(document.getElementById("HW1I"), "26 September 2021", "/error");} catch { };
+try {DateRestrictLink(document.getElementById("HW1I"), "26 September 2022", "/error");} catch { };
 try {DateRestrictLink(document.getElementById("HW1R"), "26 September 2022", "/error");} catch { };
 // week 4 hw 02
 try {DateRestrictLink(document.getElementById("HW2I"), "10 October 2022", "/error");} catch { };
