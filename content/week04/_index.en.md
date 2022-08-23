@@ -16,7 +16,6 @@ _Week 4 (10 Oct 2022 - 14 Oct 2022)_
 
 Importing data, data types and classes, recoding.
 
-
 ## Lectures
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
