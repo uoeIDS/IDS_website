@@ -60,7 +60,7 @@ If you have not completed the <em>first time setup instructions</em> found on th
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab01: Plastic waste |  <span><a id = "LAB1I"> Instructions </a></span>  <span><a id = "LAB1R"> Repository </a></span> | Fri, 30 Sep, 10:00 UK |
+| Lab01: Plastic waste | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li> | Fri, 30 Sep, 10:00 UK |
 
 ## Assignments
 

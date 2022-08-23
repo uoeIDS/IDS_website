@@ -55,7 +55,7 @@ Tips for effective data visualization, communication of results, and collaborati
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Project: Proposal |  <span><a id = "project"> Instructions </a></span>  <span><a id = "projectR"> Repository </a></span> | Fri, 21 Oct, 10:00 UK |
+| Project: Proposal | <li><a id="project">Instructions</a></li> <li><a id="projectR">Repository</a></li>| Fri, 21 Oct, 10:00 UK |
 
 ## Assignments
 

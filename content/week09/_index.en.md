@@ -61,7 +61,7 @@ Misrepresentation of findings, data privacy, and algorithmic bias.
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab07: Work on projects |  <span><a id = "LAB7I"> Instructions </a></span> | Fri, 18 Nov, 10:00 UK |
+| Lab07: Work on projects |  <li><a id="LAB7I">Instructions</a></li>| Fri, 18 Nov, 10:00 UK |
 
 ## Assignments
 

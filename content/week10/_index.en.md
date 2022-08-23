@@ -51,7 +51,7 @@ Evaluating models with cross validation and uncertainty quantification with boot
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab08: Make progress on projects |  <span><a id = "LAB0I"> Instructions </a></span> | (Not Assessed)  |
+| Lab08: Make progress on projects |  <li><a id="LAB8I">Instructions</a></li>| (Not Assessed)  |
 
 ## Assignments
 
