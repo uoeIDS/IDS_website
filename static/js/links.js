@@ -32,7 +32,6 @@ try {document.getElementById('Error4').href = "/error";} catch { };
 try {document.getElementById("playlistmh").href = "https://media.ed.ac.uk/playlist/dedicated/1_p6bmjbvr/";} catch { };	// link to the mediahopper page
 try {document.getElementById('playlistyt').href = "https://youtube.com/playlist?list=PLPpngierSrQQXWJYxcejlR-DI2YSp0gD2";} catch { };	// link to the youtube playlist
 
-
 // week 1 lecture 0
 try {document.getElementById("W1L0YT").href = "https://youtu.be/GNslnHoxTDQ";} catch { };	// youtube
 try {document.getElementById("W1L0MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Meet+the+course+team/1_gp0oql9q";} catch { };	// mediahopper
@@ -677,9 +676,9 @@ try {DateRestrictLink(document.getElementById("lecture11"), "28 November 2022", 
 
 // Quizzes --------------------------------------------------------------------------------------------------------------------------------------------
 // week 1 quiz 01
-try {DateRestrictLink(document.getElementById("OQ0"), "19 September 2022", "https://uoe-maths.shinyapps.io/IDS_Q00/");} catch { };
+try {DateRestrictLink(document.getElementById("OQ0"), "19 September 2021", "https://uoe-maths.shinyapps.io/IDS_Q00/");} catch { };
 // week 2 quiz 02
-try {DateRestrictLink(document.getElementById("OQ1"), "26 September 2022", "https://uoe-maths.shinyapps.io/IDS_Q01/");} catch { };
+try {DateRestrictLink(document.getElementById("OQ1"), "26 September 2021", "https://uoe-maths.shinyapps.io/IDS_Q01/");} catch { };
 // week 3 quiz 03
 try {DateRestrictLink(document.getElementById("OQ2"), "03 October 2022", "https://uoe-maths.shinyapps.io/IDS_Q02/");} catch { };
 // week 4 quiz 04
@@ -736,10 +735,10 @@ try {DateRestrictLink(document.getElementById("HW4R"), "07 November 2022", "/err
 // Labs --------------------------------------------------------------------------------------------------------------------------------------------
 // lab 0 - Hello IDS! WEEK 01
 try {DateRestrictLink(document.getElementById("LAB0I"), "19 September 2021", "https://ids-s1-21.github.io/lab_instructions/lab-00/lab-00-hello-ids.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB0R"), "19 September 2022", "https://github.com/ids-s1-21?q=lab-00-hello-ids&type=&language=&sort=");} catch { };
+try {DateRestrictLink(document.getElementById("LAB0R"), "19 September 2021", "https://github.com/ids-s1-21?q=lab-00-hello-ids&type=&language=&sort=");} catch { };
 // lab 1 - Plastic Waste WEEK 02
-try {DateRestrictLink(document.getElementById("LAB1I"), "26 September 2022", "https://ids-s1-21.github.io/lab_instructions/lab-01/lab-01-plastic-waste.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB1R"), "26 September 2022", "https://github.com/ids-s1-21?q=lab-01-plastic-waste&type=&language=&sort=");} catch { };
+try {DateRestrictLink(document.getElementById("LAB1I"), "26 September 2021", "https://ids-s1-21.github.io/lab_instructions/lab-01/lab-01-plastic-waste.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB1R"), "26 September 2021", "https://github.com/ids-s1-21?q=lab-01-plastic-waste&type=&language=&sort=");} catch { };
 // lab 2 - Take a sad plot and make it better WEEK 03
 try {DateRestrictLink(document.getElementById("LAB2I"), "03 October 2022", "https://ids-s1-21.github.io/lab_instructions/lab-02/lab-02-sad-plot.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB2R"), "03 October 2022", "https://github.com/ids-s1-21?q=lab-02-sad-plot&type=&language=&sort=");} catch { };
