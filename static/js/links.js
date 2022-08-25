@@ -735,7 +735,7 @@ try {DateRestrictLink(document.getElementById("HW4R"), "07 November 2022", "/err
 try {DateRestrictLink(document.getElementById("LAB0I"), "19 September 2022", "https://ids-s1-21.github.io/lab_instructions/lab-00/lab-00-hello-ids.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB0R"), "19 September 2022", "https://github.com/ids-s1-21?q=lab-00-hello-ids&type=&language=&sort=");} catch { };
 // lab 1 - Plastic Waste WEEK 02
-try {DateRestrictLink(document.getElementById("LAB1I"), "26 September 2022", "https://ids-s1-21.github.io/lab_instructions/lab-01/lab-01-plastic-waste.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB1I"), "26 September 2021", "https://ids-s1-21.github.io/lab_instructions/lab-01/lab-01-plastic-waste.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB1R"), "26 September 2022", "https://github.com/ids-s1-21?q=lab-01-plastic-waste&type=&language=&sort=");} catch { };
 // lab 2 - Take a sad plot and make it better WEEK 03
 //try {DateRestrictLink(document.getElementById("LAB2I"), "03 October 2022", "https://ids-s1-21.github.io/lab_instructions/lab-02/lab-02-sad-plot.html");} catch { };
