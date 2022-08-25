@@ -60,7 +60,7 @@ Logistic regression for predicting categorical data and model building.
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due next week* | | |
-| HW04: Name homework | <li><a id="HW4I">Instructions</a></li><li><a id="HW4R">Repository</a></li> | Thu, 17 Nov, 10:00 UK |
+| HW04: Name homework | <li><a id="HW4I">Instructions</a></li><li><a id="HW4R">Repository</a></li> | Fri, 18 Nov, 12:00 UK |
 | OQ07: Simple Linear Regression | <li><a id="OQ7">Quiz</a></li> | Mon, 14 Nov, 12:00 UK |
 
 <!--

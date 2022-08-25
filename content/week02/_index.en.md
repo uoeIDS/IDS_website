@@ -69,7 +69,7 @@ If you have not completed the <em>first time setup instructions</em> found on th
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due next week* | | |
-| HW01: Name homework | <li><a id="HW1I">Instructions</a></li> <li><a id="HW1R">Repository</a></li> | Thur, 06 Oct, 10:00 UK |
+| HW01: Name homework | <li><a id="HW1I">Instructions</a></li> <li><a id="HW1R">Repository</a></li> | Fri, 07 Oct, 12:00 UK |
 | OQ01: Data visualization | <li><a id="OQ1">Quiz</a></li> | Mon, 03 Oct, 12:00 UK |
 
 
