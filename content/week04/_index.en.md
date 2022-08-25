@@ -56,7 +56,7 @@ Importing data, data types and classes, recoding.
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab03: Nobel laureates | <span><a id = "LAB3I"> Instructions </a></span> |  Fri, 14 Oct, 10:00 UK  |
+| Lab03: Nobel laureates | <li><a id="LAB3I">Instructions</a></li> <li><a id="LAB3R">Repository</a></li> |  Fri, 14 Oct, 10:00 UK  |
 
 ## Assignments
 
