@@ -741,8 +741,8 @@ try {DateRestrictLink(document.getElementById("LAB1R"), "26 September 2022", "ht
 try {DateRestrictLink(document.getElementById("LAB2I"), "03 October 2022", "https://ids-s1-21.github.io/lab_instructions/lab-02/lab-02-sad-plot.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB2R"), "03 October 2022", "https://github.com/ids-s1-21?q=lab-02-sad-plot&type=&language=&sort=");} catch { };
 // lab 3 - Nobel Laureates WEEK 04
-//try {DateRestrictLink(document.getElementById("LAB3I"), "10 October 2022", "https://ids-s1-21.github.io/lab_instructions/lab-03/lab-03-nobel-laureates.html";} catch { };
-//try {DateRestrictLink(document.getElementById("LAB3R"), "10 October 2022", "https://github.com/ids-s1-21?q=lab-03-nobel-laureates&type=&language=&sort=";} catch { };
+try {DateRestrictLink(document.getElementById("LAB3I"), "10 October 2022", "https://ids-s1-21.github.io/lab_instructions/lab-03/lab-03-nobel-laureates.html";} catch { };
+try {DateRestrictLink(document.getElementById("LAB3R"), "10 October 2022", "https://github.com/ids-s1-21?q=lab-03-nobel-laureates&type=&language=&sort=";} catch { };
 // lab 4 - Project WEEK 05 AND WEEK 06
 //try {DateRestrictLink(document.getElementById("project"), "17 October 2022", "/assessments/project";} catch { };
 //try {DateRestrictLink(document.getElementById("projectR"), "17 October 2022", "https://github.com/ids-s1-21?q=project&type=&language=&sort=";} catch { };
@@ -770,8 +770,8 @@ try {DateRestrictLink(document.getElementById("LAB2R"), "03 October 2022", "http
 //try {document.getElementById("LAB2I").href = "https://ids-s1-21.github.io/lab_instructions/lab-02/lab-02-sad-plot.html";} catch { };
 //try {document.getElementById("LAB2R").href = "https://github.com/ids-s1-21?q=lab-02-sad-plot&type=&language=&sort=";} catch { };
 // lab 3 - Nobel Laureates
-try {document.getElementById("LAB3I").href = "https://ids-s1-21.github.io/lab_instructions/lab-03/lab-03-nobel-laureates.html";} catch { };
-try {document.getElementById("LAB3R").href = "https://github.com/ids-s1-21?q=lab-03-nobel-laureates&type=&language=&sort=";} catch { };
+//try {document.getElementById("LAB3I").href = "https://ids-s1-21.github.io/lab_instructions/lab-03/lab-03-nobel-laureates.html";} catch { };
+//try {document.getElementById("LAB3R").href = "https://github.com/ids-s1-21?q=lab-03-nobel-laureates&type=&language=&sort=";} catch { };
 // lab 4 - UoE Art Collection
 try {document.getElementById("LAB4I").href = "https://ids-s1-21.github.io/lab_instructions/lab-04/lab-04-uoe-art.html";} catch { };
 try {document.getElementById("LAB4R").href = "https://github.com/ids-s1-21?q=lab-04-uoe-art&type=&language=&sort=";} catch { };
