@@ -11,7 +11,7 @@ description: "Week 9 (14 Nov 2022 - 18 Nov 2022): Misrepresentation of findings,
 hidden: false
 ---
 
-# Classification and Model Building
+# Ethics
 
 _Week 9 (14 Nov 2022 - 18 Nov 2022)_
 
