@@ -21,7 +21,7 @@ Data visualization and interpretation of graphical information.
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:-----------:|:--------:|:------|
-| 01  | Data and visualisation | - |<span><a id = "lecture02"> Lecture -02- from Learn </a></span> | - |
+| 01  | Visualising data | - |<span><a id = "lecture02"> Lecture -02- from Learn </a></span> | - |
 
 ## Tasks
 {{% notice warning %}}
@@ -58,11 +58,9 @@ If you have not completed the <em>first time setup instructions</em> found on th
 
 ## Workshop
 
-<p style="text-align: left"> This week's workshop will help you get familiar with the workflow for the rest of the course.
-
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab01: Plastic waste | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li> | Tue, 05 Oct, 16:00 UK |
+| Lab01: Plastic waste | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li> | Fri, 30 Sep, 10:00 UK |
 
 ## Assignments
 
@@ -71,8 +69,8 @@ If you have not completed the <em>first time setup instructions</em> found on th
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due next week* | | |
-| HW01: name homework | <li><a id="HW1I">Instructions</a></li> <li><a id="HW1R">Repository</a></li> | Thur, 06 Oct, 10:00 UK |
-| OQ01: Data visuallization | <li><a id="OQ1">Quiz</a></li> | Sun, 03 Oct, 12:00 UK |
+| HW01: Name homework | <li><a id="HW1I">Instructions</a></li> <li><a id="HW1R">Repository</a></li> | Fri, 07 Oct, 12:00 UK |
+| OQ01: Data visualization | <li><a id="OQ1">Quiz</a></li> | Mon, 03 Oct, 12:00 UK |
 
 
 <!--

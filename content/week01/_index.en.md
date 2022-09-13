@@ -28,9 +28,8 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 |:---:|:---------------------|:-----------:|:--------:|:------|
 | 01  | Welcome | - |<span><a id = "lecture01"> Lecture -01- from Learn </a></span> | - |
 
-
+<!--
 ## TEST SPACE - TO DELETE!!!
-
 <span><a id = "test1"><span style = "color: red">test1 - with span - active</span></a></span>
 <br>
 <span><a id = "test2"><span style = "color: red">text2 - with span - inactive</span></a></span>
@@ -46,8 +45,10 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 | -  | active | <a id="test7"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="test8"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
 
 <p style="text-align: left">
-Comment: see the examples at the bottom of 'link.js' for how the above time restricted links (IDs "test1"-"test8") are defined using the newly created function 'DateRestrictLink'. I've tried to make this function robust to whatever is included between the HTML &lt;a&gt;&lt;/a&gt; <!-- <a></a> --> link elements, but I expect there will  be cases where the behaviour is not what is expected - let me know if spot any of these and I can have a look at editing the function if needed. Advice: if the link and style works as designed without the 'DateRestrictLink' function but then causes problems with it, then add a extra 'span' element within the 'a' link element like &lt;a&gt;&lt;span&gt; ... &lt;/span&gt;&lt;/a&gt; <!-- <a><span></span></a> --> and try to avoid having anything too complicated inside.
-</p>
+Comment: see the examples at the bottom of 'link.js' for how the above time restricted links (IDs "test1"-"test8") are defined using the newly created function 'DateRestrictLink'. I've tried to make this function robust to whatever is included between the HTML &lt;a&gt;&lt;/a&gt; <!-- <a></a> -->
+<!--link elements, but I expect there will  be cases where the behaviour is not what is expected - let me know if spot any of these and I can have a look at editing the function if needed. Advice: if the link and style works as designed without the 'DateRestrictLink' function but then causes problems with it, then add a extra 'span' element within the 'a' link element like &lt;a&gt;&lt;span&gt; ... &lt;/span&gt;&lt;/a&gt; <!-- <a><span></span></a> -->
+<!--and try to avoid having anything too complicated inside.
+</p> -->
 
 ## Tasks
 
@@ -90,8 +91,7 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab00: Hello IDS!| <li><a id="LAB0I">Instructions</a></li> <li><a id="LAB0R">Repository</a></li>| Tue, 26 Sep, 16:00 UK |
-
+| Lab00: Hello IDS!| <li><a id="LAB0I">Instructions</a></li> <li><a id="LAB0R">Repository</a></li>| Fri, 23 Sep, 16:00 UK |
 
 ## Assignments
 

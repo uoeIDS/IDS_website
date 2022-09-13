@@ -4,31 +4,36 @@ pre: "<b>10. </b>"
 title: "10. Model Validation and Uncertainty Quantification"
 menuTitle: "Model Validation and Uncertainty Quantification"
 weight: 10
-tags: ["week 10", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"] 
-description: "Week 10 (22 Nov 2021 - 28 Nov 2021): Evaluating models with cross validation and uncertainty quantification with bootstrap confidence intervals. quantification."
+tags: ["week 10", "tasks", "videos", "assignments", "readings", "tutorials"]
+description: "Week 10 (21 Nov 2022 - 25 Nov 2022): Evaluating models with cross validation and uncertainty quantification with bootstrap confidence intervals. quantification."
 
 hidden: false
 ---
 
 # Model Validation and Uncertainty Quantification
 
-_Week 10 (22 Nov 2021 - 28 Nov 2021)_
+_Week 10 (21 Nov 2022 - 25 Nov 2022)_
 
 Evaluating models with cross validation and uncertainty quantification with bootstrap confidence intervals.
+
+## Lectures
+
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
+|:---:|:---------------------|:-----------:|:--------:|:------|
+| 01  | Validation and Uncertainty Quantification | - |<span><a id = "lecture09"> Lecture -09- from Learn </a></span> | - |
 
 ## Tasks
 
 <ol>
-  <li>Watch the <a href="#videos">Videos</a>.</li>
-  <li>Do the <a href="#readings">Readings</a>.</li>
+  <li>Watch the <a href="#videos and readings">Videos and readings</a>.</li>
   <li>Complete the <a href="#assignments">Assignments</a>.</li>
 </ol>
 
-## Videos
+## Videos and readings
 
 <p style="text-align: left">You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube <a id="playlistyt">here</a> and on MediaHopper <a id="playlistmh">here</a>.</p>
 
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | 
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:-------:|:-----------:|:--------:|:------|
 | 01  | Keeping up with IDS: Week 10 | <a id="W10L1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W10L1MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
 | 02  |	Cross validation | <a id="W10L2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W10L2MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W10L2S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
@@ -37,37 +42,36 @@ Evaluating models with cross validation and uncertainty quantification with boot
 | 05  | Quantifying uncertainty | <a id="W10L5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W10L5MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> |  <a id="W10L5S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
 | 06  | Bootstrapping | <a id="W10L6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W10L6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W10L6S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>   | - |
 
+| <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
+|:---:|:---|:---:|
+| <i class="fab fa-readme"></i> | tidymodels: <a id="TMER">Evaluate your model with resampling</a> | **Required** |
+| <i class="fas fa-book"></i> | IMS: <a id="IMS12">Chp 12 - Confidence intervals with bootstrapping</a> | **Required** |
+
+## Workshop
+
+| <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
+|:---|:---|:---|
+| Lab08: Make progress on projects |  <li><a id="LAB8I">Instructions</a></li>| (Not Assessed)  |
+
 ## Assignments
 
 <p style="text-align: left">If you are having difficulty accessing your HW or Lab repo, see troubleshooting advice <a id="troubleshoot">here.</a></p>
 
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
-| *Due this week* | | |
-| Lab07: Work on projects | <li><a id="LAB7I">Instructions</a></li> | Tue, 23 Nov, 16:00 UK |
-| OQ08: Multiple regression | <li><a id="OQ8">Quiz</a></li> | Wed, 24 Nov, 23:59 UK |
-| HW04: Potpourri | <li><a id="HW4I">Instructions</a></li><li><a id="HW4R">Repository</a></li> | Thu, 25 Nov, 16:00 UK | 
-| *Due next week* | | | 
-| Lab08: Make progress on projects | <li><a id="LAB8I">Instructions</a></li> | (Not Assessed)  |
-| OQ09: Modeling overview | <li><a id="OQ9">Quiz</a></li> | Wed, 1 Dec, 23:59 UK |
-| Project | <li><a id="project">Instructions</a></li><li><a id="projectR">Repository</a></li> | Fri, 3 Dec, 09:00 UK | 
-| Peer Evaluation (Project) | (Emailed to University Email Address via TEAMMATES) | Sat, 4 Dec, 23:59 UK |
+| *Due next week* | | |
+| OQ09: Modelling overview | <li><a id="OQ9">Quiz</a></li> | Mon, 28 Nov, 12:00 UK |
 
-## Readings
-
-| <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
-|:---:|:---|:---:|
-| <i class="fab fa-readme"></i> | tidymodels: <a id="TMER">Evaluate your model with resampling</a> | **Required** |
-| <i class="fas fa-book"></i> | IMS: <a id="IMS12">Chp 12 - Confidence intervals with bootstrapping</a> | **Required** |
-
+<!--
 ## Code-along
 
 <p style="text-align: left"> Recordings and files from Thursday's code-along.</p>
 
 | <div style="width:200px"></div>  | <div style="width:480px"></div>  |
 |:---|:---|
-| Recording | <a id="CA10YT"><span style="color: red;"><i class="fab fa-youtube fa-lg"> </i></span></a> <a id="CA10MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span></a> 
+| Recording | <a id="CA10YT"><span style="color: red;"><i class="fab fa-youtube fa-lg"> </i></span></a> <a id="CA10MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span></a>
 | Session artifacts | <a id="CA10Rmd">.Rmd</a> <a id="CA10Md">.md</a>|
+-->
 
 ## Interactive R tutorials
 
