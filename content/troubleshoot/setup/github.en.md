@@ -81,7 +81,7 @@ First we need to set up a new <strong>repository</strong> (repo) to work on:
 </ul>
 <br><br>
 
-For group homework, one person can set up the repo and invite the rest of their team to collaborate on it.
+For group work, one person can set up the repo and invite the rest of their team to collaborate on it.
 <ul>
 <li> Log on to GitHub, nagivate to your repo, and click on Settings.
 <li> Click on Manage Access from the left hand menu, and then on Invite a collaborator - you will need their github user name.
