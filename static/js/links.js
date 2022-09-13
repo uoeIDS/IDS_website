@@ -14,6 +14,7 @@ try {document.getElementById('tags').href = "/tags";} catch { };					// link to 
 try {document.getElementById('troubleshoot').href = "/troubleshoot";} catch { };	// link to the troubleshoot page
 try {document.getElementById('troubleshoot2').href = "/troubleshoot";} catch { };	// link to the troubleshoot page
 try {document.getElementById('GitHubSetup').href = "/troubleshoot/setup/github";} catch { };	// link to github setup
+try {document.getElementById('GitHubSetup2').href = "/troubleshoot/setup/github";} catch { };	// link to github setup
 try {document.getElementById('RStudioSetup').href = "/troubleshoot/setup/rstudio";} catch { };	// link to github setup
 try {document.getElementById('ZoomSetup').href = "/troubleshoot/setup/zoomsetup";} catch { };	// link to github setup
 try {document.getElementById('RepoHelp').href = "/troubleshoot/trouble/repos";} catch { };
