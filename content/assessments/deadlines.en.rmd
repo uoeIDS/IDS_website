@@ -1,6 +1,7 @@
 ---
 title: Deadlines
 weight: 5
+hidden: true
 ---
 
 ```{r echo=FALSE, warning=FALSE, message=FALSE, out.width="100%", fig.asp=0.9}

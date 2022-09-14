@@ -21,7 +21,7 @@ These will be held on Fridays and will be held in-person.
 
 You are expected to bring a laptop to the workshops. Please read the school's [Technology and equipment](https://teaching.maths.ed.ac.uk/main/undergraduate/studies/equipment) page for information on equipment or to request a device. There is also a [loan service](https://www.ed.ac.uk/information-services/library-museum-gallery/using-library/borrowing-a-book/borrowing-laptops) in the main library in case anything is wrong with your device at short notice. The school provides IT support for Windows laptops. Support for other operating systems cannot be guaranteed. If your laptop uses another operating system and you cannot install the required software you may need to look into borrowing a laptop under the [loan service](https://www.ed.ac.uk/information-services/library-museum-gallery/using-library/borrowing-a-book/borrowing-laptops).
 
-During the workshops you will work in preassigned  __teams__ of 3 or 4 students on computing lab exercises. You can meet up with your team later to complete anything that you didn't manage to finish during the workshop. 
+During the workshops you will work in  __teams__ of 3 or 4 students on computing lab exercises. You can meet up with your team later to complete anything that you didn't manage to finish during the workshop. 
 
 {{% notice tip %}}
 Set up weekly team meetings between Friday and Tuesday.

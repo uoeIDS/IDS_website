@@ -97,7 +97,7 @@ Should you need to [pre-record your presentation](https://docs.google.com/docume
 
 Along with your presentation slides, we want you to provide a brief summary of your project. This can be a markdown (`.md`) or an rmarkdown (`.Rmd`) file, depending on whether you want to include code in your write-up. The write-up should be around 1,500 words, not including figures and tables. 
 
-This write-up should provide information on the dataset you're using, your research question(s), your methodology, and your findings. Your write-up must also contain a link to the GitHub repository for your project, and you must add the course organisers to this GitHub repository.  
+This write-up should provide information on the dataset you're using, your research question(s), your methodology, and your findings. Your write-up must also contain a link to the GitHub repository for your project, and you must add the course GitHub page (username: uoeIDS) to this GitHub repository.  
 
 ### Team peer evaluation
 
@@ -111,7 +111,7 @@ You will need to submit to Learn by 9am on the 2 December:
 * A `.pdf` or `.html` version of your presentation.
 * Your team peer evaluation.
 
-As explained above, you _must_ also add the course organiser to your team GitHub repository by the time of the deadline. 
+As explained above, you _must_ also add the course GitHub account (username: uoeIDS) to your team GitHub repository by the time of the deadline. 
 
 We expect your GitHub repository to contain the following folders and files:
 
