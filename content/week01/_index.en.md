@@ -7,9 +7,10 @@ weight: 1
 tags:
 - week 1
 - tasks
-- videos
+- lectures
+- reading
+- workshop
 - assignments
-- readings
 - tutorials
 description: 'Week 1 (19 Sep 2022 - 23 Sep 2022): Get acquainted with the course,
   the technology, the workflow, and the skills you will acquire throughout the semester.'
@@ -24,12 +25,13 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 
 ## Tasks
 
-<p style="text-align: left">Each week you will be given a series of tasks to do. Normally you could do the tasks in any order, however this week it is strongly advised that you follow the order below. This week you have to...</p>
+<p style="text-align: left">Each week you will be given a series of tasks to do. Normally these tasks can be done in any order, however this week it is strongly advised that you follow the order below. This week you have to...</p>
 
 <ol>
   <li> Complete the <em>first time setup instructions</em> found on the <a id="troubleshoot">Setup & Troubleshooting</a> page.</li>
-  <li> Attend the lectures and go back and check the slides and recordings if anything was not clear.</li>
-  <li>Watch any additional <a href="#videos and readings">Videos and readings</a>.</li> given below. 
+  <li> Attend the lectures. You are expected to read the slides and watch the recordings after the lecture if anything is not clear.</li>
+  <li>Watch the required videos and read any required reading in <a href="#videos and readings">Videos and reading</a>.</li>
+  <li>Attend the <a href="#workshop">workshop</a>.</li>
   <li>Complete the <a href="#assignments">Assignments</a>.</li>
 </ol>
 
@@ -63,19 +65,24 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 <!--and try to avoid having anything too complicated inside.
 </p> -->
 
-## Tasks
 
-<p style="text-align: left">Each week you will be given a series of tasks to do. Normally you could do the tasks in any order, however this week it is strongly advised that you follow the order below. This week you have to...</p>
+## Videos and reading
 
-<ol>
-  <li> Please complete the <em>first time setup instructions</em> found on the <a id="troubleshoot">Setup & Troubleshooting</a> page.</li>
-  <li>Watch the <a href="#videos and readings">Videos and readings</a>.</li>
-  <li>Complete the <a href="#assignments">Assignments</a>.</li>
-</ol>
+<p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
 
-## Videos and readings
 
-<p style="text-align: left">You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube <a id="playlistyt">here</a> and on MediaHopper <a id="playlistmh">here</a>.</p>
+| <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
+|:---:|:---|:---:|
+| <i class="fas fa-laptop"></i> | <a id="components">Course Components</a>, <a id="assessments">Assessments</a>, <a id="policies">Policies</a> | **Required** |
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS2">Chp 2, Introduction</a> | **Required** |
+| <i class="fas fa-book"></i> | IMS: <a id="IMS1">Chp 1, Sec 1.1 and 1.2</a> | **Required** |
+| <i class="fas fa-book"></i> | <a id="RGit">Happy Git and GitHub for the useR</a> | Optional |
+| <i class="fab fa-readme"></i> | <a id="HTRR">How to read an R help page</a> | Optional |
+| <i class="fab fa-readme"></i> | <a id="OpenSci">rOpenSci's Reproducibility Guide</a> | Optional |
+| <i class="fab fa-readme"></i> | <a id="NatRepro">1,500 scientists lift the lid on reproducibility</a> | Optional |
+|  <i class="fas fa-pen-fancy"></i> | <a id="nhsr">How R changed me as an analyst</a> | Optional
+
+
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:-------:|:-----------:|:--------:|:------|
@@ -108,15 +115,10 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 
 ## Assignments
 
-<p style="text-align: left"> This week's assignments will help you get familiar with the workflow for the rest of the course. You are urged to complete them so that you are prepared for next week and beyond. For instructions on how to set up a new project in RStudio Cloud from a GitHub repository (“repo”), see the <a id="OpeningaProject">Opening a Project</a> page under <a id="troubleshoot">Setup & Troubleshooting.</a></p>
-
-{{% notice note %}}
-This week's assignments will not be marked, as they are provided as practice and to help you get acquainted with the material without the pressure of grades.
-{{% /notice %}}
+<p style="text-align: left"> This week's quiz will help you get familiar with the workflow for the rest of the course. You are urged to complete it so that you are prepared for next week and beyond. </p>
 
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
-| *Due next week* | | |
 | OQ00: Syllabus and data | <li><a id="OQ0">Quiz</a></li> | Mon, 26 Sep, 12:00 UK |
 
 <!-- ## Code-along
