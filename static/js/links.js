@@ -546,7 +546,7 @@ try {document.getElementById("AlexGitHub").href = "https://github.com/AlexJHomer
 
 try {document.getElementById("CourseSec").href = "mailto:f.c.reid@ed.ac.uk";} catch { };
 try {document.getElementById("SLA1").href = "mailto:Kat.Kiernan@ed.ac.uk";} catch { };
-try {document.getElementById("SLA2").href = "mailto:Kathleen.Lloyd@ed.ac.uk";} catch { };
+try {document.getElementById("SLA2").href = "mailto:studentsupport@maths.ed.ac.uk";} catch { };
 try {document.getElementById("StudentSupportMail").href = "https://example.com";} catch { };
 try {document.getElementById("AlaaMail").href = "mailto:alaa.amri@ed.ac.uk";} catch { };
 try {document.getElementById("BruceMail").href = "mailto:bruce.worton@ed.ac.uk";} catch { };
@@ -564,7 +564,7 @@ try {document.getElementById("KitMail").href = "mailto:ksearle@ed.ac.uk";} catch
 
 // Other ---------------------------------------------------------------------------------------------------------------------------------------------------
 try {
-	document.getElementById('announcements').href = "https://www.learn.ed.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_87184_1&handle=cp_announcements&mode=cpview";
+	document.getElementById('announcements').href = "https://www.learn.ed.ac.uk/ultra/courses/_98726_1/cl/outline";
 } catch { };	// link to annoucements page
 try {document.getElementById('drps').href = "http://www.drps.ed.ac.uk/22-23/dpt/cxmath08077.htm";} catch { };	// link to the official drps course page
 try {document.getElementById('ids2020').href = "https://introds-2020.netlify.app/";} catch { };	// link to ids 2020 page
@@ -589,7 +589,9 @@ try {document.getElementById('misconduct').href = "https://teaching.maths.ed.ac.
 try {document.getElementById('extensions').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/extensions";} catch { }; //Institute for Academic Development
 try {document.getElementById('extensionsExplained').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/extensions";} catch { }; //Institute for Academic Development
 try {document.getElementById('specialCircumstancesExplained').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/extensions";} catch { }; //Institute for Academic Development
-try {document.getElementById('ids2021Git').href = "https://github.com/ids-s1-21/";} catch { }; //Institute for Academic Development
+try {document.getElementById('ids2021Git').href = "https://github.com/ids-s1-21/";} catch { }; 
+// ids 2022 Git
+try {document.getElementById('ids2022Git').href = "https://github.com/uoeIDS/";} catch { }; 
 try {document.getElementById('Piazza').href = "https://piazza.com/ed.ac.uk/fall2021/math08077/home";} catch { }; //Institute for Academic Development
 try {document.getElementById('Teams').href = "https://www.microsoft.com/en-gb/microsoft-teams/log-in";} catch { }; //Institute for Academic Development
 try {document.getElementById('Zoom').href = "https://zoom.us/";} catch { }; //Institute for Academic Development
