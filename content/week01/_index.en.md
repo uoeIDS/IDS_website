@@ -22,11 +22,24 @@ _Week 1 (19 Sep 2022 - 23 Sep 2022)_
 
 Get acquainted with the course, the technology, the workflow, and the skills you will acquire throughout the semester.
 
+## Tasks
+
+<p style="text-align: left">Each week you will be given a series of tasks to do. Normally you could do the tasks in any order, however this week it is strongly advised that you follow the order below. This week you have to...</p>
+
+<ol>
+  <li> Complete the <em>first time setup instructions</em> found on the <a id="troubleshoot">Setup & Troubleshooting</a> page.</li>
+  <li> Attend the lectures and go back and check the slides and recordings if anything was not clear.</li>
+  <li>Watch any additional <a href="#videos and readings">Videos and readings</a>.</li> given below. 
+  <li>Complete the <a href="#assignments">Assignments</a>.</li>
+</ol>
+
+
 ## Lectures
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:-----------:|:--------:|:------|
 | 01  | Welcome | - |<span><a id = "lecture01"> Lecture -01- from Learn </a></span> | - |
+| 02  | Introduction to the toolkit | - |<span><a id = "lecture02"> Lecture -02- from Learn </a></span> | - |
 
 <!--
 ## TEST SPACE - TO DELETE!!!

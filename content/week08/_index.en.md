@@ -7,7 +7,7 @@ weight: 8
 tags: ["week 8", "tasks", "videos", "assignments", "readings", "tutorials"]
 Description: "Week 8 (7 Nov 2022 - 11 Nov 2022): Logistic regression for predicting categorical data and model building."
 
-hidden: false
+hidden: true
 ---
 
 # Classification and Model Building

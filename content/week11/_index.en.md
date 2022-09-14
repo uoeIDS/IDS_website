@@ -7,7 +7,7 @@ weight: 11
 tags: ["week 11", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"]
 description: "Week 11 (28 Nov 2022 - 2 Dec 2022): Additional topics beyond IDS"
 
-hidden: false
+hidden: true
 ---
 
 # Looking Beyond IDS

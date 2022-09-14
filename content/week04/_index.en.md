@@ -7,7 +7,7 @@ weight: 4
 tags: ["week 4", "tasks", "videos", "assignments", "readings", "tutorials"]
 description: "Week 4 (10 Oct 2022 - 14 Oct 2022): Importing data, data types and classes, recoding."
 
-hidden: false
+hidden: true
 ---
 
 # Importing and Recoding Data

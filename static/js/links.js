@@ -651,7 +651,9 @@ try {DateRestrictLink(document.getElementById("test8"), "01 August 2023", "/erro
 
 // Lectures link to learn --------------------------------------------------------------------------------------------------------------------------------------------
 // week 1 lecture 01
-try {DateRestrictLink(document.getElementById("lecture01"), "19 September 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
+try {DateRestrictLink(document.getElementById("lecture01-1"), "20 September 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
+// week 1 lecture 02
+try {DateRestrictLink(document.getElementById("lecture01-2"), "22 September 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 // week 2 lecture 02
 try {DateRestrictLink(document.getElementById("lecture02"), "26 September 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 // week 3 lecture 03

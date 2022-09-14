@@ -7,7 +7,7 @@ weight: 5
 tags: ["week 5", "tasks", "videos", "assignments", "readings", "tutorials"]
 description: "Week 5 (17 Oct 2022 - 21 Oct 2022): Tips for effective data visualization, communication of results, and collaboration."
 
-hidden: false
+hidden: true
 ---
 
 # Communicating Data Science Results Effectively

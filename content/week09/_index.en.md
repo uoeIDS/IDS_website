@@ -8,7 +8,7 @@ tags: ["week 9", "tasks", "videos", "assignments", "readings", "tutorials"]
 description: "Week 9 (14 Nov 2022 - 18 Nov 2022): Misrepresentation of findings, data privacy, and algorithmic bias."
 
 
-hidden: false
+hidden: true
 ---
 
 # Ethics

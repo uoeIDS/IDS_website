@@ -7,7 +7,7 @@ weight: 10
 tags: ["week 10", "tasks", "videos", "assignments", "readings", "tutorials"]
 description: "Week 10 (21 Nov 2022 - 25 Nov 2022): Evaluating models with cross validation and uncertainty quantification with bootstrap confidence intervals. quantification."
 
-hidden: false
+hidden: true
 ---
 
 # Model Validation and Uncertainty Quantification

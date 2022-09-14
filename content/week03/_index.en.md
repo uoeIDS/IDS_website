@@ -7,7 +7,7 @@ weight: 3
 tags: ["week 3", "tasks", "videos", "assignments", "readings", "tutorials"]
 description: "Week 3 (3 Oct 2022 - 7 Oct 2022): Data wrangling, joining, and tidying."
 
-hidden: FALSE
+hidden: true
 ---
 
 # Wrangling and Tidying Data
