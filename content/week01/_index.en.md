@@ -40,8 +40,8 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:-----------:|:--------:|:------|
-| 01  | Welcome | - |<span><a id = "lecture01"> Lecture -01- from Learn </a></span> | - |
-| 02  | Introduction to the toolkit | - |<span><a id = "lecture02"> Lecture -02- from Learn </a></span> | - |
+| 01  | Welcome | - |<span><a id = "lecture01-01"> Lecture -01- from Learn </a></span> | - |
+| 02  | Introduction to the toolkit | - |<span><a id = "lecture01-02"> Lecture -02- from Learn </a></span> | - |
 
 <!--
 ## TEST SPACE - TO DELETE!!!
@@ -70,19 +70,7 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
 
-
-| <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
-|:---:|:---|:---:|
-| <i class="fas fa-laptop"></i> | <a id="components">Course Components</a>, <a id="assessments">Assessments</a>, <a id="policies">Policies</a> | **Required** |
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS2">Chp 2, Introduction</a> | **Required** |
-| <i class="fas fa-book"></i> | IMS: <a id="IMS1">Chp 1, Sec 1.1 and 1.2</a> | **Required** |
-| <i class="fas fa-book"></i> | <a id="RGit">Happy Git and GitHub for the useR</a> | Optional |
-| <i class="fab fa-readme"></i> | <a id="HTRR">How to read an R help page</a> | Optional |
-| <i class="fab fa-readme"></i> | <a id="OpenSci">rOpenSci's Reproducibility Guide</a> | Optional |
-| <i class="fab fa-readme"></i> | <a id="NatRepro">1,500 scientists lift the lid on reproducibility</a> | Optional |
-|  <i class="fas fa-pen-fancy"></i> | <a id="nhsr">How R changed me as an analyst</a> | Optional
-
-
+Delete the videos below when lectures prepared.
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:-------:|:-----------:|:--------:|:------|
@@ -94,7 +82,8 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 | 05  | Meet the toolkit: programming     | <a id="W1L5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L5MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L5S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | <li><a href="/errata#W105">Errata</a></li> <li><a id="AE2">AE2. Repository</a></li> |
 | 06  | Meet the toolkit: version control and collaboration     | <a id="W1L6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L6S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | <li><a href="/errata#W106">Errata</a></li> |
 
-| <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
+Use table below
+| <div style="width:50px"></div>  | <div style="width:420px">Link</div>  |  <div style="width:200px"></div> | <div style="width:170px;text-align:center">Additional Info</div> |
 |:---:|:---|:---:|
 | <i class="fas fa-laptop"></i> | <a id="components">Course Components</a>, <a id="assessments">Assessments</a>, <a id="policies">Policies</a> | **Required** |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS2">Chp 2, Introduction</a> | **Required** |
