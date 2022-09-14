@@ -76,19 +76,19 @@ RStudio has inbuilt tools that make it easier to work with Git and GitHub. The f
 First we need to set up a new <strong>repository</strong> (repo) to work on:
 <ul>
 <li> Login to your GitHub account <a href="https://www.github.com/">here</a>, click on <em>Repositories</em> and then click on <em>New</em> to set up a new repository.
-<li> Follow the instructions. If you are working on assessed coursework you will need to set your repository to private. Add a README file so that we have something to edit.
+<li> Follow the instructions. If you are working on assessed coursework you will need to set your repository to private. Add a README file so that you have something to edit.
 <li> You can add files directly to your repo via the web interface, but below we will see how to add files using RStudio. 
 <li> For the homework and labs you will be provided with a skeleton file to start off with. There are several options for setting up the GitHub repository containing this skeleton file:
 <ul> 
 <li> You can upload the skeleton file to your GitHub repository via the web interface.
 <li> You can add the skeleton file to your RStudio project as described below.
-<li> For the labs, you can fork the repository directly from the course <a id="ids2022Git">GitHub page</a>. To do this, navigate to the repository containing the lab or homework you wish to work on and click _fork_ in the upper right corner. This will create a copy of the repository on the course GitHub page that is associated with your own account. We do not recommend doing this for the homework assignments as you will need to create a private repository for these.
+<li> For the labs, you can fork the repository directly from the course <a id="ids2022Git">GitHub page</a>. To do this, navigate to the repository containing the lab or homework you wish to work on and click <em>fork</em> in the upper right corner. This will create a copy of the repository on the course GitHub page that is associated with your own account. We do not recommend doing this for the homework assignments as you will need to create a private repository for these.
 </ul>
 
 </ul>
 <br><br>
 
-For group work, one person can set up the repo and invite the rest of their team to collaborate on it.
+For group work, one person can set up the repo and invite the rest of their team to collaborate on it. To do this:
 <ul>
 <li> Log on to GitHub, nagivate to your repo, and click on Settings.
 <li> Click on Manage Access from the left hand menu, and then on Invite a collaborator - you will need their github user name.
