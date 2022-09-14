@@ -7,7 +7,7 @@ weight: 2
 tags: ["week 2", "tasks", "videos", "assignments", "readings", "tutorials"]
 description: "Week 2 (26 Sep 2022 - 30 Sep 2022): Data visualization and interpretation of graphical information."
 
-hidden: false
+hidden: true
 ---
 
 # Visualizing Data
