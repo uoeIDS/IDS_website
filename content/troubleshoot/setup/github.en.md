@@ -136,3 +136,5 @@ Congratulations! You have now set up RStudio to work with GitHub.
 
 If you need more help with any of this a good place to start is the information <a href="https://happygitwithr.com">here</a>. The lecturers and tutors will also be available to work through these steps with you in the workshops on Fridays. 
 
+There will also be an IT support drop in session with tutors available to help you with these steps. 
+
