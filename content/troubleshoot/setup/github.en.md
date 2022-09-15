@@ -78,22 +78,9 @@ First we need to set up a new <strong>repository</strong> (repo) to work on:
 <li> Login to your GitHub account <a href="https://www.github.com/">here</a>, click on <em>Repositories</em> and then click on <em>New</em> to set up a new repository.
 <li> Follow the instructions. If you are working on assessed coursework you will need to set your repository to private. Add a README file so that you have something to edit.
 <li> You can add files directly to your repo via the web interface, but below we will see how to add files using RStudio. 
-<li> For the homework and labs you will be provided with a skeleton file to start off with. There are several options for setting up the GitHub repository containing this skeleton file:
-<ul> 
-<li> You can upload the skeleton file to your GitHub repository via the web interface.
-<li> You can add the skeleton file to your RStudio project as described below.
-<li> For the labs, you can fork the repository directly from the course <a id="ids2022Git">GitHub page</a>. To do this, navigate to the repository containing the lab or homework you wish to work on and click <em>fork</em> in the upper right corner. This will create a copy of the repository on the course GitHub page that is associated with your own account. We do not recommend doing this for the homework assignments as you will need to create a private repository for these.
-</ul>
-
 </ul>
 <br><br>
 
-For group work, one person can set up the repo and invite the rest of their team to collaborate on it. To do this:
-<ul>
-<li> Log on to GitHub, nagivate to your repo, and click on Settings.
-<li> Click on Manage Access from the left hand menu, and then on Invite a collaborator - you will need their github user name.
-<li> Note that collaborators have to accept the invitation before they can save work (push) to the github repo – this applies whether the repo is private or public.
-</ul>
 
 ### Use RStudio to clone the repository to your local computer
 
@@ -130,6 +117,37 @@ In the last section we saw how to clone a repo, but we also need to be able to s
 <li> Now go back to the online GitHub repository and hit refresh. Find your README file - it should show the changes you just made in RStudio.
 </ol>
 <br><br>
+
+### Use a GitHub repository for coursework
+
+For the homework and labs you will be provided with a skeleton file to start off with. As we go through the semester we will give you less and less material in this file. In this section we go through how to set up a GitHub repository for your coursework. 
+
+**Workshops, application exercises and the project**
+
+You should fork the repository directly from the course <a id="ids2022Git">GitHub page</a>. To do this, navigate to the repository containing the lab or exercise you wish to work on and click <em>fork</em> in the upper right corner. This will create a copy of the repository on the course GitHub page that is associated with your own account. You can then clone this repository to RStudio as described above. 
+
+For group work, one person can set up the repo and invite the rest of their team to collaborate on it. To do this:
+<ul>
+<li> Log on to GitHub, nagivate to your repo, and click on Settings.
+<li> Click on Manage Access from the left hand menu, and then on Invite a collaborator - you will need their github user name.
+<li> Note that collaborators have to accept the invitation before they can save work (push) to the github repo – this applies whether the repo is private or public.
+</ul>
+
+You should not fork from GitHub for the homework assignments as you will need to create a private repository for these.
+
+**Homework**
+
+For the homework you will need to use a **private** repository. This is so that others will not be able to see your work. 
+
+You should:
+<ul>
+<li> Set up a new GitHub repository and clone it to RStudio. 
+<li> Download the skeleton file. This can be done from Learn, or you can clone the repository on the course GitHub page via RStudio (make sure you do not mix up this cloned repository and the new repository you just set up).
+<li> Move the skeleton file you downloaded to your new GitHub repository via RStudio or via the web interface. 
+</ul>
+
+
+## Help
 
 Congratulations! You have now set up RStudio to work with GitHub. 
 <br><br>
