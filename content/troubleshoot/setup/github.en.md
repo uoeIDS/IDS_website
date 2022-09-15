@@ -118,11 +118,11 @@ In the last section we saw how to clone a repo, but we also need to be able to s
 </ol>
 <br><br>
 
-### Use a GitHub repository for coursework
+## Use a GitHub repository for coursework
 
 For the homework and labs you will be provided with a skeleton file to start off with. As we go through the semester we will give you less and less material in this file. In this section we go through how to set up a GitHub repository for your coursework. 
 
-**Workshops, application exercises and the project**
+###Workshops and application exercises
 
 You should fork the repository directly from the course <a id="ids2022Git">GitHub page</a>. To do this, navigate to the repository containing the lab or exercise you wish to work on and click <em>fork</em> in the upper right corner. This will create a copy of the repository on the course GitHub page that is associated with your own account. You can then clone this repository to RStudio as described above. 
 
@@ -135,7 +135,7 @@ For group work, one person can set up the repo and invite the rest of their team
 
 You should not fork from GitHub for the homework assignments as you will need to create a private repository for these.
 
-**Homework**
+###Homework
 
 For the homework you will need to use a **private** repository. This is so that others will not be able to see your work. 
 
