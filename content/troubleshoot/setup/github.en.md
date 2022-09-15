@@ -122,7 +122,7 @@ In the last section we saw how to clone a repo, but we also need to be able to s
 
 For the homework and labs you will be provided with a skeleton file to start off with. As we go through the semester we will give you less and less material in this file. In this section we go through how to set up a GitHub repository for your coursework. 
 
-###Workshops and application exercises
+### Workshops and application exercises
 
 You should fork the repository directly from the course <a id="ids2022Git">GitHub page</a>. To do this, navigate to the repository containing the lab or exercise you wish to work on and click <em>fork</em> in the upper right corner. This will create a copy of the repository on the course GitHub page that is associated with your own account. You can then clone this repository to RStudio as described above. 
 
@@ -135,13 +135,13 @@ For group work, one person can set up the repo and invite the rest of their team
 
 You should not fork from GitHub for the homework assignments as you will need to create a private repository for these.
 
-###Homework
+### Homework
 
 For the homework you will need to use a **private** repository. This is so that others will not be able to see your work. 
 
 You should:
 <ul>
-<li> Set up a new GitHub repository and clone it to RStudio. 
+<li> Set up a new GitHub repository and clone it to RStudio. Make sure you set it to private.
 <li> Download the skeleton file. This can be done from Learn, or you can clone the repository on the course GitHub page via RStudio (make sure you do not mix up this cloned repository and the new repository you just set up).
 <li> Move the skeleton file you downloaded to your new GitHub repository via RStudio or via the web interface. 
 </ul>
@@ -154,5 +154,5 @@ Congratulations! You have now set up RStudio to work with GitHub.
 
 If you need more help with any of this a good place to start is the information <a href="https://happygitwithr.com">here</a>. The lecturers and tutors will also be available to work through these steps with you in the workshops on Fridays. 
 
-There will also be an IT support drop in session with tutors available to help you with these steps. 
+There are IT support drop in sessions in weeks 1 and 2 on Tuesdays from 11-1 in mathsbase. There will be tutors available to help you with these steps. 
 
