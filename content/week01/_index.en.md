@@ -83,16 +83,17 @@ Delete the videos below when lectures prepared.
 | 06  | Meet the toolkit: version control and collaboration     | <a id="W1L6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L6S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | <li><a href="/errata#W106">Errata</a></li> |
 
 Use table below
+
 | <div style="width:50px"></div>  | <div style="width:420px">Link</div>  |  <div style="width:200px"></div> | <div style="width:170px;text-align:center">Additional Info</div> |
-|:---:|:---|:---:|
-| <i class="fas fa-laptop"></i> | <a id="components">Course Components</a>, <a id="assessments">Assessments</a>, <a id="policies">Policies</a> | **Required** |
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS2">Chp 2, Introduction</a> | **Required** |
-| <i class="fas fa-book"></i> | IMS: <a id="IMS1">Chp 1, Sec 1.1 and 1.2</a> | **Required** |
+|:---:|:---|:---|:---:|
+| <i class="fas fa-laptop"></i> | <a id="components">Course Components</a>, <a id="assessments">Assessments</a>, <a id="policies">Policies</a> | **Required** |-|
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS2">Chp 2, Introduction</a> | **Required** |-|
+| <i class="fas fa-book"></i> | IMS: <a id="IMS1">Chp 1, Sec 1.1 and 1.2</a> | **Required** |-|
 | <i class="fas fa-book"></i> | <a id="RGit">Happy Git and GitHub for the useR</a> | Optional |
-| <i class="fab fa-readme"></i> | <a id="HTRR">How to read an R help page</a> | Optional |
-| <i class="fab fa-readme"></i> | <a id="OpenSci">rOpenSci's Reproducibility Guide</a> | Optional |
-| <i class="fab fa-readme"></i> | <a id="NatRepro">1,500 scientists lift the lid on reproducibility</a> | Optional |
-|  <i class="fas fa-pen-fancy"></i> | <a id="nhsr">How R changed me as an analyst</a> | Optional
+| <i class="fab fa-readme"></i> | <a id="HTRR">How to read an R help page</a> | Optional |-|
+| <i class="fab fa-readme"></i> | <a id="OpenSci">rOpenSci's Reproducibility Guide</a> | Optional |-|
+| <i class="fab fa-readme"></i> | <a id="NatRepro">1,500 scientists lift the lid on reproducibility</a> | Optional |-|
+|  <i class="fas fa-pen-fancy"></i> | <a id="nhsr">How R changed me as an analyst</a> | Optional|-|
 
 ## Workshop
 
