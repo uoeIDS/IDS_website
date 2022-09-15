@@ -84,7 +84,7 @@ Delete the videos below when lectures prepared.
 
 Use table below
 
-| <div style="width:50px"></div>  | <div style="width:420px">Link</div>  |  <div style="width:200px"></div> | <div style="width:170px;text-align:center">Additional Info</div> |
+| <div style="width:50px"></div>  | <div style="width:400px">Link</div>  |  <div style="width:150px"></div> | <div style="width:170px;text-align:center">Additional Info</div> |
 |:---:|:---|:---|:---:|
 | <i class="fas fa-laptop"></i> | <a id="components">Course Components</a>, <a id="assessments">Assessments</a>, <a id="policies">Policies</a> | **Required** |-|
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS2">Chp 2, Introduction</a> | **Required** |-|
