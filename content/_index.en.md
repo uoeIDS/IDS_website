@@ -14,10 +14,10 @@ Learn to explore, visualize, and analyze data to understand natural phenomena, i
 
 {{% children style="div" description="true" %}}
 
-<div style="margin-left: 40px;">
+<!--<div style="margin-left: 40px;">
   <a id="announcements">Announcements</a>
   <dt style= "font-size: 0.8em;">Updates with important information will be posted here as well as emailed to your university email address.</dt>
-</div>
+</div>-->
 <div style="margin-left: 40px;">
   <a id="errata">Errata</a>
   <dt style= "font-size: 0.8em;">A list of significant corrections and clarifications to material on the course.</dt>
