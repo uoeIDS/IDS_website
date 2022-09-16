@@ -35,7 +35,7 @@ landingPageName = "<i class='fas fa-home'></i> Home"
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-bullhorn'></i> Announcements"
 identifier = "announce"
-url = "https://www.learn.ed.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_87184_1&handle=cp_announcements&mode=cpview"
+url = "https://www.learn.ed.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_98726_1&handle=cp_announcements&mode=cpview"
 weight = 2
 
 [[Languages.en.menu.shortcuts]]
