@@ -120,14 +120,14 @@ In the last section we saw how to clone a repo, but we also need to be able to s
 
 ## Set up a GitHub repository for coursework
 
-For the homework and labs you will be provided with a template file to start off with. This file will be uploaded to a GitHub folder on the course GitHub page. In this section we go through how to copy this GitHub folder containing the template file to your own account. For the homework you will need to use a **private** repository. This is so that others will not be able to see your work. 
+For the homework and labs you will be provided with a template file to start off with. This file will be uploaded to a repository on the course GitHub page. In this section we go through how to copy this repository containing the template file to your own account. For the homework you will need to use a **private** repository. This is so that others will not be able to see your work. 
 
 
 <ul>
 <li> Login to your GitHub account <a href="https://www.github.com/">here</a>, click on <em>Repositories</em> and then click on <em>New</em> to set up a new repository.
 <li> Click <em> Import a repository </em>.
 <li> Open the <a href="ids2022Git">course GitHub page</a> in a different tab, navigate to the folder you want to copy and get the URL by clicking on the green code button and copying the URL shown. 
-<li> Go back to your own GitHub account and paste the URL into the <em>Your old repository’s clone URL</em> box.
+<li> Go back to your own GitHub account and paste the URL into the <em>"Your old repository’s clone URL"</em> box.
 <li> Add a repository name. Don't use any spaces in this.
 <li> Choose whether the repository should be private (for homework) or public (for labs).
 <li> Select <em> Begin import</em>
@@ -141,7 +141,7 @@ For group work, one person can set up the repo and invite the rest of their team
 <li> Note that collaborators have to accept the invitation before they can save work (push) to the github repo – this applies whether the repo is private or public.
 </ul>
 
-Once your new repository is set up you will need to clone it to RStudio as described <a href="#Use RStudio to clone the repository to your local computer">above</a>.
+Once your new repository is set up you will need to clone it to RStudio as described <a href="#use-rstudio-to-clone-the-repository-to-your-local-computer">above</a>.
 
 
 ## Help

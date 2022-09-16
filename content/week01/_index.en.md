@@ -30,9 +30,9 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 <ol>
   <li> Complete the <em>first time setup instructions</em> found on the <a id="troubleshoot">Setup & Troubleshooting</a> page.</li>
   <li> Attend the lectures. You are expected to read the slides and watch the recordings after the lecture if anything is not clear.</li>
-  <li>Watch the required videos and read any required reading in <a href="#videos and reading">Videos and reading</a>.</li>
+  <li>Watch the required videos and read any required reading in <a href="#videos-and-reading">Videos and reading</a>.</li>
   <li>Attend the <a href="#workshop">workshop</a>.</li>
-  <li>Complete the <a href="#assignments">Assignments</a>.</li>
+  <li>Complete the <a href="#assignments">assignments</a>.</li>
 </ol>
 
 
