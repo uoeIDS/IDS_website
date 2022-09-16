@@ -653,9 +653,9 @@ try {DateRestrictLink(document.getElementById("test8"), "01 August 2023", "/erro
 
 // Lectures link to learn --------------------------------------------------------------------------------------------------------------------------------------------
 // week 1 lecture 01
-try {DateRestrictLink(document.getElementById("lecture01-1"), "20 September 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
+try {DateRestrictLink(document.getElementById("lecture01-01"), "20 September 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 // week 1 lecture 02
-try {DateRestrictLink(document.getElementById("lecture01-2"), "22 September 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
+try {DateRestrictLink(document.getElementById("lecture01-02"), "22 September 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 // week 2 lecture 02
 try {DateRestrictLink(document.getElementById("lecture02"), "26 September 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 // week 3 lecture 03
@@ -737,32 +737,32 @@ try {DateRestrictLink(document.getElementById("HW4R"), "07 November 2022", "/err
 
 // Labs --------------------------------------------------------------------------------------------------------------------------------------------
 // lab 0 - Hello IDS! WEEK 01
-try {DateRestrictLink(document.getElementById("LAB0I"), "19 September 2022", "https://ids-s1-21.github.io/lab_instructions/lab-00/lab-00-hello-ids.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB0R"), "19 September 2022", "https://github.com/ids-s1-21?q=lab-00-hello-ids&type=&language=&sort=");} catch { };
+try {DateRestrictLink(document.getElementById("LAB0I"), "22 September 2022", "https://ids-s1-21.github.io/lab_instructions/lab-00/lab-00-hello-ids.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB0R"), "22 September 2022", "https://github.com/ids-s1-21?q=lab-00-hello-ids&type=&language=&sort=");} catch { };
 // lab 1 - Plastic Waste WEEK 02
-try {DateRestrictLink(document.getElementById("LAB1I"), "26 September 2022", "https://ids-s1-21.github.io/lab_instructions/lab-01/lab-01-plastic-waste.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB1R"), "26 September 2022", "https://github.com/ids-s1-21?q=lab-01-plastic-waste&type=&language=&sort=");} catch { };
+try {DateRestrictLink(document.getElementById("LAB1I"), "29 September 2022", "https://ids-s1-21.github.io/lab_instructions/lab-01/lab-01-plastic-waste.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB1R"), "29 September 2022", "https://github.com/ids-s1-21?q=lab-01-plastic-waste&type=&language=&sort=");} catch { };
 // lab 2 - Take a sad plot and make it better WEEK 03
-try {DateRestrictLink(document.getElementById("LAB2I"), "03 October 2022", "https://ids-s1-21.github.io/lab_instructions/lab-02/lab-02-sad-plot.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB2R"), "03 October 2022", "https://github.com/ids-s1-21?q=lab-02-sad-plot&type=&language=&sort=");} catch { };
+try {DateRestrictLink(document.getElementById("LAB2I"), "06 October 2022", "https://ids-s1-21.github.io/lab_instructions/lab-02/lab-02-sad-plot.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB2R"), "06 October 2022", "https://github.com/ids-s1-21?q=lab-02-sad-plot&type=&language=&sort=");} catch { };
 // lab 3 - Nobel Laureates WEEK 04
-try {DateRestrictLink(document.getElementById("LAB3I"), "10 October 2022", "https://ids-s1-21.github.io/lab_instructions/lab-03/lab-03-nobel-laureates.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB3R"), "10 October 2022", "https://github.com/ids-s1-21?q=lab-03-nobel-laureates&type=&language=&sort=");} catch { };
+try {DateRestrictLink(document.getElementById("LAB3I"), "13 October 2022", "https://ids-s1-21.github.io/lab_instructions/lab-03/lab-03-nobel-laureates.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB3R"), "13 October 2022", "https://github.com/ids-s1-21?q=lab-03-nobel-laureates&type=&language=&sort=");} catch { };
 // lab 4 - Project WEEK 05 AND WEEK 06
-try {DateRestrictLink(document.getElementById("project"), "17 October 2022", "/assessments/project");} catch { };
-try {DateRestrictLink(document.getElementById("projectR"), "17 October 2022", "https://github.com/ids-s1-21?q=project&type=&language=&sort=");} catch { };
-try {DateRestrictLink(document.getElementById("project_1"), "17 October 2022", "/assessments/project");} catch { };
-try {DateRestrictLink(document.getElementById("projectR_1"), "17 October 2022", "https://github.com/ids-s1-21?q=project&type=&language=&sort=");} catch { };
+try {DateRestrictLink(document.getElementById("project"), "20 October 2022", "/assessments/project");} catch { };
+try {DateRestrictLink(document.getElementById("projectR"), "20 October 2022", "https://github.com/ids-s1-21?q=project&type=&language=&sort=");} catch { };
+try {DateRestrictLink(document.getElementById("project_1"), "27 October 2022", "/assessments/project");} catch { };
+try {DateRestrictLink(document.getElementById("projectR_1"), "27 October 2022", "https://github.com/ids-s1-21?q=project&type=&language=&sort=");} catch { };
 // lab 5 - Conveying the right message through visualisation WEEK 07
-try {DateRestrictLink(document.getElementById("LAB5I"), "31 October 2022", "https://ids-s1-21.github.io/lab_instructions/lab-05/lab-05-better-viz.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB5R"), "31 October 2022", "https://github.com/ids-s1-21?q=lab-05-better-viz&type=&language=&sort=");} catch { };
+try {DateRestrictLink(document.getElementById("LAB5I"), "3 November 2022", "https://ids-s1-21.github.io/lab_instructions/lab-05/lab-05-better-viz.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB5R"), "3 November 2022", "https://github.com/ids-s1-21?q=lab-05-better-viz&type=&language=&sort=");} catch { };
 // lab 6 - Course Evaluations WEEK 08
-try {DateRestrictLink(document.getElementById("LAB6I"), "07 November 2022", "https://ids-s1-21.github.io/lab_instructions/lab-06/lab-06-modelling-course-evals.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB6R"), "07 November 2022", "https://github.com/ids-s1-21?q=lab-06-modelling-course-evals&type=&language=&sort=");} catch { };
+try {DateRestrictLink(document.getElementById("LAB6I"), "10 November 2022", "https://ids-s1-21.github.io/lab_instructions/lab-06/lab-06-modelling-course-evals.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB6R"), "10 November 2022", "https://github.com/ids-s1-21?q=lab-06-modelling-course-evals&type=&language=&sort=");} catch { };
 // lab 7 - Work on Projects WEEK 09
-try {DateRestrictLink(document.getElementById("LAB7I"), "14 November 2022", "https://ids-s1-21.github.io/lab_instructions/lab-07/lab-07-work-on-projects.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB7I"), "17 November 2022", "https://ids-s1-21.github.io/lab_instructions/lab-07/lab-07-work-on-projects.html");} catch { };
 // lab 8 - Make Progress on Projects WEEK 10
-try {DateRestrictLink(document.getElementById("LAB8I"), "21 November 2022", "https://ids-s1-21.github.io/lab_instructions/lab-08/lab-08-work-on-projects.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB8I"), "24 November 2022", "https://ids-s1-21.github.io/lab_instructions/lab-08/lab-08-work-on-projects.html");} catch { };
 
 //LAST LINK TO LABS ELIMINATE WHEN ADECUATE
 // lab 0 - Hello IDS!

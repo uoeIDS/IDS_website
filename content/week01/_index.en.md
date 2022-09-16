@@ -70,9 +70,7 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
 
-Delete the videos below when lectures prepared.
-
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
+<!--| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:-------:|:-----------:|:--------:|:------|
 | 00  | Meet the course team | <a id="W1L0YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L0MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
 | 01  | Welcome to IDS!      | <a id="W1L1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L1MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L1S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
@@ -80,9 +78,8 @@ Delete the videos below when lectures prepared.
 | 03  | Course information   | <a id="W1L3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L3MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L3S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
 | 04  | Meet the toolkit: course operation     | <a id="W1L4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L4MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L4S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
 | 05  | Meet the toolkit: programming     | <a id="W1L5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L5MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L5S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | <li><a href="/errata#W105">Errata</a></li> <li><a id="AE2">AE2. Repository</a></li> |
-| 06  | Meet the toolkit: version control and collaboration     | <a id="W1L6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L6S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | <li><a href="/errata#W106">Errata</a></li> |
+| 06  | Meet the toolkit: version control and collaboration     | <a id="W1L6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L6S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | <li><a href="/errata#W106">Errata</a></li> |-->
 
-Use table below
 
 | <div style="width:50px"></div>  | <div style="width:400px">Link</div>  |  <div style="width:150px"></div> | <div style="width:170px;text-align:center">Additional Info</div> |
 |:---:|:---|:---|:---:|
@@ -91,7 +88,6 @@ Use table below
 | <i class="fas fa-book"></i> | IMS: <a id="IMS1">Chp 1, Sec 1.1 and 1.2</a> | **Required** |-|
 | <i class="fas fa-book"></i> | <a id="RGit">Happy Git and GitHub for the useR</a> | Optional |
 | <i class="fab fa-readme"></i> | <a id="HTRR">How to read an R help page</a> | Optional |-|
-| <i class="fab fa-readme"></i> | <a id="OpenSci">rOpenSci's Reproducibility Guide</a> | Optional |-|
 | <i class="fab fa-readme"></i> | <a id="NatRepro">1,500 scientists lift the lid on reproducibility</a> | Optional |-|
 |  <i class="fas fa-pen-fancy"></i> | <a id="nhsr">How R changed me as an analyst</a> | Optional|-|
 
@@ -110,12 +106,6 @@ Use table below
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
 | OQ00: Syllabus and data | <li><a id="OQ0">Quiz</a></li> | Mon, 26 Sep, 12:00 UK |
-
-<!-- ## Code-along
-| <div style="width:200px"></div>  | <div style="width:480px"></div>  |
-|:---|:---|
-| Recording | <a id="CA1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg"> </i></span></a> <a id="CA1MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span></a>
-| Session artifacts | <a id="CARmd">.Rmd</a> <a id="CA1Md">.md</a>| -->
 
 
 ## Interactive R tutorials
