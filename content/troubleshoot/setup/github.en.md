@@ -118,13 +118,21 @@ In the last section we saw how to clone a repo, but we also need to be able to s
 </ol>
 <br><br>
 
-## Use a GitHub repository for coursework
+## Set up a GitHub repository for coursework
 
-For the homework and labs you will be provided with a skeleton file to start off with. As we go through the semester we will give you less and less material in this file. In this section we go through how to set up a GitHub repository for your coursework. 
+For the homework and labs you will be provided with a template file to start off with. This file will be uploaded to a GitHub folder on the course GitHub page. In this section we go through how to copy this GitHub folder containing the template file to your own account. For the homework you will need to use a **private** repository. This is so that others will not be able to see your work. 
 
-### Workshops and application exercises
 
-You should fork the repository directly from the course <a id="ids2022Git">GitHub page</a>. To do this, navigate to the repository containing the lab or exercise you wish to work on and click <em>fork</em> in the upper right corner. This will create a copy of the repository on the course GitHub page that is associated with your own account. You can then clone this repository to RStudio as described above. 
+<ul>
+<li> Login to your GitHub account <a href="https://www.github.com/">here</a>, click on <em>Repositories</em> and then click on <em>New</em> to set up a new repository.
+<li> Click <em> Import a repository </em>.
+<li> Open the <a href="ids2022Git">course GitHub page</a> in a different tab, navigate to the folder you want to copy and get the URL by clicking on the green code button and copying the URL shown. 
+<li> Go back to your own GitHub account and paste the URL into the <em>Your old repository’s clone URL</em> box.
+<li> Add a repository name. Don't use any spaces in this.
+<li> Choose whether the repository should be private (for homework) or public (for labs).
+<li> Select <em> Begin import</em>
+</ul>
+
 
 For group work, one person can set up the repo and invite the rest of their team to collaborate on it. To do this:
 <ul>
@@ -133,18 +141,7 @@ For group work, one person can set up the repo and invite the rest of their team
 <li> Note that collaborators have to accept the invitation before they can save work (push) to the github repo – this applies whether the repo is private or public.
 </ul>
 
-You should not fork from GitHub for the homework assignments as you will need to create a private repository for these.
-
-### Homework
-
-For the homework you will need to use a **private** repository. This is so that others will not be able to see your work. 
-
-You should:
-<ul>
-<li> Set up a new GitHub repository and clone it to RStudio. Make sure you set it to private.
-<li> Download the skeleton file. This can be done from Learn, or you can clone the repository on the course GitHub page via RStudio (make sure you do not mix up this cloned repository and the new repository you just set up).
-<li> Move the skeleton file you downloaded to your new GitHub repository via RStudio or via the web interface. 
-</ul>
+Once your new repository is set up you will need to clone it to RStudio as described <a href="#Use RStudio to clone the repository to your local computer">above</a>.
 
 
 ## Help
