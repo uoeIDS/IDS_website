@@ -141,7 +141,7 @@ For group work, one person can set up the repo and invite the rest of their team
 <li> Note that collaborators have to accept the invitation before they can save work (push) to the github repo – this applies whether the repo is private or public.
 </ul>
 
-Once your new repository is set up you will need to clone it to RStudio as described <a href="#use-rstudio-to-clone-the-repository-to-your-local-computer">above</a>.
+Once your new repository is set up you will need to clone it to RStudio as described <a href="#use-rstudio-to-clone-the-repository-to-your-local-computer">above</a>. 
 
 
 ## Help
