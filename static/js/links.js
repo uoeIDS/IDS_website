@@ -564,7 +564,7 @@ try {document.getElementById("KitMail").href = "mailto:ksearle@ed.ac.uk";} catch
 
 // Other ---------------------------------------------------------------------------------------------------------------------------------------------------
 try {
-	document.getElementById('announcements').href = "https://www.learn.ed.ac.uk/ultra/courses/_98726_1/cl/outline";
+	document.getElementById('announcements').href = "https://www.learn.ed.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_98726_1&handle=cp_announcements&mode=cpview";
 } catch { };	// link to annoucements page
 try {document.getElementById('drps').href = "http://www.drps.ed.ac.uk/22-23/dpt/cxmath08077.htm";} catch { };	// link to the official drps course page
 try {document.getElementById('ids2020').href = "https://introds-2020.netlify.app/";} catch { };	// link to ids 2020 page
