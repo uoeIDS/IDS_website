@@ -108,10 +108,11 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 | OQ00: Syllabus and data | <li><a id="OQ0">Quiz</a></li> | Mon, 26 Sep, 12:00 UK |
 
 
-## Interactive R tutorials
+## Interactive R tutorials and application exercises
 
-<p style="text-align: left"> The following interactive R tutorials is designed to give you more practice with R. If you're struggling with any of the topics covered this week, we strongly recommend you work through it.</p>
+<p style="text-align: left"> The following extras are designed to give you more practice with R. If you're struggling with any of the topics covered this week, we strongly recommend you work through these.</p>
 
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
 | <a id="RT1">Data Visualization Basics</a> | Extra practice |
+| <a id="AE1a">Application exercise 1</a> | Help: <a id="OpeningaProject">Opening a Project</a> |

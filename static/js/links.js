@@ -20,7 +20,7 @@ try {document.getElementById('ZoomSetup').href = "/troubleshoot/setup/zoomsetup"
 try {document.getElementById('RepoHelp').href = "/troubleshoot/trouble/repos";} catch { };
 try {document.getElementById('ZoomHelp').href = "/troubleshoot/trouble/zoom";} catch { };
 try {document.getElementById('ExerciseHelp').href = "/troubleshoot/trouble/exercises";} catch { };
-try {document.getElementById('OpeningaProject').href = "/troubleshoot/setup/openingaproject";} catch { };
+try {document.getElementById('OpeningaProject').href = "/troubleshoot/setup/github/#set-up-a-github-repository-for-coursework";} catch { };
 try {document.getElementById('PiazzaHelp').href = "/troubleshoot/setup/piazza";} catch { };
 try {document.getElementById('Error1').href = "/error";} catch { };
 try {document.getElementById('Error2').href = "/error";} catch { };
@@ -364,7 +364,7 @@ try {document.getElementById("W11L6YT").href = "https://youtu.be/DBgJ3Dncbcg";} 
 try {document.getElementById("W11L6MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+11+-+06+-+Wrapping+up+IDS%21/1_ss0f3t4v";} catch { };	// mediahopper
 
 // Application Exercises --------------------------------------------------------------------------------------------------------------------------------------------
-try {document.getElementById("AE1a").href = "https://github.com/ids-s1-21?q=ae-01a-un-votes&type=&language=&sort=";} catch { };
+try {document.getElementById("AE1a").href = "https://github.com/uoeIDS/Application_exercises/tree/main/AE1";} catch { };
 try {document.getElementById("AE1b").href = "https://github.com/ids-s1-21?q=ae-01b-covid&type=&language=&sort=";} catch { };
 try {document.getElementById("AE2").href = "https://github.com/ids-s1-21?q=ae-02-bechdel-rmarkdown&type=&language=&sort=";} catch { };
 try {document.getElementById("AE3").href = "https://github.com/ids-s1-21?q=ae-03-starwars-dataviz&type=&language=&sort=";} catch { };
