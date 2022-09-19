@@ -30,7 +30,7 @@ description = "Instructions to setup the toolkit for the course and fix common i
   <dt style= "font-size: 0.8em; margin-left:25px;">Guidance for posting on the course forum.</dt>
 </div>
 
-If you want to start working on an application exercise, homework, workshop, or your project, then follow the instructions provided under <a id="GitHubSetup2">GitHub Setup</a> to set up a new GitHub repository and add any files you need to using the instructions given for linking GitHub to RStudio. For the labs, you can also fork the GitHub repository directly from the course GitHub page <a id="ids2022Git">here</a>.
+If you want to start working on an application exercise, homework, workshop, or your project, then follow the instructions provided under <a id="GitHubSetup2">GitHub Setup</a> to set up a GitHub repository for coursework. You will be able to access the files you need directly from the course GitHub page <a id="ids2022Git">here</a>.
 
 <br>
 
