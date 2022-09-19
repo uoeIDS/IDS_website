@@ -126,7 +126,7 @@ For the homework and labs you will be provided with a template file to start off
 <ul>
 <li> Login to your GitHub account <a href="https://www.github.com/">here</a>, click on <em>Repositories</em> and then click on <em>New</em> to set up a new repository.
 <li> Click <em> Import a repository </em>.
-<li> Open the <a id="ids2022Git">course GitHub page</a> in a different tab, navigate to the folder you want to copy and get the URL by clicking on the green code button and copying the URL shown. 
+<li> Open the <a id="ids2022Git">course GitHub page</a> in a different tab, navigate to the repository you want to copy and get the URL by clicking on the green code button and copying the URL shown. Note that as all the labs etc. will be saved in the same repository, you will have to copy the full repository each time you want to add a new lab. 
 <li> Go back to your own GitHub account and paste the URL into the <em>"Your old repository’s clone URL"</em> box.
 <li> Add a repository name. Don't use any spaces in this.
 <li> Choose whether the repository should be private (for homework) or public (for labs).
