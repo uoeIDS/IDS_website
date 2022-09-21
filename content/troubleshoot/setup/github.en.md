@@ -62,7 +62,7 @@ This should return the version number of Git that you have installed. For me thi
 </code>
 </pre>
 
-in the terminal, replacing <em>Jane Doe</em> by your name and <em>jane@example.com</em> by the email address <strong>that is associated with your GitHub account</strong>.
+in the terminal, replacing <em>Jane Doe</em> by your name and <em>jane&#64;example&#46;com</em> by the email address <strong>that is associated with your GitHub account</strong>.
 
 </ul>
 
