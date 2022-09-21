@@ -20,7 +20,8 @@ Harvesting data from the web, writing functions, and iteration.
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:-----------:|:--------:|:------|
-| 01  | Programming | - |<span><a id = "lecture06"> Lecture -06- from Learn </a></span> | - |
+| 11  | Programming  | <span><a id = "MHL11"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture11"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL11">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 12  | Programming  | <span><a id = "MHL12"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture12"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL12">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
 ## Tasks
 

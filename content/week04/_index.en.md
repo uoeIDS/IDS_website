@@ -20,7 +20,8 @@ Importing data, data types and classes, recoding.
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:-----------:|:--------:|:------|
-| 01  | Importing and Recording Data | - |<span><a id = "lecture04"> Lecture -04- from Learn </a></span> | - |
+| 07  | Importing and Recording Data  | <span><a id = "MHL07"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture07"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL07">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 08  | Importing and Recording Data  | <span><a id = "MHL08"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture08"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL08">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
 ## Tasks
 

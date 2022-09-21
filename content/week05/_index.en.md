@@ -20,7 +20,8 @@ Tips for effective data visualization, communication of results, and collaborati
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:-----------:|:--------:|:------|
-| 01  | Communicating effectively | - |<span><a id = "lecture05"> Lecture -05- from Learn </a></span> | - |
+| 09  | Communicating effectively  | <span><a id = "MHL09"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture09"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL09">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 10  | Communicating effectively  | <span><a id = "MHL10"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture10"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL10">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
 ## Tasks
 

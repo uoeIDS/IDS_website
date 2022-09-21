@@ -653,30 +653,132 @@ try {DateRestrictLink(document.getElementById("test7"), "01 August 2023", "/erro
 try {DateRestrictLink(document.getElementById("test8"), "01 August 2023", "/error");} catch { };
 
 // Lectures link to learn --------------------------------------------------------------------------------------------------------------------------------------------
+// week 1 lecture 01/02
+try {DateRestrictLink(document.getElementById("lecture01"), "20 September 2022", "https://uoeids.github.io/slides/w01-L01/w01-L01.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL01"), "20 September 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w01-L01");} catch { };
+try {DateRestrictLink(document.getElementById("MHL01"), "20 September 2022", "https://echo360.org.uk/lesson/f1b5fda8-7a25-45ff-b60d-464f6776cdad/classroom#sortDirection=desc");} catch { };
+
+try {DateRestrictLink(document.getElementById("lecture02"), "20 September 2022", "https://uoeids.github.io/slides/w01-L02/w01-L02.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL02"), "20 September 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w01-L02");} catch { };
+try {DateRestrictLink(document.getElementById("MHL02"), "20 September 2022", "/error");} catch { };
+
+// week 2 lecture 03/04
+try {DateRestrictLink(document.getElementById("lecture03"), "26 September 2022", "https://uoeids.github.io/slides/w02-L03/w02-L03.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL03"), "26 September 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w02-L03");} catch { };
+try {DateRestrictLink(document.getElementById("MHL03"), "26 September 2022", "/error");} catch { };
+
+try {DateRestrictLink(document.getElementById("lecture04"), "26 September 2022", "https://uoeids.github.io/slides/w02-L04/w02-L04.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL04"), "26 September 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w02-L04");} catch { };
+try {DateRestrictLink(document.getElementById("MHL04"), "26 September 2022", "/error");} catch { };
+
+// week 3 lecture 05/06
+try {DateRestrictLink(document.getElementById("lecture05"), "03 October 2022", "https://uoeids.github.io/slides/w03-L05/w03-L05.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL05"), "03 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w03-L05");} catch { };
+try {DateRestrictLink(document.getElementById("MHL05"), "03 October 2022", "/error");} catch { };
+
+try {DateRestrictLink(document.getElementById("lecture06"), "03 October 2022", "https://uoeids.github.io/slides/w03-L06/w03-L06.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL06"), "03 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w03-L06");} catch { };
+try {DateRestrictLink(document.getElementById("MHL06"), "03 October 2022", "/error");} catch { };
+
+// week 4 lecture 07/08
+try {DateRestrictLink(document.getElementById("lecture07"), "10 October 2022", "https://uoeids.github.io/slides/w04-L07/w04-L07.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL07"), "10 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w04-L07");} catch { };
+try {DateRestrictLink(document.getElementById("MHL07"), "10 October 2022", "/error");} catch { };
+
+try {DateRestrictLink(document.getElementById("lecture08"), "10 October 2022", "https://uoeids.github.io/slides/w04-L08/w04-L08.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL08"), "10 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w04-L08");} catch { };
+try {DateRestrictLink(document.getElementById("MHL08"), "10 October 2022", "/error");} catch { };
+
+// week 5 lecture 09/10
+try {DateRestrictLink(document.getElementById("lecture09"), "17 October 2022", "https://uoeids.github.io/slides/w05-L09/w05-L09.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL09"), "17 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w05-L09");} catch { };
+try {DateRestrictLink(document.getElementById("MHL09"), "17 October 2022", "/error");} catch { };
+
+try {DateRestrictLink(document.getElementById("lecture10"), "17 October 2022", "https://uoeids.github.io/slides/w05-L10/w05-L10.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL10"), "17 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w05-L10");} catch { };
+try {DateRestrictLink(document.getElementById("MHL10"), "17 October 2022", "/error");} catch { };
+
+// week 6 lecture 11/12
+try {DateRestrictLink(document.getElementById("lecture11"), "24 October 2022", "https://uoeids.github.io/slides/w06-L11/w06-L11.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL11"), "24 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w06-L11");} catch { };
+try {DateRestrictLink(document.getElementById("MHL11"), "24 October 2022", "/error");} catch { };
+
+try {DateRestrictLink(document.getElementById("lecture12"), "24 October 2022", "https://uoeids.github.io/slides/w06-L12/w06-L12.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL12"), "24 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w06-L12");} catch { };
+try {DateRestrictLink(document.getElementById("MHL12"), "24 October 2022", "/error");} catch { };
+
+// week 7 lecture 13/14
+try {DateRestrictLink(document.getElementById("lecture13"), "31 October 2022", "https://uoeids.github.io/slides/w07-L13/w07-L13.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL13"), "31 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w07-L13");} catch { };
+try {DateRestrictLink(document.getElementById("MHL13"), "31 October 2022", "/error");} catch { };
+
+try {DateRestrictLink(document.getElementById("lecture14"), "31 October 2022", "https://uoeids.github.io/slides/w07-L14/w07-L14.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL14"), "31 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w07-L14");} catch { };
+try {DateRestrictLink(document.getElementById("MHL14"), "31 October 2022", "/error");} catch { };
+
+// week 8 lecture 15/16
+try {DateRestrictLink(document.getElementById("lecture15"), "07 November 2022", "https://uoeids.github.io/slides/w08-L15/w08-L15.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL15"), "07 November 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w08-L15");} catch { };
+try {DateRestrictLink(document.getElementById("MHL15"), "07 November 2022", "/error");} catch { };
+
+try {DateRestrictLink(document.getElementById("lecture16"), "07 November 2022", "https://uoeids.github.io/slides/w08-L16/w08-L16.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL16"), "07 November 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w08-L16");} catch { };
+try {DateRestrictLink(document.getElementById("MHL16"), "07 November 2022", "/error");} catch { };
+
+// week 9 lecture 17/18
+try {DateRestrictLink(document.getElementById("lecture17"), "14 November 2022", "https://uoeids.github.io/slides/w09-L17/w09-L17.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL17"), "14 November 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w09-L17");} catch { };
+try {DateRestrictLink(document.getElementById("MHL17"), "14 November 2022", "/error");} catch { };
+
+try {DateRestrictLink(document.getElementById("lecture18"), "14 November 2022", "https://uoeids.github.io/slides/w09-L18/w09-L18.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL18"), "14 November 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w09-L18");} catch { };
+try {DateRestrictLink(document.getElementById("MHL18"), "14 November 2022", "/error");} catch { };
+
+// week 10 lecture 19/20
+try {DateRestrictLink(document.getElementById("lecture19"), "21 November 2022", "https://uoeids.github.io/slides/w10-L19/w10-L19.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL19"), "21 November 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w10-L19");} catch { };
+try {DateRestrictLink(document.getElementById("MHL19"), "21 November 2022", "/error");} catch { };
+
+try {DateRestrictLink(document.getElementById("lecture20"), "21 November 20222", "https://uoeids.github.io/slides/w10-L20/w10-L20.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL20"), "21 November 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w10-L20");} catch { };
+try {DateRestrictLink(document.getElementById("MHL20"), "21 November 2022", "/error");} catch { };
+
+// week 11 lecture 20/21
+try {DateRestrictLink(document.getElementById("lecture21"), "28 November 2022", "https://uoeids.github.io/slides/w11-L21/w11-L21.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL21"), "28 November 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w11-L21");} catch { };
+try {DateRestrictLink(document.getElementById("MHL21"), "28 November 2022", "/error");} catch { };
+
+try {DateRestrictLink(document.getElementById("lecture22"), "28 November 2022", "https://uoeids.github.io/slides/w11-L22/w11-L22.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL22"), "28 November 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w11-L22");} catch { };
+try {DateRestrictLink(document.getElementById("MHL22"), "28 November 2022", "/error");} catch { };
+
+
+
+//==OLD==
 // week 1 lecture 01
-try {DateRestrictLink(document.getElementById("lecture01-01"), "20 September 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
+//try {DateRestrictLink(document.getElementById("lecture01-01"), "20 September 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 // week 1 lecture 02
-try {DateRestrictLink(document.getElementById("lecture01-02"), "22 September 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
+//try {DateRestrictLink(document.getElementById("lecture01-02"), "22 September 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 // week 2 lecture 02
-try {DateRestrictLink(document.getElementById("lecture02"), "26 September 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
+//try {DateRestrictLink(document.getElementById("lecture02"), "26 September 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 // week 3 lecture 03
-try {DateRestrictLink(document.getElementById("lecture03"), "03 October 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
+//try {DateRestrictLink(document.getElementById("lecture03"), "03 October 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 // week 4 lecture 04
-try {DateRestrictLink(document.getElementById("lecture04"), "10 October 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
+//try {DateRestrictLink(document.getElementById("lecture04"), "10 October 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 // week 5 lecture 05
-try {DateRestrictLink(document.getElementById("lecture05"), "17 October 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
+//try {DateRestrictLink(document.getElementById("lecture05"), "17 October 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 // week 6 lecture 06
-try {DateRestrictLink(document.getElementById("lecture06"), "24 October 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
+//try {DateRestrictLink(document.getElementById("lecture06"), "24 October 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 // week 7 lecture 07
-try {DateRestrictLink(document.getElementById("lecture07"), "31 October 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
+//try {DateRestrictLink(document.getElementById("lecture07"), "31 October 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 // week 8 lecture 08
-try {DateRestrictLink(document.getElementById("lecture08"), "07 November 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
+//try {DateRestrictLink(document.getElementById("lecture08"), "07 November 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 // week 9 lecture 09
-try {DateRestrictLink(document.getElementById("lecture09"), "14 November 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
+//try {DateRestrictLink(document.getElementById("lecture09"), "14 November 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 // week 10 lecture 10
-try {DateRestrictLink(document.getElementById("lecture10"), "21 November 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
+//try {DateRestrictLink(document.getElementById("lecture10"), "21 November 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 // week 11 lecture 11
-try {DateRestrictLink(document.getElementById("lecture11"), "28 November 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
+//try {DateRestrictLink(document.getElementById("lecture11"), "28 November 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 
 // Quizzes --------------------------------------------------------------------------------------------------------------------------------------------
 // week 1 quiz 01

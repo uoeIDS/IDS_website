@@ -7,8 +7,10 @@ weight: 2
 tags: ["week 2", "tasks", "videos", "assignments", "readings", "tutorials"]
 description: "Week 2 (26 Sep 2022 - 30 Sep 2022): Data visualization and interpretation of graphical information."
 
-hidden: true
+hidden: true   
 ---
+<!-- set 'hidden: true' to hide content, or 'hidden: no' to show-->
+
 
 # Visualizing Data
 
@@ -21,7 +23,8 @@ Data visualization and interpretation of graphical information.
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:-----------:|:--------:|:------|
-| 01  | Visualising data | - |<span><a id = "lecture02"> Lecture -02- from Learn </a></span> | - |
+| 03  | Visualising data | <span><a id = "MHL03"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture03"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL03">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 04  | Types of visualisations | <span><a id = "MHL04"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture04"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL04">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
 ## Tasks
 {{% notice warning %}}

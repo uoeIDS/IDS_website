@@ -20,7 +20,8 @@ Evaluating models with cross validation and uncertainty quantification with boot
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:-----------:|:--------:|:------|
-| 01  | Validation and Uncertainty Quantification | - |<span><a id = "lecture09"> Lecture -09- from Learn </a></span> | - |
+| 19  | Validation and Uncertainty Quantification  | <span><a id = "MHL19"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture19"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL19">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 20  | Validation and Uncertainty Quantification  | <span><a id = "MHL20"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture20"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL20">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
 ## Tasks
 
