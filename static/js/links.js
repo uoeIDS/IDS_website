@@ -597,7 +597,8 @@ try {document.getElementById('Teams').href = "https://www.microsoft.com/en-gb/mi
 try {document.getElementById('Zoom').href = "https://zoom.us/";} catch { }; //Institute for Academic Development
 try {document.getElementById('gituseradv').href = "https://happygitwithr.com/github-acct.html";} catch { };
 try {document.getElementById('GHSDP').href = "https://education.github.com/students";} catch { };
-try {document.getElementById('licence').href = "https://github.com/ids-s1-21/website/blob/main/LICENSE.md";} catch { };
+//try {document.getElementById('licence').href = "https://github.com/ids-s1-21/website/blob/main/LICENSE.md";} catch { };
+try {document.getElementById('licence').href = "https://github.com/uoeIDS/IDS_website/blob/main/LICENSE.md";} catch { };
 try {document.getElementById('FMS').href = "https://github.com/mine-cetinkaya-rundel/fm-speeches-covid19";} catch { };
 
 try {document.getElementById('advR').href = "https://adv-r.hadley.nz/";} catch { };
