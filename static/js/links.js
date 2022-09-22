@@ -592,7 +592,7 @@ try {document.getElementById('specialCircumstancesExplained').href = "https://te
 try {document.getElementById('ids2021Git').href = "https://github.com/ids-s1-21/";} catch { }; 
 // ids 2022 Git
 try {document.getElementById('ids2022Git').href = "https://github.com/uoeIDS/";} catch { }; 
-try {document.getElementById('Piazza').href = "https://piazza.com/ed.ac.uk/fall2022/math08077/home";} catch { }; //Institute for Academic Development
+try {document.getElementById('Piazza').href = "https://piazza.com/class/l7epq4e0gzu385";} catch { }; //Institute for Academic Development
 try {document.getElementById('Teams').href = "https://www.microsoft.com/en-gb/microsoft-teams/log-in";} catch { }; //Institute for Academic Development
 try {document.getElementById('Zoom').href = "https://zoom.us/";} catch { }; //Institute for Academic Development
 try {document.getElementById('gituseradv').href = "https://happygitwithr.com/github-acct.html";} catch { };
