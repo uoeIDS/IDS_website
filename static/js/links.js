@@ -840,7 +840,7 @@ try {DateRestrictLink(document.getElementById("HW4R"), "07 November 2022", "/err
 
 // Labs --------------------------------------------------------------------------------------------------------------------------------------------
 // lab 0 - Hello IDS! WEEK 01
-try {DateRestrictLink(document.getElementById("LAB0I"), "22 September 2022", "https://uoeids.github.io/labs/lab-00-hello-ids.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB0I"), "22 September 2022", "https://uoeids.github.io/labs/lab-00/lab-00-hello-ids.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB0R"), "22 September 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-00");} catch { };
 // lab 1 - Plastic Waste WEEK 02
 try {DateRestrictLink(document.getElementById("LAB1I"), "29 September 2022", "https://ids-s1-21.github.io/lab_instructions/lab-01/lab-01-plastic-waste.html");} catch { };
