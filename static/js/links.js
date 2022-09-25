@@ -660,7 +660,7 @@ try {DateRestrictLink(document.getElementById("MHL01"), "20 September 2022", "ht
 
 try {DateRestrictLink(document.getElementById("lecture02"), "20 September 2022", "https://uoeids.github.io/slides/w01-L02/w01-L02.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL02"), "20 September 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w01-L02");} catch { };
-try {DateRestrictLink(document.getElementById("MHL02"), "20 September 2022", "/error");} catch { };
+try {DateRestrictLink(document.getElementById("MHL02"), "20 September 2022", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-09-22T10:00:00.000_2022-09-22T10:55:00.000/classroom#sortDirection=desc");} catch { };
 
 // week 2 lecture 03/04
 try {DateRestrictLink(document.getElementById("lecture03"), "26 September 2022", "https://uoeids.github.io/slides/w02-L03/w02-L03.html");} catch { };
@@ -669,7 +669,7 @@ try {DateRestrictLink(document.getElementById("MHL03"), "26 September 2022", "/e
 
 try {DateRestrictLink(document.getElementById("lecture04"), "26 September 2022", "https://uoeids.github.io/slides/w02-L04/w02-L04.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL04"), "26 September 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w02-L04");} catch { };
-try {DateRestrictLink(document.getElementById("MHL04"), "26 September 2022", "/error");} catch { };
+try {DateRestrictLink(document.getElementById("MHL04"), "26 September 2022", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-09-29T10:00:00.000_2022-09-29T10:55:00.000/classroom#sortDirection=desc");} catch { };
 
 // week 3 lecture 05/06
 try {DateRestrictLink(document.getElementById("lecture05"), "03 October 2022", "https://uoeids.github.io/slides/w03-L05/w03-L05.html");} catch { };
@@ -806,8 +806,8 @@ try {DateRestrictLink(document.getElementById("OQ10"), "21 November 2022", "http
 
 // Homework --------------------------------------------------------------------------------------------------------------------------------------------
 // week 2 hw 01
-try {DateRestrictLink(document.getElementById("HW1I"), "26 September 2022", "/error");} catch { };
-try {DateRestrictLink(document.getElementById("HW1R"), "26 September 2022", "/error");} catch { };
+try {DateRestrictLink(document.getElementById("HW1I"), "26 September 2022", "https://uoeids.github.io/homework/hw-01/hw-01.html");} catch { };
+try {DateRestrictLink(document.getElementById("HW1R"), "26 September 2022", "https://github.com/uoeIDS/hw-01-template");} catch { };
 // week 4 hw 02
 try {DateRestrictLink(document.getElementById("HW2I"), "10 October 2022", "/error");} catch { };
 try {DateRestrictLink(document.getElementById("HW2R"), "10 October 2022", "/error");} catch { };
