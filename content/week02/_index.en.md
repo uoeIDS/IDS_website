@@ -105,4 +105,5 @@ If you have not completed the <em>first time setup instructions</em> found on th
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
 | <a id="RT1">Data Visualization Basics</a> | Extra practice |
+| <a id="AE2">Application exercise 2 - Star Wars</a> | Help: <a id="OpeningaProject">Opening a Project</a> |
 <!-- | <a id="RT2">Airbnb Listings in Edinburgh</a> | Extra practice | -->

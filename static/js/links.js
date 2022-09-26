@@ -365,19 +365,21 @@ try {document.getElementById("W11L6MH").href = "https://media.ed.ac.uk/media/IDS
 
 // Application Exercises --------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("AE1a").href = "https://github.com/uoeIDS/Application_exercises/tree/main/AE1";} catch { };
-try {document.getElementById("AE1b").href = "https://github.com/ids-s1-21?q=ae-01b-covid&type=&language=&sort=";} catch { };
-try {document.getElementById("AE2").href = "https://github.com/ids-s1-21?q=ae-02-bechdel-rmarkdown&type=&language=&sort=";} catch { };
-try {document.getElementById("AE3").href = "https://github.com/ids-s1-21?q=ae-03-starwars-dataviz&type=&language=&sort=";} catch { };
-try {document.getElementById("AE4").href = "https://github.com/ids-s1-21?q=ae-04-hotels-datawrangling&type=&language=&sort=";} catch { };
-try {document.getElementById("AE5").href = "https://github.com/ids-s1-21?q=ae-05-hotels-datatypes&type=&language=&sort=";} catch { };
-try {document.getElementById("AE5_2").href = "https://github.com/ids-s1-21?q=ae-05-hotels-datatypes&type=&language=&sort=";} catch { };
-try {document.getElementById("AE5_3").href = "https://github.com/ids-s1-21?q=ae-05-hotels-datatypes&type=&language=&sort=";} catch { };
-try {document.getElementById("AE6").href = "https://github.com/ids-s1-21?q=ae-06-nobels-sales-dataimport&type=&language=&sort=";} catch { };
-try {document.getElementById("AE6_2").href = "https://github.com/ids-s1-21?q=ae-06-nobels-sales-dataimport&type=&language=&sort=";} catch { };
-try {document.getElementById("AE7").href = "https://github.com/ids-s1-21?q=ae-07-brexit-story-dataviz&type=&language=&sort=";} catch { };
-try {document.getElementById("AE7_2").href = "https://github.com/ids-s1-21?q=ae-07-brexit-story-dataviz&type=&language=&sort=";} catch { };
-try {document.getElementById("AE8").href = "https://github.com/ids-s1-21?q=ae-08-imdb-webscraping&type=&language=&sort=";} catch { };
-try {document.getElementById("AE9").href = "https://github.com/ids-s1-21?q=ae-09-feat-eng-cv&type=&language=&sort=";} catch { };
+try {document.getElementById("AE2").href = "https://github.com/uoeIDS/Application_exercises/tree/main/AE2";} catch { };
+
+//try {document.getElementById("AE1b").href = "https://github.com/ids-s1-21?q=ae-01b-covid&type=&language=&sort=";} catch { };
+//try {document.getElementById("AE2").href = "https://github.com/ids-s1-21?q=ae-02-bechdel-rmarkdown&type=&language=&sort=";} catch { };
+//try {document.getElementById("AE3").href = "https://github.com/ids-s1-21?q=ae-03-starwars-dataviz&type=&language=&sort=";} catch { };
+//try {document.getElementById("AE4").href = "https://github.com/ids-s1-21?q=ae-04-hotels-datawrangling&type=&language=&sort=";} catch { };
+//try {document.getElementById("AE5").href = "https://github.com/ids-s1-21?q=ae-05-hotels-datatypes&type=&language=&sort=";} catch { };
+//try {document.getElementById("AE5_2").href = "https://github.com/ids-s1-21?q=ae-05-hotels-datatypes&type=&language=&sort=";} catch { };
+//try {document.getElementById("AE5_3").href = "https://github.com/ids-s1-21?q=ae-05-hotels-datatypes&type=&language=&sort=";} catch { };
+//try {document.getElementById("AE6").href = "https://github.com/ids-s1-21?q=ae-06-nobels-sales-dataimport&type=&language=&sort=";} catch { };
+//try {document.getElementById("AE6_2").href = "https://github.com/ids-s1-21?q=ae-06-nobels-sales-dataimport&type=&language=&sort=";} catch { };
+//try {document.getElementById("AE7").href = "https://github.com/ids-s1-21?q=ae-07-brexit-story-dataviz&type=&language=&sort=";} catch { };
+//try {document.getElementById("AE7_2").href = "https://github.com/ids-s1-21?q=ae-07-brexit-story-dataviz&type=&language=&sort=";} catch { };
+//try {document.getElementById("AE8").href = "https://github.com/ids-s1-21?q=ae-08-imdb-webscraping&type=&language=&sort=";} catch { };
+//try {document.getElementById("AE9").href = "https://github.com/ids-s1-21?q=ae-09-feat-eng-cv&type=&language=&sort=";} catch { };
 
 // Peer Feedback ------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById('PE01').href = "https://forms.office.com/r/mbBhLLe6Q4";} catch { };
