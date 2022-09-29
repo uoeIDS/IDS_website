@@ -655,6 +655,9 @@ try {DateRestrictLink(document.getElementById("test7"), "01 August 2023", "/erro
 try {DateRestrictLink(document.getElementById("test8"), "01 August 2023", "/error");} catch { };
 
 // Lectures link to learn --------------------------------------------------------------------------------------------------------------------------------------------
+//Recording alternative -- NOTE: cannot have same link id used multiple times!!!
+//try {document.getElementById("RecodingAlt").href = "https://www.learn.ed.ac.uk/ultra/courses/_98726_1/cl/outline";} catch { };
+
 // week 1 lecture 01/02
 try {DateRestrictLink(document.getElementById("lecture01"), "20 September 2022", "https://uoeids.github.io/slides/w01-L01/w01-L01.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL01"), "20 September 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w01-L01");} catch { };
