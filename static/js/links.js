@@ -364,8 +364,11 @@ try {document.getElementById("W11L6YT").href = "https://youtu.be/DBgJ3Dncbcg";} 
 try {document.getElementById("W11L6MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+11+-+06+-+Wrapping+up+IDS%21/1_ss0f3t4v";} catch { };	// mediahopper
 
 // Application Exercises --------------------------------------------------------------------------------------------------------------------------------------------
+
+
 try {document.getElementById("AE1a").href = "https://github.com/uoeIDS/Application_exercises/tree/main/AE1";} catch { };
 try {document.getElementById("AE2").href = "https://github.com/uoeIDS/Application_exercises/tree/main/AE2";} catch { };
+try {document.getElementById("AE3").href = "https://github.com/uoeIDS/Application_exercises/tree/main/AE3";} catch { };
 
 //try {document.getElementById("AE1b").href = "https://github.com/ids-s1-21?q=ae-01b-covid&type=&language=&sort=";} catch { };
 //try {document.getElementById("AE2").href = "https://github.com/ids-s1-21?q=ae-02-bechdel-rmarkdown&type=&language=&sort=";} catch { };
@@ -851,8 +854,8 @@ try {DateRestrictLink(document.getElementById("LAB0R"), "22 September 2022", "ht
 try {DateRestrictLink(document.getElementById("LAB1I"), "29 September 2022", "https://uoeids.github.io/labs/lab-01/lab-01-plastic-waste.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB1R"), "29 September 2022", "https://github.com/uoeIDS/lab-01-template");} catch { };
 // lab 2 - Take a sad plot and make it better WEEK 03
-try {DateRestrictLink(document.getElementById("LAB2I"), "06 October 2022", "https://ids-s1-21.github.io/lab_instructions/lab-02/lab-02-sad-plot.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB2R"), "06 October 2022", "https://github.com/ids-s1-21?q=lab-02-sad-plot&type=&language=&sort=");} catch { };
+try {DateRestrictLink(document.getElementById("LAB2I"), "06 October 2022", "https://uoeids.github.io/labs/lab-02/lab-02-sad-plot.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB2R"), "06 October 2022", "https://github.com/uoeIDS/lab-02-template");} catch { };
 // lab 3 - Nobel Laureates WEEK 04
 try {DateRestrictLink(document.getElementById("LAB3I"), "13 October 2022", "https://ids-s1-21.github.io/lab_instructions/lab-03/lab-03-nobel-laureates.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB3R"), "13 October 2022", "https://github.com/ids-s1-21?q=lab-03-nobel-laureates&type=&language=&sort=");} catch { };
