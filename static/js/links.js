@@ -823,8 +823,8 @@ try {DateRestrictLink(document.getElementById("OQ10"), "21 November 2022", "http
 try {DateRestrictLink(document.getElementById("HW1I"), "26 September 2022", "https://uoeids.github.io/homework/hw-01/hw-01.html");} catch { };
 try {DateRestrictLink(document.getElementById("HW1R"), "26 September 2022", "https://github.com/uoeIDS/hw-01-template");} catch { };
 // week 4 hw 02
-try {DateRestrictLink(document.getElementById("HW2I"), "13 October 2022", "https://uoeids.github.io/homework/hw-02/hw-02.html");} catch { };
-try {DateRestrictLink(document.getElementById("HW2R"), "13 October 2022", "https://github.com/uoeIDS/hw-02-template");} catch { };
+try {DateRestrictLink(document.getElementById("HW2I"), "10 October 2022", "https://uoeids.github.io/homework/hw-02/hw-02.html");} catch { };
+try {DateRestrictLink(document.getElementById("HW2R"), "10 October 2022", "https://github.com/uoeIDS/hw-02-template");} catch { };
 // week 6 hw 03
 try {DateRestrictLink(document.getElementById("HW3I"), "24 October 2022", "/error");} catch { };
 try {DateRestrictLink(document.getElementById("HW3R"), "24 October 2022","/error");} catch { };
