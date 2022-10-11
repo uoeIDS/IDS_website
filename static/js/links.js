@@ -371,7 +371,7 @@ try {document.getElementById("AE2").href = "https://github.com/uoeIDS/Applicatio
 try {document.getElementById("AE3").href = "https://github.com/uoeIDS/Application_exercises/tree/main/AE3";} catch { };
 try {document.getElementById("AE4a").href = "https://github.com/uoeIDS/Application_exercises/tree/main/AE4a";} catch { };
 try {document.getElementById("AE4b").href = "https://github.com/uoeIDS/Application_exercises/tree/main/AE4b";} catch { };
-
+try {document.getElementById("AE5").href = "https://github.com/uoeIDS/Application_exercises/tree/main/AE5";} catch { };
 
 
 
@@ -697,7 +697,7 @@ try {DateRestrictLink(document.getElementById("MHL06"), "03 October 2022", "http
 // week 4 lecture 07/08
 try {DateRestrictLink(document.getElementById("lecture07"), "10 October 2022", "https://uoeids.github.io/slides/w04-L07/w04-L07.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL07"), "10 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w04-L07");} catch { };
-try {DateRestrictLink(document.getElementById("MHL07"), "10 October 2022", "/error");} catch { };
+try {DateRestrictLink(document.getElementById("MHL07"), "10 October 2022", "https://echo360.org.uk/lesson/ae0e832a-1ae1-45de-bd5c-645a7f9a874d/classroom#sortDirection=desc");} catch { };
 
 try {DateRestrictLink(document.getElementById("lecture08"), "10 October 2022", "https://uoeids.github.io/slides/w04-L08/w04-L08.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL08"), "10 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w04-L08");} catch { };

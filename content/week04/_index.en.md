@@ -62,7 +62,6 @@ Importing data, data types and classes, recoding.
 
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
-| *Due next week* | | |
 | HW02: TBD | <li><a id="HW2I">Instructions</a></li> <li><a id="HW2R">Repository</a></li> | Fri, 21 Oct, 12:00 UK (Wk 5) |
 | OQ03: Data wrangling and Visualisation | <li><a id="OQ3">Quiz</a></li> | Mon, 17 Oct, 12:00 UK |
 
