@@ -49,6 +49,7 @@ Importing data, data types and classes, recoding.
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS16">Chp 16 - Dates and times</a> | **Required** |
 | <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a href = "https://www.youtube.com/watch?v=-5wpm-gesOY">Computerphile: The problem with time and timezones</a> | Optional |
 | <i class="fas fa-laptop"></i> | <a href="/assessments/project">Final Project Information (starting soon)</a> | Recommended |
+| <i class="fas fa-file-video"></i> | <a id="MHL08extra">L08 supplement</a>: RStudio GUI, importing data | Optional |
 
 ## Workshop
 
@@ -62,7 +63,7 @@ Importing data, data types and classes, recoding.
 
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
-| HW02: TBD | <li><a id="HW2I">Instructions</a></li> <li><a id="HW2R">Repository</a></li> | Fri, 21 Oct, 12:00 UK (Wk 5) |
+| HW02: Edinburgh AirBnB | <li><a id="HW2I">Instructions</a></li> <li><a id="HW2R">Repository</a></li> | Fri, 21 Oct, 12:00 UK (Wk 5) |
 | OQ03: Data wrangling and Visualisation | <li><a id="OQ3">Quiz</a></li> | Mon, 17 Oct, 12:00 UK |
 
 
