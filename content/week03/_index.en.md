@@ -47,7 +47,7 @@ Data visualization and interpretation of graphical information.
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS12">Chp 12 - Tidy data</a> | Optional |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS13">Chp 13 - Relational data</a> | Optional |
 | <i class="fab fa-readme"></i> | <a id="tidydata">Tidy Data</a> | Optional |
-| <i class="fas fa-file-video"></i> | <a id="MHL05extra">L05 supplement</a>: extra explaination of logical operations in R | Optional |
+| <i class="fas fa-file-video"></i> | <a id="MHL05extra">L05 supplement</a>: extra explanation of logical operations in R | Optional |
 
 
 
