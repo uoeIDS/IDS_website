@@ -75,7 +75,7 @@ If you have not completed the <em>first time setup instructions</em> found on th
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab01: Plastic waste | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li> | Fri, 30 Sep |
+| Lab01: Plastic waste | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li><li><a id="LAB1K">Solutions</a>(<a id="LAB1Kraw">Raw</a>)</li> | Fri, 30 Sep |
 
 ## Assignments
 
@@ -83,7 +83,7 @@ If you have not completed the <em>first time setup instructions</em> found on th
 
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
-| HW01: Data visualisation | <li><a id="HW1I">Instructions</a></li> <li><a id="HW1R">Repository</a></li> | Fri, 07 Oct, 12:00 UK (Wk 3) |
+| HW01: Data visualisation | <li><a id="HW1I">Instructions</a></li> <li><a id="HW1R">Repository</a></li><li><a id="HW1K">Solutions</a>(<a id="HW1Kraw">Raw</a>)</li> | Fri, 07 Oct, 12:00 UK (Wk 3) |
 | OQ01: Data visualization | <li><a id="OQ1">Quiz</a></li> | Mon, 03 Oct, 12:00 UK |
 
 

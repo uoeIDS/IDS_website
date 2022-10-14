@@ -57,7 +57,7 @@ Data visualization and interpretation of graphical information.
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab02: ____ | <li><a id="LAB2I">Instructions</a></li> <li><a id="LAB2R">Repository</a></li> | Fri, 7 Oct, 10:00 UK  |
+| Lab02: Make a sad plot better | <li><a id="LAB2I">Instructions</a></li> <li><a id="LAB2R">Repository</a></li><li><a id="LAB2K">Solutions</a>(<a id="LAB2Kraw">Raw</a>)</li> | Fri, 7 Oct, 10:00 UK  |
 
 ## Assignments
 
