@@ -711,9 +711,9 @@ try {DateRestrictLink(document.getElementById("lecture09"), "17 October 2022", "
 try {DateRestrictLink(document.getElementById("GHL09"), "17 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w05-L09");} catch { };
 try {DateRestrictLink(document.getElementById("MHL09"), "17 October 2022", "/error");} catch { };
 
-try {DateRestrictLink(document.getElementById("lecture10"), "17 October 2022", "https://uoeids.github.io/slides/w05-L10/w05-L10.html");} catch { };
-try {DateRestrictLink(document.getElementById("GHL10"), "17 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w05-L10");} catch { };
-try {DateRestrictLink(document.getElementById("MHL10"), "17 October 2022", "/error");} catch { };
+try {DateRestrictLink(document.getElementById("lecture10"), "20 October 2022", "https://uoeids.github.io/slides/w05-L10/w05-L10.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL10"), "20 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w05-L10");} catch { };
+try {DateRestrictLink(document.getElementById("MHL10"), "20 October 2022", "/error");} catch { };
 
 // week 6 lecture 11/12
 try {DateRestrictLink(document.getElementById("lecture11"), "24 October 2022", "https://uoeids.github.io/slides/w06-L11/w06-L11.html");} catch { };

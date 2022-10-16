@@ -7,7 +7,7 @@ weight: 5
 tags: ["week 5", "tasks", "videos", "assignments", "readings", "tutorials"]
 description: "Week 5 (17 Oct 2022 - 21 Oct 2022): Tips for effective data visualization, communication of results, and collaboration."
 
-hidden: true
+hidden: no
 ---
 
 # Communicating Data Science Results Effectively
@@ -20,8 +20,8 @@ Tips for effective data visualization, communication of results, and collaborati
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">Recording*</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:-----------:|:--------:|:------|
-| 09  | Communicating effectively  | <span><a id = "MHL09"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture09"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL09">Raw<i class="fab fa-fw fa-github"/></a></span> |
-| 10  | Communicating effectively  | <span><a id = "MHL10"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture10"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL10">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 09  | Doing Data Science  | <span><a id = "MHL09"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture09"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL09">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 10  | Effective Data Visualisation  | <span><a id = "MHL10"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture10"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL10">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
 <p style="text-align: left">
 *These links will take you to <em>echo360</em>. Type in your university email in the <em>Email</em> text box (this will probably be the version using your UUN, like "s0123456<!-- -->@ed.ac.uk"). This should then send you to University of Edinburgh's SSO (single-sign-on) system. Enter your log-in credentials and then you should be able to watch the specific lecture you selected. If this process does not work, then you can alternatively access the lecture recordings via LEARN. Go to the Introduction to Data Science area on LEARN, select <em>Course Materials</em> and finally click on <em>Lecture Recordings</em>. This will send you to <em>echo360</em> where you can see the whole list of lecture recordings.
@@ -46,6 +46,9 @@ Tips for effective data visualization, communication of results, and collaborati
 | <i class="fas fa-book"></i> | IMS: <a id="IMS6">Chp 6 - Applications: Explore</a> | **Required** |
 | <i class="fas fa-book"></i> | IMS: <a id="IMS2">Chp 2 - Study design</a> | **Required** |
 | <i class="fas fa-book"></i> | Tidyverse style guide: <a id="TSG1">Part 1 - Analyses (Chp 1-5)</a> | Optional |
+| <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a href = "https://www.youtube.com/watch?v=ebEkn-BiW5k">minutephysics: Simpson's Paradox</a> | Optional |
+
+
 
 ## Workshop
 
@@ -60,6 +63,10 @@ Tips for effective data visualization, communication of results, and collaborati
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
 | OQ04: Coding style | <li><a id="OQ4">Quiz</a></li> | Mon, 24 Oct, 12:00 UK |
+
+<p style="text-align: left">
+<b>Reminder</b>: Homework assignment <em>hw-02</em> is due Fri, 21 Oct, 12:00 UK time (midday).
+</p>
 
 <!--
 ## Code-along
