@@ -60,7 +60,7 @@ Below are a list of data repositories that might be of interest to browse. You'r
 
 The proposal does not count towards your final grade, but you will receive feedback from the tutors and from your peers in the workshop so we highly recommend putting the effort in to do a good job to make sure that you are on the right track. The proposal presentation also gives you a chance to practice presenting data in preparation for the final project presentation.
 
-You should prepare a slide deck using one of the templates provided. There are two templates to choose from, using two different HTML presentation packages which allow you to make presentation slides using R Markdown syntax. The first is a package called `xaringan`, the second is a package called `reveal.js`.
+You should prepare a slide deck using the template provided. The template uses a HTML presentation package which allow you to make presentation slides using R Markdown syntax. This package is called `xaringan`.
 
 There isn't a limit to how many slides you can use, just a time limit (5 minutes total). Each team member should get a chance to speak during the presentation. Your presentation should cover:
 
@@ -69,12 +69,12 @@ research question and your data (where it came from, how it was collected,
 what are the cases, what are the  variables, etc.). You should include the output of `glimpse()` or `skim()` of your data frame in the slides.
 
 - Section 2 - Data analysis plan:
-  - The outcome (response, Y) and predictor (explanatory, X) variables you will use to answer your question.
+  - The variables in the dataset you will use to answer your question.
   - The comparison groups you will use, if applicable.
   - Very preliminary exploratory data analysis, including some summary statistics.
-and visualizations, along with some explanation on how they help you learn more about your data. (You can add to these later as you work on your project.)
-  - The statistical method(s) that you believe will be useful in answering your question(s). (You can update these later as you work on your project.)
-  -  What results from these specific statistical methods are needed to support your hypothesized answer?
+and maybe also some visualizations, along with some explanation on how they help you learn more about your data. (You can add to these later as you work on your project.)
+  - Any statistics that you believe will be useful in answering your question(s). (You can update these later as you work on your project and as we learn more about statistical modelling methods.)
+  -  What results from these statistics are needed to support your hypothesized answer?
 
 Proposal presentation schedule: Presentations will take place during the workshop in week 8 (28 Oct). All teams will give them as a live presentation in the workshop. During your workshop you will watch presentations from other teams in your workshop and provide feedback in the form of peer evaluations. The presentation line-up will be generated randomly.
 
