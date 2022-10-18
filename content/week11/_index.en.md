@@ -37,17 +37,6 @@ Additional topics beyond IDS.
 
 ## Videos and readings
 
-<p style="text-align: left">You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube <a id="playlistyt">here</a> and on MediaHopper <a id="playlistmh">here</a>.</p>
-
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
-|:---:|:---------------------|:-------:|:-----------:|:--------:|:------|
-| 01  | Keeping up with IDS: Week 11 | <a id="W11L1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W11L1MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
-| 02  |	Text analysis | <a id="W11L2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W11L2MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W11L2S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | <li><a id="FMS">fm-speeches-covid19</a></li> |
-| 03  | Comparing texts	 | <a id="W11L3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W11L3MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W11L3S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
-| 04  | Interactive web apps | <a id="W11L4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W11L4MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W11L4S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
-| 05  | Machine learning | <a id="W11L5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W11L5MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> |  <a id="W11L5S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
-| 06  | Wrapping up IDS | <a id="W11L6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W11L6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
-
 <p style="text-align: left">There are no required readings this week. The following are suggested readings for learning more about the topics covered in the videos.</p>
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
@@ -62,7 +51,7 @@ Additional topics beyond IDS.
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Project |  <li><a id="Project">Instructions</a></li> | Fri, 2 Dec, 10:00 UK |
+| Project |  <li><a id="projectEND">Instructions</a></li> | Fri, 2 Dec |
 
 ## Assignments
 
@@ -70,19 +59,8 @@ Additional topics beyond IDS.
 
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
-| *Due next week* | | |
 | OQ10: Looking beyond | <li><a id="OQ10">Quiz</a></li> | Mon, 5 Dec, 12:00 UK |
 
-<!--
-## Code-along
-
-<p style="text-align: left"> There will be no code-along this week, however instead you may want to watch last years code-along which discussed designing a slide deck (useful for project presentations).</p>
-
-| <div style="width:200px"></div>  | <div style="width:480px"></div>  |
-|:---|:---|
-| Recording | <a id="CA11YT"><span style="color: red;"><i class="fab fa-youtube fa-lg"> </i></span></a> <a id="CA11MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span></a>
-| Session artifacts | <a id="CA11pdf">.pdf</a>|
--->
 
 ## Interactive R tutorials
 

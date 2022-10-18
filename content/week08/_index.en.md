@@ -33,19 +33,13 @@ Logistic regression for predicting categorical data and model building.
 <ol>
 <li>Watch the <a href="#videos and readings">Videos and readings</a>.</li>
   <li>Complete the <a href="#assignments">Assignments</a>.</li>
-  <li>(Optional) Complete the <a id="PE03">Peer Evaluation</a>.</li>
 </ol>
 
 ## Videos and readings
 
-<p style="text-align: left">You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube <a id="playlistyt">here</a> and on MediaHopper <a id="playlistmh">here</a>.
+<p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
 
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
-|:---:|:---------------------|:-------:|:-----------:|:--------:|:------|
-| 01  | Keeping up with IDS: Week 9| <a id="W9L1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W9L1MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
-| 02  | 	Logistic regression | <a id="W9L2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W9L2MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W9L2S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
-| 03  | 	Prediction and overfitting  | <a id="W9L3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W9L3MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W9L3S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
-| 04  | 	Feature engineering    | <a id="W9L4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W9L4MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W9L4S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
+
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
@@ -57,7 +51,7 @@ Logistic regression for predicting categorical data and model building.
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab06: Course evaluations |  <li><a id="LAB6I">Instructions</a></li> <li><a id="LAB6R">Repository</a></li>| Fri, 11 Nov, 10:00 UK  |
+| Lab06: Course evaluations |  <li><a id="LAB6I">Instructions</a></li> <li><a id="LAB6R">Repository</a></li><li><a id="LAB6K">Solutions</a>(<a id="LAB6Kraw">Raw</a>)</li>| Fri, 11 Nov  |
 
 ## Assignments
 
@@ -65,21 +59,10 @@ Logistic regression for predicting categorical data and model building.
 
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
-| *Due next week* | | |
-| HW04: Name homework | <li><a id="HW4I">Instructions</a></li><li><a id="HW4R">Repository</a></li> | Fri, 18 Nov, 12:00 UK |
+| HW04: _Name homework_ | <li><a id="HW4I">Instructions</a></li><li><a id="HW4R">Repository</a></li><li><a id="HW4K">Solutions</a>(<a id="HW4Kraw">Raw</a>)</li> | Fri, 18 Nov, 12:00 UK |
 | OQ07: Simple Linear Regression | <li><a id="OQ7">Quiz</a></li> | Mon, 14 Nov, 12:00 UK |
 
-<!--
-## Code-along
 
-
-<p style="text-align: left"> Recordings and files from Thursday's code-along.</p>
-
-| <div style="width:200px"></div>  | <div style="width:480px"></div>  |
-|:---|:---|
-| Recording | <a id="CA9YT"><span style="color: red;"><i class="fab fa-youtube fa-lg"> </i></span></a> <a id="CA9MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span></a>
-| Session artifacts | <a id="CA9Rmd">.Rmd</a> <a id="CA9Md">.md</a>|
--->
 
 ## Interactive R tutorials
 

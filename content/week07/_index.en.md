@@ -38,17 +38,7 @@ Linear models for predicting numerical data from single and multiple variables.
 
 ## Videos and readings
 
-<p style="text-align: left">You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube <a id="playlistyt">here</a> and on MediaHopper <a id="playlistmh">here</a>.
-
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
-|:---:|:---------------------|:-------:|:-----------:|:--------:|:------|
-| 01  | Keeping up with IDS: Week 8 | <a id="W8L1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W8L1MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
-| 🎤  | 	Writing Advice from Matt Stone & Trey Parker | <a id="W8GL1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | - | - | - |
-| 02  | 	The language of models | <a id="W8L2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W8L2MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W8L2S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
-| 03  | 	Fitting and interpreting models  | <a id="W8L3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W8L3MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W8L3S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
-| 04  | 	Modelling nonlinear relationships    | <a id="W8L4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W8L4MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W8L4S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
-| 05  | 	Models with multiple predictors | <a id="W8L5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W8L5MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W8L5S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
-| 06  | More models with multiple predictors | <a id="W8L6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W8L6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W8L6S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>   | - |
+<p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
@@ -59,7 +49,7 @@ Linear models for predicting numerical data from single and multiple variables.
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab05: 	Conveying the right message through visualisation | <li><a id="LAB5I">Instructions</a></li> <li><a id="LAB5R">Repository</a></li> | Fri, 4 Nov, 10:00 UK |
+| Lab05: 	Conveying the right message through visualisation | <li><a id="LAB5I">Instructions</a></li> <li><a id="LAB5R">Repository</a></li><li><a id="LAB5K">Solutions</a>(<a id="LAB5Kraw">Raw</a>)</li> | Fri, 4 Nov |
 
 ## Assignments
 
@@ -67,9 +57,11 @@ Linear models for predicting numerical data from single and multiple variables.
 
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
-| *Due next week* | | |
-| OQ06: Recap & Review | <li><a id="OQ6">Quiz</a></li> | Mon, 7 Nov, 12:00 UK |
+| OQ06: _Quiz Name_ | <li><a id="OQ6">Quiz</a></li> | Mon, 7 Nov, 12:00 UK |
 
+<p style="text-align: left">
+<b>Reminder</b>: Homework assignment <em>hw-03</em> is due Fri, 4 Nov, 12:00 UK time (midday).
+</p>
 
 <!--
 ## Code-along

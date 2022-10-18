@@ -14,7 +14,7 @@ hidden: true
 
 _Week 6 (24 Oct 2022 - 28 Oct 2022)_
 
-Harvesting data from the web, writing functions, and iteration.
+Writing custom functions and coding iteration loops.
 
 ## Lectures
 
@@ -32,28 +32,16 @@ Harvesting data from the web, writing functions, and iteration.
 <ol>
 <li>Watch the <a href="#videos and readings">Videos and readings</a>.</li>
   <li>Complete the <a href="#assignments">Assignments</a>.</li>
-  <li>(Optional) Complete the <a id="feedbackW5">Course Feedback</a>.</li>
 </ol>
 
 ## Videos and readings
 
-<p style="text-align: left">You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube <a id="playlistyt">here</a> and on MediaHopper <a id="playlistmh">here</a>.
-
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
-|:---:|:---------------------|:-------:|:-----------:|:--------:|:------|
-| 01  | Keeping up with IDS: Week 6 | <a id="W6L1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W6L1MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
-| 02  | 	Web scraping | <a id="W6L2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W6L2MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W6L2S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
-| 03  | 	Scraping top 250 movies on IMDB  | <a id="W6L3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W6L3MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W6L3S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
-| 04  | 	Web scraping considerations    | <a id="W6L4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W6L4MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W6L4S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
-| 05  | AE: IMDB + Web scraping | <a id="W6L5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W6L5MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | <li><a id="AE8">AE8. Repository</a></li> |
-| 06  | Functions | <a id="W6L6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W6L6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W6L6S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>   | - |
-| 07  | Iteration | <a id="W6L7YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W6L7MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W6L7S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>   | - |
+<p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| <i class="fas fa-laptop"></i> | <a id="selector">Selector Gadget</a> | **Required** |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS19">Chp 19 - Functions</a> | **Required** |
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS21">Chp 21 - Iteration</a> | Optional |
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS21">Chp 21 - Iteration</a> | **Required** |
 
 ## Workshop
 
@@ -61,7 +49,7 @@ Harvesting data from the web, writing functions, and iteration.
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Project: Proposal |<li><a id="project">Instructions</a></li> <li><a id="projectR">Repository</a></li>| Fri, 28 Oct, 10:00 UK  |
+| Project: Proposal |<li><a id="project">Instructions</a></li> <li><a id="projectR">Repository</a></li>| Fri, 28 Oct  |
 
 ## Assignments
 
@@ -69,26 +57,16 @@ Harvesting data from the web, writing functions, and iteration.
 
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
-| *Due next week* | | |
-| HW03: Name homework | <li><a id="HW3I">Instructions</a></li><li><a id="HW3R">Repository</a></li> | Fri, 04 Nov, 12:00 UK |
-| OQ05: Scrape + iterate | <li><a id="OQ5">Quiz</a></li> | Mon, 31 Oct, 12:00 UK |
+| HW03: Money in politics | <li><a id="HW3I">Instructions</a></li><li><a id="HW3R">Repository</a></li><li><a id="HW3K">Solutions</a>(<a id="HW3Kraw">Raw</a>)</li> | Fri, 04 Nov, 12:00 UK |
+| OQ05: _Quiz Name_ | <li><a id="OQ5">Quiz</a></li> | Mon, 31 Oct, 12:00 UK |
 
-<!--
-## Code-along
 
-<p style="text-align: left"> Recordings and files from Thursday's code-along.</p>
-
-| <div style="width:200px"></div>  | <div style="width:480px"></div>  |
-|:---|:---|
-| Recording | <a id="CA6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg"> </i></span></a> <a id="CA6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span></a>
-| Session artifacts | <a id="CA6Rmd">.Rmd</a> <a id="CA6Md">.md</a>|
--->
 ## Interactive R tutorials
 
 <p style="text-align: left"> The following are interactive R tutorials, designed to give you more practice with R. These are optional, but they will show up in your next homework assignment, so you should gain familiarity with it. If you’re struggling with any of the topics covered this week, we strongly recommend you work through the interactive tutorials.</p>
 
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
-| <a id="RT7">Money in US Politics</a> | Related to HW 03 |
+| <a id="RT7">Money in US Politics</a> | Extra practice |
 | <a id="RT8">Write functions</a> | Extra practice |
 | <a id="RT9">Iterate</a> | Extra practice |

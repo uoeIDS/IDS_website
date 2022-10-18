@@ -36,16 +36,8 @@ Evaluating models with cross validation and uncertainty quantification with boot
 
 ## Videos and readings
 
-<p style="text-align: left">You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube <a id="playlistyt">here</a> and on MediaHopper <a id="playlistmh">here</a>.</p>
+<p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
 
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:100px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
-|:---:|:---------------------|:-------:|:-----------:|:--------:|:------|
-| 01  | Keeping up with IDS: Week 10 | <a id="W10L1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W10L1MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | - |
-| 02  |	Cross validation | <a id="W10L2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W10L2MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W10L2S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>  | - |
-| 03  | AE - The Office, Part 1 | <a id="W10L3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W10L3MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | - | <li><a id="AE9">AE9. Repository</a></li> |
-| 04  | AE - The Office, Part 2 | <a id="W10L4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W10L4MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | -  | <li><a id="AE9">AE9. Repository</a></li> |
-| 05  | Quantifying uncertainty | <a id="W10L5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W10L5MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> |  <a id="W10L5S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | - |
-| 06  | Bootstrapping | <a id="W10L6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W10L6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W10L6S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a>   | - |
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
@@ -56,7 +48,7 @@ Evaluating models with cross validation and uncertainty quantification with boot
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab08: Make progress on projects |  <li><a id="LAB8I">Instructions</a></li>| (Not Assessed)  |
+| Lab08: Make progress on projects |  <li><a id="LAB8I">Instructions</a></li>| Fri, 25 Nov |
 
 ## Assignments
 
@@ -64,19 +56,8 @@ Evaluating models with cross validation and uncertainty quantification with boot
 
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
-| *Due next week* | | |
 | OQ09: Modelling overview | <li><a id="OQ9">Quiz</a></li> | Mon, 28 Nov, 12:00 UK |
 
-<!--
-## Code-along
-
-<p style="text-align: left"> Recordings and files from Thursday's code-along.</p>
-
-| <div style="width:200px"></div>  | <div style="width:480px"></div>  |
-|:---|:---|
-| Recording | <a id="CA10YT"><span style="color: red;"><i class="fab fa-youtube fa-lg"> </i></span></a> <a id="CA10MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span></a>
-| Session artifacts | <a id="CA10Rmd">.Rmd</a> <a id="CA10Md">.md</a>|
--->
 
 ## Interactive R tutorials
 
@@ -84,5 +65,7 @@ Evaluating models with cross validation and uncertainty quantification with boot
 
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
-| <a id="RT11">Exploring the GSS</a> | Related to HW 05 |
-| <a id="RT12">Bootstrapping the GSS</a> | Related to HW 05 |
+| <a id="RT11">Exploring the GSS</a> | Extra practice |
+| <a id="RT12">Bootstrapping the GSS</a> | Extra practice |
+| <a id="AE6">Application exercise 6 - The Office</a> | Help: <a id="OpeningaProject">Opening a Project</a> |
+
