@@ -896,8 +896,8 @@ try {DateRestrictLink(document.getElementById("LAB3K"), "15 October 2022", "http
 try {DateRestrictLink(document.getElementById("LAB3Kraw"), "15 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-03-key");} catch { };
 
 // lab 4 - Project WEEK 05 AND WEEK 06
-try {DateRestrictLink(document.getElementById("project"), "20 October 2022", "/assessments/project");} catch { };
-try {DateRestrictLink(document.getElementById("projectR"), "20 October 2022", "https://github.com/uoeIDS/project-template");} catch { };
+try {DateRestrictLink(document.getElementById("project"), "19 October 2022", "https://uoeids.github.io/labs/lab-04/lab-04-projects.html");} catch { };
+try {DateRestrictLink(document.getElementById("projectR"), "19 October 2022", "https://github.com/uoeIDS/presentation-template");} catch { };
 try {DateRestrictLink(document.getElementById("project_1"), "27 October 2022", "/assessments/project");} catch { };
 try {DateRestrictLink(document.getElementById("projectR_1"), "27 October 2022", "https://github.com/uoeIDS/project-template");} catch { };
 
