@@ -837,7 +837,7 @@ try {DateRestrictLink(document.getElementById("HW2Kraw"), "26 October 2022", "er
 //https://github.com/uoeIDS/uoeIDS.github.io/tree/main/homework/hw-01-key
 
 // week 6 hw 03
-try {DateRestrictLink(document.getElementById("HW3I"), "24 October 2022", "/error");} catch { };
+try {DateRestrictLink(document.getElementById("HW3I"), "24 October 2022", "https://uoeids.github.io/homework/hw-03/hw-03.html");} catch { };
 try {DateRestrictLink(document.getElementById("HW3R"), "24 October 2022","/error");} catch { };
 // week 8 hw 04
 try {DateRestrictLink(document.getElementById("HW4I"), "07 November 2022", "/error");} catch { };
