@@ -709,7 +709,7 @@ try {DateRestrictLink(document.getElementById("MHL08extra"), "03 October 2022", 
 // week 5 lecture 09/10
 try {DateRestrictLink(document.getElementById("lecture09"), "17 October 2022", "https://uoeids.github.io/slides/w05-L09/w05-L09.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL09"), "17 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w05-L09");} catch { };
-try {DateRestrictLink(document.getElementById("MHL09"), "17 October 2022", "/error");} catch { };
+try {DateRestrictLink(document.getElementById("MHL09"), "17 October 2022", "https://echo360.org.uk/lesson/342afe84-fe8a-4af4-a55f-e879f1f1c688/classroom#sortDirection=desc");} catch { };
 
 try {DateRestrictLink(document.getElementById("lecture10"), "17 October 2022", "https://uoeids.github.io/slides/w05-L10/w05-L10.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL10"), "17 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w05-L10");} catch { };
