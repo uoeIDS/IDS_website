@@ -81,7 +81,7 @@ Proposal presentation schedule: Presentations will take place during the worksho
 
 #### Presentation
 
-This will take the same format as the proposal presentation. You will need to prepare a slide deck using one of the templates in your repo. As for the proposal there isn't a limit to how many slides you can use, just a time limit (5 minutes total). Each team member should get a chance to speak during the presentation. Your presentation should not just be an account of everything you tried ("then we did this, then we did this, etc."), instead it should convey what choices you made, and why, and what you found.
+This will take the same format as the proposal presentation. You will need to prepare a slide deck using the template in the repo. As for the proposal there isn't a limit to how many slides you can use, just a time limit (5 minutes total). Each team member should get a chance to speak during the presentation. Your presentation should not just be an account of everything you tried ("then we did this, then we did this, etc."), instead it should convey what choices you made, and why, and what you found.
 
 {{% notice tip %}}
 Before you finalize your presentation, make sure your chunks are turned off with `echo = FALSE`.
@@ -107,8 +107,8 @@ You will be asked to fill out a survey where you rate the contribution and teamw
 
 You will need to submit to Learn by 9am on the 2 December:
 
-* A `.pdf` or `.html` version of your write-up (including a link to the GitHub repository)
-* A `.pdf` or `.html` version of your presentation.
+* A `.html` version of your write-up (including a link to the GitHub repository)
+* A `.html` version of your presentation.
 * Your team peer evaluation.
 
 As explained above, you _must_ also add the course GitHub account (username: uoeIDS) to your team GitHub repository by the time of the deadline. 
