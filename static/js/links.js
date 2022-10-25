@@ -898,7 +898,7 @@ try {DateRestrictLink(document.getElementById("LAB3Kraw"), "15 October 2022", "h
 // lab 4 - Project WEEK 05 AND WEEK 06
 try {DateRestrictLink(document.getElementById("project"), "19 October 2022", "https://uoeids.github.io/labs/lab-04/lab-04-projects.html");} catch { };
 try {DateRestrictLink(document.getElementById("projectR"), "19 October 2022", "https://github.com/uoeIDS/presentation-template");} catch { };
-try {DateRestrictLink(document.getElementById("project_1"), "25 October 2022", "https://uoeids.github.io/labs/lab-05/lab-05-projects.html");} catch { };
+try {DateRestrictLink(document.getElementById("project_1"), "25 October 2022", "https://uoeids.github.io/labs/lab-05/lab-05-proposal.html");} catch { };
 try {DateRestrictLink(document.getElementById("projectR_1"), "27 October 2022", "https://github.com/uoeIDS/project-template");} catch { };
 
 // lab 5 - Conveying the right message through visualisation WEEK 07
