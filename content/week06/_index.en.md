@@ -45,11 +45,10 @@ Writing custom functions and coding iteration loops.
 
 ## Workshop
 
-<p style="text-align: left"> This week's workshop will help you get familiar with the workflow for the rest of the course.
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Project: Proposal |<li><a id="project">Instructions</a></li> <li><a id="projectR">Repository</a></li>| Fri, 28 Oct  |
+| Project: Proposal |<li><a id="project_1">Instructions</a></li> <li><a id="projectR">Repository</a></li>| Fri, 28 Oct  |
 
 ## Assignments
 
