@@ -57,7 +57,7 @@ Linear models for predicting numerical data from single and multiple variables.
 
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
-| OQ06: _Quiz Name_ | <li><a id="OQ6">Quiz</a></li> | Mon, 7 Nov, 12:00 UK |
+| OQ06: Simple linear regression | <li><a id="OQ6">Quiz</a></li> | Mon, 7 Nov, 12:00 UK |
 
 <p style="text-align: left">
 <b>Reminder</b>: Homework assignment <em>hw-03</em> is due Fri, 4 Nov, 12:00 UK time (midday).

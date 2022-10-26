@@ -73,7 +73,7 @@ Below are a number of optional "guest lectures" from YouTube that illustrates wh
 
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
-| OQ08: Multiple regression | <li><a id="OQ8">Quiz</a></li> | Mon, 21 Nov, 12:00 UK |
+| OQ08: Modelling properties and Ethics | <li><a id="OQ8">Quiz</a></li> | Mon, 21 Nov, 12:00 UK |
 
 <p style="text-align: left">
 <b>Reminder</b>: Homework assignment <em>hw-04</em> is due Fri, 18 Nov, 12:00 UK time (midday).

@@ -59,7 +59,7 @@ Additional topics beyond IDS.
 
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
-| OQ10: Looking beyond | <li><a id="OQ10">Quiz</a></li> | Mon, 5 Dec, 12:00 UK |
+| OQ10: IDS Recap | <li><a id="OQ10">Quiz</a></li> | Mon, 5 Dec, 12:00 UK |
 
 
 ## Interactive R tutorials
