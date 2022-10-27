@@ -902,6 +902,10 @@ try {DateRestrictLink(document.getElementById("project"), "19 October 2022", "ht
 try {DateRestrictLink(document.getElementById("projectR"), "19 October 2022", "https://github.com/uoeIDS/presentation-template");} catch { };
 try {DateRestrictLink(document.getElementById("project_1"), "25 October 2022", "https://uoeids.github.io/labs/lab-05/lab-05-proposal.html");} catch { };
 try {DateRestrictLink(document.getElementById("projectR_1"), "27 October 2022", "https://github.com/uoeIDS/project-template");} catch { };
+try {DateRestrictLink(document.getElementById("feedback_1"), "27 October 2022", "https://uoeids.github.io/labs/lab-05/9amworkshop.html");} catch { };
+try {DateRestrictLink(document.getElementById("feedback_2"), "27 October 2022", "https://uoeids.github.io/labs/lab-05/1030workshop.html");} catch { };
+try {DateRestrictLink(document.getElementById("feedback_3"), "27 October 2022", "https://uoeids.github.io/labs/lab-05/1400workshop.html");} catch { };
+try {DateRestrictLink(document.getElementById("feedback_4"), "27 October 2022", "https://uoeids.github.io/labs/lab-05/1530workshop.html");} catch { };
 
 // lab 5 - Conveying the right message through visualisation WEEK 07
 try {DateRestrictLink(document.getElementById("LAB5I"), "3 November 2022", "https://uoeids.github.io/labs/lab-05/lab-05-better-viz.html");} catch { };
