@@ -907,25 +907,25 @@ try {DateRestrictLink(document.getElementById("feedback_2"), "27 October 2022", 
 try {DateRestrictLink(document.getElementById("feedback_3"), "27 October 2022", "https://uoeids.github.io/labs/lab-05/1400workshop.html");} catch { };
 try {DateRestrictLink(document.getElementById("feedback_4"), "27 October 2022", "https://uoeids.github.io/labs/lab-05/1530workshop.html");} catch { };
 
-// lab 5 - Conveying the right message through visualisation WEEK 07
+// lab 6 - Conveying the right message through visualisation WEEK 07
 try {DateRestrictLink(document.getElementById("LAB5I"), "3 November 2022", "https://uoeids.github.io/labs/lab-06/lab-06-better-viz.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB5R"), "3 November 2022", "https://github.com/uoeIDS/lab-06-template");} catch { };
 try {DateRestrictLink(document.getElementById("LAB5K"), "5 November 2022", "/error");} catch { };
 try {DateRestrictLink(document.getElementById("LAB5Kraw"), "5 November 2022", "/error");} catch { };
 
-// lab 6 - Course Evaluations WEEK 08
+// lab 7 - Course Evaluations WEEK 08
 try {DateRestrictLink(document.getElementById("LAB6I"), "10 November 2022", "https://uoeids.github.io/labs/lab-06/lab-06-modelling-course-evals.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB6R"), "10 November 2022", "https://github.com/uoeIDS/lab-06-template");} catch { };
 try {DateRestrictLink(document.getElementById("LAB6K"), "12 November 2022", "/error");} catch { };
 try {DateRestrictLink(document.getElementById("LAB6Kraw"), "12 November 2022", "/error");} catch { };
 
-// lab 7 - Work on Projects WEEK 09
+// lab 8 - Work on Projects WEEK 09
 try {DateRestrictLink(document.getElementById("LAB7I"), "17 November 2022", "https://uoeids.github.io/labs/lab-07/lab-07-work-on-projects.html");} catch { };
 
-// lab 8 - Make Progress on Projects WEEK 10
+// lab 9 - Make Progress on Projects WEEK 10
 try {DateRestrictLink(document.getElementById("LAB8I"), "24 November 2022", "https://uoeids.github.io/labs/lab-08/lab-08-work-on-projects.html");} catch { };
 
-// lab 11 - Project submission
+// lab 10 - Project submission
 try {DateRestrictLink(document.getElementById("projectEND"), "28 November 2022", "/assessments/project");} catch { };
 
 
