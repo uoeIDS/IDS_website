@@ -32,11 +32,11 @@ Linear models for predicting numerical data from single and multiple variables.
 ## Tasks
 
 <ol>
-<li>Watch the <a href="#videos and readings">Videos and readings</a>.</li>
+<li>Watch the <a href="#videos and reading">Videos and reading</a>.</li>
   <li>Complete the <a href="#assignments">Assignments</a>.</li>
 </ol>
 
-## Videos and readings
+## Videos and reading
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
 
@@ -49,7 +49,7 @@ Linear models for predicting numerical data from single and multiple variables.
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab05: 	Conveying the right message through visualisation | <li><a id="LAB5I">Instructions</a></li> <li><a id="LAB5R">Repository</a></li><li><a id="LAB5K">Solutions</a>(<a id="LAB5Kraw">Raw</a>)</li> | Fri, 4 Nov |
+| Lab06: 	Conveying the right message through visualisation | <li><a id="LAB5I">Instructions</a></li> <li><a id="LAB5R">Repository</a></li><li><a id="LAB5K">Solutions</a>(<a id="LAB5Kraw">Raw</a>)</li> | Fri, 4 Nov |
 
 ## Assignments
 

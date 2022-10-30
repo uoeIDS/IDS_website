@@ -908,8 +908,8 @@ try {DateRestrictLink(document.getElementById("feedback_3"), "27 October 2022", 
 try {DateRestrictLink(document.getElementById("feedback_4"), "27 October 2022", "https://uoeids.github.io/labs/lab-05/1530workshop.html");} catch { };
 
 // lab 5 - Conveying the right message through visualisation WEEK 07
-try {DateRestrictLink(document.getElementById("LAB5I"), "3 November 2022", "https://uoeids.github.io/labs/lab-05/lab-05-better-viz.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB5R"), "3 November 2022", "https://github.com/uoeIDS/lab-05-template");} catch { };
+try {DateRestrictLink(document.getElementById("LAB5I"), "3 November 2022", "https://uoeids.github.io/labs/lab-06/lab-06-better-viz.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB5R"), "3 November 2022", "https://github.com/uoeIDS/lab-06-template");} catch { };
 try {DateRestrictLink(document.getElementById("LAB5K"), "5 November 2022", "/error");} catch { };
 try {DateRestrictLink(document.getElementById("LAB5Kraw"), "5 November 2022", "/error");} catch { };
 
