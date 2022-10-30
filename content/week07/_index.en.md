@@ -7,7 +7,7 @@ weight: 7
 tags: ["week 7", "tasks", "videos", "assignments", "readings", "tutorials"]
 description: "Week 7 (31 Oct 2022 - 4 Nov 2022): Linear models for predicting numerical data from single and multiple variables."
 
-hidden: true
+hidden: false
 ---
 
 # Modelling Data
