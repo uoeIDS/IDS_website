@@ -731,7 +731,7 @@ try {DateRestrictLink(document.getElementById("MHL13"), "31 October 2022", "http
 
 try {DateRestrictLink(document.getElementById("lecture14"), "31 October 2022", "https://uoeids.github.io/slides/w07-L14/w07-L14.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL14"), "31 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w07-L14");} catch { };
-try {DateRestrictLink(document.getElementById("MHL14"), "31 October 2022", "/error"");} catch { };
+try {DateRestrictLink(document.getElementById("MHL14"), "31 October 2022", "/error");} catch { };
 
 
 // week 8 lecture 15/16
