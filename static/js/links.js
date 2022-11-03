@@ -731,7 +731,7 @@ try {DateRestrictLink(document.getElementById("MHL13"), "31 October 2022", "http
 
 try {DateRestrictLink(document.getElementById("lecture14"), "31 October 2022", "https://uoeids.github.io/slides/w07-L14/w07-L14.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL14"), "31 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w07-L14");} catch { };
-try {DateRestrictLink(document.getElementById("MHL14"), "31 October 2022", "/error");} catch { };
+try {DateRestrictLink(document.getElementById("MHL14"), "31 October 2022", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-11-03T10:00:00.000_2022-11-03T10:55:00.000/classroom#sortDirection=desc");} catch { };
 
 
 // week 8 lecture 15/16
