@@ -21,7 +21,10 @@ Linear models for predicting numerical data from single and multiple variables.
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">Recording*</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:-----------:|:--------:|:------|
 | 13  | Introducing models  | <span><a id = "MHL13"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture13"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL13">Raw<i class="fab fa-fw fa-github"/></a></span> |
-| 14  | Models with multiple predictors  | <span><a id = "MHL14"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture14"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL14">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 14  | Model checking and multiple predictors  |<li> <span><a id = "W8L6MH"><i class="fas fa-file-video fa-lg"/></a></span> </li>
+<li><span><a id = "W8L5MH"><i class="fas fa-file-video fa-lg"/></a></span></li>
+<li><span><a id = "W8L6MH"><i class="fas fa-file-video fa-lg"/></a></span> </li>
+|<span><a id = "lecture14"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL14">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
 
 <p style="text-align: left">
