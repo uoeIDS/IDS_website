@@ -7,7 +7,7 @@ weight: 8
 tags: ["week 8", "tasks", "videos", "assignments", "readings", "tutorials"]
 Description: "Week 8 (7 Nov 2022 - 11 Nov 2022): Logistic regression for predicting categorical data and model building."
 
-hidden: true
+hidden: false
 ---
 
 # Classification and Model Building
@@ -31,11 +31,11 @@ Logistic regression for predicting categorical data and model building.
 ## Tasks
 
 <ol>
-<li>Watch the <a href="#videos and readings">Videos and readings</a>.</li>
+<li>Watch the <a href="#Videos and reading">Videos and reading</a>.</li>
   <li>Complete the <a href="#assignments">Assignments</a>.</li>
 </ol>
 
-## Videos and readings
+## Videos and reading
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
 
@@ -51,7 +51,7 @@ Logistic regression for predicting categorical data and model building.
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab06: Course evaluations |  <li><a id="LAB6I">Instructions</a></li> <li><a id="LAB6R">Repository</a></li><li><a id="LAB6K">Solutions</a>(<a id="LAB6Kraw">Raw</a>)</li>| Fri, 11 Nov  |
+| Lab06 |  <li><a id="LAB6I">Instructions</a></li> <li><a id="LAB6R">Repository</a></li><li><a id="LAB6K">Solutions</a>(<a id="LAB6Kraw">Raw</a>)</li>| Fri, 11 Nov  |
 
 ## Assignments
 
@@ -59,7 +59,7 @@ Logistic regression for predicting categorical data and model building.
 
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
-| HW04: _Name homework_ | <li><a id="HW4I">Instructions</a></li><li><a id="HW4R">Repository</a></li><li><a id="HW4K">Solutions</a>(<a id="HW4Kraw">Raw</a>)</li> | Fri, 18 Nov, 12:00 UK |
+| HW04: Model Review | <li><a id="HW4I">Instructions</a></li><li><a id="HW4R">Repository</a></li><li><a id="HW4K">Solutions</a>(<a id="HW4Kraw">Raw</a>)</li> | Fri, 18 Nov, 12:00 UK |
 | OQ07: Multiple linear regression and Classification | <li><a id="OQ7">Quiz</a></li> | Mon, 14 Nov, 12:00 UK |
 
 
