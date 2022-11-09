@@ -911,12 +911,12 @@ try {DateRestrictLink(document.getElementById("feedback_4"), "27 October 2022", 
 // lab 6 - Conveying the right message through visualisation WEEK 07
 try {DateRestrictLink(document.getElementById("LAB5I"), "3 November 2022", "https://uoeids.github.io/labs/lab-06/lab-06-better-viz.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB5R"), "3 November 2022", "https://github.com/uoeIDS/lab-06-template");} catch { };
-try {DateRestrictLink(document.getElementById("LAB5K"), "5 November 2022", "/error");} catch { };
-try {DateRestrictLink(document.getElementById("LAB5Kraw"), "5 November 2022", "/error");} catch { };
+try {DateRestrictLink(document.getElementById("LAB5K"), "5 November 2022", "https://github.com/uoeIDS/uoeIDS.github.io/blob/main/labs/lab-06-key/lab-06-key.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB5Kraw"), "5 November 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-06-key");} catch { };
 
 // lab 7 - Course Evaluations WEEK 08
-try {DateRestrictLink(document.getElementById("LAB6I"), "10 November 2022", "https://uoeids.github.io/labs/lab-06/lab-06-modelling-course-evals.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB6R"), "10 November 2022", "https://github.com/uoeIDS/lab-06-template");} catch { };
+try {DateRestrictLink(document.getElementById("LAB6I"), "9 November 2022", "https://uoeids.github.io/labs/lab-07/lab-07.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB6R"), "9 November 2022", "https://github.com/uoeIDS/lab-07-template");} catch { };
 try {DateRestrictLink(document.getElementById("LAB6K"), "12 November 2022", "/error");} catch { };
 try {DateRestrictLink(document.getElementById("LAB6Kraw"), "12 November 2022", "/error");} catch { };
 
