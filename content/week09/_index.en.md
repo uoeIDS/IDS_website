@@ -8,7 +8,7 @@ tags: ["week 9", "tasks", "videos", "assignments", "readings", "tutorials"]
 description: "Week 9 (14 Nov 2022 - 18 Nov 2022): Misrepresentation of findings, data privacy, and algorithmic bias."
 
 
-hidden: true
+hidden: false
 ---
 
 # Ethics
@@ -32,11 +32,11 @@ Misrepresentation of findings, data privacy, and algorithmic bias.
 ## Tasks
 
 <ol>
-<li>Watch the <a href="#videos and readings">Videos and readings</a>.</li>
+<li>Watch the <a href="#videos and reading">Videos and reading</a>.</li>
   <li>Complete the <a href="#assignments">Assignments</a>.</li>
 </ol>
 
-## Videos and readings
+## Videos and reading
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
 
@@ -65,7 +65,7 @@ Below are a number of optional "guest lectures" from YouTube that illustrates wh
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab07: Work on projects |  <li><a id="LAB7I">Instructions</a></li>| Fri, 18 Nov |
+| Lab08: Work on projects |  <li><a id="LAB7I">Instructions</a></li>| Fri, 18 Nov |
 
 ## Assignments
 
