@@ -917,8 +917,8 @@ try {DateRestrictLink(document.getElementById("LAB5Kraw"), "5 November 2022", "h
 // lab 7 - Course Evaluations WEEK 08
 try {DateRestrictLink(document.getElementById("LAB6I"), "9 November 2022", "https://uoeids.github.io/labs/lab-07/lab-07.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB6R"), "9 November 2022", "https://github.com/uoeIDS/lab-07-template");} catch { };
-try {DateRestrictLink(document.getElementById("LAB6K"), "12 November 2022", "/error");} catch { };
-try {DateRestrictLink(document.getElementById("LAB6Kraw"), "12 November 2022", "/error");} catch { };
+try {DateRestrictLink(document.getElementById("LAB6K"), "12 November 2022", "https://uoeids.github.io/labs/lab-07-key/lab-07-key.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB6Kraw"), "12 November 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-07-key");} catch { };
 
 // lab 8 - Work on Projects WEEK 09
 try {DateRestrictLink(document.getElementById("LAB7I"), "17 November 2022", "https://uoeids.github.io/labs/lab-07/lab-07-work-on-projects.html");} catch { };
