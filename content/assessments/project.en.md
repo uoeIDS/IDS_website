@@ -116,7 +116,7 @@ As explained above, you _must_ also add the course GitHub account (username: uoe
 We expect your GitHub repository to contain the following folders and files:
 
 * `presentation.Rmd` + `presentation.html`: Your presentation slides
-* `summary.md` or `summary.Rmd`: Your write-up
+* `summary.md` or `summary.Rmd` + `summary.html`: Your write-up
 * `/data/*`: Your dataset in csv or RDS format, in the `/data` folder.
 * `/proposal`: Your proposal from earlier in the semester
 
