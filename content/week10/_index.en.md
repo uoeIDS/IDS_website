@@ -7,7 +7,7 @@ weight: 10
 tags: ["week 10", "tasks", "videos", "assignments", "readings", "tutorials"]
 description: "Week 10 (21 Nov 2022 - 25 Nov 2022): Evaluating models with cross validation and uncertainty quantification with bootstrap confidence intervals. quantification."
 
-hidden: true
+hidden: false
 ---
 
 # Model Validation and Uncertainty Quantification
@@ -20,8 +20,8 @@ Evaluating models with cross validation and uncertainty quantification with boot
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">Recording*</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:-----------:|:--------:|:------|
-| 19  | Validation and Uncertainty Quantification  | <span><a id = "MHL19"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture19"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL19">Raw<i class="fab fa-fw fa-github"/></a></span> |
-| 20  | Validation and Uncertainty Quantification  | <span><a id = "MHL20"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture20"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL20">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 19  | Cross Validation  | <span><a id = "MHL19"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture19"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL19">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 20  | Uncertainty Quantification  | <span><a id = "MHL20"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture20"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL20">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
 <p style="text-align: left">
 *These links will take you to <em>echo360</em>. Type in your university email in the <em>Email</em> text box (this will probably be the version using your UUN, like "s0123456<!-- -->@ed.ac.uk"). This should then send you to University of Edinburgh's SSO (single-sign-on) system. Enter your log-in credentials and then you should be able to watch the specific lecture you selected. If this process does not work, then you can alternatively access the lecture recordings via LEARN. Go to the Introduction to Data Science area on LEARN, select <em>Course Materials</em> and finally click on <em>Lecture Recordings</em>. This will send you to <em>echo360</em> where you can see the whole list of lecture recordings.
@@ -30,11 +30,11 @@ Evaluating models with cross validation and uncertainty quantification with boot
 ## Tasks
 
 <ol>
-  <li>Watch the <a href="#videos and readings">Videos and readings</a>.</li>
+  <li>Watch the <a href="#Videos and reading">Videos and reading</a>.</li>
   <li>Complete the <a href="#assignments">Assignments</a>.</li>
 </ol>
 
-## Videos and readings
+## Videos and reading
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
 
@@ -61,7 +61,7 @@ Evaluating models with cross validation and uncertainty quantification with boot
 
 ## Interactive R tutorials
 
-<p style="text-align: left"> The following are interactive R tutorials, designed to give you more practice with R. These are optional, but they will show up in your next homework assignment, so you should gain familiarity with it. If you’re struggling with any of the topics covered this week, we strongly recommend you work through the interactive tutorials.</p>
+<p style="text-align: left"> The following are interactive R tutorials, designed to give you more practice with R. These are optional but if you’re struggling with any of the topics covered this week, we strongly recommend you work through the interactive tutorials.</p>
 
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
