@@ -756,7 +756,7 @@ try {DateRestrictLink(document.getElementById("MHL18"), "14 November 2022", "htt
 // week 10 lecture 19/20
 try {DateRestrictLink(document.getElementById("lecture19"), "21 November 2022", "https://uoeids.github.io/slides/w10-L19/w10-L19.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL19"), "21 November 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w10-L19");} catch { };
-try {DateRestrictLink(document.getElementById("MHL19"), "21 November 2022", "/error");} catch { };
+try {DateRestrictLink(document.getElementById("MHL19"), "21 November 2022", "https://echo360.org.uk/lesson/25e320d4-0dd3-437a-b397-f878d5a26584/classroom#sortDirection=desc");} catch { };
 
 try {DateRestrictLink(document.getElementById("lecture20"), "21 November 2022", "https://uoeids.github.io/slides/w10-L20/w10-L20.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL20"), "21 November 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w10-L20");} catch { };
@@ -839,17 +839,17 @@ try {DateRestrictLink(document.getElementById("HW2Kraw"), "26 October 2021", "ht
 // week 6 hw 03
 try {DateRestrictLink(document.getElementById("HW3I"), "24 October 2021", "https://uoeids.github.io/homework/hw-03/hw-03.html");} catch { };
 try {DateRestrictLink(document.getElementById("HW3R"), "24 October 2021","https://github.com/uoeIDS/hw-03-template");} catch { };
-try {DateRestrictLink(document.getElementById("HW3K"), "09 November 2021", "/error");} catch { };
+try {DateRestrictLink(document.getElementById("HW3K"), "09 November 2021", "https://uoeIDS.github.io/homework/hw-03-key/hw-03-key.html");} catch { };
 //https://uoeIDS.github.io/homework/hw-03-key/hw-03-key.html
-try {DateRestrictLink(document.getElementById("HW3Kraw"), "09 November 2021", "/error");} catch { };
+try {DateRestrictLink(document.getElementById("HW3Kraw"), "09 November 2021", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/homework/hw-03-key");} catch { };
 //https://github.com/uoeIDS/uoeIDS.github.io/tree/main/homework/hw-03-key
 
 // week 8 hw 04
 try {DateRestrictLink(document.getElementById("HW4I"), "07 November 2021", "https://uoeids.github.io/homework/hw-04/hw-04.html");} catch { };
 try {DateRestrictLink(document.getElementById("HW4R"), "07 November 2021", "https://github.com/uoeIDS/hw-04-template");} catch { };
-try {DateRestrictLink(document.getElementById("HW4K"), "23 November 2021", "/error");} catch { };
+try {DateRestrictLink(document.getElementById("HW4K"), "23 November 2021", "https://uoeIDS.github.io/homework/hw-04-key/hw-04-key.html");} catch { };
 //https://uoeIDS.github.io/homework/hw-04-key/hw-04-key.html
-try {DateRestrictLink(document.getElementById("HW4Kraw"), "23 November 2021", "/error");} catch { };
+try {DateRestrictLink(document.getElementById("HW4Kraw"), "23 November 2021", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/homework/hw-04-key");} catch { };
 //https://github.com/uoeIDS/uoeIDS.github.io/tree/main/homework/hw-04-key
 
 
