@@ -7,7 +7,7 @@ weight: 11
 tags: ["week 11", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"]
 description: "Week 11 (28 Nov 2022 - 2 Dec 2022): Additional topics beyond IDS"
 
-hidden: true
+hidden: false
 ---
 
 # Looking Beyond IDS
@@ -20,8 +20,8 @@ Additional topics beyond IDS.
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">Recording*</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:-----------:|:--------:|:------|
-| 21  | Looking Beyond IDS  | <span><a id = "MHL21"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture21"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL21">Raw<i class="fab fa-fw fa-github"/></a></span> |
-| 22  | Looking Beyond IDS  | <span><a id = "MHL22"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture22"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL22">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 21  | Projects Q&A  | <span><a id = "MHL21"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture21"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL21">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 22  | Recap and Looking Beyond IDS  | <span><a id = "MHL22"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture22"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL22">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
 <p style="text-align: left">
 *These links will take you to <em>echo360</em>. Type in your university email in the <em>Email</em> text box (this will probably be the version using your UUN, like "s0123456<!-- -->@ed.ac.uk"). This should then send you to University of Edinburgh's SSO (single-sign-on) system. Enter your log-in credentials and then you should be able to watch the specific lecture you selected. If this process does not work, then you can alternatively access the lecture recordings via LEARN. Go to the Introduction to Data Science area on LEARN, select <em>Course Materials</em> and finally click on <em>Lecture Recordings</em>. This will send you to <em>echo360</em> where you can see the whole list of lecture recordings.
@@ -30,20 +30,17 @@ Additional topics beyond IDS.
 ## Tasks
 
 <ol>
-  <li>Finish your project and submit.</li>
-  <li>Watch the <a href="#videos and readings">Videos and readings</a>.</li>
+  <li>Finish your project and peer evaluation and submit.</li>
+  <li>Watch the <a href="#Videos and reading">Videos and reading</a>.</li>
   <li>Complete the <a href="#assignments">Assignments</a>.</li>
 </ol>
 
-## Videos and readings
+## Videos and reading
 
-<p style="text-align: left">There are no required readings this week. The following are suggested readings for learning more about the topics covered in the videos.</p>
+<p style="text-align: left">There is no required reading for this week. The following is some suggested reading for learning more about the topics covered in the final lecture.</p>
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| <i class="fas fa-book"></i> | TMwR: <a id="TMwR1">Chp 1 - The tidy text format</a> | Optional |
-| <i class="fas fa-book"></i> | TMwR: <a id="TMwR2">Chp 2 - Sentiment analysis with tidy data</a> | Optional |
-| <i class="fas fa-book"></i> | TMwR: <a id="TMwR3">Chp 3 - Analyzing word and document frequency: tf-idf</a> | Optional |
 | <i class="fas fa-book"></i> | MS: <a id="MS1">Chp 1 - Your first Shiny app</a> | Optional |
 | <i class="fas fa-book"></i> | SMLTAR: <a id="SMLTAR7">Chp 7 - Classification</a> | Optional |
 
@@ -60,6 +57,7 @@ Additional topics beyond IDS.
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
 | OQ10: IDS Recap | <li><a id="OQ10">Quiz</a></li> | Mon, 5 Dec, 12:00 UK |
+| Peer evaluation | See Gradescope on Learn | Sat, 3 Dec, 09:00 UK |
 
 
 ## Interactive R tutorials
