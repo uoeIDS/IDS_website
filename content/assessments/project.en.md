@@ -3,7 +3,7 @@ title: Final Projects
 weight: 3
 ---
 
-You, as part of a __team__, will be responsible for the completion of an open ended final project for this course, the goal of which is to tackle an “interesting” problem using the tools and techniques covered in this class. Each team’s work will also be shared with and evaluated by at least one other team at an earlier stage in order to provide feedback in the form of code review.
+You, as part of a __team__, will be responsible for the completion of an open ended final project for this course, the goal of which is to tackle an “interesting” problem using the tools and techniques covered in this class. Each team’s work will also be shared with and evaluated by at least one other team at an earlier stage in order to provide feedback.
 
 {{% notice tip %}}
 Stick to optional interim deadlines.
@@ -55,6 +55,7 @@ Below are a list of data repositories that might be of interest to browse. You'r
 1. Proposal     - presentation in the workshop on Friday 28 October
 1. Presentation - due Friday, 2 Dec, at 09:00 UK
 1. Write-up     - due Friday, 2 Dec, at 09:00 UK
+1. Peer evaluation - due Saturday 3 Dec, at 09:00 UK
 
 #### Proposal
 
@@ -101,15 +102,17 @@ This write-up should provide information on the dataset you're using, your resea
 
 ### Team peer evaluation
 
-You will be asked to fill out a survey where you rate the contribution and teamwork of each team member out of 10 points. You will additionally report a contribution percentage for each team member. Submitting this information is a prerequisite for getting credit on the team member evaluation. If you are suggesting that an individual did less than 20% of the work, please provide some explanation. If any individual gets an average peer score indicating that they did less than 10% of the work, this person will receive half the grade of the rest of the group.
+You will be asked to fill out a survey where you rate the contribution and teamwork of each team member. Submitting this information is a prerequisite for getting credit on the team member evaluation. If you are suggesting that an individual did less than 20% of the work, please provide some explanation. This survey is on Gradescope, accessible via the course Learn page (Learn > Assessment > Gradescope > Peer Evaluation). The deadline for the peer evaluation is the day after the deadline for submitting the project and presentation just in case you forget to do it in time but we would recommend submitting this at the same time as your project and presentation. 
 
 ### Submission and GitHub repository
 
-You will need to submit to Learn by 9am on the 2 December:
+You will need to submit to Learn (Learn > Assessment > Gradescope > Final project - team) by 9am on the 2 December:
 
 * A `.html` version of your write-up (including a link to the GitHub repository)
 * A `.html` version of your presentation.
-* Your team peer evaluation.
+* Your team peer evaluation (under peer evaluation on Gradescope).
+
+Only _one_ member of your team should submit the write-up and presentation to Learn. This person will need to add the other team members from the drop down menu that appears under  `"View or edit group"` after uploading the files and viewing the submission. Everyone should submit the peer evaluation individually. 
 
 As explained above, you _must_ also add the course GitHub account (username: uoeIDS) to your team GitHub repository by the time of the deadline. 
 
