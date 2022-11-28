@@ -112,7 +112,7 @@ You will need to submit to Learn (Learn > Assessment > Gradescope > Final projec
 * A `.html` version of your presentation.
 * Your team peer evaluation (under peer evaluation on Gradescope).
 
-Only _one_ member of your team should submit the write-up and presentation to Learn. This person will need to add the other team members from the drop down menu that appears under  `"View or edit group"` after uploading the files and viewing the submission. Everyone should submit the peer evaluation individually. 
+Only _one_ member of your team should submit the write-up and presentation to Learn. This person will need to add the other team members from the drop down menu that appears under  _View or edit group_ after uploading the files and viewing the submission. Everyone should submit the peer evaluation individually. 
 
 As explained above, you _must_ also add the course GitHub account (username: uoeIDS) to your team GitHub repository by the time of the deadline. 
 
