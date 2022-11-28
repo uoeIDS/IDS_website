@@ -52,13 +52,13 @@ Additional topics beyond IDS.
 
 ## Assignments
 
-<p style="text-align: left">If you are having difficulty accessing your HW or Lab repo, see troubleshooting advice <a id="troubleshoot">here</a>.</p>
-
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
 | OQ10: IDS Recap | <li><a id="OQ10">Quiz</a></li> | Mon, 5 Dec, 12:00 UK |
-| Peer evaluation | See Gradescope on Learn | Sat, 3 Dec, 09:00 UK |
+| Final project | Submit via Gradescope on Learn | Fri, 2 Dec, 09:00 UK |
+| Peer evaluation | See Gradescope on Learn for survey | Sat, 3 Dec, 09:00 UK |
 
+__One__ member of your team should submit the final project write-up and presentation slides and add the other team members from the drop down menu that appears under  _View or edit group_ after uploading the files and viewing the submission. __Each individual__ should submit their own peer evaluation survey (see Gradescope). 
 
 ## Interactive R tutorials
 
