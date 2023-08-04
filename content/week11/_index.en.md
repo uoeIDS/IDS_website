@@ -14,7 +14,7 @@ hidden: false
 
 _Week 11 (28 Nov 2022 - 2 Dec 2022)_
 
-Additional topics beyond IDS.
+Additional topics beyond the course.
 
 ## Lectures
 
