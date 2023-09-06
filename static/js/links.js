@@ -547,8 +547,15 @@ try {document.getElementById("OECD").href = "https://data.oecd.org/";} catch { }
 try {document.getElementById("UCI").href = "https://archive.ics.uci.edu/ml/index.php";} catch { };
 
 // Contacts ---------------------------------------------------------------------------------------------------------------------------------------------------
-try {document.getElementById("MailAmy").href = "mailto:amy.l.wilson@ed.ac.uk";} catch { };
-try {document.getElementById("AmyWeb").href = "https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=558";} catch { };
+// try {document.getElementById("MailAmy").href = "mailto:amy.l.wilson@ed.ac.uk";} catch { };
+try {document.getElementById("MailOzan").href = "mailto:oevkaya@ed.ac.uk";} catch { };
+// try {document.getElementById("AmyWeb").href = "https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=558";} catch { };
+try {document.getElementById("OzanWeb").href = "https://ozanevkaya.netlify.app/";} catch { };
+
+try {document.getElementById("MailCecilia").href = "mailto:cecilia.balocchi@ed.ac.uk";} catch { };
+try {document.getElementById("CeciliaWeb").href = "https://cecilia-balocchi.owlstown.net/";} catch { };
+
+
 
 try {document.getElementById("DavidGitHub").href = "https://github.com/Eldave93";} catch { };
 try {document.getElementById("MailSimon").href = "mailto:simon.taylor@ed.ac.uk";} catch { };
@@ -556,7 +563,7 @@ try {document.getElementById("SimonWeb").href = "https://www.maths.ed.ac.uk/scho
 try {document.getElementById("AlexGitHub").href = "https://github.com/AlexJHomer";} catch { };
 
 try {document.getElementById("CourseSec").href = "mailto:f.c.reid@ed.ac.uk";} catch { };
-try {document.getElementById("SLA1").href = "mailto:Kat.Kiernan@ed.ac.uk";} catch { };
+// try {document.getElementById("SLA1").href = "mailto:Kat.Kiernan@ed.ac.uk";} catch { };
 try {document.getElementById("SLA2").href = "mailto:studentsupport@maths.ed.ac.uk";} catch { };
 try {document.getElementById("StudentSupportMail").href = "https://example.com";} catch { };
 try {document.getElementById("AlaaMail").href = "mailto:alaa.amri@ed.ac.uk";} catch { };
