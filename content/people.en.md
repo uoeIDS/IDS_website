@@ -31,17 +31,17 @@ title: People
 }
 </style>
 
-### Dr. Amy Wilson (Course Organiser)
+### Dr. Ozan Evkaya (Course Organiser)
 
     
 <div class="row">
   <div class="column_small">
-    <img src="/images/people/Amy.jpg" />
-    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailAmy"><i class="far fa-envelope" style="margin-right:1vw;"></i></a><a id="AmyWeb"><i class="fas fa-home"></i></a></p>
+    <img src="/images/people/Ozan.jpg" />
+    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailOzan"><i class="far fa-envelope" style="margin-right:1vw;"></i></a><a id="OzanWeb"><i class="fas fa-home"></i></a></p>
   </div>
   <div class="column_large">
-    <p style="text-align: left; font-size: 1vw; overflow:hidden;">Office 5409, James Clerk Maxwell Building, King's Buildings Campus</p>
-    <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;"><em>My pronouns are she/her.</em>  I am a Lecturer in Industrial Mathematics in the School of Mathematics with a focus on applied statistics. My work is mainly centred around the modelling of uncertainty for decision-making in applied problems in industry and government. I work across a number of application areas such as energy systems (e.g. assessing the risk of the lights going out), forensic science (e.g. what is the evidential strength of cocaine traces on banknotes) and assessing uncertainty in large computer simulators (e.g. in models of UK landscapes). The sorts of statistical approaches I have used in these applications have included the modelling of time series and spatial data and use of graphical approaches for representing statistical models. I am very interested in using statistical modelling to help people solve real-life problems - a crucial part of that is being able to extract the key messages from datasets and communicate those to non-statisticians!</p>
+    <p style="text-align: left; font-size: 1vw; overflow:hidden;">Office 2257, James Clerk Maxwell Building, King's Buildings Campus</p>
+    <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;"><em>My pronouns are he/him.</em>  I am University Teacher in Statistics at the School of Mathematics, at the University of Edinburgh, and a part-time lecturer TED University. Previously, I held postdoc positions at Padova University (2021) and KU Leuven (2020), after completing my PhD at Middle East Technical University in 2018. I am very interested in using statistical modelling to help people solve real-life problems - a crucial part of that is being able to extract the key messages from datasets and communicate those to non-statisticians!</p>
   </div>
 </div>
 
@@ -58,6 +58,20 @@ title: People
   </div>
 </div>
 
+### Dr. Cecilia Balocchi (Lecturer)
+
+<div class="row">
+  <div class="column_small">
+    <img src="/images/people/cecilia.jpg" />
+    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailCecilia"><i class="far fa-envelope" style="margin-right:1vw;"></i></a><a id="CeciliaWeb"><i class="fas fa-home"></i></a></p>
+  </div>
+  <div class="column_large">
+    <p style="text-align: left; font-size: 1vw; overflow:hidden;">Office 5414, James Clerk Maxwell Building, King's Buildings Campus</p>
+    <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;"><em>My pronouns are she/her.</em> I am a Lecturer (Assistant Professor) in Statistics at the School of Mathematics, University of Edinburgh.Previously, I was a postdoctoral researcher in Statistics at the University of Torino, working with Stefano Favaro. I am also a member of the “de Castro” Statistics Initiative at Collegio Carlo Alberto.
+I received my PhD in Statistics from the University of Pennsylvania under the supervision of Ed George and Shane Jensen. My research interests include Bayesian nonparametrics and hierarchical modeling, clustering, Bayesian regression trees and spatial methods.</p>
+  </div>
+</div>
+
   {{% notice info %}}
 With thanks to Dr. Mine Çetinkaya-Rundel for setting up the first version of this course. 
   {{% /notice %}}
@@ -66,8 +80,8 @@ With thanks to Dr. Mine Çetinkaya-Rundel for setting up the first version of th
 ### Maths Teaching Organization Staff
 <ul>
   <li>Frances Reid (Course Secretary) <a id="CourseSec"><i class="far fa-envelope"></i></a></li>
-  <li>Kat Kiernan (Student Learning Advisor) <a id="SLA1"><i class="far fa-envelope"></i></a></li>
-  <li>Grace Wilson (Student Learning Advisor) <a id="SLA2"><i class="far fa-envelope"></i></a></li>
+ <li>Kat Kiernan (Student Learning Advisor) <a id="SLA1"><i class="far fa-envelope"></i></a></li>
+  <li>SoM Student Support <a id="SLA2"><i class="far fa-envelope"></i></a></li>
 </ul>
 
 
