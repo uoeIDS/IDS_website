@@ -12,14 +12,14 @@ tags:
 - workshop
 - assignments
 - tutorials
-description: 'Week 1 (19 Sep 2022 - 23 Sep 2022): Get acquainted with the course,
+description: 'Week 1 (18 Sep 2022 - 22 Sep 2022): Get acquainted with the course,
   the technology, the workflow, and the skills you will acquire throughout the semester.'
 hidden: no
 ---
 
 # Welcome to IDS
 
-_Week 1 (19 Sep 2022 - 23 Sep 2022)_
+_Week 1 (18 Sep 2022 - 22 Sep 2022)_
 
 Get acquainted with the course, the technology, the workflow, and the skills you will acquire throughout the semester.
 
@@ -103,8 +103,9 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab00: Hello IDS!| <li><a id="LAB0I">Instructions</a></li> <li><a id="LAB0R">Repository</a></li> <li><a id="LAB0K">Solutions</a>(<a id="LAB0Kraw">Raw</a>)</li>| Fri, 23 Sep, 16:00 UK |
+| Lab00: Hello IDS!| <li><a id="LAB0I">Instructions</a></li> <li><a id="LAB0R">Repository</a></li> <li><a id="LAB0K">Solutions</a>(<a id="LAB0Kraw">Raw</a>)</li>| Fri, 22 Sep, 16:00 UK |
 
+<!--
 ## Assignments
 
 <p style="text-align: left"> This week's quiz will help you get familiar with the workflow for the rest of the course. You are urged to complete it so that you are prepared for next week and beyond. </p>
@@ -121,4 +122,4 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
 | <a id="RT1">Data Visualization Basics</a> | Extra practice |
-| <a id="AE1a">Application exercise 1</a> | Help: <a id="OpeningaProject">Opening a Project</a> |
+| <a id="AE1a">Application exercise 1</a> | Help: <a id="OpeningaProject">Opening a Project</a> | -->
