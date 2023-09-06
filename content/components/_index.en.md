@@ -46,7 +46,7 @@ date: "2021-08-03"
   </div>
 </div>
 
-The reading material and the interactive R tutorials are released on Mondays, the online lectures are on Tuesdays, the in-person lectures are on Thursdays, and the workshops are on Fridays.
+The reading material and the interactive R tutorials are released on Mondays, the in-person lectures are on Tuesday and Thursdays, and the workshops are on Fridays.
 
 <p style="text-align: left">
 If you are looking for your class times for this course, these can be found via your University of Edinburgh calendar:
