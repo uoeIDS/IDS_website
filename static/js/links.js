@@ -409,6 +409,8 @@ try {document.getElementById("rmarkdownCS").href = "https://github.com/rstudio/c
 try {document.getElementById("ggplot2CS").href = "https://github.com/rstudio/cheatsheets/blob/main/data-visualization-2.1.pdf";} catch { };
 try {document.getElementById("dplyrCS").href = "https://github.com/rstudio/cheatsheets/blob/main/data-transformation.pdf";} catch { };
 
+try {document.getElementById("Github").href = "https://rstudio.github.io/cheatsheets/git-github.pdf";} catch { };
+
 try {document.getElementById("R4DS3").href = "https://r4ds.had.co.nz/data-visualisation.html";} catch { };		// R4DS: Chapter 3
 try {document.getElementById("DV3").href = "https://socviz.co/makeplot.html";} catch { };		// Data Visualisation: Chapter 3
 try {document.getElementById("COVIDvis").href = "https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/";} catch { };

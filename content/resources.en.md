@@ -25,7 +25,6 @@ The following books can be used to follow on from the topics taught on this cour
   <li><a id="RStudio">RStudio</a></li>
   <li><a id="ids2022Git">GitHub</a></li>
   <li><a id="Piazza">Piazza</a></li>
-  <li><a id="Zoom">Zoom</a></li>
 </ul>
 
 ## Cheatsheets
@@ -33,6 +32,7 @@ The following books can be used to follow on from the topics taught on this cour
 <ul>
   <li><a id="rstudioCS">RStudio</a></li>
   <li><a id="rmarkdownCS">R Markdown</a></li>
+  <li><a id="Github">Git and GitHub with Rstudio</a></li>
   <li><a id="ggplot2CS">Data visualization with ggplot2</a></li>
   <li><a id="dplyrCS">Data wrangling with dplyr</a></li>
 </ul>
