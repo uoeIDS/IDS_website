@@ -1,36 +1,38 @@
 ---
-chapter: true
+  chapter: true
 pre: "<b>6. </b>"
-title: "6. Programming"
-menuTitle: "Programming"
+title: "6. Ethics"
+menuTitle: "Ethics"
 weight: 6
 tags: ["week 6", "tasks", "videos", "assignments", "readings", "tutorials"]
-description: "Week 6 (24 Oct 2022 - 28 Oct 2022): Harvesting data from the web, writing functions, and iteration."
+description: "Week 6 (23 Oct 2023 - 27 Oct 2023): Misrepresentation of findings, data privacy, and algorithmic bias."
+
 
 hidden: false
 ---
+  
+  # Ethics
+  
+  _Week 6 (23 Oct 2023 - 27 Oct 2023)_
 
-# Programming
-
-_Week 6 (24 Oct 2022 - 28 Oct 2022)_
-
-Writing custom functions and coding iteration loops.
+Misrepresentation of findings, data privacy, and algorithmic bias.
 
 ## Lectures
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">Recording*</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
-|:---:|:---------------------|:-----------:|:--------:|:------|
-| 11  | Programming (Functions)  | <span><a id = "MHL11"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture11"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL11">Raw<i class="fab fa-fw fa-github"/></a></span> |
-| 12  | Programming (Iterations)  | <span><a id = "MHL12"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture12"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL12">Raw<i class="fab fa-fw fa-github"/></a></span> |
-
-<p style="text-align: left">
-*These links will take you to <em>echo360</em>. Type in your university email in the <em>Email</em> text box (this will probably be the version using your UUN, like "s0123456<!-- -->@ed.ac.uk"). This should then send you to University of Edinburgh's SSO (single-sign-on) system. Enter your log-in credentials and then you should be able to watch the specific lecture you selected. If this process does not work, then you can alternatively access the lecture recordings via LEARN. Go to the Introduction to Data Science area on LEARN, select <em>Course Materials</em> and finally click on <em>Lecture Recordings</em>. This will send you to <em>echo360</em> where you can see the whole list of lecture recordings.
+  |:---:|:---------------------|:-----------:|:--------:|:------|
+  | 17  | Ethics 1  | <span><a id = "MHL17"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture17"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL17">Raw<i class="fab fa-fw fa-github"/></a></span> |
+  | 18  | Ethics 2  | <span><a id = "MHL18"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture18"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL18">Raw<i class="fab fa-fw fa-github"/></a></span> |
+  
+  
+  <p style="text-align: left">
+  *These links will take you to <em>echo360</em>. Type in your university email in the <em>Email</em> text box (this will probably be the version using your UUN, like "s0123456<!-- -->@ed.ac.uk"). This should then send you to University of Edinburgh's SSO (single-sign-on) system. Enter your log-in credentials and then you should be able to watch the specific lecture you selected. If this process does not work, then you can alternatively access the lecture recordings via LEARN. Go to the Introduction to Data Science area on LEARN, select <em>Course Materials</em> and finally click on <em>Lecture Recordings</em>. This will send you to <em>echo360</em> where you can see the whole list of lecture recordings.
 </p>
 
 ## Tasks
 
 <ol>
-<li>Watch the <a href="#videos and readings">Videos and readings</a>.</li>
+<li>Watch the <a href="#videos and reading">Videos and reading</a>.</li>
   <li>Complete the <a href="#assignments">Assignments</a>.</li>
 </ol>
 
@@ -40,16 +42,30 @@ Writing custom functions and coding iteration loops.
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS19">Chp 19 - Functions</a> | **Required** |
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS21">Chp 21 - Iteration</a> | **Required** |
+| <i class="fas fa-book"></i> | MDSR: <a id="MDSR8">Chp 8 - Data science ethics</a> | **Required** |
+| <i class="fab fa-readme"></i> | <a id="EthChal">Ethical challenges in online research: Public/private perceptions</a> | Optional |
+| <i class="fas fa-pen-fancy"></i> | <a id="AUWB">Algorithmic Unfairness Without Any Bias Baked In</a> | Optional |
+
+<p style="text-align: left">
+Below are a number of optional "guest lectures" from YouTube that illustrates why it is important to be aware of ethical issues when doing data science. Note that some videos are about 1 hour long, so we recommend watching as much as of them as you’re interested – they cover highly important topics without being highly technical.</p>
+
+| <div style="width:50px"></div>  | <div style="width:420px"></div>  |
+|:---:|:---------------------|
+|  <a id="W7GL1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | 	*Alberto Cairo - How charts lie*  |
+| <a id="W7GL2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a>  | *The Guardian - Cambridge Analytica whistleblower*|
+| <a id="W7GL3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *Joy Buolamwini - How I’m fighting bias in algorithms* |
+| <a id="W7GL4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *Cathy O’Neil - Weapons of Math Destruction* |
+| <a id="W7GL5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *Safiya Umoja Noble - Imagining a Future Free from the Algorithms of Oppression* |
+| <a id="W7GL6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *Kristian Lum - What’s An Algorithm Got To Do With It* |
+
+
+
 
 ## Workshop
 
-
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Project: Proposal |<li><a id="project_1">Instructions</a></li> <li><a id="projectR">Repository</a></li>| Fri, 28 Oct  |
-| Project: feedback |<li><a id="feedback_1">0900 workshop</a></li> <li><a id="feedback_2">1030 workshop</a></li><li><a id="feedback_3">1400 workshop</a></li><li><a id="feedback_4">1530 workshop</a></li>| Fri, 28 Oct  |
+| Lab08: Work on projects |  <li><a id="LAB7I">Instructions</a></li>| Fri, 18 Nov |
 
 ## Assignments
 
@@ -57,16 +73,15 @@ Writing custom functions and coding iteration loops.
 
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
 |:---|:---|:---|
-| HW03: Money in politics | <li><a id="HW3I">Instructions</a></li><li><a id="HW3R">Repository</a></li><li><a id="HW3K">Solutions</a>(<a id="HW3Kraw">Raw</a>)</li> | Fri, 04 Nov, 12:00 UK |
-| OQ05: Functions and iteration | <li><a id="OQ5">Quiz</a></li> | Mon, 31 Oct, 12:00 UK |
+| OQ08: Modelling properties and Ethics | <li><a id="OQ8">Quiz</a></li> | Mon, 21 Nov, 12:00 UK |
+
+<p style="text-align: left">
+<b>Reminder</b>: Homework assignment <em>hw-04</em> is due Fri, 18 Nov, 12:00 UK time (midday).
+</p>
 
 
 ## Interactive R tutorials
 
-<p style="text-align: left"> The following are interactive R tutorials, designed to give you more practice with R. These are optional, but they will show up in your next homework assignment, so you should gain familiarity with it. If you’re struggling with any of the topics covered this week, we strongly recommend you work through the interactive tutorials.</p>
-
-|  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
-|:---|:---|
-| <a id="RT7">Money in US Politics</a> | Extra practice |
-| <a id="RT8">Write functions</a> | Extra practice |
-| <a id="RT9">Iterate</a> | Extra practice |
+<p style="text-align: left"> No new interactive R tutorials this week. If you haven’t completed the previous week's ones, this is your chance to catch up!</p>
+  </p>
+  

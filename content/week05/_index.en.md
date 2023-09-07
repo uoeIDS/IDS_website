@@ -5,14 +5,14 @@ title: "5. Communicating Data Science Results Effectively"
 menuTitle: "Communicating Data Science Results Effectively"
 weight: 5
 tags: ["week 5", "tasks", "videos", "assignments", "readings", "tutorials"]
-description: "Week 5 (17 Oct 2022 - 21 Oct 2022): Tips for effective data visualization, communication of results, and collaboration."
+description: "Week 5 (16 Oct 2023 - 20 Oct 2023): Tips for effective data visualization, communication of results, and collaboration."
 
 hidden: no
 ---
 
 # Communicating Data Science Results Effectively
 
-_Week 5 (17 Oct 2022 - 21 Oct 2022)_
+_Week 5 (16 Oct 2023 - 20 Oct 2023)_
 
 Tips for effective data visualization, communication of results, and collaboration.
 
