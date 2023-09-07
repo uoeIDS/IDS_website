@@ -1,5 +1,5 @@
 ---
-  chapter: true
+chapter: true
 pre: "<b>6. </b>"
 title: "6. Ethics"
 menuTitle: "Ethics"

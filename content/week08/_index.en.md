@@ -5,14 +5,14 @@ title: "8. Modelling Data"
 menuTitle: "Modelling Data"
 weight: 8
 tags: ["week 8", "tasks", "videos", "assignments", "readings", "tutorials"]
-description: "Week 8 (31 Oct 2022 - 4 Nov 2022): Linear models for predicting numerical data from single and multiple variables."
+description: "Week 8 (06 Nov 2023 - 10 Nov 2023): Linear models for predicting numerical data from single and multiple variables."
 
 hidden: false
 ---
   
   # Modelling Data
   
-  _Week 7 (31 Oct 2022 - 4 Nov 2022)_
+  _Week 8 (06 Nov 2023 - 10 Nov 2023)_
 
 Linear models for predicting numerical data from single and multiple variables.
 
