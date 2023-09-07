@@ -11,9 +11,7 @@ Stick to optional interim deadlines.
 
 ## Too Long Didn't Read (TL;DR)
 
-Pick a dataset, any dataset...
-
-...and do something with it. That is your final project in a nutshell. 
+You will pick a dataset, from a dedicated list of data sources. Your goal is to do something reasonable with the selected data set using what we learned from the course mainly. That is your final project in a nutshell. 
 
 ## May be too long, but please do read
 
@@ -23,6 +21,9 @@ The goal is not to do an exhaustive data analysis i.e., do not calculate every s
 
 The project is very open ended. You should create some kind of compelling visualization(s) of this data in R. There is no limit on what tools or packages you may use, but sticking to packages we learned in class (e.g. `tidyverse`) is advised. You do not need to visualize all of the data at once. A single high quality visualization will contribute much more to a good mark than a large number of poor quality visualizations. Also pay attention to your presentation. Neatness, coherency, and clarity will count. All analyses must be done in RStudio, using R. You must also set up and use a GitHub repository to collaborate with your team. 
 
+Other details are on the way...
+
+<!--
 ### Data
 
 In order for you to have the greatest chance of success with this project it is important that you choose a manageable dataset. This means that the data should be readily accessible and large enough that multiple relationships can be explored. As such, your dataset must have at least 50 observations and between 10 and 20 variables (exceptions can be made but you must speak with the course team first). The variables in the data should include categorical variables, discrete numerical variables, and continuous numerical variables.
@@ -89,11 +90,13 @@ Before you finalize your presentation, make sure your chunks are turned off with
 {{% /notice %}}
 
 Presentation schedule: Presentations will take place during the last workshop of the semester. All teams will give them as a live presentation in the workshop. During your workshop you will watch presentations from other teams in your workshop and will be able to ask questions at the end. The presentation line-up will be generated randomly.
+-->
 
 <!--{{% notice note %}}
 Should you need to [pre-record your presentation](https://docs.google.com/document/d/1FxpFqUbEVpOzp7PWICC8gEvmIKfsNPT3mmQuSufsGHQ/edit?usp=sharing), you will need to upload your presentation *somewhere* and then add a link to the video in your repo README. We recommend you upload your video to MediaHopper. To do so, go to [media.ed.ac.uk](https://media.ed.ac.uk/), log in from the top left corner, then click on Add New Media and upload your video as unlisted. Once uploaded, grab the sharing link and add it to your repo README, next to the link to your slides. [This video](https://www.youtube.com/watch?v=rqxhOgrifyk) goes through this process. Ask questions **early** if anything is unclear. Your video must be updated and a link must be added to your repo by 9am UK time on 3 December!
 {{% /notice %}}-->
 
+<!--
 #### Write-up
 
 Along with your presentation slides, we want you to provide a brief summary of your project. This can be a markdown (`.md`) or an rmarkdown (`.Rmd`) file, depending on whether you want to include code in your write-up. The write-up should be around 1,500 words, not including figures and tables. 
@@ -156,3 +159,4 @@ Team peer evaluation           | 10 pts
 - There is no late submission / make up for the presentation. You must be in class on the day of the presentation to get credit for it (In case of illness, requirement to self-isolate or similar, special circumstances can be applied for from the university: see the <a id="policies">Policies page</a>).
 
 - The late work policy for the write-up is 5% of the maximum obtainable mark per calendar day up to seven calendar days after the deadline.
+-->
