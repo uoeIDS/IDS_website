@@ -892,53 +892,53 @@ try {DateRestrictLink(document.getElementById("LAB0K"), "23 September 2023", "ht
 try {DateRestrictLink(document.getElementById("LAB0Kraw"), "23 September 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-00-key");} catch { };
 
 // lab 1 - Plastic Waste WEEK 02
-try {DateRestrictLink(document.getElementById("LAB1I"), "29 September 2022", "https://uoeids.github.io/labs/lab-01/lab-01-plastic-waste.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB1R"), "29 September 2022", "https://github.com/uoeIDS/lab-01-template");} catch { };
-try {DateRestrictLink(document.getElementById("LAB1K"), "01 October 2022", "https://uoeIDS.github.io/labs/lab-01-key/lab-01-key.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB1Kraw"), "01 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-01-key");} catch { };
+try {DateRestrictLink(document.getElementById("LAB1I"), "28 September 2023", "https://uoeids.github.io/labs/lab-01/lab-01-plastic-waste.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB1R"), "28 September 2023", "https://github.com/uoeIDS/lab-01-template");} catch { };
+try {DateRestrictLink(document.getElementById("LAB1K"), "30 September 2023", "https://uoeIDS.github.io/labs/lab-01-key/lab-01-key.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB1Kraw"), "30 September 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-01-key");} catch { };
 
 // lab 2 - Take a sad plot and make it better WEEK 03
-try {DateRestrictLink(document.getElementById("LAB2I"), "06 October 2022", "https://uoeids.github.io/labs/lab-02/lab-02-sad-plot.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB2R"), "06 October 2022", "https://github.com/uoeIDS/lab-02-template");} catch { };
-try {DateRestrictLink(document.getElementById("LAB2K"), "08 October 2022", "https://uoeIDS.github.io/labs/lab-02-key/lab-02-key.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB2Kraw"), "08 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-02-key");} catch { };
+try {DateRestrictLink(document.getElementById("LAB2I"), "05 October 2023", "https://uoeids.github.io/labs/lab-02/lab-02-sad-plot.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB2R"), "05 October 2023", "https://github.com/uoeIDS/lab-02-template");} catch { };
+try {DateRestrictLink(document.getElementById("LAB2K"), "07 October 2023", "https://uoeIDS.github.io/labs/lab-02-key/lab-02-key.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB2Kraw"), "07 October 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-02-key");} catch { };
 
 // lab 3 - Nobel Laureates WEEK 04
-try {DateRestrictLink(document.getElementById("LAB3I"), "13 October 2022", "https://uoeids.github.io/labs/lab-03/lab-03-nobel-laureates.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB3R"), "13 October 2022", "https://github.com/uoeIDS/lab-03-template");} catch { };
-try {DateRestrictLink(document.getElementById("LAB3K"), "15 October 2022", "https://uoeIDS.github.io/labs/lab-03-key/lab-03-key.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB3Kraw"), "15 October 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-03-key");} catch { };
+try {DateRestrictLink(document.getElementById("LAB3I"), "12 October 2023", "https://uoeids.github.io/labs/lab-03/lab-03-nobel-laureates.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB3R"), "12 October 2023", "https://github.com/uoeIDS/lab-03-template");} catch { };
+try {DateRestrictLink(document.getElementById("LAB3K"), "14 October 2023", "https://uoeIDS.github.io/labs/lab-03-key/lab-03-key.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB3Kraw"), "14 October 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-03-key");} catch { };
 
 // lab 4 - Project WEEK 05 AND WEEK 06
-try {DateRestrictLink(document.getElementById("project"), "19 October 2022", "https://uoeids.github.io/labs/lab-04/lab-04-projects.html");} catch { };
-try {DateRestrictLink(document.getElementById("projectR"), "19 October 2022", "https://github.com/uoeIDS/presentation-template");} catch { };
-try {DateRestrictLink(document.getElementById("project_1"), "25 October 2022", "https://uoeids.github.io/labs/lab-05/lab-05-proposal.html");} catch { };
-try {DateRestrictLink(document.getElementById("projectR_1"), "27 October 2022", "https://github.com/uoeIDS/project-template");} catch { };
-try {DateRestrictLink(document.getElementById("feedback_1"), "27 October 2022", "https://uoeids.github.io/labs/lab-05/9amworkshop.html");} catch { };
-try {DateRestrictLink(document.getElementById("feedback_2"), "27 October 2022", "https://uoeids.github.io/labs/lab-05/1030workshop.html");} catch { };
-try {DateRestrictLink(document.getElementById("feedback_3"), "27 October 2022", "https://uoeids.github.io/labs/lab-05/1400workshop.html");} catch { };
-try {DateRestrictLink(document.getElementById("feedback_4"), "27 October 2022", "https://uoeids.github.io/labs/lab-05/1530workshop.html");} catch { };
+try {DateRestrictLink(document.getElementById("project"), "19 October 2023", "https://uoeids.github.io/labs/lab-04/lab-04-projects.html");} catch { };
+try {DateRestrictLink(document.getElementById("projectR"), "19 October 2023", "https://github.com/uoeIDS/presentation-template");} catch { };
+try {DateRestrictLink(document.getElementById("project_1"), "25 October 2023", "https://uoeids.github.io/labs/lab-05/lab-05-proposal.html");} catch { };
+try {DateRestrictLink(document.getElementById("projectR_1"), "27 October 2023", "https://github.com/uoeIDS/project-template");} catch { };
+try {DateRestrictLink(document.getElementById("feedback_1"), "27 October 2023", "https://uoeids.github.io/labs/lab-05/9amworkshop.html");} catch { };
+try {DateRestrictLink(document.getElementById("feedback_2"), "27 October 2023", "https://uoeids.github.io/labs/lab-05/1030workshop.html");} catch { };
+try {DateRestrictLink(document.getElementById("feedback_3"), "27 October 2023", "https://uoeids.github.io/labs/lab-05/1400workshop.html");} catch { };
+try {DateRestrictLink(document.getElementById("feedback_4"), "27 October 2023", "https://uoeids.github.io/labs/lab-05/1530workshop.html");} catch { };
 
 // lab 6 - Conveying the right message through visualisation WEEK 07
-try {DateRestrictLink(document.getElementById("LAB5I"), "3 November 2022", "https://uoeids.github.io/labs/lab-06/lab-06-better-viz.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB5R"), "3 November 2022", "https://github.com/uoeIDS/lab-06-template");} catch { };
-try {DateRestrictLink(document.getElementById("LAB5K"), "5 November 2022", "https://uoeids.github.io/labs/lab-06-key/lab-06-key.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB5Kraw"), "5 November 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-06-key");} catch { };
+try {DateRestrictLink(document.getElementById("LAB5I"), "2 November 2023", "https://uoeids.github.io/labs/lab-06/lab-06-better-viz.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB5R"), "2 November 2023", "https://github.com/uoeIDS/lab-06-template");} catch { };
+try {DateRestrictLink(document.getElementById("LAB5K"), "4 November 2023", "https://uoeids.github.io/labs/lab-06-key/lab-06-key.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB5Kraw"), "4 November 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-06-key");} catch { };
 
 // lab 7 - Course Evaluations WEEK 08
-try {DateRestrictLink(document.getElementById("LAB6I"), "9 November 2022", "https://uoeids.github.io/labs/lab-07/lab-07.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB6R"), "9 November 2022", "https://github.com/uoeIDS/lab-07-template");} catch { };
-try {DateRestrictLink(document.getElementById("LAB6K"), "12 November 2022", "https://uoeids.github.io/labs/lab-07-key/lab-07-key.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB6Kraw"), "12 November 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-07-key");} catch { };
+try {DateRestrictLink(document.getElementById("LAB6I"), "9 November 2023", "https://uoeids.github.io/labs/lab-07/lab-07.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB6R"), "9 November 2023", "https://github.com/uoeIDS/lab-07-template");} catch { };
+try {DateRestrictLink(document.getElementById("LAB6K"), "11 November 2023", "https://uoeids.github.io/labs/lab-07-key/lab-07-key.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB6Kraw"), "11 November 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-07-key");} catch { };
 
 // lab 8 - Work on Projects WEEK 09
-try {DateRestrictLink(document.getElementById("LAB7I"), "17 November 2022", "https://uoeids.github.io/labs/lab-08/lab-08.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB7I"), "16 November 2023", "https://uoeids.github.io/labs/lab-08/lab-08.html");} catch { };
 
 // lab 9 - Make Progress on Projects WEEK 10
-try {DateRestrictLink(document.getElementById("LAB8I"), "24 November 2022", "https://uoeids.github.io/labs/lab-09/lab-09.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB8I"), "23 November 2023", "https://uoeids.github.io/labs/lab-09/lab-09.html");} catch { };
 
 // lab 10 - Project submission
-try {DateRestrictLink(document.getElementById("projectEND"), "28 November 2022", "/assessments/project");} catch { };
+try {DateRestrictLink(document.getElementById("projectEND"), "28 November 2023", "/assessments/project");} catch { };
 
 
 
