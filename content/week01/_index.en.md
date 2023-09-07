@@ -12,14 +12,14 @@ tags:
 - workshop
 - assignments
 - tutorials
-description: 'Week 1 (18 Sep 2022 - 22 Sep 2022): Get acquainted with the course,
+description: 'Week 1 (18 Sep 2023 - 22 Sep 2023): Get acquainted with the course,
   the technology, the workflow, and the skills you will acquire throughout the semester.'
 hidden: no
 ---
 
 # Welcome to IDS
 
-_Week 1 (18 Sep 2022 - 22 Sep 2022)_
+_Week 1 (18 Sep 2023 - 22 Sep 2023)_
 
 Get acquainted with the course, the technology, the workflow, and the skills you will acquire throughout the semester.
 

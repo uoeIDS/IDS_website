@@ -677,13 +677,13 @@ try {DateRestrictLink(document.getElementById("test8"), "01 August 2023", "/erro
 //try {document.getElementById("RecodingAlt").href = "https://www.learn.ed.ac.uk/ultra/courses/_98726_1/cl/outline";} catch { };
 
 // week 1 lecture 01/02
-try {DateRestrictLink(document.getElementById("lecture01"), "20 September 2022", "https://uoeids.github.io/slides/w01-L01/w01-L01.html");} catch { };
-try {DateRestrictLink(document.getElementById("GHL01"), "20 September 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w01-L01");} catch { };
-try {DateRestrictLink(document.getElementById("MHL01"), "20 September 2022", "https://echo360.org.uk/lesson/f1b5fda8-7a25-45ff-b60d-464f6776cdad/classroom#sortDirection=desc");} catch { };
+try {DateRestrictLink(document.getElementById("lecture01"), "18 September 2023", "https://uoeids.github.io/slides/w01-L01/w01-L01.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL01"), "18 September 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w01-L01");} catch { };
+try {DateRestrictLink(document.getElementById("MHL01"), "20 September 2023", "https://echo360.org.uk/lesson/f1b5fda8-7a25-45ff-b60d-464f6776cdad/classroom#sortDirection=desc");} catch { };
 
-try {DateRestrictLink(document.getElementById("lecture02"), "20 September 2022", "https://uoeids.github.io/slides/w01-L02/w01-L02.html");} catch { };
-try {DateRestrictLink(document.getElementById("GHL02"), "20 September 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w01-L02");} catch { };
-try {DateRestrictLink(document.getElementById("MHL02"), "20 September 2022", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-09-22T10:00:00.000_2022-09-22T10:55:00.000/classroom#sortDirection=desc");} catch { };
+try {DateRestrictLink(document.getElementById("lecture02"), "18 September 2023", "https://uoeids.github.io/slides/w01-L02/w01-L02.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL02"), "18 September 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w01-L02");} catch { };
+try {DateRestrictLink(document.getElementById("MHL02"), "22 September 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-09-22T10:00:00.000_2022-09-22T10:55:00.000/classroom#sortDirection=desc");} catch { };
 
 // week 2 lecture 03/04
 try {DateRestrictLink(document.getElementById("lecture03"), "26 September 2022", "https://uoeids.github.io/slides/w02-L03/w02-L03.html");} catch { };
@@ -885,10 +885,10 @@ try {DateRestrictLink(document.getElementById("HW4Kraw"), "23 November 2021", "h
 // Labs --------------------------------------------------------------------------------------------------------------------------------------------
 
 // lab 0 - Hello IDS! WEEK 01
-try {DateRestrictLink(document.getElementById("LAB0I"), "22 September 2022", "https://uoeids.github.io/labs/lab-00/lab-00-hello-ids-2022.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB0R"), "22 September 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-00");} catch { };
-try {DateRestrictLink(document.getElementById("LAB0K"), "24 September 2022", "https://uoeIDS.github.io/labs/lab-00-key/lab-00-key.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB0Kraw"), "24 September 2022", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-00-key");} catch { };
+try {DateRestrictLink(document.getElementById("LAB0I"), "21 September 2023", "https://uoeids.github.io/labs/lab-00/lab-00-hello-ids-2022.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB0R"), "21 September 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-00");} catch { };
+try {DateRestrictLink(document.getElementById("LAB0K"), "23 September 2023", "https://uoeIDS.github.io/labs/lab-00-key/lab-00-key.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB0Kraw"), "23 September 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-00-key");} catch { };
 
 // lab 1 - Plastic Waste WEEK 02
 try {DateRestrictLink(document.getElementById("LAB1I"), "29 September 2022", "https://uoeids.github.io/labs/lab-01/lab-01-plastic-waste.html");} catch { };
