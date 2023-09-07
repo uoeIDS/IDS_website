@@ -25,8 +25,10 @@ Misrepresentation of findings, data privacy, and algorithmic bias.
   | 18  | Ethics 2  | <span><a id = "MHL18"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture18"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL18">Raw<i class="fab fa-fw fa-github"/></a></span> |
   
   
-  <p style="text-align: left">
-  *These links will take you to <em>echo360</em>. Type in your university email in the <em>Email</em> text box (this will probably be the version using your UUN, like "s0123456<!-- -->@ed.ac.uk"). This should then send you to University of Edinburgh's SSO (single-sign-on) system. Enter your log-in credentials and then you should be able to watch the specific lecture you selected. If this process does not work, then you can alternatively access the lecture recordings via LEARN. Go to the Introduction to Data Science area on LEARN, select <em>Course Materials</em> and finally click on <em>Lecture Recordings</em>. This will send you to <em>echo360</em> where you can see the whole list of lecture recordings.
+<p style="text-align: left">
+*These links will take you to <em>echo360</em>. Type in your university email in the <em>Email</em> text box (this will probably be the version using your UUN, like "s0123456<!-- -->@ed.ac.uk"). This should then send you to University of Edinburgh's SSO (single-sign-on) system. Enter your log-in credentials and then you should be able to watch the specific lecture you selected. 
+
+If this process does not work, then you can alternatively access the lecture recordings via LEARN ULTRA. Go to the Introduction to Data Science area on LEARN ULTRA, under the <em>Course Content section</em> you will see <em>Lecture Recordings</em> Media Hooper icon. This will send you to <em>echo360</em> where you can see the whole list of lecture recordings.
 </p>
 
 ## Tasks
