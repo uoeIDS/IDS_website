@@ -458,6 +458,9 @@ try {document.getElementById("TMwR3").href = "https://www.tidytextmining.com/tfi
 try {document.getElementById("MS1").href = "https://mastering-shiny.org/basic-app.html";} catch { };
 try {document.getElementById("SMLTAR7").href = "https://smltar.com/mlclassification.html";} catch { };
 
+// About Gen-AI and other new links 
+try {document.getElementById("Gen-AI").href = "https://www.ed.ac.uk/bayes/ai-guidance-for-staff-and-students/ai-guidance-for-students";} catch { };
+
 
 // Code-Along ----------------------------------------------------------------------------------------------------------------------------------------------
 try {document.getElementById("CARepo").href = "https://ids-s1-21.github.io/code-along/";} catch { };
