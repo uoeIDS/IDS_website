@@ -56,6 +56,7 @@ Tips for effective data visualization, communication of results, and collaborati
 |:---|:---|:---|
 | Project: Proposal | <li><a id="project">Instructions</a></li> <li><a id="projectR">Repository</a></li>| Fri, 21 Oct |
 
+<!--
 ## Assignments
 
 <p style="text-align: left">If you are having difficulty accessing your HW or Lab repo, see troubleshooting advice <a id="troubleshoot">here</a>.</p>
@@ -77,4 +78,4 @@ Tips for effective data visualization, communication of results, and collaborati
 |:---|:---|
 | <a id="RT6">Lego Sales</a> | Extra practice |
 | <a id="AE5">Application exercise 5 - Brexit</a> | Help: <a id="OpeningaProject">Opening a Project</a> |
-
+-->

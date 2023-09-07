@@ -50,6 +50,7 @@ Evaluating models with cross validation and uncertainty quantification with boot
 |:---|:---|:---|
 | Lab09: Make progress on projects |  <li><a id="LAB8I">Instructions</a></li>| Fri, 25 Nov |
 
+<!--
 ## Assignments
 
 <p style="text-align: left">If you are having difficulty accessing your HW or Lab repo, see troubleshooting advice <a id="troubleshoot">here.</a></p>
@@ -68,4 +69,4 @@ Evaluating models with cross validation and uncertainty quantification with boot
 | <a id="RT11">Exploring the GSS</a> | Extra practice |
 | <a id="RT12">Bootstrapping the GSS</a> | Extra practice |
 | <a id="AE6">Application exercise 6 - The Office</a> | Help: <a id="OpeningaProject">Opening a Project</a> |
-
+-->

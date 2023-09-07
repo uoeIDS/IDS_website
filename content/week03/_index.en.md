@@ -56,6 +56,7 @@ Importing data, data types and classes, recoding.
 |:---|:---|:---|
 | Lab03: Nobel laureates | <li><a id="LAB3I">Instructions</a></li> <li><a id="LAB3R">Repository</a></li><li><a id="LAB3K">Solutions</a>(<a id="LAB3Kraw">Raw</a>)</li> |  Fri, 14 Oct  |
 
+<!--
 ## Assignments
 
 <p style="text-align: left">If you are having difficulty accessing your HW or Lab repo, see troubleshooting advice <a id="troubleshoot">here</a>.</p>
@@ -75,5 +76,5 @@ Importing data, data types and classes, recoding.
 | <a id="RT5">What should I major in?</a> | Extra practice |
 | <a id="AE4a">Application exercise 4a - Hotels + Data types</a> | Help: <a id="OpeningaProject">Opening a Project</a> |
 | <a id="AE4b">Application exercise 4b - Nobels + Sales + Data import</a> | Help: <a id="OpeningaProject">Opening a Project</a> |
-
+-->
 

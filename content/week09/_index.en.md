@@ -53,6 +53,7 @@ Logistic regression for predicting categorical data and model building.
 |:---|:---|:---|
 | Lab07 - course evaluations |  <li><a id="LAB6I">Instructions</a></li> <li><a id="LAB6R">Repository</a></li><li><a id="LAB6K">Solutions</a>(<a id="LAB6Kraw">Raw</a>)</li>| Fri, 11 Nov  |
 
+<!--
 ## Assignments
 
 <p style="text-align: left">If you are having difficulty accessing your HW or Lab repo, see troubleshooting advice <a id="troubleshoot">here</a>.</p>
@@ -67,3 +68,4 @@ Logistic regression for predicting categorical data and model building.
 ## Interactive R tutorials
 
 <p style="text-align: left"> No interactive R tutorials this week. Use the time to work on projects!</p>
+-->

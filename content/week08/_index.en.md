@@ -55,6 +55,7 @@ Linear models for predicting numerical data from single and multiple variables.
 |:---|:---|:---|
 | Lab06: 	Conveying the right message through visualisation | <li><a id="LAB5I">Instructions</a></li> <li><a id="LAB5R">Repository</a></li><li><a id="LAB5K">Solutions</a>(<a id="LAB5Kraw">Raw</a>)</li> | Fri, 4 Nov |
 
+<!--
 ## Assignments
 
 <p style="text-align: left">If you are having difficulty accessing your HW or Lab repo, see troubleshooting advice <a id="troubleshoot">here</a>.</p>
@@ -78,6 +79,7 @@ Linear models for predicting numerical data from single and multiple variables.
   | Session artifacts | <a id="CA8Rmd">.Rmd</a> <a id="CA8Md">.md</a>|
   -->
   
+  <!--
   ## Interactive R tutorials
   
   <p style="text-align: left"> The following interactive R tutorial is designed to give you more practice with R. If you’re struggling with any of the topics covered this week, we strongly recommend you work through the interactive tutorials.</p>
@@ -85,4 +87,4 @@ Linear models for predicting numerical data from single and multiple variables.
   |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
   |:---|:---|
   | <a id="RT10">Bike Rentals in D.C.</a> | Extra Practice |
-  
+  -->

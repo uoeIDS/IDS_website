@@ -67,6 +67,7 @@ Below are a number of optional "guest lectures" from YouTube that illustrates wh
 |:---|:---|:---|
 | Lab08: Work on projects |  <li><a id="LAB7I">Instructions</a></li>| Fri, 18 Nov |
 
+<!--
 ## Assignments
 
 <p style="text-align: left">If you are having difficulty accessing your HW or Lab repo, see troubleshooting advice <a id="troubleshoot">here</a>.</p>
@@ -84,4 +85,4 @@ Below are a number of optional "guest lectures" from YouTube that illustrates wh
 
 <p style="text-align: left"> No new interactive R tutorials this week. If you haven’t completed the previous week's ones, this is your chance to catch up!</p>
   </p>
-  
+-->

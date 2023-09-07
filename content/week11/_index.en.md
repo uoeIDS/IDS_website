@@ -50,6 +50,7 @@ Additional topics beyond the course.
 |:---|:---|:---|
 | Project |  <li><a id="projectEND">Instructions</a></li> | Fri, 2 Dec |
 
+<!--
 ## Assignments
 
 | <div style="width:300px;text-align:left">Assignment Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Due</div> |
@@ -63,3 +64,4 @@ __One__ member of your team should submit the final project write-up and present
 ## Interactive R tutorials
 
 <p style="text-align: left"> No new interactive R tutorials this week. If you haven’t completed last week’s tutorials, you should do so.</p>
+-->

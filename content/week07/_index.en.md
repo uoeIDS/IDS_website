@@ -51,6 +51,7 @@ Writing custom functions and coding iteration loops.
 | Project: Proposal |<li><a id="project_1">Instructions</a></li> <li><a id="projectR">Repository</a></li>| Fri, 28 Oct  |
 | Project: feedback |<li><a id="feedback_1">0900 workshop</a></li> <li><a id="feedback_2">1030 workshop</a></li><li><a id="feedback_3">1400 workshop</a></li><li><a id="feedback_4">1530 workshop</a></li>| Fri, 28 Oct  |
 
+<!--
 ## Assignments
 
 <p style="text-align: left">If you are having difficulty accessing your HW or Lab repo, see troubleshooting advice <a id="troubleshoot">here</a>.</p>
@@ -70,3 +71,4 @@ Writing custom functions and coding iteration loops.
 | <a id="RT7">Money in US Politics</a> | Extra practice |
 | <a id="RT8">Write functions</a> | Extra practice |
 | <a id="RT9">Iterate</a> | Extra practice |
+-->

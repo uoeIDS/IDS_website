@@ -59,6 +59,7 @@ Data visualization and interpretation of graphical information.
 |:---|:---|:---|
 | Lab02: Make a sad plot better | <li><a id="LAB2I">Instructions</a></li> <li><a id="LAB2R">Repository</a></li><li><a id="LAB2K">Solutions</a>(<a id="LAB2Kraw">Raw</a>)</li> | Fri, 7 Oct  |
 
+<!--
 ## Assignments
 
 <p style="text-align: left">If you are having difficulty accessing your HW or Lab repo, see troubleshooting advice <a id="troubleshoot">here</a>.</p>
@@ -81,5 +82,5 @@ Data visualization and interpretation of graphical information.
 |:---|:---|
 | <a id="RT4">Work with data</a> | Extra practice |
 | <a id="AE3">Application exercise 3 - Hotels</a> | Help: <a id="OpeningaProject">Opening a Project</a> |
-
+-->
 

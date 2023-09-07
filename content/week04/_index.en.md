@@ -77,6 +77,7 @@ If you have not completed the <em>first time setup instructions</em> found on th
 |:---|:---|:---|
 | Lab01: Plastic waste | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li><li><a id="LAB1K">Solutions</a>(<a id="LAB1Kraw">Raw</a>)</li> | Fri, 30 Sep |
 
+<!--
 ## Assignments
 
 <p style="text-align: left">If you are having difficulty accessing your HW or Lab repo, see troubleshooting advice <a id="troubleshoot2">here</a>.</p>
@@ -97,15 +98,18 @@ If you have not completed the <em>first time setup instructions</em> found on th
   | Recording | <a id="CA2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg"> </i></span></a> <a id="CA2MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span></a>
   | Session artifacts | <a id="CA2Rmd">.Rmd</a> <a id="CA2Md">.md</a>|
   -->
-  
+
+<!--  
   ## Interactive R tutorials
   
   <p style="text-align: left"> The following extras are designed to give you more practice with R. If you're struggling with any of the topics covered this week, we strongly recommend you work through these.</p>
+-->
 
 <!--
 <p style="text-align: left"> The following are interactive R tutorials, designed to give you more practice with R. These are optional, but the “Airbnb Listings in Edinburgh” dataset shows up in your next homework assignment as well, so you might want to go through that one so that you can gain familiarity with it. If you’re struggling with any of the topics covered this week, we strongly recommend you work through the second tutorial as well.</p>
 -->
 
+<!--
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
 | <a id="RT1">Data Visualization Basics</a> | Extra practice |
