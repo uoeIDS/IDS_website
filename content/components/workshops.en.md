@@ -3,7 +3,8 @@ title: Workshops
 weight: 3
 ---
 
-These will be held on Fridays and will be held in-person. 
+These will be held on Fridays and will be held in-person. Students are expected to make use of GitHub as their central collaborative platform. 
+
 
 <!--The full list of times and locations are detailed below:
 
@@ -23,12 +24,15 @@ You are expected to bring a laptop to the workshops. Please read the school's [T
 
 During the workshops you will work in  __teams__ of 3 or 4 students on computing lab exercises. You can meet up with your team later to complete anything that you didn't manage to finish during the workshop. 
 
+{{% notice note %}}
+For the allocation of teams for group projects, working as teams of 3 or 4 during workshops will be an important asses for all. Detailed allocations will be announced during the semester via Learn page, when it is necessary.
+{{% /notice %}}
+
 {{% notice tip %}}
 Set up weekly team meetings between Friday and Tuesday.
 {{% /notice %}}
 
 
-Students are expected to make use of GitHub as their central collaborative platform. 
 
 {{% notice note %}}
 To take part in workshops you will need to first set up your GitHub account, download and install R and RStudio and link RStudio to your GitHub account. Instructions to do this are given in the <a id="troubleshoot">Setup & Troubleshooting</a> page.
