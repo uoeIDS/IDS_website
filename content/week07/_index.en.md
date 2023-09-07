@@ -49,7 +49,7 @@ Writing custom functions and coding iteration loops.
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
 | Project: Proposal |<li><a id="project_1">Instructions</a></li> <li><a id="projectR">Repository</a></li>| Fri, 28 Oct  |
-| Project: feedback |<li><a id="feedback_1">0900 workshop</a></li> <li><a id="feedback_2">1030 workshop</a></li><li><a id="feedback_3">1400 workshop</a></li><li><a id="feedback_4">1530 workshop</a></li>| Fri, 28 Oct  |
+| Project: feedback |<li><a id="feedback_1">0900 workshop</a></li> <li><a id="feedback_2">1030 workshop</a></li><li><a id="feedback_3">1400 workshop</a></li><li><a id="feedback_4">1530 workshop</a></li>| Fri, 03 Nov, 16:00 UK  |
 
 <!--
 ## Assignments

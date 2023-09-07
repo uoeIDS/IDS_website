@@ -48,7 +48,7 @@ Additional topics beyond the course.
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Project |  <li><a id="projectEND">Instructions</a></li> | Fri, 2 Dec |
+| Project |  <li><a id="projectEND">Instructions</a></li> | Fri, 01 Dec, 16:00 UK |
 
 <!--
 ## Assignments

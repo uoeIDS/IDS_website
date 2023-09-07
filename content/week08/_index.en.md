@@ -54,7 +54,7 @@ Linear models for predicting numerical data from single and multiple variables.
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab06: 	Conveying the right message through visualisation | <li><a id="LAB5I">Instructions</a></li> <li><a id="LAB5R">Repository</a></li><li><a id="LAB5K">Solutions</a>(<a id="LAB5Kraw">Raw</a>)</li> | Fri, 4 Nov |
+| Lab06: 	Conveying the right message through visualisation | <li><a id="LAB5I">Instructions</a></li> <li><a id="LAB5R">Repository</a></li><li><a id="LAB5K">Solutions</a>(<a id="LAB5Kraw">Raw</a>)</li> | Fri, 10 Nov, 16:00 UK |
 
 <!--
 ## Assignments

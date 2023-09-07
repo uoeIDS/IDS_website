@@ -65,7 +65,7 @@ Below are a number of optional "guest lectures" from YouTube that illustrates wh
 
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab08: Work on projects |  <li><a id="LAB7I">Instructions</a></li>| Fri, 18 Nov |
+| Lab08: Work on projects |  <li><a id="LAB7I">Instructions</a></li>| Fri, 27 Oct, 16:00 UK |
 
 <!--
 ## Assignments
