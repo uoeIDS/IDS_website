@@ -80,7 +80,9 @@ With thanks to Dr. Mine Çetinkaya-Rundel for setting up the first version of th
 ### Maths Teaching Organization Staff
 <ul>
   <li>Frances Reid (Course Secretary) <a id="CourseSec"><i class="far fa-envelope"></i></a></li>
+  <!---
  <li>Kat Kiernan (Student Learning Advisor) <a id="SLA1"><i class="far fa-envelope"></i></a></li>
+  --->
   <li>SoM Student Support <a id="SLA2"><i class="far fa-envelope"></i></a></li>
 </ul>
 
