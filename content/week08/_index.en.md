@@ -28,10 +28,11 @@ Linear models for predicting numerical data from single and multiple variables.
   *These links will take you to <em>echo360</em>. Type in your university email in the <em>Email</em> text box (this will probably be the version using your UUN, like "s0123456<!-- -->@ed.ac.uk"). This should then send you to University of Edinburgh's SSO (single-sign-on) system. Enter your log-in credentials and then you should be able to watch the specific lecture you selected. If this process does not work, then you can alternatively access the lecture recordings via LEARN. Go to the Introduction to Data Science area on LEARN, select <em>Course Materials</em> and finally click on <em>Lecture Recordings</em>. This will send you to <em>echo360</em> where you can see the whole list of lecture recordings.
 </p>
 
+<!--
 <p style="text-align: left">
 ** There was a technical problem with the lecture recordings on Thursday that meant there was no audio. These videos cover the same material from a previous year in the course.
 </p>
-
+-->
 
 ## Tasks
 

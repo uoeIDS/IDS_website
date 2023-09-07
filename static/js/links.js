@@ -273,17 +273,17 @@ try {document.getElementById("W8L3S").href = "https://ids-s1-21.github.io/slides
 
 // week 8 lecture 4
 try {document.getElementById("W8L4YT").href = "https://youtu.be/j4MZ6ZdHnHg";} catch { };	// youtube
-try {document.getElementById("W8L4MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+08+-+04+-+Modelling+nonlinear+relationships/1_viszyhqn";} catch { };	// mediahopper
+// try {document.getElementById("W8L4MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+08+-+04+-+Modelling+nonlinear+relationships/1_viszyhqn";} catch { };	// mediahopper
 try {document.getElementById("W8L4S").href = "https://ids-s1-21.github.io/slides/week-08/w8-d04-modeling-nonlinear-relationships/w8-d04-modeling-nonlinear-relationships.html#1";} catch { };	// slides
 
 // week 8 lecture 5
 try {document.getElementById("W8L5YT").href = "https://youtu.be/mjkNabD4oi4";} catch { };	// youtube
-try {document.getElementById("W8L5MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+08+-+05+-+Models+with+multiple+predictors/1_r1y5eghu";} catch { };	// mediahopper
+// try {document.getElementById("W8L5MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+08+-+05+-+Models+with+multiple+predictors/1_r1y5eghu";} catch { };	// mediahopper
 try {document.getElementById("W8L5S").href = "https://ids-s1-21.github.io/slides/week-08/w8-d05-model-multiple-predictors/w8-d05-model-multiple-predictors.html#1";} catch { };	// slides
 
 // week 8 lecture 6
 try {document.getElementById("W8L6YT").href = "https://youtu.be/nJAYRnLPb10";} catch { };	// youtube
-try {document.getElementById("W8L6MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+08+-+06+-+More+models+with+multiple+predictors/1_0pimjtro";} catch { };	// mediahopper
+// try {document.getElementById("W8L6MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+08+-+06+-+More+models+with+multiple+predictors/1_0pimjtro";} catch { };	// mediahopper
 try {document.getElementById("W8L6S").href = "https://ids-s1-21.github.io/slides/week-08/w8-d06-more-model-multiple-predictors/w8-d06-more-model-multiple-predictors.html#1";} catch { };	// slides
 
 // week 8 guest lecture 1
