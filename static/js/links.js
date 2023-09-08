@@ -395,10 +395,57 @@ try {document.getElementById('PE02').href = "https://forms.office.com/r/8JkWHxWF
 try {document.getElementById('PE03').href = "https://forms.office.com/r/9mgtQmW23w";} catch { };
 
 // Readings ------------------------------------------------------------------------------------------------------------------------------------------------
+//--R4DS Online Book
 try {document.getElementById("R4DS").href = "https://r4ds.had.co.nz";} catch { };		// R4DS
+try {document.getElementById("R4DS1").href = "https://r4ds.had.co.nz/introduction.html";} catch { };		           // R4DS: Chapter 1
+try {document.getElementById("R4DS2").href = "https://r4ds.had.co.nz/explore-intro.html";} catch { };	             // R4DS: Chapter 2
+try {document.getElementById("R4DS3").href = "https://r4ds.had.co.nz/data-visualisation.html";} catch { };		     // R4DS: Chapter 3
+try {document.getElementById("R4DS4").href = "https://r4ds.had.co.nz/workflow-basics.html";} catch { };		         // R4DS: Chapter 4
+try {document.getElementById("R4DS5").href = "https://r4ds.had.co.nz/transform.html";} catch { };		               // R4DS: Chapter 5
+try {document.getElementById("R4DS6").href = "https://r4ds.had.co.nz/workflow-scripts.html";} catch { };		       // R4DS: Chapter 6
+try {document.getElementById("R4DS7").href = "https://r4ds.had.co.nz/exploratory-data-analysis.html";} catch { };  // R4DS: Chapter 7
+try {document.getElementById("R4DS8").href = "https://r4ds.had.co.nz/workflow-projects.html";} catch { };		       // R4DS: Chapter 8
+try {document.getElementById("R4DS9").href = "https://r4ds.had.co.nz/wrangle-intro.html";} catch { };		           // R4DS: Chapter 9
+try {document.getElementById("R4DS10").href = "https://r4ds.had.co.nz/tibbles.html";} catch { };                   // R4DS: Chapter 10
+try {document.getElementById("R4DS11").href = "https://r4ds.had.co.nz/data-import.html";} catch { };               // R4DS: Chapter 11
+try {document.getElementById("R4DS12").href = "https://r4ds.had.co.nz/tidy-data.html";} catch { };		             // R4DS: Chapter 12
+try {document.getElementById("R4DS13").href = "https://r4ds.had.co.nz/relational-data.html";} catch { };		       // R4DS: Chapter 13
+try {document.getElementById("R4DS24").href = "https://r4ds.had.co.nz/strings.html";} catch { };		               // R4DS: Chapter 14
+try {document.getElementById("R4DS15").href = "https://r4ds.had.co.nz/factors.html";} catch { };                   // R4DS: Chapter 15
+try {document.getElementById("R4DS16").href = "https://r4ds.had.co.nz/dates-and-times.html";} catch { };           // R4DS: Chapter 16
+try {document.getElementById("R4DS17").href = "https://r4ds.had.co.nz/program-intro.html";} catch { };		         // R4DS: Chapter 17
+try {document.getElementById("R4DS18").href = "https://r4ds.had.co.nz/pipes.html";} catch { };		                 // R4DS: Chapter 18
+try {document.getElementById("R4DS19").href = "https://r4ds.had.co.nz/functions.html";} catch { };                 // R4DS: Chapter 19
+try {document.getElementById("R4DS20").href = "https://r4ds.had.co.nz/vectors.html";} catch { };		               // R4DS: Chapter 20
+try {document.getElementById("R4DS21").href = "https://r4ds.had.co.nz/iteration.html";} catch { };                 // R4DS: Chapter 21
+try {document.getElementById("R4DS22").href = "https://r4ds.had.co.nz/model-intro.html";} catch { };		           // R4DS: Chapter 22
+try {document.getElementById("R4DS23").href = "https://r4ds.had.co.nz/model-basics.html";} catch { };		           // R4DS: Chapter 23
+try {document.getElementById("R4DS24").href = "https://r4ds.had.co.nz/model-building.html";} catch { };		         // R4DS: Chapter 24
+try {document.getElementById("R4DS25").href = "https://r4ds.had.co.nz/many-models.html";} catch { };		           // R4DS: Chapter 25
+
+//--IMS Online Book
 try {document.getElementById("IMS").href = "https://openintro-ims.netlify.app/";} catch { };		// IMS
-try {document.getElementById("R4DS2").href = "https://r4ds.had.co.nz/explore-intro.html";} catch { };		// R4DS: Chapter 2
-try {document.getElementById("IMS1").href = "https://openintro-ims.netlify.app/data-hello.html";} catch { };		// IMS: Chapter 1
+try {document.getElementById("IMS1").href = "https://openintro-ims.netlify.app/data-hello.html";} catch { };		
+try {document.getElementById("IMS2").href = "https://openintro-ims.netlify.app/data-design.html";} catch { };		
+try {document.getElementById("IMS3").href = "https://openintro-ims.netlify.app/data-applications";} catch { };  
+try {document.getElementById("IMS4").href = "https://openintro-ims.netlify.app/explore-categorical";} catch { };
+try {document.getElementById("IMS5").href = "https://openintro-ims.netlify.app/explore-numerical";} catch { };  
+try {document.getElementById("IMS6").href = "https://openintro-ims.netlify.app/explore-applications.html";} catch { };		
+try {document.getElementById("IMS7").href = "https://openintro-ims.netlify.app/model-slr.html";} catch { };		
+try {document.getElementById("IMS8").href = "https://openintro-ims.netlify.app/model-mlr.html";} catch { };		
+try {document.getElementById("IMS9").href = "https://openintro-ims.netlify.app/model-logistic.html";} catch { };	
+try {document.getElementById("IMS10").href = "https://openintro-ims.netlify.app/model-application";} catch { };  
+try {document.getElementById("IMS11").href = "https://openintro-ims.netlify.app/foundations-randomization";} catch { }; 
+try {document.getElementById("IMS12").href = "https://openintro-ims.netlify.app/foundations-bootstrapping.html";} catch { };  
+try {document.getElementById("IMS24").href = "https://openintro-ims.netlify.app/inf-model-slr";} catch { };  
+try {document.getElementById("IMS25").href = "https://openintro-ims.netlify.app/inf-model-mlr";} catch { };  
+try {document.getElementById("IMS26").href = "https://openintro-ims.netlify.app/inf-model-logistic";} catch { };  
+try {document.getElementById("IMS27").href = "https://openintro-ims.netlify.app/inf-model-applications";} catch { };  
+
+
+
+
+
 try {document.getElementById("HTRR").href = "https://socviz.co/appendix.html#a-little-more-about-r";} catch { };		// How to read an R help page
 try {document.getElementById("OpenSci").href = "https://ropensci.github.io/reproducibility-guide/sections/introduction/";} catch { };
 try {document.getElementById("NatRepro").href = "https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970";} catch { };
@@ -408,50 +455,22 @@ try {document.getElementById("rstudioCS").href = "https://github.com/rstudio/che
 try {document.getElementById("rmarkdownCS").href = "https://github.com/rstudio/cheatsheets/blob/main/rmarkdown-2.0.pdf";} catch { };
 try {document.getElementById("ggplot2CS").href = "https://github.com/rstudio/cheatsheets/blob/main/data-visualization-2.1.pdf";} catch { };
 try {document.getElementById("dplyrCS").href = "https://github.com/rstudio/cheatsheets/blob/main/data-transformation.pdf";} catch { };
-
 try {document.getElementById("Github").href = "https://rstudio.github.io/cheatsheets/git-github.pdf";} catch { };
-
-try {document.getElementById("R4DS3").href = "https://r4ds.had.co.nz/data-visualisation.html";} catch { };		// R4DS: Chapter 3
 try {document.getElementById("DV3").href = "https://socviz.co/makeplot.html";} catch { };		// Data Visualisation: Chapter 3
 try {document.getElementById("COVIDvis").href = "https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/";} catch { };
 try {document.getElementById("wealth").href = "https://mkorostoff.github.io/1-pixel-wealth/";} catch { };
 try {document.getElementById("COVIDsymptom").href = "https://pair-code.github.io/covid19_symptom_dataset/?date=2020-09-07&country=GB";} catch { };
 try {document.getElementById("LayeredGG").href = "http://vita.had.co.nz/papers/layered-grammar.pdf";} catch { };
-
-try {document.getElementById("R4DS4").href = "https://r4ds.had.co.nz/workflow-basics.html";} catch { };		// R4DS: Chapter 4
-try {document.getElementById("R4DS5").href = "https://r4ds.had.co.nz/transform.html";} catch { };		// R4DS: Chapter 5
-try {document.getElementById("R4DS12").href = "https://r4ds.had.co.nz/tidy-data.html";} catch { };		// R4DS: Chapter 5
-try {document.getElementById("R4DS13").href = "https://r4ds.had.co.nz/relational-data.html";} catch { };		// R4DS: Chapter 5
-try {document.getElementById("tidydata").href = "http://www.jstatsoft.org/v59/i10/paper";} catch { };		// R4DS: Chapter 5
+try {document.getElementById("tidydata").href = "http://www.jstatsoft.org/v59/i10/paper";} catch { };		// Jstatsoft paper
 try {document.getElementById("intro2rgit").href = "https://intro2r.com/use-git.html";} catch { };		// intro2r: Chapter 9
-
-try {document.getElementById("R4DS11").href = "https://r4ds.had.co.nz/data-import.html";} catch { };
-try {document.getElementById("R4DS15").href = "https://r4ds.had.co.nz/factors.html";} catch { };
-try {document.getElementById("R4DS16").href = "https://r4ds.had.co.nz/dates-and-times.html";} catch { };
-
-try {document.getElementById("R4DS7").href = "https://r4ds.had.co.nz/exploratory-data-analysis.html";} catch { };
-try {document.getElementById("IMS6").href = "https://openintro-ims.netlify.app/explore-applications.html";} catch { };		// IMS
-try {document.getElementById("IMS2").href = "https://openintro-ims.netlify.app/data-design.html";} catch { };		// IMS
 try {document.getElementById("TSG1").href = "https://style.tidyverse.org/files.html";} catch { };		// Tidyverse style
-
 try {document.getElementById("selector").href = "https://rvest.tidyverse.org/articles/selectorgadget.html";} catch { };
-try {document.getElementById("R4DS19").href = "https://r4ds.had.co.nz/functions.html";} catch { };
-try {document.getElementById("R4DS21").href = "https://r4ds.had.co.nz/iteration.html";} catch { };
-
 try {document.getElementById("MDSR8").href = "https://mdsr-book.github.io/mdsr2e/ch-ethics.html";} catch { };
 try {document.getElementById("EthChal").href = "https://journals.sagepub.com/doi/pdf/10.1177/1747016116650720";} catch { };
 try {document.getElementById("AUWB").href = "https://aaronsadventures.blogspot.com/2019/01/discussion-of-unfairness-in-machine.html";} catch { };
-
-try {document.getElementById("IMS7").href = "https://openintro-ims.netlify.app/model-slr.html";} catch { };		// IMS
-try {document.getElementById("IMS8").href = "https://openintro-ims.netlify.app/model-mlr.html";} catch { };		// IMS
-
-try {document.getElementById("IMS9").href = "https://openintro-ims.netlify.app/model-logistic.html";} catch { };		// IMS
 try {document.getElementById("TMBaM").href = "https://www.tidymodels.org/start/models/";} catch { };		// TidyModels
 try {document.getElementById("TMP").href = "https://www.tidymodels.org/start/recipes/";} catch { };		// TidyModels
-
 try {document.getElementById("TMER").href = "https://www.tidymodels.org/start/resampling/";} catch { };		// TidyModels
-try {document.getElementById("IMS12").href = "https://openintro-ims.netlify.app/foundations-bootstrapping.html";} catch { };  // IMS
-
 try {document.getElementById("TMwR1").href = "https://www.tidytextmining.com/tidytext.html";} catch { };
 try {document.getElementById("TMwR2").href = "https://www.tidytextmining.com/sentiment.html";} catch { };
 try {document.getElementById("TMwR3").href = "https://www.tidytextmining.com/tfidf.html";} catch { };
