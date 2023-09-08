@@ -21,7 +21,7 @@ Importing data, data types and classes, recoding.
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:--------:|:------|
 | 07  | Data Types and Classes | <span><a id = "lecture07"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL07">Raw<i class="fab fa-fw fa-github"/></a></span> |
-| 08  | Importing/Exporting Data  | <span><a id = "lecture08"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL08">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 08  | Joining and Organising Data  | <span><a id = "lecture08"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL08">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
 <br>
 <p  style="text-align: left"> 
@@ -50,12 +50,16 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS11">Chp 11 - Data import</a> | **Required** |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS15">Chp 15 - Factors</a> | **Required** |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS16">Chp 16 - Dates and times</a> | **Required** |
 | <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a href = "https://www.youtube.com/watch?v=-5wpm-gesOY">Computerphile: The problem with time and timezones</a> | Optional |
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS12">Chp 12 - Tidy data</a> | Optional |
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS13">Chp 13 - Relational data</a> | Optional |
+
+<!--
 | <i class="fas fa-laptop"></i> | <a href="/assessments/project">Final Project Information (starting soon)</a> | Recommended |
 | <i class="fas fa-file-video"></i> | <a id="MHL08extra">L08 supplement</a>: RStudio GUI, importing data | Optional |
+-->
 
 ## Workshop
 

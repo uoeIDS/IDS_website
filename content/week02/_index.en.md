@@ -22,7 +22,7 @@ Data visualization and interpretation of graphical information.
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div>  |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
 |:---:|:---------------------|:--------:|:------|
 | 05  | Tidy Data and Data Wrangling | <span><a id = "lecture05"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL05">Raw<i class="fab fa-fw fa-github"/></a></span> |
-| 06  | Joining and Organising Data |<span><a id = "lecture06"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL06">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 06  | Importing/Exporting Data |<span><a id = "lecture06"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL06">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
 
 <br>
@@ -51,10 +51,11 @@ Lecture recordings are only available for IDS students via the University of Edi
 |:---:|:---|:---:|
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS4">Chp 4 - Workflow: basics</a> | **Required** |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS5">Chp 5 - Data transformation</a> | **Required** |
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS12">Chp 12 - Tidy data</a> | Optional |
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS13">Chp 13 - Relational data</a> | Optional |
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS11">Chp 11 - Data import</a> | **Required** |
+<!--
 | <i class="fab fa-readme"></i> | <a id="tidydata">Tidy Data</a> | Optional |
 | <i class="fas fa-file-video"></i> | <a id="MHL05extra">L05 supplement</a>: extra explanation of logical operations in R | Optional |
+-->
 
 
 
