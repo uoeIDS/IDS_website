@@ -10,8 +10,8 @@ date: "2021-08-03"
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
-  width: 25%;
-  min-width: 25%;
+  width: 20%;
+  min-width: 20%;
   padding: 1em;
   white-space: normal;
 }
@@ -27,17 +27,24 @@ date: "2021-08-03"
 
 # Course Components
 
+The formal points of contact for this course are the lectures and workshops. However it is expected that you supplement these activities with other learning activities such as reading recommended texts and doing some examples in your own time. As a suggestion, one way that you may structure your week is as follows:
+
+
 <div class="row">
   <div class="column">
     <img src="/images/overview/book.png">
     <p style="margin-top: -40px; text-align: center; font-size: 2vw; overflow:hidden;">Mon</p>
   </div>
   <div class="column">
-    <img src="/images/overview/laptop.png">
-    <p style="margin-top: -40px; text-align: center; font-size: 2vw; overflow:hidden;">Tues</p>
+    <img src="/images/overview/lecture.png">
+    <p style="margin-top: -40px; text-align: center; font-size: 2vw; overflow:hidden;">Tue</p>
   </div>
   <div class="column">
-    <img src="/images/overview/lecture.png">
+    <img src="/images/overview/laptop.png">
+    <p style="margin-top: -40px; text-align: center; font-size: 2vw; overflow:hidden;">Wed</p>
+  </div>
+  <div class="column">
+    <img src="/images/overview/lecture_question.png">
     <p style="margin-top: -40px; text-align: center; font-size: 2vw; overflow:hidden;">Thur</p>
   </div>
   <div class="column">
@@ -46,7 +53,16 @@ date: "2021-08-03"
   </div>
 </div>
 
-The reading material and the interactive R tutorials are released on Mondays, the in-person lectures are on Tuesday and Thursdays, and the workshops are on Fridays.
+
+
+| Weekday | Event |
+|:---|:---|
+| Monday    | Reading | 
+| Tuesday   | Lecture | 
+| Wednesday | Self-study exercises | 
+| Thursday  | Lecture and drop-in Q&A | 
+| Friday    | Workshop | 
+
 
 <p style="text-align: left">
 If you are looking for your class times for this course, these can be found via your University of Edinburgh calendar:
