@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "Introduction to Data Science (2022)"
+title = "Introduction to Data Science (2023)"
 theme = "hugo-theme-learn"
 #themesdir = "./themes"
 metaDataFormat = "yaml"
@@ -26,7 +26,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "Introduction to Data Science (2022)"
+title = "Introduction to Data Science (2023)"
 weight = 1
 languageName = "English"
 landingPageURL = "/en"
@@ -35,7 +35,7 @@ landingPageName = "<i class='fas fa-home'></i> Home"
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-bullhorn'></i> Announcements"
 identifier = "announce"
-url = "https://www.learn.ed.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_98726_1&handle=cp_announcements&mode=cpview"
+url = "https://www.learn.ed.ac.uk/ultra/courses/_112929_1/announcements"
 weight = 2
 
 [[Languages.en.menu.shortcuts]]
