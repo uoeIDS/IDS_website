@@ -22,6 +22,7 @@ Tips for effective data visualization, communication of results, and collaborati
 |:---:|:---------------------|:--------:|:------|
 | 09  | Doing Data Science  | <span><a id = "lecture09"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL09">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 10  | Effective Data Visualisation  | <span><a id = "lecture10"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL10">Raw<i class="fab fa-fw fa-github"/></a></span> |
+
 <br>
 <p  style="text-align: left"> 
 <font size=4pt><b>Lecture Recordings</b></font>
