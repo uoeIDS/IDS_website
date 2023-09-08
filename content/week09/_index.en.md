@@ -19,7 +19,7 @@ Logistic regression for predicting categorical data and model building.
 ## Lectures
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
-  |:---:|:---------------------:|:--------:|:------|
+  |:---:|:---------------------|:--------:|:------|
   | 15  | Logistic regression  | <span><a id = "lecture15"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL15">Raw<i class="fab fa-fw fa-github"/></a></span> |
   | 16  | Classification/prediction and Model Building  | <span><a id = "lecture16"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL16">Raw<i class="fab fa-fw fa-github"/></a></span> |
   

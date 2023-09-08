@@ -20,7 +20,7 @@ Misrepresentation of findings, data privacy, and algorithmic bias.
 ## Lectures
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
-  |:---:|:---------------------:|:--------:|:------|
+  |:---:|:---------------------|:--------:|:------|
   | 17  | Ethics 1  | <span><a id = "lecture17"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL17">Raw<i class="fab fa-fw fa-github"/></a></span> |
   | 18  | Ethics 2  | <span><a id = "lecture18"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL18">Raw<i class="fab fa-fw fa-github"/></a></span> |
   

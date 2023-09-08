@@ -19,7 +19,7 @@ Writing custom functions and coding iteration loops.
 ## Lectures
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div>   <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
-|:---:|:---------------------:|:--------:|:------|
+|:---:|:---------------------|:--------:|:------|
 | 11  | Programming (Functions)  | <span><a id = "lecture11"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL11">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 12  | Programming (Iterations)  | <span><a id = "lecture12"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL12">Raw<i class="fab fa-fw fa-github"/></a></span> |
 

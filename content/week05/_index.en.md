@@ -19,7 +19,7 @@ Tips for effective data visualization, communication of results, and collaborati
 ## Lectures
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
-|:---:|:---------------------:|:--------:|:------|
+|:---:|:---------------------|:--------:|:------|
 | 09  | Doing Data Science  | <span><a id = "lecture09"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL09">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 10  | Effective Data Visualisation  | <span><a id = "lecture10"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL10">Raw<i class="fab fa-fw fa-github"/></a></span> |
 <br>

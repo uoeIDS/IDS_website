@@ -39,7 +39,7 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 ## Lectures
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
-|:---:|:---------------------:|:--------:|:------|
+|:---:|:---------------------|:--------:|:------|
 | 01  | Welcome | <span><a id = "lecture01"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL01">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 02  | Introduction to the toolkit | <span><a id = "lecture02"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL02">Raw<i class="fab fa-fw fa-github"/></a></span> |
 

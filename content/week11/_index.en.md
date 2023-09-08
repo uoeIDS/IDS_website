@@ -19,7 +19,7 @@ Additional topics beyond the course.
 ## Lectures
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
-|:---:|:---------------------:|:--------:|:------|
+|:---:|:---------------------|:--------:|:------|
 | 21  | Projects Q&A  | <span><a id = "lecture21"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL21">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 22  | Recap and Looking Beyond IDS  | <span><a id = "lecture22"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL22">Raw<i class="fab fa-fw fa-github"/></a></span> |
 

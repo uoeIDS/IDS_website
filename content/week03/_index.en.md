@@ -19,7 +19,7 @@ Importing data, data types and classes, recoding.
 ## Lectures
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
-|:---:|:---------------------:|:--------:|:------|
+|:---:|:---------------------|:--------:|:------|
 | 07  | Data Types and Classes | <span><a id = "lecture07"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL07">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 08  | Importing/Exporting Data  | <span><a id = "lecture08"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL08">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
