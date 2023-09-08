@@ -18,17 +18,24 @@ Linear models for predicting numerical data from single and multiple variables.
 
 ## Lectures
 
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:100px;text-align:center">Recording*</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
-  |:---:|:---------------------|:-----------:|:--------:|:------|
-  | 13  | Introducing models  | <span><a id = "MHL13"><i class="fas fa-file-video fa-lg"/></a></span> |<span><a id = "lecture13"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL13">Raw<i class="fab fa-fw fa-github"/></a></span> |
-  | 14  | Model checking and multiple predictors  | <li><a id ="W8L4MH">Video 1**</a></li><li><a id = "W8L5MH">Video 2</a></li><li><a id = "W8L6MH">Video 3</a></li> | <span><a id = "lecture14"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL14">Raw<i class="fab fa-fw fa-github"/></a></span> |
-  
-  
-<p style="text-align: left">
-*These links will take you to <em>echo360</em>. Type in your university email in the <em>Email</em> text box (this will probably be the version using your UUN, like "s0123456<!-- -->@ed.ac.uk"). This should then send you to University of Edinburgh's SSO (single-sign-on) system. Enter your log-in credentials and then you should be able to watch the specific lecture you selected. 
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
+  |:---:|:---------------------:|:--------:|:------|
+  | 13  | Introducing models  | <span><a id = "lecture13"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL13">Raw<i class="fab fa-fw fa-github"/></a></span> |
+  | 14  | Model checking and multiple predictors  | <span><a id = "lecture14"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL14">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
-If this process does not work, then you can alternatively access the lecture recordings via LEARN ULTRA. Go to the Introduction to Data Science area on LEARN ULTRA, under the <em>Course Content section</em> you will see <em>Lecture Recordings</em> Media Hooper icon. This will send you to <em>echo360</em> where you can see the whole list of lecture recordings.
+<!-- <li><a id ="W8L4MH">Video 1**</a></li><li><a id = "W8L5MH">Video 2</a></li><li><a id = "W8L6MH">Video 3</a></li> ---><!-- Old video recoding links-->
+
+<br>
+<p  style="text-align: left"> 
+<font size=4pt><b>Lecture Recordings</b></font>
+<span class="fa-stack" style="scale:70%">
+    <i class="fas fa-backward fa-stack-1x fa-1x fa-flip-horizontal" style="color:#f37361; box-sizing: content-box; line-height: 24px; width: 24px; height: 24px; border-radius: 100%; border-style: solid; border-width: 4px;"></i>
+</span>
+<br>
+Lecture recordings are only available for IDS students via the University of Edinburgh virtual learning environment. To access the recordings, go to the Introduction to Data Science area on LEARN ULTRA and select <em>Lecture Recordings</em>  under the <em>Course Content</em> section. This will open <em>echovideo</em> where you will find a list of all lecture recordings to watch once they become available. 
+
 </p>
+
 
 <!--
 <p style="text-align: left">
