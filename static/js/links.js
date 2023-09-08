@@ -2,6 +2,10 @@
 // and then assign them to a variable
 
 // Webpage Links ---------------------------------------------------------------------------------------------------
+try {document.getElementById('GitHub').href = "https://github.com/";} catch { };
+try {document.getElementById('Zoom').href = "https://zoom.us/";} catch { }; 
+try {document.getElementById('learn').href = "https://www.learn.ed.ac.uk/";} catch { };	
+
 try {document.getElementById('assessments').href = "/assessments";} catch { };		// / link to the assessments page
 try {document.getElementById('errata').href = "/errata";} catch { };
 try {document.getElementById('components').href = "/components";} catch { };		// link to the help page
@@ -27,7 +31,14 @@ try {document.getElementById('Error2').href = "/error";} catch { };
 try {document.getElementById('Error3').href = "/error";} catch { };
 try {document.getElementById('Error4').href = "/error";} catch { };
 
-// Videos -----------------------------------------------------------------------------------------------------------
+
+/*
+// Videos --(2020/21 & 2021/22 - Online videos, no longer in use) ----------------------------------------------------
+// YouTube & Media Hopper video created by Mine Çetinkaya-Rundel for 2020/21 online course (due to covid)
+// School of Maths does not have admin/editorial control over videos, which would be required for 
+// changes in course structure/content. Thus Videos are no longer used.
+
+
 try {document.getElementById("playlistmh").href = "https://media.ed.ac.uk/playlist/dedicated/1_p6bmjbvr/";} catch { };	// link to the mediahopper page
 try {document.getElementById('playlistyt').href = "https://youtube.com/playlist?list=PLPpngierSrQQXWJYxcejlR-DI2YSp0gD2";} catch { };	// link to the youtube playlist
 
@@ -363,7 +374,13 @@ try {document.getElementById("W11L5S").href = "https://ids-s1-21.github.io/slide
 try {document.getElementById("W11L6YT").href = "https://youtu.be/DBgJ3Dncbcg";} catch { };	// youtube
 try {document.getElementById("W11L6MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+11+-+06+-+Wrapping+up+IDS%21/1_ss0f3t4v";} catch { };	// mediahopper
 
-// Application Exercises --------------------------------------------------------------------------------------------------------------------------------------------
+
+// END OF OLD YOUTUBE AND MEDIA HOPPER VIDEO LINKS
+*/
+
+
+/*
+// Application Exercises -------(Mateial depreciated as of 2023/24)------------
 
 
 try {document.getElementById("AE1a").href = "https://github.com/uoeIDS/Application_exercises/tree/main/AE1";} catch { };
@@ -389,42 +406,52 @@ try {document.getElementById("AE6").href = "https://github.com/uoeIDS/Applicatio
 //try {document.getElementById("AE8").href = "https://github.com/ids-s1-21?q=ae-08-imdb-webscraping&type=&language=&sort=";} catch { };
 //try {document.getElementById("AE9").href = "https://github.com/ids-s1-21?q=ae-09-feat-eng-cv&type=&language=&sort=";} catch { };
 
-// Peer Feedback ------------------------------------------------------------------------------------------------------------------------------------------
+//END OF APPLICATION EXERCISES
+*/
+
+
+/*
+// Peer Feedback -----(depreciated content as of 2022/23)-----------------------------------------------------------
 try {document.getElementById('PE01').href = "https://forms.office.com/r/mbBhLLe6Q4";} catch { };
 try {document.getElementById('PE02').href = "https://forms.office.com/r/8JkWHxWFdF";} catch { };
 try {document.getElementById('PE03').href = "https://forms.office.com/r/9mgtQmW23w";} catch { };
 
-// Readings ------------------------------------------------------------------------------------------------------------------------------------------------
+//END OF PEER REEDBACK
+*/
+
+
+
+// Readings -----------------------------------------------------------------------------------------------
+
+
 //--R4DS Online Book
-try {document.getElementById("R4DS").href = "https://r4ds.had.co.nz";} catch { };		// R4DS
-try {document.getElementById("R4DS1").href = "https://r4ds.had.co.nz/introduction.html";} catch { };		           // R4DS: Chapter 1
-try {document.getElementById("R4DS2").href = "https://r4ds.had.co.nz/explore-intro.html";} catch { };	             // R4DS: Chapter 2
-try {document.getElementById("R4DS3").href = "https://r4ds.had.co.nz/data-visualisation.html";} catch { };		     // R4DS: Chapter 3
-try {document.getElementById("R4DS4").href = "https://r4ds.had.co.nz/workflow-basics.html";} catch { };		         // R4DS: Chapter 4
-try {document.getElementById("R4DS5").href = "https://r4ds.had.co.nz/transform.html";} catch { };		               // R4DS: Chapter 5
-try {document.getElementById("R4DS6").href = "https://r4ds.had.co.nz/workflow-scripts.html";} catch { };		       // R4DS: Chapter 6
-try {document.getElementById("R4DS7").href = "https://r4ds.had.co.nz/exploratory-data-analysis.html";} catch { };  // R4DS: Chapter 7
-try {document.getElementById("R4DS8").href = "https://r4ds.had.co.nz/workflow-projects.html";} catch { };		       // R4DS: Chapter 8
-try {document.getElementById("R4DS9").href = "https://r4ds.had.co.nz/wrangle-intro.html";} catch { };		           // R4DS: Chapter 9
-try {document.getElementById("R4DS10").href = "https://r4ds.had.co.nz/tibbles.html";} catch { };                   // R4DS: Chapter 10
-try {document.getElementById("R4DS11").href = "https://r4ds.had.co.nz/data-import.html";} catch { };               // R4DS: Chapter 11
-try {document.getElementById("R4DS12").href = "https://r4ds.had.co.nz/tidy-data.html";} catch { };		             // R4DS: Chapter 12
-try {document.getElementById("R4DS13").href = "https://r4ds.had.co.nz/relational-data.html";} catch { };		       // R4DS: Chapter 13
-try {document.getElementById("R4DS24").href = "https://r4ds.had.co.nz/strings.html";} catch { };		               // R4DS: Chapter 14
-try {document.getElementById("R4DS15").href = "https://r4ds.had.co.nz/factors.html";} catch { };                   // R4DS: Chapter 15
-try {document.getElementById("R4DS16").href = "https://r4ds.had.co.nz/dates-and-times.html";} catch { };           // R4DS: Chapter 16
-try {document.getElementById("R4DS17").href = "https://r4ds.had.co.nz/program-intro.html";} catch { };		         // R4DS: Chapter 17
-try {document.getElementById("R4DS18").href = "https://r4ds.had.co.nz/pipes.html";} catch { };		                 // R4DS: Chapter 18
-try {document.getElementById("R4DS19").href = "https://r4ds.had.co.nz/functions.html";} catch { };                 // R4DS: Chapter 19
-try {document.getElementById("R4DS20").href = "https://r4ds.had.co.nz/vectors.html";} catch { };		               // R4DS: Chapter 20
-try {document.getElementById("R4DS21").href = "https://r4ds.had.co.nz/iteration.html";} catch { };                 // R4DS: Chapter 21
-try {document.getElementById("R4DS22").href = "https://r4ds.had.co.nz/model-intro.html";} catch { };		           // R4DS: Chapter 22
-try {document.getElementById("R4DS23").href = "https://r4ds.had.co.nz/model-basics.html";} catch { };		           // R4DS: Chapter 23
-try {document.getElementById("R4DS24").href = "https://r4ds.had.co.nz/model-building.html";} catch { };		         // R4DS: Chapter 24
-try {document.getElementById("R4DS25").href = "https://r4ds.had.co.nz/many-models.html";} catch { };		           // R4DS: Chapter 25
+try {document.getElementById("R4DS1").href = "https://r4ds.had.co.nz/introduction.html";} catch { };		         
+try {document.getElementById("R4DS2").href = "https://r4ds.had.co.nz/explore-intro.html";} catch { };	           
+try {document.getElementById("R4DS3").href = "https://r4ds.had.co.nz/data-visualisation.html";} catch { };		   
+try {document.getElementById("R4DS4").href = "https://r4ds.had.co.nz/workflow-basics.html";} catch { };		       
+try {document.getElementById("R4DS5").href = "https://r4ds.had.co.nz/transform.html";} catch { };		             
+try {document.getElementById("R4DS6").href = "https://r4ds.had.co.nz/workflow-scripts.html";} catch { };		     
+try {document.getElementById("R4DS7").href = "https://r4ds.had.co.nz/exploratory-data-analysis.html";} catch { };
+try {document.getElementById("R4DS8").href = "https://r4ds.had.co.nz/workflow-projects.html";} catch { };		     
+try {document.getElementById("R4DS9").href = "https://r4ds.had.co.nz/wrangle-intro.html";} catch { };		         
+try {document.getElementById("R4DS10").href = "https://r4ds.had.co.nz/tibbles.html";} catch { };                 
+try {document.getElementById("R4DS11").href = "https://r4ds.had.co.nz/data-import.html";} catch { };             
+try {document.getElementById("R4DS12").href = "https://r4ds.had.co.nz/tidy-data.html";} catch { };		           
+try {document.getElementById("R4DS13").href = "https://r4ds.had.co.nz/relational-data.html";} catch { };		     
+try {document.getElementById("R4DS24").href = "https://r4ds.had.co.nz/strings.html";} catch { };		             
+try {document.getElementById("R4DS15").href = "https://r4ds.had.co.nz/factors.html";} catch { };                 
+try {document.getElementById("R4DS16").href = "https://r4ds.had.co.nz/dates-and-times.html";} catch { };         
+try {document.getElementById("R4DS17").href = "https://r4ds.had.co.nz/program-intro.html";} catch { };		       
+try {document.getElementById("R4DS18").href = "https://r4ds.had.co.nz/pipes.html";} catch { };		               
+try {document.getElementById("R4DS19").href = "https://r4ds.had.co.nz/functions.html";} catch { };               
+try {document.getElementById("R4DS20").href = "https://r4ds.had.co.nz/vectors.html";} catch { };		             
+try {document.getElementById("R4DS21").href = "https://r4ds.had.co.nz/iteration.html";} catch { };               
+try {document.getElementById("R4DS22").href = "https://r4ds.had.co.nz/model-intro.html";} catch { };		         
+try {document.getElementById("R4DS23").href = "https://r4ds.had.co.nz/model-basics.html";} catch { };		         
+try {document.getElementById("R4DS24").href = "https://r4ds.had.co.nz/model-building.html";} catch { };		       
+try {document.getElementById("R4DS25").href = "https://r4ds.had.co.nz/many-models.html";} catch { };		         
 
 //--IMS Online Book
-try {document.getElementById("IMS").href = "https://openintro-ims.netlify.app/";} catch { };		// IMS
 try {document.getElementById("IMS1").href = "https://openintro-ims.netlify.app/data-hello.html";} catch { };		
 try {document.getElementById("IMS2").href = "https://openintro-ims.netlify.app/data-design.html";} catch { };		
 try {document.getElementById("IMS3").href = "https://openintro-ims.netlify.app/data-applications";} catch { };  
@@ -442,46 +469,60 @@ try {document.getElementById("IMS25").href = "https://openintro-ims.netlify.app/
 try {document.getElementById("IMS26").href = "https://openintro-ims.netlify.app/inf-model-logistic";} catch { };  
 try {document.getElementById("IMS27").href = "https://openintro-ims.netlify.app/inf-model-applications";} catch { };  
 
-
-
-
-
-try {document.getElementById("HTRR").href = "https://socviz.co/appendix.html#a-little-more-about-r";} catch { };		// How to read an R help page
-try {document.getElementById("OpenSci").href = "https://ropensci.github.io/reproducibility-guide/sections/introduction/";} catch { };
-try {document.getElementById("NatRepro").href = "https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970";} catch { };
-try {document.getElementById("nhsr").href = "https://nhsrcommunity.com/blog/how-r-changed-me-as-an-analyst/";} catch { };
+// Wk1 reading
 try {document.getElementById("RGit").href = "https://happygitwithr.com/";} catch { };
-try {document.getElementById("rstudioCS").href = "https://github.com/rstudio/cheatsheets/blob/main/rstudio-ide.pdf";} catch { };
-try {document.getElementById("rmarkdownCS").href = "https://github.com/rstudio/cheatsheets/blob/main/rmarkdown-2.0.pdf";} catch { };
-try {document.getElementById("ggplot2CS").href = "https://github.com/rstudio/cheatsheets/blob/main/data-visualization-2.1.pdf";} catch { };
-try {document.getElementById("dplyrCS").href = "https://github.com/rstudio/cheatsheets/blob/main/data-transformation.pdf";} catch { };
-try {document.getElementById("Github").href = "https://rstudio.github.io/cheatsheets/git-github.pdf";} catch { };
+try {document.getElementById("NatRepro").href = "https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970";} catch { };
+try {document.getElementById("HTRR").href = "https://socviz.co/appendix.html#a-little-more-about-r";} catch { };		// How to read an R help page
+try {document.getElementById("nhsr").href = "https://nhsrcommunity.com/blog/how-r-changed-me-as-an-analyst/";} catch { };
+
+
+// Wk2
+try {document.getElementById("tidydata").href = "http://www.jstatsoft.org/v59/i10/paper";} catch { };		// Jstatsoft paper
+
+
+// Wk3
+
+// Wk4
 try {document.getElementById("DV3").href = "https://socviz.co/makeplot.html";} catch { };		// Data Visualisation: Chapter 3
 try {document.getElementById("COVIDvis").href = "https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/";} catch { };
 try {document.getElementById("wealth").href = "https://mkorostoff.github.io/1-pixel-wealth/";} catch { };
 try {document.getElementById("COVIDsymptom").href = "https://pair-code.github.io/covid19_symptom_dataset/?date=2020-09-07&country=GB";} catch { };
 try {document.getElementById("LayeredGG").href = "http://vita.had.co.nz/papers/layered-grammar.pdf";} catch { };
-try {document.getElementById("tidydata").href = "http://www.jstatsoft.org/v59/i10/paper";} catch { };		// Jstatsoft paper
-try {document.getElementById("intro2rgit").href = "https://intro2r.com/use-git.html";} catch { };		// intro2r: Chapter 9
+
+// Wk5
 try {document.getElementById("TSG1").href = "https://style.tidyverse.org/files.html";} catch { };		// Tidyverse style
-try {document.getElementById("selector").href = "https://rvest.tidyverse.org/articles/selectorgadget.html";} catch { };
+
+// Wk6
 try {document.getElementById("MDSR8").href = "https://mdsr-book.github.io/mdsr2e/ch-ethics.html";} catch { };
 try {document.getElementById("EthChal").href = "https://journals.sagepub.com/doi/pdf/10.1177/1747016116650720";} catch { };
 try {document.getElementById("AUWB").href = "https://aaronsadventures.blogspot.com/2019/01/discussion-of-unfairness-in-machine.html";} catch { };
+// Wk7
+
+// Wk8
+
+// Wk9
 try {document.getElementById("TMBaM").href = "https://www.tidymodels.org/start/models/";} catch { };		// TidyModels
 try {document.getElementById("TMP").href = "https://www.tidymodels.org/start/recipes/";} catch { };		// TidyModels
+
+
+// Wk10
 try {document.getElementById("TMER").href = "https://www.tidymodels.org/start/resampling/";} catch { };		// TidyModels
-try {document.getElementById("TMwR1").href = "https://www.tidytextmining.com/tidytext.html";} catch { };
-try {document.getElementById("TMwR2").href = "https://www.tidytextmining.com/sentiment.html";} catch { };
-try {document.getElementById("TMwR3").href = "https://www.tidytextmining.com/tfidf.html";} catch { };
+
+// Wk11
 try {document.getElementById("MS1").href = "https://mastering-shiny.org/basic-app.html";} catch { };
 try {document.getElementById("SMLTAR7").href = "https://smltar.com/mlclassification.html";} catch { };
 
-// About Gen-AI and other new links 
-try {document.getElementById("Gen-AI").href = "https://www.ed.ac.uk/bayes/ai-guidance-for-staff-and-students/ai-guidance-for-students";} catch { };
+//try {document.getElementById("OpenSci").href = "https://ropensci.github.io/reproducibility-guide/sections/introduction/";} catch { };
+//try {document.getElementById("intro2rgit").href = "https://intro2r.com/use-git.html";} catch { };		// intro2r: Chapter 9
+//try {document.getElementById("selector").href = "https://rvest.tidyverse.org/articles/selectorgadget.html";} catch { };
+//try {document.getElementById("TMwR1").href = "https://www.tidytextmining.com/tidytext.html";} catch { };
+//try {document.getElementById("TMwR2").href = "https://www.tidytextmining.com/sentiment.html";} catch { };
+//try {document.getElementById("TMwR3").href = "https://www.tidytextmining.com/tfidf.html";} catch { };
 
 
-// Code-Along ----------------------------------------------------------------------------------------------------------------------------------------------
+
+/*
+// Code-Along ---------(Depreciated content as of 2022/23) -----------------------------------------------
 try {document.getElementById("CARepo").href = "https://ids-s1-21.github.io/code-along/";} catch { };
 try {document.getElementById("CA1YT").href = "https://youtu.be/VPbOLhU1QY8";} catch { };
 try {document.getElementById("CA1MH").href = "https://media.ed.ac.uk/media/IDS+2021+-+Week+01+-+Code-along/1_v5suq9a2";} catch { };
@@ -525,7 +566,12 @@ try {document.getElementById("CA11YT").href = "https://youtu.be/pzsHSMoqQvw";} c
 try {document.getElementById("CA11MH").href = "https://media.ed.ac.uk/media/IDS+-+Week+10+-+Code+along/1_ti9g30zp";} catch { };
 try {document.getElementById("CA11pdf").href = "https://github.com/mine-cetinkaya-rundel/design-deck/blob/master/design-slide-deck-nature.pdf";} catch { };
 
+//END OF CODE-ALONG
+*/
+
+
 // R-Tutorials ---------------------------------------------------------------------------------------------------------------------------------------------
+// 2023/4: CONTENT NEEDS REVIEWING!!!
 try {document.getElementById("RT1").href = "https://rstudio.cloud/learn/primers/1.1";} catch { };
 try {document.getElementById("RT2").href = "https://minecr.shinyapps.io/dsbox-01-edibnb/";} catch { };
 try {document.getElementById("RT3").href = "https://minecr.shinyapps.io/dsbox-02-accidents/";} catch { };
@@ -540,7 +586,10 @@ try {DateRestrictLink(document.getElementById("RT11"), "23 November 2022", "http
 try {DateRestrictLink(document.getElementById("RT12"), "23 November 2022", "https://minecr.shinyapps.io/dsbox-08-bootstrapgss/");} catch { };
 
 
-// Datasets ---------------------------------------------------------------------------------------------------------------------------------------------
+// Datasets (Projects) -------------------------------------------------------------------
+
+// 2023/4: CONTENT NEEDS REVIEWING!!!
+
 // TidyTuesday
 try {document.getElementById("TidyTuesday").href = "https://github.com/rfordatascience/tidytuesday";} catch { };
 // NHS Scotland Open Data
@@ -570,85 +619,126 @@ try {document.getElementById("OECD").href = "https://data.oecd.org/";} catch { }
 // UCI  machine learning repository
 try {document.getElementById("UCI").href = "https://archive.ics.uci.edu/ml/index.php";} catch { };
 
-// Contacts ---------------------------------------------------------------------------------------------------------------------------------------------------
-// try {document.getElementById("MailAmy").href = "mailto:amy.l.wilson@ed.ac.uk";} catch { };
+
+// Contacts ----------------------------------------------------------------------------
+
+
 try {document.getElementById("MailOzan").href = "mailto:oevkaya@ed.ac.uk";} catch { };
-// try {document.getElementById("AmyWeb").href = "https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=558";} catch { };
 try {document.getElementById("OzanWeb").href = "https://ozanevkaya.netlify.app/";} catch { };
 
 try {document.getElementById("MailCecilia").href = "mailto:cecilia.balocchi@ed.ac.uk";} catch { };
 try {document.getElementById("CeciliaWeb").href = "https://cecilia-balocchi.owlstown.net/";} catch { };
 
-
-
-try {document.getElementById("DavidGitHub").href = "https://github.com/Eldave93";} catch { };
 try {document.getElementById("MailSimon").href = "mailto:simon.taylor@ed.ac.uk";} catch { };
 try {document.getElementById("SimonWeb").href = "https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=748";} catch { };
-try {document.getElementById("AlexGitHub").href = "https://github.com/AlexJHomer";} catch { };
+
 
 try {document.getElementById("CourseSec").href = "mailto:f.c.reid@ed.ac.uk";} catch { };
-// try {document.getElementById("SLA1").href = "mailto:Kat.Kiernan@ed.ac.uk";} catch { };
 try {document.getElementById("SLA2").href = "mailto:studentsupport@maths.ed.ac.uk";} catch { };
-try {document.getElementById("StudentSupportMail").href = "https://example.com";} catch { };
-try {document.getElementById("AlaaMail").href = "mailto:alaa.amri@ed.ac.uk";} catch { };
-try {document.getElementById("BruceMail").href = "mailto:bruce.worton@ed.ac.uk";} catch { };
-try {document.getElementById("JacobMail").href = "mailto:j.r.j.bradley@sms.ed.ac.uk";} catch { };
-try {document.getElementById("JinluMail").href = "mailto:jinlu.liu@ed.ac.uk";} catch { };
-try {document.getElementById("KarolinaMail").href = "mailto:k.benkova@ed.ac.uk";} catch { };
-try {document.getElementById("KevinMail").href = "mailto:ktsang2@exseed.ed.ac.uk";} catch { };
-try {document.getElementById("MaryMail").href = "mailto:mary.llewellyn@ed.ac.uk";} catch { };
-try {document.getElementById("MonserratMail").href = "mailto:s1553571@sms.ed.ac.uk";} catch { };
-try {document.getElementById("NicoleMail").href = "mailto:nicole.augustin@ed.ac.uk";} catch { };
-try {document.getElementById("PaulaMail").href = "mailto:paula.fermin@ed.ac.uk";} catch { };
-try {document.getElementById("RikiMail").href = "mailto:r.h.herliansyah@sms.ed.ac.uk";} catch { };
-try {document.getElementById("YikMail").href = "mailto:s1828050@ed.ac.uk";} catch { };
-try {document.getElementById("KitMail").href = "mailto:ksearle@ed.ac.uk";} catch { };
 
-// Other ---------------------------------------------------------------------------------------------------------------------------------------------------
+/* OLD CONTACTS */
+// PREVIOUS COURSE ORGANISERS/LECTURES
+// try {document.getElementById("MailAmy").href = "mailto:amy.l.wilson@ed.ac.uk";} catch { };
+// try {document.getElementById("AmyWeb").href = "https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=558";} catch { };// try {document.getElementById("DavidGitHub").href = "https://github.com/Eldave93";} catch { };
+// try {document.getElementById("AlexGitHub").href = "https://github.com/AlexJHomer";} catch { };
+// PREVIOUS STUDENT SUPPORT
+// try {document.getElementById("SLA1").href = "mailto:Kat.Kiernan@ed.ac.uk";} catch { };
+// try {document.getElementById("StudentSupportMail").href = "https://example.com";} catch { };
+// PREVIOUS TUTORS
+// try {document.getElementById("AlaaMail").href = "mailto:alaa.amri@ed.ac.uk";} catch { };
+// try {document.getElementById("BruceMail").href = "mailto:bruce.worton@ed.ac.uk";} catch { };
+// try {document.getElementById("JacobMail").href = "mailto:j.r.j.bradley@sms.ed.ac.uk";} catch { };
+// try {document.getElementById("JinluMail").href = "mailto:jinlu.liu@ed.ac.uk";} catch { };
+// try {document.getElementById("KarolinaMail").href = "mailto:k.benkova@ed.ac.uk";} catch { };
+// try {document.getElementById("KevinMail").href = "mailto:ktsang2@exseed.ed.ac.uk";} catch { };
+// try {document.getElementById("MaryMail").href = "mailto:mary.llewellyn@ed.ac.uk";} catch { };
+// try {document.getElementById("MonserratMail").href = "mailto:s1553571@sms.ed.ac.uk";} catch { };
+// try {document.getElementById("NicoleMail").href = "mailto:nicole.augustin@ed.ac.uk";} catch { };
+// try {document.getElementById("PaulaMail").href = "mailto:paula.fermin@ed.ac.uk";} catch { };
+// try {document.getElementById("RikiMail").href = "mailto:r.h.herliansyah@sms.ed.ac.uk";} catch { };
+// try {document.getElementById("YikMail").href = "mailto:s1828050@ed.ac.uk";} catch { };
+// try {document.getElementById("KitMail").href = "mailto:ksearle@ed.ac.uk";} catch { };
+
+
+
+// Other -----------------------------------------------------------------------
+
+// HOME
+try {document.getElementById('drps').href = "http://www.drps.ed.ac.uk/23-24/dpt/cxmath08077.htm";} catch { };	
+try {document.getElementById('licence').href = "https://github.com/uoeIDS/IDS_website/blob/main/LICENSE.md";} catch { };
 try {
 	document.getElementById('announcements').href = "https://www.learn.ed.ac.uk/ultra/courses/_112929_1/announcements";
 } catch { };	// link to annoucements page
-try {document.getElementById('drps').href = "http://www.drps.ed.ac.uk/23-24/dpt/cxmath08077.htm";} catch { };	// link to the official drps course page
-try {document.getElementById('ids2020').href = "https://introds-2020.netlify.app/";} catch { };	// link to ids 2020 page
-try {document.getElementById('ids2019').href = "https://introds-2019.netlify.app/";} catch { };	// link to ids 2019 page
-try {document.getElementById('learn').href = "https://www.learn.ed.ac.uk/";} catch { };	// link to learn
-try {document.getElementById('learnids').href = "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254185_1&course_id=_98726_1&mode=reset";} catch { };	// link to the IDS course on learn
-try {document.getElementById('learnidsstack').href =  "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?course_id=_98726_1&content_id=_7254189_1&mode=Q";} catch { };	// link to the IDS course assessment page on learn
-try {document.getElementById('survey1').href = "https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYdffF13VDSBAsmaFgj3BcYtUREVZQUVSWjY2UlZDTVdMWjM3NzI3VzVQUi4u";} catch { };	// link to the "Getting to know you survey"
-try {document.getElementById('assessPol').href = "https://teaching.maths.ed.ac.uk/main/undergraduate/studies/assessment/rules";} catch { };
-try {document.getElementById('UCMS').href = "https://edin.ac/common-marking-scheme";} catch { };
-try {document.getElementById('assessReg').href = "https://edin.ac/assessment-regulations";} catch { };
+
+
+// TROUBLESHOOT
+try {document.getElementById('gituseradv').href = "https://happygitwithr.com/github-acct.html";} catch { };
+
+// COMPONENTS
 try {document.getElementById('timetable').href = "https://edadfed.ed.ac.uk/adfs/ls/?RedirectToIdentityProvider=https%3a%2f%2fidp.ed.ac.uk%2fshibboleth&username=&wa=wsignin1.0&wtrealm=urn%3afederation%3aMicrosoftOnline&wctx=wa%3Dwsignin1.0%26whr%3Dhttps:%252f%252fedadfed.ed.ac.uk%252fadfs%252fls%26wreply%3dhttps:%252f%252foutlook.com%252fowa%252f%253frealm%253ded.ac.uk%2526path%253d%252fcalendar%252fview%252fWorkWeek)";} catch { };
 try {document.getElementById('timetableInfo').href = "https://edin.ac/student-timetables";} catch { };
-try {document.getElementById('UsefulLinks').href = "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_6018051_1&course_id=_87184_1&mode=reset";} catch { };
-try {document.getElementById('Rproject').href = "https://www.r-project.org/about.html";} catch { };
-try {document.getElementById('RStudio').href = "https://www.rstudio.com/products/rstudio/#rstudio-desktop";} catch { };
-try {document.getElementById('GitHub').href = "https://github.com/";} catch { };
-try {document.getElementById('IAD').href = "https://www.ed.ac.uk/institute-academic-development";} catch { }; //Institute for Academic Development
-try {document.getElementById('Advice').href = "https://www.eusa.ed.ac.uk/support_and_advice/the_advice_place/";} catch { }; //Institute for Academic Development
-try {document.getElementById('Disability').href = "https://www.ed.ac.uk/student-disability-service";} catch { }; //Institute for Academic Development
-try {document.getElementById('misconduct').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/academic-misconduct";} catch { }; //Institute for Academic Development
-try {document.getElementById('extensions').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/extensions";} catch { }; //Institute for Academic Development
-try {document.getElementById('extensionsExplained').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/extensions";} catch { }; //Institute for Academic Development
-try {document.getElementById('specialCircumstancesExplained').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/extensions";} catch { }; //Institute for Academic Development
-try {document.getElementById('ids2021Git').href = "https://github.com/ids-s1-21/";} catch { }; 
-// ids 2022 Git
-try {document.getElementById('ids2022Git').href = "https://github.com/uoeIDS/";} catch { }; 
-try {document.getElementById('Piazza').href = "https://piazza.com/ed.ac.uk/fall2023/math0807720234ss1sem1";} catch { }; //Institute for Academic Development
-try {document.getElementById('Teams').href = "https://www.microsoft.com/en-gb/microsoft-teams/log-in";} catch { }; //Institute for Academic Development
-try {document.getElementById('Zoom').href = "https://zoom.us/";} catch { }; //Institute for Academic Development
-try {document.getElementById('gituseradv').href = "https://happygitwithr.com/github-acct.html";} catch { };
-try {document.getElementById('GHSDP').href = "https://education.github.com/students";} catch { };
-//try {document.getElementById('licence').href = "https://github.com/ids-s1-21/website/blob/main/LICENSE.md";} catch { };
-try {document.getElementById('licence').href = "https://github.com/uoeIDS/IDS_website/blob/main/LICENSE.md";} catch { };
-try {document.getElementById('FMS').href = "https://github.com/mine-cetinkaya-rundel/fm-speeches-covid19";} catch { };
 
+// ASSESSMENT
+try {document.getElementById('assessPol').href = "https://teaching.maths.ed.ac.uk/main/undergraduate/studies/assessment/rules";} catch { };
+
+// GRADES
+try {document.getElementById('UCMS').href = "https://edin.ac/common-marking-scheme";} catch { };
+try {document.getElementById('assessReg').href = "https://edin.ac/assessment-regulations";} catch { };
+
+// HELP
+try {document.getElementById('IAD').href = "https://www.ed.ac.uk/institute-academic-development";} catch { };
+try {document.getElementById('Advice').href = "https://www.eusa.ed.ac.uk/support_and_advice/the_advice_place/";} catch { };
+try {document.getElementById('Disability').href = "https://www.ed.ac.uk/student-disability-service";} catch { };
+
+// POLICIES
+try {document.getElementById('misconduct').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/academic-misconduct";} catch { }; 
+try {document.getElementById("Gen-AI").href = "https://www.ed.ac.uk/bayes/ai-guidance-for-staff-and-students/ai-guidance-for-students";} catch { };
+try {document.getElementById('extensions').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/extensions";} catch { }; 
+try {document.getElementById('extensionsExplained').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/extensions";} catch { };
+try {document.getElementById('specialCircumstancesExplained').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/extensions";} catch { }; 
+
+// RESOURCES
+// -- Reading
+try {document.getElementById("R4DS").href = "https://r4ds.had.co.nz";} catch { };		// R4DS
+try {document.getElementById("IMS").href = "https://openintro-ims.netlify.app/";} catch { };		// IMS
 try {document.getElementById('advR').href = "https://adv-r.hadley.nz/";} catch { };
 try {document.getElementById('TMwR').href = "https://www.tmwr.org/";} catch { };
 
+// -- Tools
+try {document.getElementById('Rproject').href = "https://www.r-project.org/about.html";} catch { };
+try {document.getElementById('RStudio').href = "https://www.rstudio.com/products/rstudio/#rstudio-desktop";} catch { };
+try {document.getElementById('ids2022Git').href = "https://github.com/uoeIDS/";} catch { }; 
+try {document.getElementById('Piazza').href = "https://piazza.com/ed.ac.uk/fall2023/math0807720234ss1sem1";} catch { }; 
+
+// -- Cheatsheets
+try {document.getElementById("rstudioCS").href = "https://github.com/rstudio/cheatsheets/blob/main/rstudio-ide.pdf";} catch { };
+try {document.getElementById("rmarkdownCS").href = "https://github.com/rstudio/cheatsheets/blob/main/rmarkdown-2.0.pdf";} catch { };
+try {document.getElementById("Github").href = "https://rstudio.github.io/cheatsheets/git-github.pdf";} catch { };
+try {document.getElementById("ggplot2CS").href = "https://github.com/rstudio/cheatsheets/blob/main/data-visualization-2.1.pdf";} catch { };
+try {document.getElementById("dplyrCS").href = "https://github.com/rstudio/cheatsheets/blob/main/data-transformation.pdf";} catch { };
+
+
+//try {document.getElementById('learnids').href = "https://www.learn.ed.ac.uk/ultra/courses/_112929_1/outline";} catch { };	// link to the IDS course on learn
+//try {document.getElementById('ids2020').href = "https://introds-2020.netlify.app/";} catch { };	// link to ids 2020 page
+//try {document.getElementById('ids2019').href = "https://introds-2019.netlify.app/";} catch { };	// link to ids 2019 page
+
+//try {document.getElementById('learnidsstack').href =  "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?course_id=_98726_1&content_id=_7254189_1&mode=Q";} catch { };	// link to the IDS course assessment page on learn
+//try {document.getElementById('survey1').href = "https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYdffF13VDSBAsmaFgj3BcYtUREVZQUVSWjY2UlZDTVdMWjM3NzI3VzVQUi4u";} catch { };	// link to the "Getting to know you survey"
+//try {document.getElementById('UsefulLinks').href = "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_6018051_1&course_id=_87184_1&mode=reset";} catch { };
+//try {document.getElementById('ids2021Git').href = "https://github.com/ids-s1-21/";} catch { }; 
+// ids 2022 Git
+//try {document.getElementById('Teams').href = "https://www.microsoft.com/en-gb/microsoft-teams/log-in";} catch { }; //Institute for Academic Development
+//try {document.getElementById('GHSDP').href = "https://education.github.com/students";} catch { };
+//try {document.getElementById('licence').href = "https://github.com/ids-s1-21/website/blob/main/LICENSE.md";} catch { };
+//try {document.getElementById('FMS').href = "https://github.com/mine-cetinkaya-rundel/fm-speeches-covid19";} catch { };
+
+
+
+/* 
+// Depreciated feedback forms
 try {document.getElementById('feedbackW3').href = "https://forms.office.com/r/mSAw5ic3Vt";} catch { }; // week 3 course evaluation
 try {document.getElementById('feedbackW5').href = "https://forms.office.com/r/6hB8MmAwjp";} catch { }; // week 5/6 course evaluation
-
+*//
 
 // - EDIT ------------------------------------------------------------------
 
@@ -684,7 +774,7 @@ function DateRestrictLink(object, AccessDate, URL){
   }
 }
 
-
+/*
 try {DateRestrictLink(document.getElementById("test1"), "01 August 2022", "https://google.com");} catch { };
 try {DateRestrictLink(document.getElementById("test2"), "01 August 2023", "https://google.com");} catch { };
 try {DateRestrictLink(document.getElementById("test3"), "01 August 2022", "https://google.com");} catch { };
@@ -693,6 +783,7 @@ try {DateRestrictLink(document.getElementById("test5"), "01 August 2022", "/erro
 try {DateRestrictLink(document.getElementById("test6"), "01 August 2022", "/error");} catch { };
 try {DateRestrictLink(document.getElementById("test7"), "01 August 2023", "/error");} catch { };
 try {DateRestrictLink(document.getElementById("test8"), "01 August 2023", "/error");} catch { };
+*/
 
 // Lectures link to learn --------------------------------------------------------------------------------------------------------------------------------------------
 //Recording alternative -- NOTE: cannot have same link id used multiple times!!!
@@ -701,40 +792,40 @@ try {DateRestrictLink(document.getElementById("test8"), "01 August 2023", "/erro
 // week 1 lecture 01/02
 try {DateRestrictLink(document.getElementById("lecture01"), "06 September 2023", "https://uoeids.github.io/slides/w01-L01/w01-L01.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL01"), "18 September 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w01-L01");} catch { };
-try {DateRestrictLink(document.getElementById("MHL01"), "20 September 2023", "https://echo360.org.uk/lesson/f1b5fda8-7a25-45ff-b60d-464f6776cdad/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL01"), "20 September 2023", "https://echo360.org.uk/lesson/f1b5fda8-7a25-45ff-b60d-464f6776cdad/classroom#sortDirection=desc");} catch { };
 
 try {DateRestrictLink(document.getElementById("lecture02"), "06 September 2023", "https://uoeids.github.io/slides/w01-L02/w01-L02.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL02"), "18 September 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w01-L02");} catch { };
-try {DateRestrictLink(document.getElementById("MHL02"), "22 September 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-09-22T10:00:00.000_2022-09-22T10:55:00.000/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL02"), "22 September 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-09-22T10:00:00.000_2022-09-22T10:55:00.000/classroom#sortDirection=desc");} catch { };
 
 // week 2 lecture 03/04
 try {DateRestrictLink(document.getElementById("lecture03"), "25 September 2023", "https://uoeids.github.io/slides/w02-L03/w02-L03.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL03"), "25 September 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w02-L03");} catch { };
-try {DateRestrictLink(document.getElementById("MHL03"), "27 September 2023", "https://echo360.org.uk/lesson/11d4e729-ce16-4a21-b020-ba94939da9f2/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL03"), "27 September 2023", "https://echo360.org.uk/lesson/11d4e729-ce16-4a21-b020-ba94939da9f2/classroom#sortDirection=desc");} catch { };
 
 try {DateRestrictLink(document.getElementById("lecture04"), "25 September 2023", "https://uoeids.github.io/slides/w02-L04/w02-L04.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL04"), "25 September 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w02-L04");} catch { };
-try {DateRestrictLink(document.getElementById("MHL04"), "29 September 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-09-29T10:00:00.000_2022-09-29T10:55:00.000/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL04"), "29 September 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-09-29T10:00:00.000_2022-09-29T10:55:00.000/classroom#sortDirection=desc");} catch { };
 
 // week 3 lecture 05/06
 try {DateRestrictLink(document.getElementById("lecture05"), "02 October 2023", "https://uoeids.github.io/slides/w03-L05/w03-L05.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL05"), "02 October 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w03-L05");} catch { };
-try {DateRestrictLink(document.getElementById("MHL05"), "04 October 2023", "https://echo360.org.uk/lesson/34dac17f-f84c-405a-9e03-58a17c943f42/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL05"), "04 October 2023", "https://echo360.org.uk/lesson/34dac17f-f84c-405a-9e03-58a17c943f42/classroom#sortDirection=desc");} catch { };
 
 // try {DateRestrictLink(document.getElementById("MHL05extra"), "03 October 2022", "https://ed-ac-uk.zoom.us/rec/play/Dj4VTYqj9xYuzXowvhb8Rol34fKT1Wv6bwPKTW30_8UxHfaiXaXUzo_2O3NNNraiNwTb2r1t9BkJr6En.1XKMmUa-ACh3_Pyb");} catch { };
 
 try {DateRestrictLink(document.getElementById("lecture06"), "02 October 2023", "https://uoeids.github.io/slides/w03-L06/w03-L06.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL06"), "02 October 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w03-L06");} catch { };
-try {DateRestrictLink(document.getElementById("MHL06"), "06 October 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-10-06T10:00:00.000_2022-10-06T10:55:00.000/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL06"), "06 October 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-10-06T10:00:00.000_2022-10-06T10:55:00.000/classroom#sortDirection=desc");} catch { };
 
 // week 4 lecture 07/08
 try {DateRestrictLink(document.getElementById("lecture07"), "09 October 2023", "https://uoeids.github.io/slides/w04-L07/w04-L07.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL07"), "09 October 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w04-L07");} catch { };
-try {DateRestrictLink(document.getElementById("MHL07"), "11 October 2023", "https://echo360.org.uk/lesson/ae0e832a-1ae1-45de-bd5c-645a7f9a874d/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL07"), "11 October 2023", "https://echo360.org.uk/lesson/ae0e832a-1ae1-45de-bd5c-645a7f9a874d/classroom#sortDirection=desc");} catch { };
 
 try {DateRestrictLink(document.getElementById("lecture08"), "09 October 2023", "https://uoeids.github.io/slides/w04-L08/w04-L08.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL08"), "09 October 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w04-L08");} catch { };
-try {DateRestrictLink(document.getElementById("MHL08"), "13 October 2023", "https://echo360.org.uk/lesson/02a4a49d-3c14-40eb-a737-f0c8b9620409/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL08"), "13 October 2023", "https://echo360.org.uk/lesson/02a4a49d-3c14-40eb-a737-f0c8b9620409/classroom#sortDirection=desc");} catch { };
 // try {DateRestrictLink(document.getElementById("MHL08extra"), "13 October 2023", "https://ed-ac-uk.zoom.us/rec/play/8z7tvGas9rPb3zjlec2yySdB0lPuCxbTzI0vKWT3fI-LRjfvHjyemcBdk_toxMEYWNcqdL6PgC8mR656.OZmjFlaNW-7s5dhG");} catch { };
 
 
@@ -742,66 +833,66 @@ try {DateRestrictLink(document.getElementById("MHL08"), "13 October 2023", "http
 // week 5 lecture 09/10
 try {DateRestrictLink(document.getElementById("lecture09"), "16 October 2023", "https://uoeids.github.io/slides/w05-L09/w05-L09.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL09"), "16 October 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w05-L09");} catch { };
-try {DateRestrictLink(document.getElementById("MHL09"), "18 October 2023", "https://echo360.org.uk/lesson/342afe84-fe8a-4af4-a55f-e879f1f1c688/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL09"), "18 October 2023", "https://echo360.org.uk/lesson/342afe84-fe8a-4af4-a55f-e879f1f1c688/classroom#sortDirection=desc");} catch { };
 
 try {DateRestrictLink(document.getElementById("lecture10"), "16 October 2023", "https://uoeids.github.io/slides/w05-L10/w05-L10.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL10"), "16 October 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w05-L10");} catch { };
-try {DateRestrictLink(document.getElementById("MHL10"), "20 October 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-10-20T10:00:00.000_2022-10-20T10:55:00.000/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL10"), "20 October 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-10-20T10:00:00.000_2022-10-20T10:55:00.000/classroom#sortDirection=desc");} catch { };
 
 // week 6 lecture 11/12
 try {DateRestrictLink(document.getElementById("lecture11"), "23 October 2023", "https://uoeids.github.io/slides/w06-L11/w06-L11.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL11"), "23 October 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w06-L11");} catch { };
-try {DateRestrictLink(document.getElementById("MHL11"), "25 October 2023", "https://echo360.org.uk/lesson/89a36110-6275-4f8a-84df-9f12708722a4/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL11"), "25 October 2023", "https://echo360.org.uk/lesson/89a36110-6275-4f8a-84df-9f12708722a4/classroom#sortDirection=desc");} catch { };
 
 try {DateRestrictLink(document.getElementById("lecture12"), "23 October 2023", "https://uoeids.github.io/slides/w06-L12/w06-L12.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL12"), "23 October 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w06-L12");} catch { };
-try {DateRestrictLink(document.getElementById("MHL12"), "27 October 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-10-27T10:00:00.000_2022-10-27T10:55:00.000/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL12"), "27 October 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-10-27T10:00:00.000_2022-10-27T10:55:00.000/classroom#sortDirection=desc");} catch { };
 
 // week 7 lecture 13/14
 try {DateRestrictLink(document.getElementById("lecture13"), "30 October 2023", "https://uoeids.github.io/slides/w07-L13/w07-L13.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL13"), "30 October 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w07-L13");} catch { };
-try {DateRestrictLink(document.getElementById("MHL13"), "01 November 2023", "https://echo360.org.uk/lesson/295216c2-ea9d-4797-ad85-8c179fd4ad1d/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL13"), "01 November 2023", "https://echo360.org.uk/lesson/295216c2-ea9d-4797-ad85-8c179fd4ad1d/classroom#sortDirection=desc");} catch { };
 
 try {DateRestrictLink(document.getElementById("lecture14"), "30 October 2023", "https://uoeids.github.io/slides/w07-L14/w07-L14.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL14"), "30 October 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w07-L14");} catch { };
-try {DateRestrictLink(document.getElementById("MHL14"), "03 November 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-11-03T10:00:00.000_2022-11-03T10:55:00.000/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL14"), "03 November 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-11-03T10:00:00.000_2022-11-03T10:55:00.000/classroom#sortDirection=desc");} catch { };
 
 
 // week 8 lecture 15/16
 try {DateRestrictLink(document.getElementById("lecture15"), "06 November 2023", "https://uoeids.github.io/slides/w08-L15/w08-L15.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL15"), "06 November 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w08-L15");} catch { };
-try {DateRestrictLink(document.getElementById("MHL15"), "08 November 2023", "https://echo360.org.uk/lesson/44bf503f-d28e-436e-a444-7c3f45569c30/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL15"), "08 November 2023", "https://echo360.org.uk/lesson/44bf503f-d28e-436e-a444-7c3f45569c30/classroom#sortDirection=desc");} catch { };
 
 try {DateRestrictLink(document.getElementById("lecture16"), "06 November 2023", "https://uoeids.github.io/slides/w08-L16/w08-L16.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL16"), "06 November 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w08-L16");} catch { };
-try {DateRestrictLink(document.getElementById("MHL16"), "10 November 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-11-10T10:00:00.000_2022-11-10T10:55:00.000/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL16"), "10 November 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-11-10T10:00:00.000_2022-11-10T10:55:00.000/classroom#sortDirection=desc");} catch { };
 
 // week 9 lecture 17/18
 try {DateRestrictLink(document.getElementById("lecture17"), "13 November 2023", "https://uoeids.github.io/slides/w09-L17/w09-L17.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL17"), "13 November 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w09-L17");} catch { };
-try {DateRestrictLink(document.getElementById("MHL17"), "15 November 2023", "https://echo360.org.uk/lesson/2950ead4-92e7-4c53-8668-47c12ed3a493/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL17"), "15 November 2023", "https://echo360.org.uk/lesson/2950ead4-92e7-4c53-8668-47c12ed3a493/classroom#sortDirection=desc");} catch { };
 
 try {DateRestrictLink(document.getElementById("lecture18"), "13 November 2023", "https://uoeids.github.io/slides/w09-L18/w09-L18.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL18"), "13 November 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w09-L18");} catch { };
-try {DateRestrictLink(document.getElementById("MHL18"), "17 November 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-11-17T10:00:00.000_2022-11-17T10:55:00.000/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL18"), "17 November 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-11-17T10:00:00.000_2022-11-17T10:55:00.000/classroom#sortDirection=desc");} catch { };
 
 // week 10 lecture 19/20
 try {DateRestrictLink(document.getElementById("lecture19"), "20 November 2023", "https://uoeids.github.io/slides/w10-L19/w10-L19.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL19"), "20 November 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w10-L19");} catch { };
-try {DateRestrictLink(document.getElementById("MHL19"), "22 November 2023", "https://echo360.org.uk/lesson/25e320d4-0dd3-437a-b397-f878d5a26584/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL19"), "22 November 2023", "https://echo360.org.uk/lesson/25e320d4-0dd3-437a-b397-f878d5a26584/classroom#sortDirection=desc");} catch { };
 
 try {DateRestrictLink(document.getElementById("lecture20"), "20 November 2023", "https://uoeids.github.io/slides/w10-L20/w10-L20.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL20"), "20 November 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w10-L20");} catch { };
-try {DateRestrictLink(document.getElementById("MHL20"), "24 November 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-11-24T10:00:00.000_2022-11-24T10:55:00.000/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL20"), "24 November 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-11-24T10:00:00.000_2022-11-24T10:55:00.000/classroom#sortDirection=desc");} catch { };
 
 // week 11 lecture 20/21
 try {DateRestrictLink(document.getElementById("lecture21"), "27 November 2023", "https://uoeids.github.io/slides/w11-L21/w11-L21.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL21"), "27 November 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w11-L21");} catch { };
-try {DateRestrictLink(document.getElementById("MHL21"), "29 November 2023", "https://echo360.org.uk/lesson/6d262012-b0f7-4e4f-9d48-51a0ed3b1dc7/classroom#sortDirection=desc");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL21"), "29 November 2023", "https://echo360.org.uk/lesson/6d262012-b0f7-4e4f-9d48-51a0ed3b1dc7/classroom#sortDirection=desc");} catch { };
 
 try {DateRestrictLink(document.getElementById("lecture22"), "27 November 2023", "https://uoeids.github.io/slides/w11-L22/w11-L22.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL22"), "27 November 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w11-L22");} catch { };
-try {DateRestrictLink(document.getElementById("MHL22"), "01 December 2023", "/error");} catch { };
+//try {DateRestrictLink(document.getElementById("MHL22"), "01 December 2023", "/error");} catch { };
 
 
 
@@ -831,7 +922,9 @@ try {DateRestrictLink(document.getElementById("MHL22"), "01 December 2023", "/er
 // week 11 lecture 11
 //try {DateRestrictLink(document.getElementById("lecture11"), "28 November 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 
-// Quizzes --------------------------------------------------------------------------------------------------------------------------------------------
+
+/*
+// Quizzes -------(Depreciated: 2023/24)----------------------------------------------------------------------------------
 // week 1 quiz 01
 try {DateRestrictLink(document.getElementById("OQ0"), "19 September 2022", "https://uoe-maths.shinyapps.io/IDS_Q00/");} catch { };
 // week 2 quiz 02
@@ -854,6 +947,7 @@ try {DateRestrictLink(document.getElementById("OQ8"), "14 November 2022", "https
 try {DateRestrictLink(document.getElementById("OQ9"), "21 November 2022", "https://uoe-maths.shinyapps.io/IDS_Q09/");} catch { };
 // week 11 quiz 11
 try {DateRestrictLink(document.getElementById("OQ10"), "21 November 2022", "https://uoe-maths.shinyapps.io/IDS_Q10/");} catch { };
+*/
 
 // Homework --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -879,6 +973,8 @@ try {DateRestrictLink(document.getElementById("HW3K"), "02 December 2023", "http
 //https://uoeIDS.github.io/homework/hw-03-key/hw-03-key.html
 try {DateRestrictLink(document.getElementById("HW3Kraw"), "02 December 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/homework/hw-03-key");} catch { };
 //https://github.com/uoeIDS/uoeIDS.github.io/tree/main/homework/hw-03-key
+
+
 
 
 // week 10 hw 04
@@ -941,6 +1037,7 @@ try {DateRestrictLink(document.getElementById("project"), "19 October 2023", "ht
 try {DateRestrictLink(document.getElementById("projectR"), "19 October 2023", "https://github.com/uoeIDS/presentation-template");} catch { };
 try {DateRestrictLink(document.getElementById("project_1"), "25 October 2023", "https://uoeids.github.io/labs/lab-05/lab-05-proposal.html");} catch { };
 try {DateRestrictLink(document.getElementById("projectR_1"), "27 October 2023", "https://github.com/uoeIDS/project-template");} catch { };
+
 try {DateRestrictLink(document.getElementById("feedback_1"), "27 October 2023", "https://uoeids.github.io/labs/lab-05/9amworkshop.html");} catch { };
 try {DateRestrictLink(document.getElementById("feedback_2"), "27 October 2023", "https://uoeids.github.io/labs/lab-05/1030workshop.html");} catch { };
 try {DateRestrictLink(document.getElementById("feedback_3"), "27 October 2023", "https://uoeids.github.io/labs/lab-05/1400workshop.html");} catch { };
