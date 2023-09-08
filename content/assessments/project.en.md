@@ -21,7 +21,13 @@ The goal is not to do an exhaustive data analysis i.e., do not calculate every s
 
 The project is very open ended. You should create some kind of compelling visualization(s) of this data in R. There is no limit on what tools or packages you may use, but sticking to packages we learned in class (e.g. `tidyverse`) is advised. You do not need to visualize all of the data at once. A single high quality visualization will contribute much more to a good mark than a large number of poor quality visualizations. Also pay attention to your presentation. Neatness, coherency, and clarity will count. All analyses must be done in RStudio, using R. You must also set up and use a GitHub repository to collaborate with your team. 
 
-Other details are on the way...
+Further details are on the way... 
+
+<div align="center">
+<i class="fas fa-solid fa-cog fa-spin fa-2x" style="--fa-animation-duration: 15s;"></i>
+</div>
+
+
 
 <!--
 ### Data
@@ -159,4 +165,3 @@ Team peer evaluation           | 10 pts
 - There is no late submission / make up for the presentation. You must be in class on the day of the presentation to get credit for it (In case of illness, requirement to self-isolate or similar, special circumstances can be applied for from the university: see the <a id="policies">Policies page</a>).
 
 - The late work policy for the write-up is 5% of the maximum obtainable mark per calendar day up to seven calendar days after the deadline.
--->
