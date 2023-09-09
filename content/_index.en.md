@@ -10,7 +10,7 @@ title: IDS
   This is the website for the Introduction to Data Science (MATH08077) course offered at the University of Edinburgh in 2023. <!-- Click <a id="ids2020">here</a> if you are looking for the 2020 version of the course and <a id="ids2019">here</a> for the 2019 version. -->
   </p>
 
-Learn to explore, visualize, and analyze data to understand natural phenomena, investigate patterns, model outcomes, and make predictions, and do so in a reproducible and shareable manner. Gain experience in data collection, wrangling, and visualization, exploratory data analysis, predictive modeling, and effective communication of results while working on problems and case studies inspired by and based on real-world questions. The course will focus on the R statistical computing language. No statistical or computing background is necessary. Additional official course information can be found <a id="drps">here</a>.
+Learn to explore, visualize, and analyze data to understand natural phenomena, investigate patterns, model outcomes, and make predictions, and do so in a reproducible and shareable manner. Gain experience in data collection, wrangling, and visualization, exploratory data analysis, predictive modelling, and effective communication of results while working on problems and case studies inspired by and based on real-world questions. The course will focus on the R statistical computing language. No statistical or computing background is necessary. Additional official course information can be found <a id="drps">here</a>.
 
 {{% children style="div" description="true" %}}
 
