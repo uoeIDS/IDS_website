@@ -2,11 +2,7 @@
 // and then assign them to a variable
 
 // Webpage Links ---------------------------------------------------------------------------------------------------
-try {document.getElementById('GitHub').href = "https://github.com/";} catch { };
-try {document.getElementById('Zoom').href = "https://zoom.us/";} catch { }; 
-try {document.getElementById('learn').href = "https://www.learn.ed.ac.uk/";} catch { };	
-
-try {document.getElementById('assessments').href = "/assessments";} catch { };		// / link to the assessments page
+try {document.getElementById('assessments').href = "/assessments";} catch { };		// link to the assessments page
 try {document.getElementById('errata').href = "/errata";} catch { };
 try {document.getElementById('components').href = "/components";} catch { };		// link to the help page
 try {document.getElementById('help').href = "/help";} catch { };					// link to the help page
@@ -438,7 +434,7 @@ try {document.getElementById("R4DS10").href = "https://r4ds.had.co.nz/tibbles.ht
 try {document.getElementById("R4DS11").href = "https://r4ds.had.co.nz/data-import.html";} catch { };             
 try {document.getElementById("R4DS12").href = "https://r4ds.had.co.nz/tidy-data.html";} catch { };		           
 try {document.getElementById("R4DS13").href = "https://r4ds.had.co.nz/relational-data.html";} catch { };		     
-try {document.getElementById("R4DS24").href = "https://r4ds.had.co.nz/strings.html";} catch { };		             
+try {document.getElementById("R4DS14").href = "https://r4ds.had.co.nz/strings.html";} catch { };		             
 try {document.getElementById("R4DS15").href = "https://r4ds.had.co.nz/factors.html";} catch { };                 
 try {document.getElementById("R4DS16").href = "https://r4ds.had.co.nz/dates-and-times.html";} catch { };         
 try {document.getElementById("R4DS17").href = "https://r4ds.had.co.nz/program-intro.html";} catch { };		       
@@ -512,13 +508,14 @@ try {document.getElementById("TMER").href = "https://www.tidymodels.org/start/re
 try {document.getElementById("MS1").href = "https://mastering-shiny.org/basic-app.html";} catch { };
 try {document.getElementById("SMLTAR7").href = "https://smltar.com/mlclassification.html";} catch { };
 
+/*
 //try {document.getElementById("OpenSci").href = "https://ropensci.github.io/reproducibility-guide/sections/introduction/";} catch { };
 //try {document.getElementById("intro2rgit").href = "https://intro2r.com/use-git.html";} catch { };		// intro2r: Chapter 9
 //try {document.getElementById("selector").href = "https://rvest.tidyverse.org/articles/selectorgadget.html";} catch { };
 //try {document.getElementById("TMwR1").href = "https://www.tidytextmining.com/tidytext.html";} catch { };
 //try {document.getElementById("TMwR2").href = "https://www.tidytextmining.com/sentiment.html";} catch { };
 //try {document.getElementById("TMwR3").href = "https://www.tidytextmining.com/tfidf.html";} catch { };
-
+*/
 
 
 /*
@@ -636,7 +633,8 @@ try {document.getElementById("SimonWeb").href = "https://www.maths.ed.ac.uk/scho
 try {document.getElementById("CourseSec").href = "mailto:f.c.reid@ed.ac.uk";} catch { };
 try {document.getElementById("SLA2").href = "mailto:studentsupport@maths.ed.ac.uk";} catch { };
 
-/* OLD CONTACTS */
+/* 
+// -- OLD CONTACTS ---------
 // PREVIOUS COURSE ORGANISERS/LECTURES
 // try {document.getElementById("MailAmy").href = "mailto:amy.l.wilson@ed.ac.uk";} catch { };
 // try {document.getElementById("AmyWeb").href = "https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=558";} catch { };// try {document.getElementById("DavidGitHub").href = "https://github.com/Eldave93";} catch { };
@@ -658,10 +656,14 @@ try {document.getElementById("SLA2").href = "mailto:studentsupport@maths.ed.ac.u
 // try {document.getElementById("RikiMail").href = "mailto:r.h.herliansyah@sms.ed.ac.uk";} catch { };
 // try {document.getElementById("YikMail").href = "mailto:s1828050@ed.ac.uk";} catch { };
 // try {document.getElementById("KitMail").href = "mailto:ksearle@ed.ac.uk";} catch { };
+*/
 
 
+// Other -----------------------------------------------------
 
-// Other -----------------------------------------------------------------------
+try {document.getElementById('GitHub').href = "https://github.com/";} catch { };
+try {document.getElementById('Zoom').href = "https://zoom.us/";} catch { }; 
+try {document.getElementById('learn').href = "https://www.learn.ed.ac.uk/";} catch { };	
 
 // HOME
 try {document.getElementById('drps').href = "http://www.drps.ed.ac.uk/23-24/dpt/cxmath08077.htm";} catch { };	
@@ -717,7 +719,7 @@ try {document.getElementById("Github").href = "https://rstudio.github.io/cheatsh
 try {document.getElementById("ggplot2CS").href = "https://github.com/rstudio/cheatsheets/blob/main/data-visualization-2.1.pdf";} catch { };
 try {document.getElementById("dplyrCS").href = "https://github.com/rstudio/cheatsheets/blob/main/data-transformation.pdf";} catch { };
 
-
+/*
 //try {document.getElementById('learnids').href = "https://www.learn.ed.ac.uk/ultra/courses/_112929_1/outline";} catch { };	// link to the IDS course on learn
 //try {document.getElementById('ids2020').href = "https://introds-2020.netlify.app/";} catch { };	// link to ids 2020 page
 //try {document.getElementById('ids2019').href = "https://introds-2019.netlify.app/";} catch { };	// link to ids 2019 page
@@ -731,14 +733,14 @@ try {document.getElementById("dplyrCS").href = "https://github.com/rstudio/cheat
 //try {document.getElementById('GHSDP').href = "https://education.github.com/students";} catch { };
 //try {document.getElementById('licence').href = "https://github.com/ids-s1-21/website/blob/main/LICENSE.md";} catch { };
 //try {document.getElementById('FMS').href = "https://github.com/mine-cetinkaya-rundel/fm-speeches-covid19";} catch { };
-
+*/
 
 
 /* 
 // Depreciated feedback forms
 try {document.getElementById('feedbackW3').href = "https://forms.office.com/r/mSAw5ic3Vt";} catch { }; // week 3 course evaluation
 try {document.getElementById('feedbackW5').href = "https://forms.office.com/r/6hB8MmAwjp";} catch { }; // week 5/6 course evaluation
-*//
+*/
 
 // - EDIT ------------------------------------------------------------------
 
@@ -785,7 +787,7 @@ try {DateRestrictLink(document.getElementById("test7"), "01 August 2023", "/erro
 try {DateRestrictLink(document.getElementById("test8"), "01 August 2023", "/error");} catch { };
 */
 
-// Lectures link to learn --------------------------------------------------------------------------------------------------------------------------------------------
+// Lectures link to learn ------------------------------------------
 //Recording alternative -- NOTE: cannot have same link id used multiple times!!!
 //try {document.getElementById("RecodingAlt").href = "https://www.learn.ed.ac.uk/ultra/courses/_98726_1/cl/outline";} catch { };
 
@@ -897,6 +899,7 @@ try {DateRestrictLink(document.getElementById("GHL22"), "27 November 2023", "htt
 
 
 //==OLD==
+/*
 // week 1 lecture 01
 //try {DateRestrictLink(document.getElementById("lecture01-01"), "20 September 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 // week 1 lecture 02
@@ -921,10 +924,10 @@ try {DateRestrictLink(document.getElementById("GHL22"), "27 November 2023", "htt
 //try {DateRestrictLink(document.getElementById("lecture10"), "21 November 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
 // week 11 lecture 11
 //try {DateRestrictLink(document.getElementById("lecture11"), "28 November 2022", "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_7254187_1&course_id=_98726_1&mode=reset");} catch { };
+*/
 
-
+// Quizzes -------(Depreciated: 2023/24) --------------------------------
 /*
-// Quizzes -------(Depreciated: 2023/24)----------------------------------------------------------------------------------
 // week 1 quiz 01
 try {DateRestrictLink(document.getElementById("OQ0"), "19 September 2022", "https://uoe-maths.shinyapps.io/IDS_Q00/");} catch { };
 // week 2 quiz 02
@@ -949,7 +952,7 @@ try {DateRestrictLink(document.getElementById("OQ9"), "21 November 2022", "https
 try {DateRestrictLink(document.getElementById("OQ10"), "21 November 2022", "https://uoe-maths.shinyapps.io/IDS_Q10/");} catch { };
 */
 
-// Homework --------------------------------------------------------------------------------------------------------------------------------------------
+// Homework ------------------------------------
 
 // 2023 Homework 1 ////////////////////////////
 // week 4 hw 01
@@ -976,7 +979,7 @@ try {DateRestrictLink(document.getElementById("HW3Kraw"), "02 December 2023", "h
 
 
 
-
+/* 
 // week 10 hw 04
 // try {DateRestrictLink(document.getElementById("HW4I"), "07 November 2021", "https://uoeids.github.io/homework/hw-04/hw-04.html");} catch { };
 // try {DateRestrictLink(document.getElementById("HW4R"), "07 November 2021", "https://github.com/uoeIDS/hw-04-template");} catch { };
@@ -1005,8 +1008,10 @@ try {DateRestrictLink(document.getElementById("HW3Kraw"), "02 December 2023", "h
 // HW 5 - Model and Review
 //try {document.getElementById("HW5I").href = "https://ids-s1-21.github.io/homework_instructions/hw-05/hw-05-model-review.html";} catch { };
 //try {document.getElementById("HW5R").href = "https://github.com/ids-s1-21?q=hw-05-model-review&type=&language=&sort=";} catch { };
+*/
 
-// Labs --------------------------------------------------------------------------------------------------------------------------------------------
+
+// Labs --------------------------------
 
 // lab 0 - Hello IDS! WEEK 01
 try {DateRestrictLink(document.getElementById("LAB0I"), "21 September 2023", "https://uoeids.github.io/labs/lab-00/lab-00-hello-ids-2022.html");} catch { };
@@ -1065,7 +1070,7 @@ try {DateRestrictLink(document.getElementById("LAB8I"), "23 November 2023", "htt
 try {DateRestrictLink(document.getElementById("projectEND"), "28 November 2023", "/assessments/project");} catch { };
 
 
-
+/*
 //LAST LINK TO LABS ELIMINATE WHEN ADECUATE
 // lab 0 - Hello IDS!
 //try {document.getElementById("LAB0I").href = "https://ids-s1-21.github.io/lab_instructions/lab-00/lab-00-hello-ids.html";} catch { };
@@ -1097,6 +1102,7 @@ try {DateRestrictLink(document.getElementById("projectEND"), "28 November 2023",
 //try {document.getElementById("projectR").href = "https://github.com/ids-s1-21?q=project&type=&language=&sort=";} catch { };
 //try {document.getElementById('project_1').href = "/assessments/project";} catch { };
 //try {document.getElementById("projectR_1").href = "https://github.com/ids-s1-21?q=project&type=&language=&sort=";} catch { };
+*/
 
-// Complete -------------------------------------------------------------------------------------------------------------------------------------------------
+// Complete ----  -------------------------
 console.log('Links Added');
