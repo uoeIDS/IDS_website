@@ -18,10 +18,12 @@ Writing custom functions and coding iteration loops.
 
 ## Lectures
 
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div>   <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
+<!--
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | -->
+| <div style="text-align:center">No.</div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">Slides</div> | <div style="text-align:center">Additional</div> |
 |:---:|:---------------------|:--------:|:------|
-| 11  | Programming (Functions)  | <span><a id = "lecture11"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL11">Raw<i class="fab fa-fw fa-github"/></a></span> |
-| 12  | Programming (Iterations)  | <span><a id = "lecture12"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL12">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 13  | Programming: Functions  | <span><a id = "lecture13"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL13">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 14  | Programming: Iterations  | <span><a id = "lecture14"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL14">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
 <br>
 <p  style="text-align: left"> 
@@ -46,18 +48,28 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
 
+<!--
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
+-->
+|    |    |    |
+|:--:|:---|:--:|
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS19">Chp 19 - Functions</a> | **Required** |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS21">Chp 21 - Iteration</a> | **Required** |
 
 ## Workshop
 
+<p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
 
-| <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
+<!--
+| <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> | --->
+| <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
+| Lab06: ???? | <li><a id="LAB6I">Instructions</a></li> <li><a id="LAB6R">Repository</a></li><li><a id="LAB6K">Solutions</a>(<a id="LAB6Kraw">Raw</a>)</li> | Fri, 3 Nov  |
+
+<!--
 | Project: Proposal |<li><a id="project_1">Instructions</a></li> <li><a id="projectR">Repository</a></li>| Fri, 28 Oct  |
-| Project: feedback |<li><a id="feedback_1">0900 workshop</a></li> <li><a id="feedback_2">1030 workshop</a></li><li><a id="feedback_3">1400 workshop</a></li><li><a id="feedback_4">1530 workshop</a></li>| Fri, 03 Nov, 16:00 UK  |
+| Project: feedback |<li><a id="feedback_1">0900 workshop</a></li> <li><a id="feedback_2">1030 workshop</a></li><li><a id="feedback_3">1400 workshop</a></li><li><a id="feedback_4">1530 workshop</a></li>| Fri, 03 Nov, 16:00 UK  |-->
 
 <!--
 ## Assignments

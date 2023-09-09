@@ -21,10 +21,12 @@ Data visualization and interpretation of graphical information.
 
 ## Lectures
 
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
-  |:---:|:---------------------|:--------:|:------|
-  | 03  | Visualising data | <span><a id = "lecture03"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL03">Raw<i class="fab fa-fw fa-github"/></a></span> |
-  | 04  | Types of visualisations | <span><a id = "lecture04"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL04">Raw<i class="fab fa-fw fa-github"/></a></span> |
+<!--
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | -->
+| <div style="text-align:center">No.</div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">Slides</div> | <div style="text-align:center">Additional</div> |
+|:---:|:---------------------|:--------:|:------|
+  | 07  | Visualising data | <span><a id = "lecture07"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL07">Raw<i class="fab fa-fw fa-github"/></a></span> |
+  | 08  | Types of visualisations | <span><a id = "lecture08"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL08">Raw<i class="fab fa-fw fa-github"/></a></span> |
   
 <br>
 <p  style="text-align: left"> 
@@ -39,9 +41,10 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 
 ## Tasks
+<!--
 {{% notice warning %}}
 If you have not completed the <em>first time setup instructions</em> found on the <a id="troubleshoot">Setup & Troubleshooting</a> page, please follow these now.
-{{% /notice %}}
+{{% /notice %}} -->
 
 <ol>
   <li>Watch the <a href="#videos and readings">Videos and readings</a>.</li>
@@ -67,23 +70,33 @@ If you have not completed the <em>first time setup instructions</em> found on th
 
 -->
 
+<!--
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
+-->
+|    |    |    |
+|:--:|:---|:--:|
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS3">Chp 3 - Data visualisation</a> | **Required** |
 | <i class="fas fa-book"></i> | Data Visualization: <a id="DV3">Chp 3 - Make a plot</a> | **Required** |
 | <i class="fab fa-readme"></i> | <a id="LayeredGG">A Layered Grammar of Graphics</a> | Optional |
-| <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a href = "https://www.youtube.com/watch?v=E91bGT9BjYk">TedEd: How to spot a misleading graph</a> | Optional |
-| <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a href = "https://www.youtube.com/watch?v=jbkSRLYSojo">BBC: The Joy of Stats</a> | Optional |
-| <i class="fas fa-chart-bar"></i> | <a id="wealth">Wealth Shown to Scale</a> | Optional |
+| <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a id = "YT_BBC_Joy">BBC: The Joy of Stats</a> | Optional |
+| <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a id = "YT_TedEd_Missrepresentation">TedEd: How to spot a misleading graph</a> | Optional |
+<!--| <i class="fas fa-chart-bar"></i> | <a id="wealth">Wealth Shown to Scale</a> | Optional |-->
 <!--| <i class="fas fa-chart-bar"></i> | <a id="COVIDvis">COVID-19 Data Visualisations</a> | Optional |-->
 <!--| <i class="fas fa-chart-bar"></i> | <a id="COVIDsymptom">COVID-19 Search Trends</a> | Optional |-->
 
 
 ## Workshop
 
-| <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
+<p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
+
+
+<!--
+| <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |--->
+| <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab01: Plastic waste | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li><li><a id="LAB1K">Solutions</a>(<a id="LAB1Kraw">Raw</a>)</li> | Fri, 13 Oct, 16:00 UK |
+| Lab03: ??? | <li><a id="LAB3I">Instructions</a></li> <li><a id="LAB3R">Repository</a></li><li><a id="LAB3K">Solutions</a>(<a id="LAB3Kraw">Raw</a>)</li> | Fri, 13 Oct |
+
 
 <!--
 ## Assignments

@@ -18,10 +18,12 @@ Linear models for predicting numerical data from single and multiple variables.
 
 ## Lectures
 
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
-  |:---:|:---------------------|:--------:|:------|
-  | 13  | Introducing models  | <span><a id = "lecture13"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL13">Raw<i class="fab fa-fw fa-github"/></a></span> |
-  | 14  | Model checking and multiple predictors  | <span><a id = "lecture14"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL14">Raw<i class="fab fa-fw fa-github"/></a></span> |
+<!--
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | -->
+| <div style="text-align:center">No.</div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">Slides</div> | <div style="text-align:center">Additional</div> |
+|:---:|:---------------------|:--------:|:------|
+  | 15  | Introducing Modelling  | <span><a id = "lecture15"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL15">Raw<i class="fab fa-fw fa-github"/></a></span> |
+  | 16  | Model Checking  | <span><a id = "lecture16"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL16">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
 <!-- <li><a id ="W8L4MH">Video 1**</a></li><li><a id = "W8L5MH">Video 2</a></li><li><a id = "W8L6MH">Video 3</a></li> ---><!-- Old video recoding links-->
 
@@ -54,16 +56,30 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
 
+<!--
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
+-->
+|    |    |    |
+|:--:|:---|:--:|
 | <i class="fas fa-book"></i> | IMS: <a id="IMS7">Chp 7 - Linear regression with a single predictor</a> | **Required** |
 | <i class="fas fa-book"></i> | IMS: <a id="IMS8">Chp 8 - Linear regression with multiple predictors</a> | **Required** |
 
 ## Workshop
 
-| <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
+<p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
+
+
+<!--
+| <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> | -->
+
+| <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
+| Lab07: ???? | <li><a id="LAB7I">Instructions</a></li> <li><a id="LAB7R">Repository</a></li><li><a id="LAB7K">Solutions</a>(<a id="LAB7Kraw">Raw</a>)</li> | Fri, 10 Nov |
+
+<!---
 | Lab06: 	Conveying the right message through visualisation | <li><a id="LAB5I">Instructions</a></li> <li><a id="LAB5R">Repository</a></li><li><a id="LAB5K">Solutions</a>(<a id="LAB5Kraw">Raw</a>)</li> | Fri, 10 Nov, 16:00 UK |
+--->
 
 <!--
 ## Assignments

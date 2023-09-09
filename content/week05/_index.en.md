@@ -18,7 +18,9 @@ Tips for effective data visualization, communication of results, and collaborati
 
 ## Lectures
 
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
+<!--
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | -->
+| <div style="text-align:center">No.</div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">Slides</div> | <div style="text-align:center">Additional</div> |
 |:---:|:---------------------|:--------:|:------|
 | 09  | Doing Data Science  | <span><a id = "lecture09"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL09">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 10  | Effective Data Visualisation  | <span><a id = "lecture10"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL10">Raw<i class="fab fa-fw fa-github"/></a></span> |
@@ -46,23 +48,32 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
 
-
+<!--
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| <i class="fas fa-laptop"></i> | <a href="/assessments/project">Final Project Information</a> | **Required** |
+-->
+|    |    |    |
+|:--:|:---|:--:|
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS7">Chp 7 - Exploratory data analysis</a> | **Required** |
 | <i class="fas fa-book"></i> | IMS: <a id="IMS6">Chp 6 - Applications: Explore</a> | **Required** |
 | <i class="fas fa-book"></i> | IMS: <a id="IMS2">Chp 2 - Study design</a> | **Required** |
 | <i class="fas fa-book"></i> | Tidyverse style guide: <a id="TSG1">Part 1 - Analyses (Chp 1-5)</a> | Optional |
-| <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a href = "https://www.youtube.com/watch?v=ebEkn-BiW5k">minutephysics: Simpson's Paradox</a> | Optional |
+| <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a id = "YT_MinPhys_SimpsPara">minutephysics: Simpson's Paradox</a> | Optional |
 
+<!--| <i class="fas fa-laptop"></i> | <a href="/assessments/project">Final Project Information</a> | **Required** |-->
 
 
 ## Workshop
 
-| <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
+<p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
+
+<!--
+| <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |-->
+| <div style="text-align:left">Laboratory Title</div> | <div style="width:text-align:left">Links</div> | <div style="width:text-align:left">Date</div> |
 |:---|:---|:---|
-| Project: Proposal | <li><a id="project">Instructions</a></li> <li><a id="projectR">Repository</a></li>| Fri, 20 Oct, 16:00 UK |
+| Lab04: ???? | <li><a id="LAB4I">Instructions</a></li> <li><a id="LAB4R">Repository</a></li><li><a id="LAB4K">Solutions</a>(<a id="LAB4Kraw">Raw</a>)</li> | Fri, 20 Oct  |
+
+<!--| Project: Proposal | <li><a id="project">Instructions</a></li> <li><a id="projectR">Repository</a></li>| Fri, 20 Oct, 16:00 UK |-->
 
 <!--
 ## Assignments

@@ -18,7 +18,9 @@ Additional topics beyond the course.
 
 ## Lectures
 
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
+<!--
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | -->
+| <div style="text-align:center">No.</div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">Slides</div> | <div style="text-align:center">Additional</div> |
 |:---:|:---------------------|:--------:|:------|
 | 21  | Projects Q&A  | <span><a id = "lecture21"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL21">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 22  | Recap and Looking Beyond IDS  | <span><a id = "lecture22"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL22">Raw<i class="fab fa-fw fa-github"/></a></span> |
@@ -46,16 +48,23 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 <p style="text-align: left">There is no required reading for this week. The following is some suggested reading for learning more about the topics covered in the final lecture.</p>
 
+<!--
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
+-->
+|    |    |    |
+|:--:|:---|:--:|
 | <i class="fas fa-book"></i> | MS: <a id="MS1">Chp 1 - Your first Shiny app</a> | Optional |
 | <i class="fas fa-book"></i> | SMLTAR: <a id="SMLTAR7">Chp 7 - Classification</a> | Optional |
 
 ## Workshop
 
-| <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
+<!--
+| <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |  -->
+
+| <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
-| Project |  <li><a id="projectEND">Instructions</a></li> | Fri, 01 Dec, 16:00 UK |
+| Project |  <li><a id="projectEND">Instructions</a></li> | Fri, 01 Dec |
 
 <!--
 ## Assignments

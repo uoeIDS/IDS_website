@@ -18,10 +18,12 @@ Importing data, data types and classes, recoding.
 
 ## Lectures
 
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
+<!---
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | -->
+| <div style="text-align:center">No.</div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">Slides</div> | <div style="text-align:center">Additional</div> |
 |:---:|:---------------------|:--------:|:------|
-| 07  | Data Types and Classes | <span><a id = "lecture07"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL07">Raw<i class="fab fa-fw fa-github"/></a></span> |
-| 08  | Joining and Organising Data  | <span><a id = "lecture08"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL08">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 05  | Data Types and Classes | <span><a id = "lecture05"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL05">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 06  | Joining and Organising Data  | <span><a id = "lecture06"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL06">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
 <br>
 <p  style="text-align: left"> 
@@ -47,12 +49,14 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
 
-
+<!--
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
+-->
+|     |    |     |
 |:---:|:---|:---:|
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS15">Chp 15 - Factors</a> | **Required** |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS16">Chp 16 - Dates and times</a> | **Required** |
-| <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a href = "https://www.youtube.com/watch?v=-5wpm-gesOY">Computerphile: The problem with time and timezones</a> | Optional |
+| <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a id = "YT_Computerphile_time">Computerphile: The problem with time and timezones</a> | Optional |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS12">Chp 12 - Tidy data</a> | Optional |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS13">Chp 13 - Relational data</a> | Optional |
 
@@ -63,9 +67,17 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 ## Workshop
 
+<p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
+
+<!--
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
 | Lab03: Nobel laureates | <li><a id="LAB3I">Instructions</a></li> <li><a id="LAB3R">Repository</a></li><li><a id="LAB3K">Solutions</a>(<a id="LAB3Kraw">Raw</a>)</li> |  Fri, 06 Oct, 16:00 UK  |
+-->
+
+| <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
+|:---|:---|:---|
+| Lab02: ??? | <li><a id="LAB2I">Instructions</a></li> <li><a id="LAB2R">Repository</a></li><li><a id="LAB2K">Solutions</a>(<a id="LAB2Kraw">Raw</a>)</li> |  Fri, 06 Oct  |
 
 <!--
 ## Assignments

@@ -38,7 +38,9 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 
 ## Lectures
 
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> |
+<!--
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | -->
+| <div style="text-align:center">No.</div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">Slides</div> | <div style="text-align:center">Additional</div> |
 |:---:|:---------------------|:--------:|:------|
 | 01  | Welcome | <span><a id = "lecture01"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL01">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 02  | Introduction to the toolkit | <span><a id = "lecture02"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL02">Raw<i class="fab fa-fw fa-github"/></a></span> |
@@ -95,23 +97,30 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 | 06  | Meet the toolkit: version control and collaboration     | <a id="W1L6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L6S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | <li><a href="/errata#W106">Errata</a></li> |-->
 
 
+<!--
 | <div style="width:50px"></div>  | <div style="width:400px">Link</div>  |  <div style="width:150px"></div> | <div style="width:170px;text-align:center">Additional Info</div> |
 |:---:|:---|:---|:---:|
-| <i class="fas fa-laptop"></i> | <a id="components">Course Components</a>, <a id="assessments">Assessments</a>, <a id="policies">Policies</a> | **Required** |-|
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS2">Chp 2, Introduction</a> | **Required** |-|
-| <i class="fas fa-book"></i> | IMS: <a id="IMS1">Chp 1, Sec 1.1 and 1.2</a> | **Required** |-|
+-->
+|    |    |    |
+|:--:|:---|:--:|
+| <i class="fas fa-laptop"></i> | <a id="components">Course Components</a>, <a id="assessments">Assessments</a>, <a id="policies">Policies</a> | **Required** |
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS1">Chp 1, Introduction</a> | **Required** |
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS6">Chp 6, Workflow: scripts</a> | **Required** |
+| <i class="fas fa-book"></i> | IMS: <a id="IMS1">Chp 1, Hello Data</a> | **Required** |
 | <i class="fas fa-book"></i> | <a id="RGit">Happy Git and GitHub for the useR</a> | Optional |
-| <i class="fab fa-readme"></i> | <a id="HTRR">How to read an R help page</a> | Optional |-|
-| <i class="fab fa-readme"></i> | <a id="NatRepro">1,500 scientists lift the lid on reproducibility</a> | Optional |-|
-|  <i class="fas fa-pen-fancy"></i> | <a id="nhsr">How R changed me as an analyst</a> | Optional|-|
+| <i class="fab fa-readme"></i> | <a id="HTRR">How to read an R help page</a> | Optional |
+|  <i class="fas fa-pen-fancy"></i> | <a id="nhsr">How R changed me as an analyst</a> | Optional|
 
 ## Workshop
 
-<p style="text-align: left"> This week's workshop will help you get familiar with the workflow for the rest of the course.
+<p style="text-align: left"> This week's workshop will help you get familiar with the workflow for the rest of the course. The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
 
-| <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
+<!--
+| <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> | -->
+
+| <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab00: Hello IDS!| <li><a id="LAB0I">Instructions</a></li> <li><a id="LAB0R">Repository</a></li> <li><a id="LAB0K">Solutions</a>(<a id="LAB0Kraw">Raw</a>)</li>| Fri, 22 Sep, 16:00 UK |
+| Lab00: Hello IDS!| <li><a id="LAB0I">Instructions</a></li> <li><a id="LAB0R">Repository</a></li> <li><a id="LAB0K">Solutions</a>(<a id="LAB0Kraw">Raw</a>)</li>| Fri, 22 Sept |
 
 <!--
 ## Assignments
