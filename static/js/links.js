@@ -1032,7 +1032,7 @@ try {DateRestrictLink(document.getElementById("HW3Kraw"), "02 December 2023", "h
 
 // lab 0 - Hello IDS! WEEK 01
 try {DateRestrictLink(document.getElementById("LAB0I"), "21 September 2023", "https://uoeids.github.io/labs/lab-00/lab-00.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB0R"), "21 September 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-00");} catch { };
+try {DateRestrictLink(document.getElementById("LAB0R"), "21 September 2023", "https://github.com/uoeIDS/lab-00-template");} catch { };
 try {DateRestrictLink(document.getElementById("LAB0K"), "23 September 2023", "https://uoeIDS.github.io/labs/lab-00-key/lab-00-key.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB0Kraw"), "23 September 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-00-key");} catch { };
 
