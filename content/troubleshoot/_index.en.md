@@ -6,6 +6,16 @@ hidden=true
 description = "Instructions to setup the toolkit for the course and fix common issues."
 +++
 
+<p>
+To effectively engage with the Introduction to Data Science course it is essential that you have access to digital equipment, such as a laptop (with administration rights to install software), a smart phone and access to a good internet connection. Further advice on what technology you will need for you studies and about loaning services can be found at the links below:
+</p>
+<div> 
+1. <a id="SoMTechnology"> School of Mathematics: Technology and Equipment</a><br>
+2. <a id="ISBorrowLaptops"> Information Services: Borrowing and Returning Laptops</a>
+</div>
+
+<br>
+
 <p>If you have just started the course then please follow the <em>first time setup instructions</em> below:</p>
 
 <div>

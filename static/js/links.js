@@ -28,6 +28,10 @@ try {document.getElementById('Error3').href = "/error";} catch { };
 try {document.getElementById('Error4').href = "/error";} catch { };
 
 
+try {document.getElementById('SoMTechnology').href = "https://teaching.maths.ed.ac.uk/main/undergraduate/studies/equipment";} catch { };
+try {document.getElementById('ISBorrowLaptops').href = "https://www.ed.ac.uk/information-services/library-museum-gallery/using-library/borrowing-a-book/borrowing-laptops";} catch { };
+
+
 /*
 // Videos --(2020/21 & 2021/22 - Online videos, no longer in use) ----------------------------------------------------
 // YouTube & Media Hopper video created by Mine Çetinkaya-Rundel for 2020/21 online course (due to covid)
