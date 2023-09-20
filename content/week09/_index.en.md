@@ -73,6 +73,15 @@ Lecture recordings are only available for IDS students via the University of Edi
 | Lab07 - course evaluations |  <li><a id="LAB6I">Instructions</a></li> <li><a id="LAB6R">Repository</a></li><li><a id="LAB6K">Solutions</a>(<a id="LAB6Kraw">Raw</a>)</li>| Fri, 17 Nov, 16:00 UK  |
 -->
 
+
+## Assignement
+
+<p style="text-align: left">The third homework assignment (`hw-03`) will become available this week, which needs to be completed and submitted next week. You will find more information about the assignment <a id="homework">here</a>.</p>
+
+<p style="text-align: left">If you are having difficulty accessing your homework or lab repository, see troubleshooting advice <a id="troubleshoot">here</a>.</p>
+
+
+
 <!--
 ## Assignments
 

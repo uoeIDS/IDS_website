@@ -98,6 +98,14 @@ If you have not completed the <em>first time setup instructions</em> found on th
 | Lab03: ??? | <li><a id="LAB3I">Instructions</a></li> <li><a id="LAB3R">Repository</a></li><li><a id="LAB3K">Solutions</a>(<a id="LAB3Kraw">Raw</a>)</li> | Fri, 13 Oct |
 
 
+## Assignement
+
+<p style="text-align: left">The first homework assignment (`hw-01`) is due by the end of this week. You will find more information about the assignment <a id="homework">here</a>.</p>
+
+<p style="text-align: left">If you are having difficulty accessing your homework or lab repository, see troubleshooting advice <a id="troubleshoot">here</a>.</p>
+
+
+
 <!--
 ## Assignments
 
