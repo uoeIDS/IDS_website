@@ -22,7 +22,7 @@ Importing data, data types and classes, recoding.
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | -->
 | <div style="text-align:center">No.</div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">Slides</div> | <div style="text-align:center">Additional</div> |
 |:---:|:---------------------|:--------:|:------|
-| 05  | Data Types and Classes | <span><a id = "lecture05"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL05">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 05  | Importing/Exporting Data | <span><a id = "lecture05"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL05">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 06  | Joining and Organising Data  | <span><a id = "lecture06"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL06">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
 <br>
