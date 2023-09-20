@@ -24,7 +24,7 @@ Getting started with data science by wrangling data, Yee-Haw!
 | <div style="text-align:center">No.</div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">Slides</div> | <div style="text-align:center">Additional</div> |
 |:---:|:---------------------|:--------:|:------|
 | 03  | Tidy Data and Data Wrangling | <span><a id = "lecture03"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL03">Raw<i class="fab fa-fw fa-github"/></a></span> |
-| 04  | Importing/Exporting Data |<span><a id = "lecture04"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL04">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 04  | Data Types and Classes |<span><a id = "lecture04"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL04">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
 
 <br>
@@ -61,9 +61,11 @@ If you have not completed the <em>first time setup instructions</em> found on th
 
 |    |    |    |
 |:--:|:---|:--:|
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS4">Chp 4 - Workflow: basics</a> | **Required** |
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS4">Chp 4 - Workflow: basics</a> | Optional |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS5">Chp 5 - Data transformation</a> | **Required** |
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS11">Chp 11 - Data import</a> | **Required** |
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS15">Chp 15 - Factors</a> | **Required** |
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS16">Chp 16 - Dates and times</a> | **Required** |
+| <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a id = "YT_Computerphile_time">Computerphile: The problem with time and timezones</a> | Optional |
 | <i class="fab fa-readme"></i> | <a id="NatRepro">1,500 scientists lift the lid on reproducibility</a> | Optional |
 
 <!--
