@@ -72,7 +72,7 @@ Lecture recordings are only available for IDS students via the University of Edi
 | Project: feedback |<li><a id="feedback_1">0900 workshop</a></li> <li><a id="feedback_2">1030 workshop</a></li><li><a id="feedback_3">1400 workshop</a></li><li><a id="feedback_4">1530 workshop</a></li>| Fri, 03 Nov, 16:00 UK  |-->
 
 
-## Assignement
+## Assignment
 
 <p style="text-align: left">The second homework assignment (`hw-02`) is due by the end of this week. You will find more information about the assignment <a id="homework">here</a>.</p>
 

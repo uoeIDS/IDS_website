@@ -71,7 +71,7 @@ Lecture recordings are only available for IDS students via the University of Edi
 <!---| Lab09: Make progress on projects |  <li><a id="LAB8I">Instructions</a></li>| Fri, 24 Nov, 16:00 UK |-->
 
 
-## Assignement
+## Assignment
 
 <p style="text-align: left">The third homework assignment (`hw-03`) is due by the end of this week. You will find more information about the assignment <a id="homework">here</a>.</p>
 
