@@ -93,7 +93,7 @@ Below are a number of optional "guest lectures" from YouTube that illustrates wh
 
 ## Assignement
 
-<p style="text-align: left">The second homework assignment (`hw-02`) will become available this week, which needs to be completed and submitted next week. You will find more information about the assignment <a id="homework">here</a>.</p>
+<span><p style="text-align: left">The second homework assignment (`hw-02`) will become available this week, which needs to be completed and submitted next week. You will find more information about the assignment <a id="homework">here</a>.</p></span>
 
 <p style="text-align: left">If you are having difficulty accessing your homework or lab repository, see troubleshooting advice <a id="troubleshoot">here</a>.</p>
 

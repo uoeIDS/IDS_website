@@ -73,7 +73,7 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 ## Assignement
 
-<p style="text-align: left">The third homework assignment (`hw-03`) is due by the end of this week. You will find more information about the assignment <a id="homework">here</a>.</p>
+<span><p style="text-align: left">The third homework assignment (`hw-03`) is due by the end of this week. You will find more information about the assignment <a id="homework">here</a>.</p></span>
 
 <p style="text-align: left">If you are having difficulty accessing your homework or lab repository, see troubleshooting advice <a id="troubleshoot">here</a>.</p>
 
