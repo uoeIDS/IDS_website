@@ -54,7 +54,7 @@ For example, the following penalties will apply for late HW:
 <br/> 5%: 16:00 Friday - 16:00 Saturday
 <br/> 10%: 16:00 Saturday - 16:00 Sunday
 <br/> 15%: 16:00 Sunday - 16:00 Monday
-<br/> 20%: 16:00 Monday- 16:00 Tuesday
+<!--<br/> 20%: 16:00 Monday- 16:00 Tuesday -->
 {{% /notice %}}
 
 - **Extensions:** The University has an extension policy whereby you can request an extension for any assignments where late work is accepted. If your extension request is approved, you can turn in the assignment late and not incur the late penalty. As outlined above you can request an extension for homework assignments and the project write up. Extensions are not granted for the quizzes or the project presentation under any circumstances. To request an extension you must visit the <a id="extensionsExplained">Extensions and Special Circumstances website</a> and *Apply for an extension* there. A decision will be made within 2 days and the team will notify the student of their decision. Note that decisions are made by an external committee, not the course teaching staff, so requests for extensions must go through this form and not through course organisers and tutors.
