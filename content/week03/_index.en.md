@@ -1,8 +1,8 @@
 ---
 chapter: true
 pre: "<b>3. </b>"
-title: "3. Importing and Recoding Data"
-menuTitle: "Importing and Recoding Data" 
+title: "3. Importing and Joining Data"
+menuTitle: "Importing and Joining Data" 
 weight: 3
 tags: ["week 3", "tasks", "videos", "assignments", "readings", "tutorials"]
 description: "Week 3 (2 Oct 2023 - 6 Oct 2023): Importing data, data types and classes, recoding."
@@ -10,11 +10,11 @@ description: "Week 3 (2 Oct 2023 - 6 Oct 2023): Importing data, data types and c
 hidden: no
 ---
 
-# Importing and Recoding Data
+# Importing and Joining Data
 
 _Week 3 (2 Oct 2023 - 6 Oct 2023)_
 
-Importing data, data types and classes, recoding.
+Importing data from different files, and joining them to explore more variable relationships.
 
 ## Lectures
 
@@ -22,7 +22,7 @@ Importing data, data types and classes, recoding.
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | -->
 | <div style="text-align:center">No.</div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">Slides</div> | <div style="text-align:center">Additional</div> |
 |:---:|:---------------------|:--------:|:------|
-| 05  | Data Types and Classes | <span><a id = "lecture05"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL05">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 05  | Importing/Exporting Data | <span><a id = "lecture05"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL05">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 06  | Joining and Organising Data  | <span><a id = "lecture06"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL06">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
 <br>
@@ -54,11 +54,9 @@ Lecture recordings are only available for IDS students via the University of Edi
 -->
 |     |    |     |
 |:---:|:---|:---:|
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS15">Chp 15 - Factors</a> | **Required** |
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS16">Chp 16 - Dates and times</a> | **Required** |
-| <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a id = "YT_Computerphile_time">Computerphile: The problem with time and timezones</a> | Optional |
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS12">Chp 12 - Tidy data</a> | Optional |
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS13">Chp 13 - Relational data</a> | Optional |
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS11">Chp 11 - Data import</a> | **Required** |
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS12">Chp 12 - Tidy data</a> | **Required** |
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS13">Chp 13 - Relational data</a> | **Required** |
 
 <!--
 | <i class="fas fa-laptop"></i> | <a href="/assessments/project">Final Project Information (starting soon)</a> | Recommended |
@@ -78,6 +76,14 @@ Lecture recordings are only available for IDS students via the University of Edi
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
 | Lab02: ??? | <li><a id="LAB2I">Instructions</a></li> <li><a id="LAB2R">Repository</a></li><li><a id="LAB2K">Solutions</a>(<a id="LAB2Kraw">Raw</a>)</li> |  Fri, 06 Oct  |
+
+
+## Assignement
+
+<p style="text-align: left">The first homework assignment (`hw-01`) will become available this week, which needs to be completed and submitted next week. You will find more information about the assignment <a id="homework">here</a>.</p>
+
+<p style="text-align: left">If you are having difficulty accessing your homework or lab repository, see troubleshooting advice <a id="troubleshoot">here</a>.</p>
+
 
 <!--
 ## Assignments
