@@ -74,7 +74,7 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 ## Assignment
 
-<p style="text-align: left">The second homework assignment (`hw-02`) is due by the end of this week. You will find more information about the assignment <a id="homework">here</a>.</p>
+<span><p style="text-align: left">The second homework assignment (`hw-02`) is due by the end of this week. You will find more information about the assignment <a id="homework">here</a>.</p></span>
 
 <p style="text-align: left">If you are having difficulty accessing your homework or lab repository, see troubleshooting advice <a id="troubleshoot">here</a>.</p>
 

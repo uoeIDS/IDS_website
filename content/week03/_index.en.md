@@ -80,7 +80,7 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 ## Assignement
 
-<p style="text-align: left">The first homework assignment (`hw-01`) will become available this week, which needs to be completed and submitted next week. You will find more information about the assignment <a id="homework">here</a>.</p>
+<span><p style="text-align: left">The first homework assignment (`hw-01`) will become available this week, which needs to be completed and submitted next week. You will find more information about the assignment <a id="homework">here</a>.</p></span>
 
 <p style="text-align: left">If you are having difficulty accessing your homework or lab repository, see troubleshooting advice <a id="troubleshoot">here</a>.</p>
 
