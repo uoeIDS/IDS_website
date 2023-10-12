@@ -22,17 +22,23 @@ Generally, your goal is to do something reasonable with the selected data set us
 
 - Define a clear objective or problem statement. What do you aim to achieve with this data set?
 - Do necessary data cleaning if you need; Handle missing values, or incorrect data.
+- Optionally, find and join relevant supplementary data that may be useful for your problem statement. <!-- Added -->
+
 
 3. Exploratory Data Analysis (EDA)
 
+- Compute some summary statistics (e.g. mean, standard deviation, etc.) to summarise the key aspects about your data. <!-- Added -->
 - Use visualization tools to understand the underlying patterns, relationships, and anomalies of data.
 - Identify potential correlations or trends in the data.
+
 
 4. Model Selection and Evaluation
 
 - Based on the problem definition, select an appropriate algorithm or method.
 - Implement the model and evaluate the model's performance using appropriate metrics (e.g., accuracy, RMSE, etc.)
 - Try to suggest further improvements on the model if your first findings are not satisfactory enough
+- If appropriate, comment on any appropriate points of ethical concerns that you identified when doing your data science investigation. <!-- Added -->
+
 
 5. Feedback and Summarizing
 
@@ -44,20 +50,50 @@ Generally, your goal is to do something reasonable with the selected data set us
 
 The final project for this class will consist of analysis on a dataset of your own selection from the suggested list of options. You can choose the data based on your interests or based on work in other courses or research projects. The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this class (and beyond, if you like) and apply them to a novel dataset in a meaningful way.
 
-The **goal is not to do an exhaustive data analysis** i.e., do not calculate every statistic and procedure you have learned for every variable, but rather let us know that you are proficient at asking meaningful questions and answering them with results of data analysis, that you are proficient in using R, and that you are proficient at interpreting and presenting the results. Focus on methods that help you begin to answer your research questions. You do not have to apply every statistical procedure we learned. Also, critique your own methods and provide suggestions for improving your analysis. Issues pertaining to the reliability and validity of your data, and appropriateness of the statistical analysis should be discussed here.
+The **goal is not to do an exhaustive data analysis** i.e., do not calculate every statistic and procedure you have learned for every variable, but rather let us know that you are proficient at asking meaningful questions and answering them with results of data analysis, that you are proficient in using R, and that you are proficient at interpreting and presenting the results. Focus on methods that help you begin to answer your research questions. You do not have to apply every statistical procedure we learned. <!-- Added: start--> Ensure that you focus on the data that you are investigating and be causious against over interpretation. <!-- Added: end --> Also, critique your own methods and provide suggestions for improving your analysis. Issues pertaining to the reliability and validity of your data, and appropriateness of the statistical analysis should be discussed here.
 
 **The project is very open ended**. You should create some kind of compelling visualization(s) of this data in R. There is no limit on what tools or packages you may use, but sticking to packages we learned in class (e.g. `tidyverse`) is advised. You do not need to visualize all of the data at once. 
 
 A single high quality visualization will contribute much more to a good mark than a large number of poor quality visualizations. Also pay attention to your presentation. Neatness, coherency, and clarity will count. All analyses must be done in RStudio, using R. You must also set up and use a GitHub repository to collaborate with your team. 
 
-<div align="center">
-<i class="fas fa-solid fa-cog fa-spin fa-2x" style="--fa-animation-duration: 15s;"></i>
-</div>
+<!-- Delete Cog -->
+<!-- <div align="center"> -->
+<!-- <i class="fas fa-solid fa-cog fa-spin fa-2x" style="--fa-animation-duration: 15s;"></i> -->
+<!-- </div> -->
 
 ### Data
 
 In order for you to have the greatest chance of success with this project it is important that you choose a manageable dataset. This means that the data should be readily accessible and large enough that multiple relationships can be explored. 
 
+<!-- Added: start -->
+
+For this, we strongly recommend that you select one of the data sets listed below. Read all of the data descriptions and select **one** that interests you the most:
+
+
+| ID | Link | Description |
+|:---|:-----|:------------|
+| 01   | blah | blah |
+| 02   | blah | blah |
+| 03   | blah | blah |
+| 04   | blah | blah |
+| 05   | blah | blah |
+| 06   | blah | blah |
+| 07   | blah | blah |
+| 08   | blah | blah |
+| 09   | blah | blah |
+| 10   | blah | blah |
+| 11   | blah | blah |
+| 12   | blah | blah |
+| 13   | blah | blah |
+| 14   | blah | blah |
+| 15   | blah | blah |
+
+It is strongly advised that you select a data set from the list above. However, if you are aware of an alternative data set that you think is more interesting and is ready to use, then please discuss this with the course organiser/lecturers.
+
+<!-- Added: end -->
+
+<!-- Delete -->
+<!--
 - As such, your dataset must have at least 50 observations and between 10 and 20 variables (exceptions can be made but you must speak with the course teaching team). 
 - The variables in the data should include categorical variables, discrete numerical variables, and continuous numerical variables.
 - If you are using a dataset that comes in a format that we haven't encountered in class, make sure that you are able to load it into R as this can be tricky depending on the source. 
@@ -69,6 +105,8 @@ DO NOT reuse datasets used in examples, homework assignments, or labs in the cla
 {{% /notice %}}
 
 Below are a list of data repositories that might be of interest to browse. You're not limited to these resources, and in fact you're encouraged to venture beyond them. But you might find something interesting and ready to use directly:
+
+-->
 
 <!--
 LIST must be updated 
@@ -92,11 +130,32 @@ LIST must be updated
 
 ### Deliverables
 
-1. Proposal     - discussion with your tutor in the workshop (Week6 - Friday 27 October)
+<!-- 1. Proposal     - discussion with your tutor in the workshop (Week6 - Friday 27 October) -->
+
+1. Check-in     - discussion with your tutor in the workshop (Week 6 - Friday 27 October and Week 9 - Friday 17 November) <!-- edit -->
 1. Presentation - due Friday, 1 Dec, at 09:00 UK
 1. Write-up     - due Friday, 1 Dec, at 16:00 UK
 1. Peer evaluation - due Saturday 2 Dec, at 09:00 UK
 
+<!-- Added -->
+
+### Check-in
+
+The two 'check-in' points are not assessed and do not count towards your final grade. A check-in will consist of a discussion with a tutor to receive feedback on your current progress and on your future plans. We highly recommend that you put in some effort into preparing for these check-in discussions so that your check-in discussion runs smoothly and that you receive as much feedback as possible.
+
+
+- **Week 6**: You should demonstrate that you have a basic understanding of the data you have selected and have made initial steps in cleaning, summarising and visualising your data. We will be looking to understand whether you have a clear problem statement and that you have a plan as to how you would explore the data to answer your statement.
+
+
+- **Week 9**: At this stage, you should be able to demonstrate a reasonable understanding of your data and to make some comments in relation to your problem statement, and thinking carefully about what type of model to use. We will be looking to see if your plans are appropriate and reasonable to be completed within the last two week, and that you have thought carefully about your presentation and report.
+
+
+It is important to NOT miss these workshops for the health of your final group project.
+
+
+
+<!-- Delete -->
+<!--
 #### Proposal
 
 The proposal discussion does not count towards your final grade, but you will receive feedback from the tutors and your peers in the workshop so we highly recommend putting the effort in to do a good job to make sure that you are on the right track. 
@@ -125,9 +184,11 @@ and maybe also some visualizations, along with some explanation on how they help
 Proposal discussion will take place during the workshop in week 6 (27 October). It is important to NOT miss that workshop for the health of your final group project.
 {{% /notice %}}
 
+-->
+
 #### Presentation
 
-You will need to prepare a slide deck using the template in the repo. As for the proposal there isn't a limit to how many slides you can use, just a time limit (5 minutes total). Each team member should get a chance to speak during the presentation. Your presentation should not just be an account of everything you tried ("then we did this, then we did this, etc."), instead it **should convey what choices you made, and why, and what you found**.
+You will need to prepare a slide deck using the template in the repo. There isn't a limit to how many slides you can use, however there is a time limit (5 minutes total). Each team member should get a chance to speak during the presentation. Your presentation should not just be an account of everything you tried ("then we did this, then we did this, etc."), instead it **should convey what choices you made, and why, and what you found**.
 
 {{% notice tip %}}
 Before you finalize your presentation, make sure your chunks are turned off with `echo = FALSE`.
@@ -158,7 +219,12 @@ Your write-up must also contain a link to the GitHub repository for your project
 You will be asked to fill out a survey where you rate the contribution and teamwork of each team member at the end. Submitting this information is a prerequisite for getting credit on the team member evaluation. 
 
 {{% notice warning %}}
-If you are suggesting that an individual did less than 20% of the work, please provide some explanation.   
+<!-- made edits to warning box -->
+**IMPORTANT**: If you are concerned that a member of your team is severely under contributing to your group project, then please contact the course organiser as soon as possible.
+
+When completing the peer evaluation, if you are suggesting that an individual did less than 10% of the work then you must provide a justifiable explanation.   
+
+<!-- Reduced percentage from 20% to 10% as there are some groups with 5 members -->
 {{% /notice %}}
 
 This survey will be available on Gradescope, accessible via the course Learn page (Learn > Assessment > Gradescope > Peer Evaluation). 
@@ -200,7 +266,7 @@ There are also 10pts available for reproducibility and organisation - the marks 
 - Set aside time to work together and apart (physically). Scheduling regular group meetings to discuss progress, challenges, and next steps is crucial for progress. 
 - When you're done, review the documents on GitHub to make sure you're happy with the final state of your work. Then go get some rest!
 
-**Code:** In your presentation your code should be hidden (`echo = FALSE`) so that your document is neat and easy to read. However, your document should include all your code such that if I re-knit your R Markdown file I should be able to obtain the results you presented.
+**Code:** In your presentation your code should be hidden (`echo = FALSE`) so that your document is neat and easy to read. However, your document should include all your code such that if I re-knit your R Markdown file then I should be able to obtain the results you presented.
 
 {{% notice warning %}}
 **Exception:** If you want to highlight something specific about a piece of code, you're welcome to show that portion. 
