@@ -65,13 +65,25 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 ## Workshop
 
-<p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
+<p style="text-align: left"> In this week's workshop you will begin on your group projects. You will find all the information you will need about the group projects <a id="projectEND">here</a>. </p>
+
+<p style="text-align: left"> Next week you will have a 'check-in' discussion with a tutor. As such, it is highly recommended that you arrange a group meeting before the next workshop to discuss your data, perform some preliminary investigations and to think of a problem statement.</p>
+
+
+
+<!--
+<p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>  -->
 
 <!--
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |-->
+
+
+<!--
 | <div style="text-align:left">Laboratory Title</div> | <div style="width:text-align:left">Links</div> | <div style="width:text-align:left">Date</div> |
 |:---|:---|:---|
 | Lab04: ???? | <li><a id="LAB4I">Instructions</a></li> <li><a id="LAB4R">Repository</a></li><li><a id="LAB4K">Solutions</a>(<a id="LAB4Kraw">Raw</a>)</li> | Fri, 20 Oct  |
+
+-->
 
 <!--| Project: Proposal | <li><a id="project">Instructions</a></li> <li><a id="projectR">Repository</a></li>| Fri, 20 Oct, 16:00 UK |-->
 

@@ -80,13 +80,22 @@ Below are a number of optional "guest lectures" from YouTube that illustrates wh
 
 ## Workshop
 
+<p style="text-align: left"> In this week's workshop you will continue to work on your group projects. Further information can be found <a id="projectEND">here</a>.</p>
+
+<p style="text-align: left"> During the workshop you will have your first 'check-in' with a tutor. You should demonstrate that you have a basic understanding of the data you have selected and have made initial steps in cleaning, summarising and visualising your data. We will be looking to understand whether you have a clear problem statement and that you have a plan as to how you would explore the data to answer your statement.</p>
+
+
+<!---
 <p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
+--->
 
 <!--
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> | -->
+<!--
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
 | Lab05: ???? | <li><a id="LAB5I">Instructions</a></li> <li><a id="LAB5R">Repository</a></li><li><a id="LAB5K">Solutions</a>(<a id="LAB5Kraw">Raw</a>)</li> | Fri, 27 Oct  |
+--->
 
 <!--| Lab08: Work on projects |  <li><a id="LAB7I">Instructions</a></li>| Fri, 27 Oct, 16:00 UK |-->
 
