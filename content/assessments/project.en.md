@@ -11,7 +11,7 @@ Stick to optional interim deadlines.
 
 ## Too Long Didn't Read (TL;DR)
 You will pick a dataset, from a dedicated list of data sources given below. From different resources, these data sets are carefully selected to make that step easier for you.
-Generally, your goal is to do something reasonable with the selected data set using what we learned from the course mainly. That is your final project in a nutshell. More specifically, you can think of the following steps as an example (but not limited to)
+Generally, your goal is to do something reasonable with the selected data set using what you learnt from the course. That is your final project in a nutshell! More specifically, you can think of the following steps as an example (but not limited to)
 
 1. Data set Selection and Understanding
 
@@ -50,7 +50,7 @@ Generally, your goal is to do something reasonable with the selected data set us
 
 The final project for this class will consist of analysis on a dataset of your own selection from the suggested list of options. You can choose the data based on your interests or based on work in other courses or research projects. The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this class (and beyond, if you like) and apply them to a novel dataset in a meaningful way.
 
-The **goal is not to do an exhaustive data analysis** i.e., do not calculate every statistic and procedure you have learned for every variable, but rather let us know that you are proficient at asking meaningful questions and answering them with results of data analysis, that you are proficient in using R, and that you are proficient at interpreting and presenting the results. Focus on methods that help you begin to answer your research questions. You do not have to apply every statistical procedure we learned. <!-- Added: start--> Ensure that you focus on the data that you are investigating and be causious against over interpretation. <!-- Added: end --> Also, critique your own methods and provide suggestions for improving your analysis. Issues pertaining to the reliability and validity of your data, and appropriateness of the statistical analysis should be discussed here.
+The **goal is not to do an exhaustive data analysis** i.e., do not calculate every statistic and procedure you have learned for every variable, but rather let us know that you are proficient at asking meaningful questions and answering them with results of data analysis, that you are proficient in using R, and that you are proficient at interpreting and presenting the results. Focus on methods that help you begin to answer your research questions. You do not have to apply every statistical procedure we learned. <!-- Added: start--> Ensure that you focus on the data that you are investigating and be cautious against over interpretation. <!-- Added: end --> Also, critique your own methods and provide suggestions for improving your analysis. Issues pertaining to the reliability and validity of your data, and appropriateness of the statistical analysis should be discussed here.
 
 **The project is very open ended**. You should create some kind of compelling visualization(s) of this data in R. There is no limit on what tools or packages you may use, but sticking to packages we learned in class (e.g. `tidyverse`) is advised. You do not need to visualize all of the data at once. 
 
@@ -61,13 +61,27 @@ A single high quality visualization will contribute much more to a good mark tha
 <!-- <i class="fas fa-solid fa-cog fa-spin fa-2x" style="--fa-animation-duration: 15s;"></i> -->
 <!-- </div> -->
 
+### GitHub repository
+
+One member of your team should be responsible for managing the repository of your group project. This team member should clone the <a id="project_template_repo">project template repository</a> from the course GitHub account and add each of the team members as collaborators. Instructions on how to clone a repository, add collaborators and to create a new version control R project can be found in the lab worksheets.
+
+{{% notice warning %}}
+The project template repository can be found <a id="project_template_repo">HERE</a>.
+
+You must add the course GitHub account (`uoeIDS`) as a collaborator to your GitHub repository, similar to the homework process.  
+{{% /notice %}}
+
+It is highly recommended that you regularly _commit_ any changes you have made to your work, and to frequently _pull_ & _push_ these changes with your repository on GitHub. Please be aware of any _merger conflicts_ and try to resolve them (if in doubt, contact your team members on how best to resolve a conflict). If you notice an unusual error message then please seek assistance, either from a tutor in workshops or via an informative post on Piazza.
+
+
+
 ### Data
 
 In order for you to have the greatest chance of success with this project it is important that you choose a manageable dataset. This means that the data should be readily accessible and large enough that multiple relationships can be explored. 
 
 <!-- Added: start -->
 
-For this, we strongly recommend that you select one of the data sets listed below. Read all of the data descriptions and select **one** that interests you the most:
+For this, we recommend that you select one of the data sets listed below. Read all of the data descriptions and select **one** that interests you the most:
 
 
 | ID | Link | Description |
@@ -88,7 +102,7 @@ For this, we strongly recommend that you select one of the data sets listed belo
 | 14   | blah | blah |
 | 15   | blah | blah |
 
-It is strongly advised that you select a data set from the list above. However, if you are aware of an alternative data set that you think is more interesting and is ready to use, then please discuss this with the course organiser/lecturers.
+It is strongly advised that you select a data set from the list above. However, if you are aware of an alternative data set that you think is more interesting and is ready to use, then please discuss this with the course organiser or a lecturer.
 
 <!-- Added: end -->
 
@@ -132,9 +146,9 @@ LIST must be updated
 
 <!-- 1. Proposal     - discussion with your tutor in the workshop (Week6 - Friday 27 October) -->
 
-1. Check-in     - discussion with your tutor in the workshop (Week 6 - Friday 27 October and Week 9 - Friday 17 November) <!-- edit -->
-1. Presentation - due Friday, 1 Dec, at 09:00 UK
-1. Write-up     - due Friday, 1 Dec, at 16:00 UK
+1. Check-in     - discussion with your tutor in the workshop (Week 6 - Friday 27 October and Week 10 - Friday 24 November) <!-- edit -->
+1. Presentation    - due Friday, 1 December, at 09:00 UK
+1. Report          - due Friday, 1 December, at 16:00 UK
 1. Peer evaluation - due Saturday 2 Dec, at 09:00 UK
 
 <!-- Added -->
@@ -147,7 +161,7 @@ The two 'check-in' points are not assessed and do not count towards your final g
 - **Week 6**: You should demonstrate that you have a basic understanding of the data you have selected and have made initial steps in cleaning, summarising and visualising your data. We will be looking to understand whether you have a clear problem statement and that you have a plan as to how you would explore the data to answer your statement.
 
 
-- **Week 9**: At this stage, you should be able to demonstrate a reasonable understanding of your data and to make some comments in relation to your problem statement, and thinking carefully about what type of model to use. We will be looking to see if your plans are appropriate and reasonable to be completed within the last two week, and that you have thought carefully about your presentation and report.
+- **Week 10**: At this stage, you should be able to demonstrate a reasonable understanding of your data and to make some comments in relation to your problem statement, and thinking carefully about what type of model to use. We will be looking to see if your plans are appropriate and reasonable to be completed within the last two week, and that you have thought carefully about your presentation and report.
 
 
 It is important to NOT miss these workshops for the health of your final group project.
@@ -196,23 +210,25 @@ Before you finalize your presentation, make sure your chunks are turned off with
 
 Presentation schedule: Presentations will take place during the last workshop of the semester (1 December). All teams will give them as a live presentation in the workshop. During your workshop you will watch presentations from other teams in your workshop and will be able to ask questions at the end. The presentation line-up will be generated randomly, later during the semester.
 
-#### Write-up
+#### Report
 
 Along with your presentation slides, we want you to provide a brief summary of your project. 
 
-- This can be a markdown (`.md`) or an rmarkdown (`.Rmd`) file, depending on whether you want to include code in your write-up. 
-- The write-up should be around 1,500 words, not including figures, tables, and references. 
+- This can be a markdown (`.md`) or an rmarkdown (`.Rmd`) file, depending on whether you want to include code in your report. 
+- The report should be around 1,500 words, not including figures, tables, and references. 
 
-This write-up should provide information on;
+This report should provide information on;
 
 - the dataset you're using, 
 - your research question(s), 
 - your methodology, 
 - and your findings. 
 
+<!-- Following notice box has been moved to be earlier  -->
+<!--
 {{% notice warning %}}
-Your write-up must also contain a link to the GitHub repository for your project, and you must add the course GitHub page (username: uoeIDS) to this GitHub repository, similar to the homework process.  
-{{% /notice %}}
+Your report must also contain a link to the GitHub repository for your project, and you must add the course GitHub page (username: uoeIDS) to this GitHub repository, similar to the homework process.  
+{{% /notice %}}  -->
 
 ### Team peer evaluation
 
@@ -233,22 +249,23 @@ This survey will be available on Gradescope, accessible via the course Learn pag
 
 ### Submission and GitHub repository
 
-You will need to submit your project write-up to Learn (Learn > Assessment > Gradescope > Final project - team) on the 1 December:
+You will need to submit your project report to Learn (Learn > Assessment > Gradescope > Final project - team) on the 1 December:
 
-* A `.html` version of your write-up (including a link to the GitHub repository) by 16pm 
+* A `.html` version of your report (including a link to the GitHub repository) by 16pm 
 * A `.html` version of your presentation by 9am.
 * Your team peer evaluation (under peer evaluation on Gradescope) by 2 December at latest.
 
-Only _one_ member of your team should submit the write-up and presentation to Learn. This person will need to add the other team members from the drop down menu that appears under  _View or edit group_ after uploading the files and viewing the submission. Everyone should submit the peer evaluation individually. 
+Only _one_ member of your team should submit the report and presentation to Learn. This person will need to add the other team members from the drop down menu that appears under  _View or edit group_ after uploading the files and viewing the submission. Everyone should submit the peer evaluation individually. 
 
 As explained above, you _must_ also add the course GitHub account (username: uoeIDS) to your team GitHub repository by the time of the deadline. 
 
 We expect your GitHub repository to contain the following folders and files:
 
 * `presentation.Rmd` + `presentation.html`: Your presentation slides
-* `summary.md` or `summary.Rmd` + `summary.html`: Your write-up
+* `report.Rmd` + `report.html`: Your report
+* `investigation.Rmd` + `investigation.html`: Your working document for your data science investigation (Note: the work here will not be assessed, it is up to you as to how you use these files to distribute work amongst members and to keep notes about what you find.)
 * `/data/*`: Your dataset in csv or RDS format, in the `/data` folder.
-* `/proposal`: Your proposal discussion notes from earlier in the semester
+* `/img/*`: Any supplementary images for your report/presentation.
 
 {{% notice warning %}}
 Style and format does count for this assignment, so please take the time to make sure everything looks good and your data and code are properly formatted.
@@ -279,7 +296,7 @@ There are also 10pts available for reproducibility and organisation - the marks 
 Total                          | 100 pts
 -------------------------------|--------
 Presentation                   | 50 pts
-Write-up                       | 30 pts
+Report                         | 30 pts
 Reproducibility and organization | 10 pts
 Team peer evaluation           | 10 pts
 
