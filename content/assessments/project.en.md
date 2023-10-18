@@ -13,26 +13,26 @@ Stick to optional interim deadlines.
 You will pick a dataset, from a dedicated list of data sources given below. From different resources, these data sets are carefully selected to make that step easier for you.
 Generally, your goal is to do something reasonable with the selected data set using what we learned from the course mainly. That is your final project in a nutshell. More specifically, you can think of the following steps as an example (but not limited to)
 
-1. Data set Selection and Understanding
+1. **Data set Selection and Understanding**
 
 - Choose a data set from the given list.
 - Familiarize yourself with the data set: What kind of data does it contain? What are the attributes? What kind of questions can this data potentially answer?
 
-2. Problem Definition
+2. **Problem Definition**
 
 - Define a clear objective or problem statement. What do you aim to achieve with this data set?
 - Do necessary data cleaning if you need; Handle missing values, or incorrect data.
 - Optionally, find and join relevant supplementary data that may be useful for your problem statement. <!-- Added -->
 
 
-3. Exploratory Data Analysis (EDA)
+3. **Exploratory Data Analysis (EDA)**
 
 - Compute some summary statistics (e.g. mean, standard deviation, etc.) to summarise the key aspects about your data. <!-- Added -->
 - Use visualization tools to understand the underlying patterns, relationships, and anomalies of data.
 - Identify potential correlations or trends in the data.
 
 
-4. Model Selection and Evaluation
+4. **Model Selection and Evaluation**
 
 - Based on the problem definition, select an appropriate algorithm or method.
 - Implement the model and evaluate the model's performance using appropriate metrics (e.g., accuracy, RMSE, etc.)
@@ -40,7 +40,7 @@ Generally, your goal is to do something reasonable with the selected data set us
 - If appropriate, comment on any appropriate points of ethical concerns that you identified when doing your data science investigation. <!-- Added -->
 
 
-5. Feedback and Summarizing
+5. **Feedback and Summarizing**
 
 - Present the project to your tutor, peers or any other potential audience.
 - Gather feedback and make necessary improvements.
@@ -132,7 +132,7 @@ LIST must be updated
 
 <!-- 1. Proposal     - discussion with your tutor in the workshop (Week6 - Friday 27 October) -->
 
-1. Check-in     - discussion with your tutor in the workshop (Week 6 - Friday 27 October and Week 9 - Friday 17 November) <!-- edit -->
+1. Check-in     - discussion with your tutor in the workshop (Week 6 - Friday 27 October and Week 10 - Friday 24 November) <!-- edit -->
 1. Presentation - due Friday, 1 Dec, at 09:00 UK
 1. Write-up     - due Friday, 1 Dec, at 16:00 UK
 1. Peer evaluation - due Saturday 2 Dec, at 09:00 UK
@@ -143,16 +143,16 @@ LIST must be updated
 
 The two 'check-in' points are not assessed and do not count towards your final grade. A check-in will consist of a discussion with a tutor to receive feedback on your current progress and on your future plans. We highly recommend that you put in some effort into preparing for these check-in discussions so that your check-in discussion runs smoothly and that you receive as much feedback as possible.
 
+**You can add any feedback and suggestions you receive from your tutor for you to refer back to in the future in your project_template *README.md* file**
+
 
 - **Week 6**: You should demonstrate that you have a basic understanding of the data you have selected and have made initial steps in cleaning, summarising and visualising your data. We will be looking to understand whether you have a clear problem statement and that you have a plan as to how you would explore the data to answer your statement.
 
 
-- **Week 9**: At this stage, you should be able to demonstrate a reasonable understanding of your data and to make some comments in relation to your problem statement, and thinking carefully about what type of model to use. We will be looking to see if your plans are appropriate and reasonable to be completed within the last two week, and that you have thought carefully about your presentation and report.
+- **Week 10**: At this stage, you should be able to demonstrate a reasonable understanding of your data and to make some comments in relation to your problem statement, and thinking carefully about what type of model to use. We will be looking to see if your plans are appropriate and reasonable to be completed within the last two week, and that you have thought carefully about your presentation and report.
 
 
-It is important to NOT miss these workshops for the health of your final group project.
-
-
+**It is important to NOT miss these workshops for the health of your final group project.**
 
 <!-- Delete -->
 <!--
@@ -231,6 +231,19 @@ This survey will be available on Gradescope, accessible via the course Learn pag
 
 - The deadline for the peer evaluation is the day after the deadline for submitting the project and presentation just in case you forget to do it in time but we would recommend submitting this at the same time as your project and presentation. 
 
+## Project Repository structure
+
+This is a template repository for your group project. One of your group members should clone this repository and add the other team members as collaborators. You should also add the `uoeIDS` course GitHub account as a collaborator.
+
+- `/data` -- Save any data you are using for your project in this folder.
+- `/img` -- If you choose to incorporate any supplementary images into your report or presentation that are not generated by your code, then you should upload the images to this folder.
+- `investigation.Rmd` -- Use this file as the primary location for doing your data science investigation. Here you can develop code and document your findings as part of your exploration. Feel free to create additional `.Rmd` files for different group members or different investigation directions - do what works best for your group. 
+- `report.Rmd` -- This file is for the write-up of your group project report, which is to be submitted in week 11. Provided that you are documenting your findings during your investigations, then this should involve copying & pasting material and ensuring that the report flows coherently as if from one unified voice.
+- `presentation.Rmd` -- Use this file to create your presentation. You will need to download and install the `xaringan` package that contains all of the R and markdown code that you will need to create and compile the presentation slides. For this, run `install.packages("xaringan")` once on your console. Guidance on using the `xaringan` package for creating a presentation in Rmarkdown can be found at [https://bookdown.org/yihui/rmarkdown/xaringan.html](https://bookdown.org/yihui/rmarkdown/xaringan.html).
+- `README.md` -- This document, which outlines the structure of the report. The contents of this file will be rendered on GitHub, and so you can add comments below to keep a track of what  and can be used to keep additional note or task lists.
+
+**See the other details from the project template file when you start working**
+
 ### Submission and GitHub repository
 
 You will need to submit your project write-up to Learn (Learn > Assessment > Gradescope > Final project - team) on the 1 December:
@@ -245,10 +258,11 @@ As explained above, you _must_ also add the course GitHub account (username: uoe
 
 We expect your GitHub repository to contain the following folders and files:
 
-* `presentation.Rmd` + `presentation.html`: Your presentation slides
-* `summary.md` or `summary.Rmd` + `summary.html`: Your write-up
+* `presentation.Rmd` + `presentation.html`: Your presentation slides of your group project.
+* `report.Rmd` + `report.html`: Your write-up of your group project.
 * `/data/*`: Your dataset in csv or RDS format, in the `/data` folder.
-* `/proposal`: Your proposal discussion notes from earlier in the semester
+* `/img/*`: Your images if you choose to incorporate any supplementary images into your report or presentation that are not generated by your code
+* `/progress`: Your progress discussion notes from earlier in the semester, relying on `investigation.Rmd` and `README.md` files that you updated during the project. 
 
 {{% notice warning %}}
 Style and format does count for this assignment, so please take the time to make sure everything looks good and your data and code are properly formatted.
