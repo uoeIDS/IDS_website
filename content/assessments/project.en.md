@@ -67,7 +67,8 @@ One member of your team should be responsible for managing the repository of you
 
 {{% notice warning %}}
 The project template repository can be found <a id="project_template_repo">HERE</a>.
-
+<br>
+<br>
 You must add the course GitHub account (`uoeIDS`) as a collaborator to your GitHub repository, similar to the homework process.  
 {{% /notice %}}
 
@@ -237,7 +238,8 @@ You will be asked to fill out a survey where you rate the contribution and teamw
 {{% notice warning %}}
 <!-- made edits to warning box -->
 **IMPORTANT**: If you are concerned that a member of your team is severely under contributing to your group project, then please contact the course organiser as soon as possible.
-
+<br>
+<br>
 When completing the peer evaluation, if you are suggesting that an individual did less than 10% of the work then you must provide a justifiable explanation.   
 
 <!-- Reduced percentage from 20% to 10% as there are some groups with 5 members -->
@@ -284,9 +286,8 @@ We expect your GitHub repository to contain the following folders and files:
 
 {{% notice warning %}}
 Style and format does count for this assignment, so please take the time to make sure everything looks good and your data and code are properly formatted.
-{{% /notice %}}
-
-{{% notice warning %}}
+<br>
+<br>
 There are also 10pts available for reproducibility and organisation - the marks for this will be based on your GitHub repository so make sure you include this.
 {{% /notice %}}
 
