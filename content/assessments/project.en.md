@@ -66,7 +66,7 @@ A single high quality visualization will contribute much more to a good mark tha
 One member of your team should be responsible for managing the repository of your group project. This team member should clone the <a id="project_template_repo">project template repository</a> from the course GitHub account and add each of the team members as collaborators. Instructions on how to clone a repository, add collaborators and to create a new version control R project can be found in the lab worksheets.
 
 {{% notice warning %}}
-The project template repository can be found <li><a id="project_template_repo">HERE</a></li>.
+The project template repository can be found <a id="project_template_repo">HERE</a>.
 <br>
 <br>
 You must add the course GitHub account (`uoeIDS`) as a collaborator to your GitHub repository, similar to the homework process.  
