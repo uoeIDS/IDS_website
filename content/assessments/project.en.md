@@ -76,8 +76,6 @@ You must add the course GitHub account (`uoeIDS`) as a collaborator to your GitH
 
 It is highly recommended that you regularly _commit_ any changes you have made to your work, and to frequently _pull_ & _push_ these changes with your repository on GitHub. Please be aware of any _merger conflicts_ and try to resolve them (if in doubt, contact your team members on how best to resolve a conflict). If you notice an unusual error message then please seek assistance, either from a tutor in workshops or via an informative post on Piazza.
 
-
-
 ### Data
 
 In order for you to have the greatest chance of success with this project it is important that you choose a manageable dataset. This means that the data should be readily accessible and large enough that multiple relationships can be explored. 

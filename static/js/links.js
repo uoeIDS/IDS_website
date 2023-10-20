@@ -1078,7 +1078,7 @@ try {DateRestrictLink(document.getElementById("feedback_3"), "27 October 2023", 
 try {DateRestrictLink(document.getElementById("feedback_4"), "27 October 2023", "https://uoeids.github.io/labs/lab-05/1530workshop.html");} catch { };
 
 
-try {DateRestrictLink(document.getElementById("project_template_repo"), "01 October 2023", "https://github.com/uoeIDS/project_template");} catch { };
+try {DateRestrictLink(document.getElementById("project_template_repo"), "19 October 2023", "https://github.com/uoeIDS/project_template");} catch { };
 
 
 // lab 6 - Conveying the right message through visualisation WEEK 07
