@@ -864,8 +864,8 @@ try {DateRestrictLink(document.getElementById("lecture11"), "23 October 2023", "
 try {DateRestrictLink(document.getElementById("GHL11"), "23 October 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w06-L11");} catch { };
 //try {DateRestrictLink(document.getElementById("MHL11"), "25 October 2023", "https://echo360.org.uk/lesson/89a36110-6275-4f8a-84df-9f12708722a4/classroom#sortDirection=desc");} catch { };
 
-try {DateRestrictLink(document.getElementById("lecture12"), "25 October 2023", "https://uoeids.github.io/slides/w06-L12/w06-L12.html");} catch { };
-try {DateRestrictLink(document.getElementById("GHL12"), "25 October 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w06-L12");} catch { };
+try {DateRestrictLink(document.getElementById("lecture12"), "26 October 2023", "https://uoeids.github.io/slides/w06-L12/w06-L12.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL12"), "26 October 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w06-L12");} catch { };
 //try {DateRestrictLink(document.getElementById("MHL12"), "27 October 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-10-27T10:00:00.000_2022-10-27T10:55:00.000/classroom#sortDirection=desc");} catch { };
 
 // week 7 lecture 13/14
