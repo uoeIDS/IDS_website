@@ -227,6 +227,12 @@ This report should provide information on;
 Your report must also contain a link to the GitHub repository for your project, and you must add the course GitHub page (username: uoeIDS) to this GitHub repository, similar to the homework process.  
 {{% /notice %}}  -->
 
+
+{{% notice tip %}}
+To find the word count of your report, ensure that you have your report `.Rmd` file open and in the editor panel (top-left) and then navigate to `Edit > Word Count`. The presented value ignores all text within code chunks. It counts the words that appears in the title, section headings and the main text of your report.
+{{% /notice %}}
+
+
 ### Team peer evaluation
 
 You will be asked to fill out a survey where you rate the contribution and teamwork of each team member at the end. Submitting this information is a prerequisite for getting credit on the team member evaluation. 
