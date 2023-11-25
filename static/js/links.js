@@ -910,8 +910,8 @@ try {DateRestrictLink(document.getElementById("lecture21"), "27 November 2023", 
 try {DateRestrictLink(document.getElementById("GHL21"), "27 November 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w11-L21");} catch { };
 //try {DateRestrictLink(document.getElementById("MHL21"), "29 November 2023", "https://echo360.org.uk/lesson/6d262012-b0f7-4e4f-9d48-51a0ed3b1dc7/classroom#sortDirection=desc");} catch { };
 
-try {DateRestrictLink(document.getElementById("lecture22"), "27 November 2023", "https://uoeids.github.io/slides/w11-L22/w11-L22.html");} catch { };
-try {DateRestrictLink(document.getElementById("GHL22"), "27 November 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w11-L22");} catch { };
+try {DateRestrictLink(document.getElementById("lecture22"), "29 November 2023", "https://uoeids.github.io/slides/w11-L22/w11-L22.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL22"), "29 November 2023", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w11-L22");} catch { };
 //try {DateRestrictLink(document.getElementById("MHL22"), "01 December 2023", "/error");} catch { };
 
 
