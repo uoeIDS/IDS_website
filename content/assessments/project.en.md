@@ -199,7 +199,9 @@ Proposal discussion will take place during the workshop in week 6 (27 October). 
 
 #### Presentation
 
-You will need to prepare a slide deck using the template in the repo. There isn't a limit to how many slides you can use, however there is a time limit (5 minutes total). Each team member should get a chance to speak during the presentation. Your presentation should not just be an account of everything you tried ("then we did this, then we did this, etc."), instead it **should convey what choices you made, and why, and what you found**.
+You will need to prepare a slide deck using the template in the repo. There isn't a limit to how many slides you can use, however there is a time limit (10 minutes/per group in total). You can think of this time as 7 minutes talk + 3 minutes questions by default and prepare yourself based on this time limitation in general. 
+
+Each team member should get a chance to speak during the presentation. Your presentation should not just be an account of everything you tried ("then we did this, then we did this, etc."), instead it **should convey what choices you made, and why, and what you found**.
 
 {{% notice tip %}}
 Before you finalize your presentation, make sure your chunks are turned off with `echo = FALSE`.
