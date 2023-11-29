@@ -214,7 +214,8 @@ Presentation schedule: Presentations will take place during the last workshop of
 Along with your presentation slides, we want you to provide a brief summary of your project. 
 
 - This can be a markdown (`.md`) or an rmarkdown (`.Rmd`) file, depending on whether you want to include code in your report. 
-- The report should be around 1,500 words, not including figures, tables, and references. 
+- The report should be around 1,500 words, not including figures, tables, code chunk parts and references. 
+You can think of the upper limit as 1,500 words + 10% extra like 1,650 at most (as we discussed recently).
 
 This report should provide information on;
 
