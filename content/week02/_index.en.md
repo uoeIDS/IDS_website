@@ -5,14 +5,14 @@ title: "2. Wrangling and Tidying Data"
 menuTitle: "Wrangling and Tidying Data"
 weight: 2
 tags: ["week 2", "tasks", "videos", "assignments", "readings", "tutorials"]
-description: "Week 2 (23 Sep 2023 - 27 Sep 2023): Data wrangling, joining, and tidying."
+description: "Week 2 (23 Sep 2024 - 27 Sep 2024): Data wrangling, joining, and tidying."
 
 hidden: no
 ---
 
 # Wrangling and Tidying Data
 
-_Week 2 (25 Sep 2023 - 29 Sep 2023)_
+_Week 2 (23 Sep 2024 - 27 Sep 2024)_
 
 Getting started with data science by wrangling data, Yee-Haw!
 
@@ -89,7 +89,7 @@ If you have not completed the <em>first time setup instructions</em> found on th
 
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab01: UK Attractions | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li><li><a id="LAB1K">Solutions</a>(<a id="LAB1Kraw">Raw</a>)</li> | Fri, 29 Sept |
+| Lab01: UK Attractions | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li><li><a id="LAB1K">Solutions</a>(<a id="LAB1Kraw">Raw</a>)</li> | Fri, 27 Sept |
 
 <!--
 ## Assignments

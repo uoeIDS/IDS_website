@@ -14,7 +14,7 @@ hidden: no
   
   # Visualizing Data
   
-  _Week 4 (9 Oct 2023 - 13 Oct 2023)_
+  _Week 4 (07 Oct 2024 - 11 Oct 2024)_
 
 Data visualization and interpretation of graphical information.
 
@@ -95,7 +95,7 @@ If you have not completed the <em>first time setup instructions</em> found on th
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |--->
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab03: Take a sad plot and make it better | <li><a id="LAB3I">Instructions</a></li> <li><a id="LAB3R">Repository</a></li><li><a id="LAB3K">Solutions</a>(<a id="LAB3Kraw">Raw</a>)</li> | Fri, 13 Oct |
+| Lab03: Take a sad plot and make it better | <li><a id="LAB3I">Instructions</a></li> <li><a id="LAB3R">Repository</a></li><li><a id="LAB3K">Solutions</a>(<a id="LAB3Kraw">Raw</a>)</li> | Fri, 11 Oct |
 
 
 ## Assignment

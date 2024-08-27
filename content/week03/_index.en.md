@@ -12,7 +12,7 @@ hidden: no
 
 # Importing and Joining Data
 
-_Week 3 (2 Oct 2023 - 6 Oct 2023)_
+_Week 3 (30 Sept 2024 - 04 Oct 2024)_
 
 Importing data from different files, and joining them to explore more variable relationships.
 
@@ -75,7 +75,7 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab02: Plastic Wasting | <li><a id="LAB2I">Instructions</a></li> <li><a id="LAB2R">Repository</a></li><li><a id="LAB2K">Solutions</a>(<a id="LAB2Kraw">Raw</a>)</li> |  Fri, 06 Oct  |
+| Lab02: Plastic Wasting | <li><a id="LAB2I">Instructions</a></li> <li><a id="LAB2R">Repository</a></li><li><a id="LAB2K">Solutions</a>(<a id="LAB2Kraw">Raw</a>)</li> |  Fri, 04 Oct  |
 
 
 ## Assignment

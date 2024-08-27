@@ -12,7 +12,7 @@ hidden: false
 
 # Model Validation and Uncertainty Quantification
 
-_Week 10 (20 Nov 2023 - 24 Nov 2023)_
+_Week 10 (18 Nov 2023 - 22 Nov 2023)_
 
 Evaluating models with cross validation and uncertainty quantification with bootstrap confidence intervals.
 
@@ -65,7 +65,7 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
-| Project |  <li><a id="LAB9Proj">Instructions</a></li> | Fri, 24 Nov |
+| Project |  <li><a id="LAB9Proj">Instructions</a></li> | Fri, 22 Nov |
 
 
 <!---| Lab09: Make progress on projects |  <li><a id="LAB8I">Instructions</a></li>| Fri, 24 Nov, 16:00 UK |-->

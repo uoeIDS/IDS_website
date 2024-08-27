@@ -12,7 +12,7 @@ hidden: false
 
 # Looking Beyond IDS
 
-_Week 11 (27 Nov 2023 - 1 Dec 2023)_
+_Week 11 (25 Nov 2024 - 29 Nov 2024)_
 
 Additional topics beyond the course.
 
@@ -64,7 +64,7 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
-| Project |  <li><a id="projectEND">Instructions</a></li> | Fri, 01 Dec |
+| Project |  <li><a id="projectEND">Instructions</a></li> | Fri, 29 Nov |
 
 <!--
 ## Assignments

@@ -12,7 +12,7 @@ hidden: false
   
   # Classification and Model Building
   
-  _Week 9 (13 Nov 2023 - 17 Nov 2023)_
+  _Week 9 (11 Nov 2024 - 15 Nov 2024)_
 
 Logistic regression for predicting categorical data and model building.
 
@@ -67,7 +67,7 @@ Lecture recordings are only available for IDS students via the University of Edi
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> | -->
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab08: ???? | <li><a id="LAB8I">Instructions</a></li> <li><a id="LAB8R">Repository</a></li><li><a id="LAB8K">Solutions</a>(<a id="LAB8Kraw">Raw</a>)</li> | Fri, 17 Nov |
+| Lab08: ???? | <li><a id="LAB8I">Instructions</a></li> <li><a id="LAB8R">Repository</a></li><li><a id="LAB8K">Solutions</a>(<a id="LAB8Kraw">Raw</a>)</li> | Fri, 15 Nov |
 
 <!--
 | Lab07 - course evaluations |  <li><a id="LAB6I">Instructions</a></li> <li><a id="LAB6R">Repository</a></li><li><a id="LAB6K">Solutions</a>(<a id="LAB6Kraw">Raw</a>)</li>| Fri, 17 Nov, 16:00 UK  |

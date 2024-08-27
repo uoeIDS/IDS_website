@@ -5,7 +5,7 @@ title: "6. Ethics"
 menuTitle: "Ethics"
 weight: 6
 tags: ["week 6", "tasks", "videos", "assignments", "readings", "tutorials"]
-description: "Week 6 (28 Oct 2024 - 01 Nov 2024): Misrepresentation of findings, data privacy, and algorithmic bias."
+description: "Week 6 (21 Oct 2024 - 25 Oct 2024): Misrepresentation of findings, data privacy, and algorithmic bias."
 
 
 hidden: false
@@ -13,7 +13,7 @@ hidden: false
   
   # Ethics
   
-  _Week 6 (23 Oct 2023 - 27 Oct 2023)_
+  _Week 6 (21 Oct 2024 - 25 Oct 2024)_
 
 Misrepresentation of findings, data privacy and biases.
 

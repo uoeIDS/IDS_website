@@ -12,7 +12,7 @@ hidden: no
 
 # Communicating Data Science Results Effectively
 
-_Week 5 (16 Oct 2023 - 20 Oct 2023)_
+_Week 5 (14 Oct 2024 - 18 Oct 2024)_
 
 Tips for effective data visualization, communication of results, and collaboration.
 
