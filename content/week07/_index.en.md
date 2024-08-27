@@ -5,7 +5,7 @@ title: "7. Programming"
 menuTitle: "Programming"
 weight: 7
 tags: ["week 7", "tasks", "videos", "assignments", "readings", "tutorials"]
-description: "Week 7 (30 Oct 2023 - 03 Nov 2023): Harvesting data from the web, writing functions, and iteration."
+description: "Week 7 (28 Oct 2023 - 01 Nov 2023): Harvesting data from the web, writing functions, and iteration."
 
 hidden: false
 ---

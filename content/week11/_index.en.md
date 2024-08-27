@@ -5,7 +5,7 @@ title: "11. Looking Beyond IDS"
 menuTitle: "Looking Beyond IDS"
 weight: 11
 tags: ["week 11", "tasks", "videos", "assignments", "readings", "code-along", "tutorials"]
-description: "Week 11 (27 Nov 2023 - 1 Dec 2023): Additional topics beyond IDS"
+description: "Week 11 (25 Nov 2024 - 29 Nov 2024): Additional topics beyond IDS"
 
 hidden: false
 ---

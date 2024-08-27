@@ -5,7 +5,7 @@ title: "3. Importing and Joining Data"
 menuTitle: "Importing and Joining Data" 
 weight: 3
 tags: ["week 3", "tasks", "videos", "assignments", "readings", "tutorials"]
-description: "Week 3 (2 Oct 2023 - 6 Oct 2023): Importing data, data types and classes, recoding."
+description: "Week 3 (30 Sept 2024 - 04 Oct 2024): Importing data, data types and classes, recoding."
 
 hidden: no
 ---
