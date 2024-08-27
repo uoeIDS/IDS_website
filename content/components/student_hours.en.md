@@ -3,7 +3,7 @@ title: Student Hours
 weight: 4
 ---
 
-The course lecturers will hold "student hours" from week 2 on Thursdays, immediately after the lecture. The student hours will be held in-person from 11.10-12.00 in 5326, JCMB. 
+The course lecturers will hold "student hours" on Wednesdays immediately after the lecture. The student hours will be held in-person from 12:10-13:00 in 5326, JCMB. 
 
 {{% notice tip %}}
 These hours are good chances to communicate more effectively with lecturers.
