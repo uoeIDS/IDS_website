@@ -22,7 +22,7 @@ We've already prepared instructions for dealing with common questions, so feel f
 
 - For more general support and advice, please make use of the following resources:
   <ul>
-    <li>Your personal tutor (especially if you are struggling in general).</li>
+    <li>Your academic cohort lead (especially if you are struggling in general).</li>
     <li>Student learning advisor for the course.</li>
     <li><a = id="IAD">Institute for Academic Development</a>: Online events and support.</li>
     <li><a = id="Advice">The Advice Place</a>: Open for phone and email advice.</li>
