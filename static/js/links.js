@@ -738,7 +738,7 @@ try {document.getElementById("ggplot2CS").href = "https://github.com/rstudio/che
 try {document.getElementById("dplyrCS").href = "https://github.com/rstudio/cheatsheets/blob/main/data-transformation.pdf";} catch { };
 
 /*
-//try {document.getElementById('learnids').href = "https://www.learn.ed.ac.uk/ultra/courses/_112929_1/outline";} catch { };	// link to the IDS course on learn
+//try {document.getElementById('learnids').href = "https://www.learn.ed.ac.uk/ultra/courses/_116960_1/outline";} catch { };	// link to the IDS course on learn
 //try {document.getElementById('ids2020').href = "https://introds-2020.netlify.app/";} catch { };	// link to ids 2020 page
 //try {document.getElementById('ids2019').href = "https://introds-2019.netlify.app/";} catch { };	// link to ids 2019 page
 

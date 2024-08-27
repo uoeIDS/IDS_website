@@ -11,7 +11,7 @@ defaultContentLanguageInSubdir= true
 [params]
   editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
   description = "[Introduction to Data Science DESC]"
-  author = "David Elliott"
+  author = "Simon Taylor"
   showVisitedLinks = false
   disableBreadcrumb = false
   disableNextPrev = false
@@ -35,7 +35,7 @@ landingPageName = "<i class='fas fa-home'></i> Home"
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fas fa-bullhorn'></i> Announcements"
 identifier = "announce"
-url = "https://www.learn.ed.ac.uk/ultra/courses/_112929_1/announcements"
+url = "https://www.learn.ed.ac.uk/ultra/courses/_116960_1/announcements"
 weight = 2
 
 [[Languages.en.menu.shortcuts]]
