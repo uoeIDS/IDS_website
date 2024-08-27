@@ -73,7 +73,7 @@ If you're not sure whether your personal circumstance should be filed under an e
 
 ### Regrade requests 
 
-Regrade requests must be made within one week of when the assignment is returned, and must be typed up and submitted via email to Ozan Evkaya (<a id="MailOzan">oevkaya@ed.ac.uk</a>). These will be honoured if points were tallied incorrectly, or if your answer is correct but it was marked as incorrect. No regrade will be made to alter the number of points deducted for a mistake. There will be no grade changes after the final project presentations.
+Regrade requests must be made within one week of when the assignment is returned, and must be typed up and submitted via email to the <a href="/people">course organiser</a>. These will be honoured if points were tallied incorrectly, or if your answer is correct but it was marked as incorrect. No regrade will be made to alter the number of points deducted for a mistake. There will be no grade changes after the final project presentations.
 
 {{% notice warning %}}
 Regrading does not guarantee higher marks. Indeed the course team may identify errors in the marking where points were incorrectly given, resulting in a lower score.
