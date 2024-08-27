@@ -26,10 +26,10 @@ To effectively engage with the Introduction to Data Science course it is essenti
   2. <a id="GitHubSetup">GitHub Setup</a>
   <dt style= "font-size: 0.8em; margin-left:16px;">Instructions for signing up and linking GitHub to RStudio.</dt>
 </div>
-<div>
+<!--<div>
   3. <a id="ZoomSetup">Zoom Setup</a>
   <dt style= "font-size: 0.8em; margin-left:18px;">Instructions for setting up Zoom.</dt>
-</div>
+</div>-->
 
 <br>
 
