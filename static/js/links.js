@@ -707,7 +707,7 @@ try {document.getElementById('assessReg').href = "https://edin.ac/assessment-reg
 // HELP
 try {document.getElementById('IAD').href = "https://www.ed.ac.uk/institute-academic-development";} catch { };
 try {document.getElementById('Advice').href = "https://www.eusa.ed.ac.uk/support_and_advice/the_advice_place/";} catch { };
-try {document.getElementById('Disability').href = "https://www.ed.ac.uk/student-disability-service";} catch { };
+try {document.getElementById('Disability').href = "https://disability-learning-support-service.ed.ac.uk/";} catch { };
 
 // POLICIES
 try {document.getElementById('misconduct').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/academic-misconduct";} catch { }; 
