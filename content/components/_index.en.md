@@ -32,19 +32,19 @@ The formal points of contact for this course are the lectures and workshops. How
 
 <div class="row">
   <div class="column">
-    <img src="/images/overview/book.png">
+    <img src="/images/overview/lecture.png">
     <p style="margin-top: -40px; text-align: center; font-size: 2vw; overflow:hidden;">Mon</p>
   </div>
   <div class="column">
-    <img src="/images/overview/lecture.png">
+    <img src="/images/overview/book.png">
     <p style="margin-top: -40px; text-align: center; font-size: 2vw; overflow:hidden;">Tue</p>
   </div>
   <div class="column">
-    <img src="/images/overview/laptop.png">
+    <img src="/images/overview/lecture_question.png">
     <p style="margin-top: -40px; text-align: center; font-size: 2vw; overflow:hidden;">Wed</p>
   </div>
   <div class="column">
-    <img src="/images/overview/lecture_question.png">
+    <img src="/images/overview/laptop.png">
     <p style="margin-top: -40px; text-align: center; font-size: 2vw; overflow:hidden;">Thur</p>
   </div>
   <div class="column">
@@ -57,11 +57,11 @@ The formal points of contact for this course are the lectures and workshops. How
 
 | Weekday | Event |
 |:---|:---|
-| Monday    | Reading | 
-| Tuesday   | Lecture | 
-| Wednesday | Self-study exercises | 
-| Thursday  | Lecture and drop-in Q&A | 
-| Friday    | Workshop | 
+| Monday     | Lecture  | 
+| Tuesday    | Reading  | 
+| Wednesday  | Lecture and drop-in Q&A | 
+| Thursday   | Self-study reading & exercises  | 
+| Friday     | Workshop | 
 
 
 <p style="text-align: left">
