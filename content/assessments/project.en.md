@@ -143,10 +143,10 @@ LIST must be updated
 
 <!-- 1. Proposal     - discussion with your tutor in the workshop (Week6 - Friday 27 October) -->
 
-1. Check-in     - discussion with your tutor in the workshop (Week 6 - Friday 27 October and Week 10 - Friday 24 November) <!-- edit -->
-1. Presentation    - due Friday, 1 December, at 09:00 UK
-1. Report          - due Friday, 1 December, at 16:00 UK
-1. Peer evaluation - due Saturday 2 Dec, at 09:00 UK
+1. Check-in     - Discussion with a tutor in the workshop (Week 6 - Friday 25 October and Week 10 - Friday 22 November) <!-- edit -->
+1. Presentation    - Due Friday 29 November (during your workshop session)
+1. Report & Presentation Slides - Due Friday 29 November @ 16:00 GMT
+1. Peer Evaluation - Due Monday 02 December @ 12:00 GMT
 
 <!-- Added -->
 
@@ -207,7 +207,7 @@ Each team member should get a chance to speak during the presentation. Your pres
 Before you finalize your presentation, make sure your chunks are turned off with `echo = FALSE`.
 {{% /notice %}}
 
-Presentation schedule: Presentations will take place during the last workshop of the semester (1 December). All teams will give them as a live presentation in the workshop. During your workshop you will watch presentations from other teams in your workshop and will be able to ask questions at the end. The presentation line-up will be generated randomly, later during the semester.
+Presentation schedule: Presentations will take place during the last workshop of the semester (29 November). All teams will give them as a live presentation in the workshop. During your workshop you will watch presentations from other teams in your workshop and will be able to ask questions at the end. The presentation line-up will be generated randomly, later during the semester.
 
 #### Report
 
@@ -269,10 +269,10 @@ This is a template repository for your group project. One of your group members 
 
 ### Submission and GitHub repository
 
-You will need to submit your project report to Learn (Learn > Assessment > Gradescope > Final project - team) on the 1 December:
+You will need to submit your project report to Learn (Learn > Assessment > Gradescope > Final project - team) on the 29 November:
 
 * A `.html` version of your report (including a link to the GitHub repository) by 16pm 
-* A `.html` version of your presentation by 9am.
+* A `.html` version of your presentation by 16pm.
 * Your team peer evaluation (under peer evaluation on Gradescope) by 2 December at latest.
 
 Only _one_ member of your team should submit the report and presentation to Learn. This person will need to add the other team members from the drop down menu that appears under  _View or edit group_ after uploading the files and viewing the submission. Everyone should submit the peer evaluation individually. 
