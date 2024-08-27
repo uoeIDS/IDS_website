@@ -683,10 +683,10 @@ try {document.getElementById('Zoom').href = "https://zoom.us/";} catch { };
 try {document.getElementById('learn').href = "https://www.learn.ed.ac.uk/";} catch { };	
 
 // HOME
-try {document.getElementById('drps').href = "http://www.drps.ed.ac.uk/23-24/dpt/cxmath08077.htm";} catch { };	
+try {document.getElementById('drps').href = "http://www.drps.ed.ac.uk/24-25/dpt/cxmath08077.htm";} catch { };	
 try {document.getElementById('licence').href = "https://github.com/uoeIDS/IDS_website/blob/main/LICENSE.md";} catch { };
 try {
-	document.getElementById('announcements').href = "https://www.learn.ed.ac.uk/ultra/courses/_112929_1/announcements";
+	document.getElementById('announcements').href = "https://www.learn.ed.ac.uk/ultra/courses/_116960_1/announcements";
 } catch { };	// link to annoucements page
 
 
@@ -728,7 +728,7 @@ try {document.getElementById('Rproject').href = "https://www.r-project.org/about
 try {document.getElementById('RStudio').href = "https://www.rstudio.com/products/rstudio/#rstudio-desktop";} catch { };
 try {document.getElementById('ids2022Git').href = "https://github.com/uoeIDS/";} catch { }; 
 //try {document.getElementById('Piazza').href = "https://piazza.com/ed.ac.uk/fall2023/math0807720234ss1sem1";} catch { }; 
-try {document.getElementById('Piazza').href = "/error";} catch { }; 
+try {document.getElementById('Piazza').href = "https://piazza.com/ed.ac.uk/fall2024/math0807720245ss1sem1";} catch { }; 
 
 // -- Cheatsheets
 try {document.getElementById("rstudioCS").href = "https://github.com/rstudio/cheatsheets/blob/main/rstudio-ide.pdf";} catch { };
