@@ -31,6 +31,8 @@ title: People
 }
 </style>
 
+
+<!---
 ### Dr. Ozan Evkaya (Course Organiser)
 
     
@@ -45,6 +47,25 @@ title: People
   </div>
 </div>
 
+--> 
+
+
+
+### Dr. Cecilia Balocchi (Course Organiser)
+
+<div class="row">
+  <div class="column_small">
+    <img src="/images/people/cecilia.jpg" />
+    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailCecilia"><i class="far fa-envelope" style="margin-right:1vw;"></i></a><a id="CeciliaWeb"><i class="fas fa-home"></i></a></p>
+  </div>
+  <div class="column_large">
+    <p style="text-align: left; font-size: 1vw; overflow:hidden;">Office 5414, James Clerk Maxwell Building, King's Buildings Campus</p>
+    <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;"><em>My pronouns are she/her.</em> I am a Lecturer (Assistant Professor) in Statistics at the School of Mathematics, University of Edinburgh.Previously, I was a postdoctoral researcher in Statistics at the University of Torino, working with Stefano Favaro. I am also a member of the “de Castro” Statistics Initiative at Collegio Carlo Alberto.
+I received my PhD in Statistics from the University of Pennsylvania under the supervision of Ed George and Shane Jensen. My research interests include Bayesian nonparametrics and hierarchical modeling, clustering, Bayesian regression trees and spatial methods.</p>
+  </div>
+</div>
+
+
 ### Dr. Simon Taylor (Lecturer)
 
 <div class="row">
@@ -58,19 +79,6 @@ title: People
   </div>
 </div>
 
-### Dr. Cecilia Balocchi (Lecturer)
-
-<div class="row">
-  <div class="column_small">
-    <img src="/images/people/cecilia.jpg" />
-    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailCecilia"><i class="far fa-envelope" style="margin-right:1vw;"></i></a><a id="CeciliaWeb"><i class="fas fa-home"></i></a></p>
-  </div>
-  <div class="column_large">
-    <p style="text-align: left; font-size: 1vw; overflow:hidden;">Office 5414, James Clerk Maxwell Building, King's Buildings Campus</p>
-    <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;"><em>My pronouns are she/her.</em> I am a Lecturer (Assistant Professor) in Statistics at the School of Mathematics, University of Edinburgh.Previously, I was a postdoctoral researcher in Statistics at the University of Torino, working with Stefano Favaro. I am also a member of the “de Castro” Statistics Initiative at Collegio Carlo Alberto.
-I received my PhD in Statistics from the University of Pennsylvania under the supervision of Ed George and Shane Jensen. My research interests include Bayesian nonparametrics and hierarchical modeling, clustering, Bayesian regression trees and spatial methods.</p>
-  </div>
-</div>
 
   {{% notice info %}}
 With thanks to Dr. Mine Çetinkaya-Rundel for setting up the first version of this course. 
