@@ -6,10 +6,11 @@ title: IDS
 
 # Introduction to Data Science <br>(MATH08077)
 
+<!---
 {{% notice warning %}}
 We are beginning 2023/4 to 2024/5 roll-over. As such, material that was previously accessible may now no longer be. Please contact Simon Taylor (simon.taylor@ed.ac.uk) if you have any questions about viewing/accessing any IDS material.
 {{% /notice %}}
-
+--->
 
 <p style="font-size:90%; text-align: center">
   This is the website for the Introduction to Data Science (MATH08077) course offered at the University of Edinburgh for the academic year 2024/5. <!-- Click <a id="ids2020">here</a> if you are looking for the 2020 version of the course and <a id="ids2019">here</a> for the 2019 version. -->
