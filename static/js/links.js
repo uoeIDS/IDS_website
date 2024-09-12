@@ -712,9 +712,9 @@ try {document.getElementById('Disability').href = "https://disability-learning-s
 // POLICIES
 try {document.getElementById('misconduct').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/academic-misconduct";} catch { }; 
 try {document.getElementById("Gen-AI").href = "https://www.ed.ac.uk/bayes/ai-guidance-for-staff-and-students/ai-guidance-for-students";} catch { };
-try {document.getElementById('extensions').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/extensions";} catch { }; 
-try {document.getElementById('extensionsExplained').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/extensions";} catch { };
-try {document.getElementById('specialCircumstancesExplained').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/extensions";} catch { }; 
+try {document.getElementById('extensions').href = "https://teaching.maths.ed.ac.uk/main/undergraduate/support/extensions-exceptional-circumstances";} catch { }; 
+try {document.getElementById('extensionsExplained').href = "https://registryservices.ed.ac.uk/exceptional-circumstances/coursework-extensions";} catch { };
+try {document.getElementById('specialCircumstancesExplained').href = "https://registryservices.ed.ac.uk/exceptional-circumstances/exceptional-circumstances";} catch { }; 
 
 // RESOURCES
 // -- Reading

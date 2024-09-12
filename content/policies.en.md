@@ -8,7 +8,7 @@ The University takes academic misconduct very seriously and is committed to ensu
 
 Cheating or plagiarising on assignments, lying about an illness or absence and other forms of academic dishonesty are a breach of trust with classmates and faculty, violate the University policies, and will not be tolerated. Such incidences will result in a 0 grade for all parties involved. Additionally, there may be penalties to your final class grade along with being reported to the School Academic Misconduct Office.
 
-### Gen-AI Guidance 
+### Gen-AI University Guidance 
 
 The University strategy is to embrace curiosity and to pursue knowledge. As one of the first to teach and research in the field of Artificial Intelligence over 60 years ago we have set an ambition to be a global leader in Artificial Intelligence (AI) with integrity.
 
@@ -20,13 +20,18 @@ The University position is **not to impose a blanket restriction on the use of g
 - Highlight the limitations of generative AI and the dangers of relying on it as a source of information; 
 - Emphasise the need to acknowledge the use of generative AI where it is (permitted to be) used. 
 
-Some assignments may explicitly ask you to work with AI tools and to analyse and critique the content it generates, others may specify that AI tools should not be used, or only used in specific ways. This will depend on the learning objectives for your courses. Please refer to the specific criteria for your assignments and ask your lecturers if in doubt. 
+Please check out the <a id="Gen-AI">Gen-AI guidance for students</a> for further details.
 
-Please check that website regularly,
+#### Use of Gen-AI for IDS assignments
 
-<ul>
-  <li><a id="Gen-AI">Gen-AI for students</a></li>
-</ul>
+This is the expectation for the IDS course assignments (homework, quizzes, and final project).
+
+Homework:
+- You cannot use GenAI tools to help with substantive parts of this work (e.g. not to help with your coding). Please ensure that you do not input direct exercise questions into the AI prompts.
+
+Final Project: 
+- You may use generative AI tools for learning purposes, to enhance your understanding and develop your skills independently, similar to how you would use search engines to research information.  
+- You may use GenAI tools to help you organize your thoughts particularly in preparing your writing, but you should not use it in the final wording of your work. In particular, you should not copy-paste entire sentences produced by genAI.
 
 ### Collaboration policy
 
@@ -44,30 +49,32 @@ All work is due on the stated due date. Due dates are there to help guide your p
 
 - **Late work policy:** Some assignments cannot be turned in late and some assignments can be turned in past the deadline with a late penalty:
   - Quizzes: No late work accepted (note that we drop the lowest score of the quizzes, so if you miss one quiz, this can be your dropped score).
-  - Homework assignments: Late work accepted up to 3 days past the deadline (i.e. Tuesday after the deadline, 16:00 UK time), with 5% penalty for each 24 hours late.
-  - Project: No late work accepted for the presentation, late work accepted for the written component up to 3 days after the deadline, with 5% penalty for each 24 hours late.
+  - Homework assignments: Late work accepted up to 4 days past the deadline, or until feedback is given, whichever is sooner (i.e. Tuesday after the deadline, 16:00 UK time), with 5% penalty for each 24 hours late.
+  - Project: No late work accepted for the presentation, no late work accepted for the written component.
 
-Please review the official University and School policies <a id="extensions">here</a>. If you intend to submit work late for the project, you must **notify the course organizer** before the original deadline.
+Please review the official University and School policies <a id="extensions">here</a>. 
 
 {{% notice note %}}
 For example, the following penalties will apply for late HW:
 <br/> 5%: 16:00 Friday - 16:00 Saturday
 <br/> 10%: 16:00 Saturday - 16:00 Sunday
 <br/> 15%: 16:00 Sunday - 16:00 Monday
-<!--<br/> 20%: 16:00 Monday- 16:00 Tuesday -->
+<br/> 20%: 16:00 Monday- 16:00 Tuesday 
 {{% /notice %}}
 
-- **Extensions:** The University has an extension policy whereby you can request an extension for any assignments where late work is accepted. If your extension request is approved, you can turn in the assignment late and not incur the late penalty. As outlined above you can request an extension for homework assignments and the project write up. Extensions are not granted for the quizzes or the project presentation under any circumstances. To request an extension you must visit the <a id="extensionsExplained">Extensions and Special Circumstances website</a> and *Apply for an extension* there. A decision will be made within 2 days and the team will notify the student of their decision. Note that decisions are made by an external committee, not the course teaching staff, so requests for extensions must go through this form and not through course organisers and tutors.
+- **Extensions:** According to the new <a id="extensions">Exceptional Circumstances policy</a> students can apply for an extension (up to 3 times per academic year) and/or exceptional circumstances.
+You can request an extension for the project write up. Extensions are not granted for quizzes, homework assignments or the project presentation under any circumstances. To request an extension you must visit the <a id="extensionsExplained">Extensions and Special Circumstances website</a> and check out *Applying for support* there. 
+Note that decisions are made by an external committee, not the course teaching staff, so requests for extensions must go through this form and not through course organisers and tutors.
 
   {{% notice info %}}
   The extensions deadline is the same as the late work deadline outlined in the section above.
   {{% /notice %}}
   
   {{% notice info %}}
-  The decision to move to 3 day extensions has been made following discussion and agreement between Heads of School around the need for greater consistency, and as a short-term measure whilst the overall Extensions and Special Circumstances Policy continues to be reviewed (within Taught Assessment Regulation (TAR) 28.3).
+  The decision to move to 4 day extensions has been made following discussion and agreement between Heads of School around the need for greater consistency, and as a short-term measure whilst the overall Extensions and Special Circumstances Policy continues to be reviewed (within Taught Assessment Regulation (TAR) 28.3).
   {{% /notice %}}
 
-- **Special circumstances:** You can think of special circumstances as one level above an extension request, where there is a documented reason why you're unable to complete any assignment in the course. Special circumstances decisions are made at the end of the semester by an external committee. To request a special circumstances waiver you must visit the <a id="specialCircumstancesExplained">Extensions and Special Circumstances website</a> and *Apply for special circumstances* there. 
+- **Exceptional circumstances:** You can think of exceptional circumstances as one level above an extension request, where there is a documented reason why you're unable to complete any assignment in the course. Exceptional circumstances decisions are made at the end of the semester by an external committee. To request a special circumstances waiver you must visit the <a id="specialCircumstancesExplained">Extensions and Special Circumstances website</a> and check out *Applying for support* there. The Board of Examiners for your programme of study will decide on any action to be taken on accepted applications.
 
 If you're not sure whether your personal circumstance should be filed under an extension or special circumstances, we recommend you reach out to your Personal Tutor and/or Student Support Officers (<a id="StudentSupportMail">studentsupport@maths.ed.ac.uk</a>).
 
