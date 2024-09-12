@@ -60,8 +60,7 @@ title: People
   </div>
   <div class="column_large">
     <p style="text-align: left; font-size: 1vw; overflow:hidden;">Office 5414, James Clerk Maxwell Building, King's Buildings Campus</p>
-    <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;"><em>My pronouns are she/her.</em> I am a Lecturer (Assistant Professor) in Statistics at the School of Mathematics, University of Edinburgh.Previously, I was a postdoctoral researcher in Statistics at the University of Torino, working with Stefano Favaro. I am also a member of the “de Castro” Statistics Initiative at Collegio Carlo Alberto.
-I received my PhD in Statistics from the University of Pennsylvania under the supervision of Ed George and Shane Jensen. My research interests include Bayesian nonparametrics and hierarchical modeling, clustering, Bayesian regression trees and spatial methods.</p>
+    <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;"><em>My pronouns are she/her.</em> I am a Lecturer (Assistant Professor) in Statistics at the School of Mathematics, University of Edinburgh. Previously, I was a postdoctoral researcher in Statistics at the University of Torino. I received my PhD in Statistics from the University of Pennsylvania. My research interests include Bayesian nonparametrics and hierarchical modeling, clustering, Bayesian regression trees and spatial methods.</p>
   </div>
 </div>
 
