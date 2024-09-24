@@ -26,12 +26,14 @@ Please check out the <a id="Gen-AI">Gen-AI guidance for students</a> for further
 
 This is the expectation for the IDS course assignments (homework, quizzes, and final project).
 
-Homework:
+Homework and quizzes:
 - You cannot use GenAI tools to help with substantive parts of this work (e.g. not to help with your coding). Please ensure that you do not input direct exercise questions into the AI prompts.
 
 Final Project: 
-- You may use generative AI tools for learning purposes, to enhance your understanding and develop your skills independently, similar to how you would use search engines to research information.  
+- You may use generative AI tools for learning purposes, to enhance your understanding and develop your skills independently, similar to how you would use search engines to research information.  Avoid copy-pasting genAI output<sup>1</sup>.
 - You may use GenAI tools to help you organize your thoughts particularly in preparing your writing, but you should not use it in the final wording of your work. In particular, you should not copy-paste entire sentences produced by genAI.
+
+<sup>1</sup> Be aware that relying on GenAI tools for coding or simply copy-pasting their output will limit your ability to really learn and develop your coding skills. If you used a GenAI tool to perform a coding task, make sure you type out the solution (after having fully understood what it does) instead of copy-pasting the output.
 
 ### Collaboration policy
 
