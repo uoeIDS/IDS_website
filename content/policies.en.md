@@ -51,7 +51,7 @@ All work is due on the stated due date. Due dates are there to help guide your p
 
 - **Late work policy:** Some assignments cannot be turned in late and some assignments can be turned in past the deadline with a late penalty:
   - Quizzes: No late work accepted (note that we drop the lowest score of the quizzes, so if you miss one quiz, this can be your dropped score).
-  - Homework assignments: Late work accepted up to 4 days past the deadline, or until feedback is given, whichever is sooner (i.e. Tuesday after the deadline, 16:00 UK time), with 5% penalty for each 24 hours late.
+  - Homework assignments: Late work accepted up to 4 days past the deadline, or until feedback is given, whichever is sooner (i.e. the Saturday of the week following the deadline, 16:00 UK time), with 5% penalty for each 24 hours late.
   - Project: No late work accepted for the presentation, no late work accepted for the written component.
 
 Please review the official University and School policies <a id="extensions">here</a>. 
