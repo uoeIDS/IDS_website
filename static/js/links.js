@@ -976,23 +976,23 @@ try {DateRestrictLink(document.getElementById("OQ10"), "21 November 2022", "http
 // week 4 hw 01
 try {DateRestrictLink(document.getElementById("HW1I"), "30 September 2024", "https://uoeids.github.io/homework/hw-01/hw-01.html");} catch { };
 try {DateRestrictLink(document.getElementById("HW1R"), "30 September 2024", "https://github.com/uoeIDS/hw-01-template");} catch { };
-try {DateRestrictLink(document.getElementById("HW1K"), "18 October 2024", "https://uoeIDS.github.io/homework/hw-01-key/hw-01-key.html");} catch { };
-try {DateRestrictLink(document.getElementById("HW1Kraw"), "18 October 2024", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/homework/hw-01-key");} catch { };
+try {DateRestrictLink(document.getElementById("HW1K"), "19 October 2024", "https://uoeIDS.github.io/homework/hw-01-key/hw-01-key.html");} catch { };
+try {DateRestrictLink(document.getElementById("HW1Kraw"), "19 October 2024", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/homework/hw-01-key");} catch { };
 
 // 2023 Homework 2 ////////////////////////////
 // week 7 hw 02
 try {DateRestrictLink(document.getElementById("HW2I"), "21 October 2024", "https://uoeids.github.io/homework/hw-02/hw-02.html");} catch { };
 try {DateRestrictLink(document.getElementById("HW2R"), "21 October 2024", "https://github.com/uoeIDS/hw-02-template");} catch { };
-try {DateRestrictLink(document.getElementById("HW2K"), "08 November 2024", "https://uoeIDS.github.io/homework/hw-02-key/hw-02-key.html");} catch { };
-try {DateRestrictLink(document.getElementById("HW2Kraw"), "08 November 2024", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/homework/hw-02-key");} catch { };
+try {DateRestrictLink(document.getElementById("HW2K"), "09 November 2024", "https://uoeIDS.github.io/homework/hw-02-key/hw-02-key.html");} catch { };
+try {DateRestrictLink(document.getElementById("HW2Kraw"), "09 November 2024", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/homework/hw-02-key");} catch { };
 
 // 2023 Homework 3 ////////////////////////////
 // week 10 hw 03
 try {DateRestrictLink(document.getElementById("HW3I"), "11 November 2024", "https://uoeids.github.io/homework/hw-03/hw-03.html");} catch { };
 try {DateRestrictLink(document.getElementById("HW3R"), "11 November 2024","https://github.com/uoeIDS/hw-03-template");} catch { };
-try {DateRestrictLink(document.getElementById("HW3K"), "29 November 2024", "https://uoeIDS.github.io/homework/hw-03-key/hw-03-key.html");} catch { };
+try {DateRestrictLink(document.getElementById("HW3K"), "30 November 2024", "https://uoeIDS.github.io/homework/hw-03-key/hw-03-key.html");} catch { };
 //https://uoeIDS.github.io/homework/hw-03-key/hw-03-key.html
-try {DateRestrictLink(document.getElementById("HW3Kraw"), "29 November 2024", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/homework/hw-03-key");} catch { };
+try {DateRestrictLink(document.getElementById("HW3Kraw"), "30 November 2024", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/homework/hw-03-key");} catch { };
 //https://github.com/uoeIDS/uoeIDS.github.io/tree/main/homework/hw-03-key
 
 
