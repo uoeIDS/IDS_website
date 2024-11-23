@@ -145,9 +145,9 @@ LIST must be updated
 <!-- 1. Proposal     - discussion with your tutor in the workshop (Week6 - Friday 27 October) -->
 
 1. Check-in     - Discussion with a tutor in the workshop (Week 6 - Friday 25 October and Week 10 - Friday 22 November) <!-- edit -->
-1. Presentation    - Due Friday 29 November (during your workshop session)
-1. Report & Presentation Slides - Due Friday 29 November @ 16:00 GMT
-1. Peer Evaluation - Due Monday 02 December @ 12:00 GMT
+1. Presentation    - On Friday 29 November (during your workshop session)
+1. Report & Presentation Slides - Due Monday 2 December @ 10:00 GMT
+1. Peer Evaluation - Due Monday 2 December @ 10:00 GMT
 
 <!-- Added -->
 
@@ -200,12 +200,12 @@ Proposal discussion will take place during the workshop in week 6 (27 October). 
 
 #### Presentation
 
-You will need to prepare a slide deck using the template in the repo. There isn't a limit to how many slides you can use, however there is a time limit (10 minutes/per group in total). You can think of this time as 7 minutes talk + 3 minutes questions by default and prepare yourself based on this time limitation in general. 
+You will need to prepare a slide deck using the template in the repo. There isn't a limit to how many slides you can use, however there is a time limit (10 minutes/per group in total). You can think of this time as 7 minutes talk + 2 minutes questions by default and prepare yourself based on this time limitation in general. 
 
 Each team member should get a chance to speak during the presentation. Your presentation should not just be an account of everything you tried ("then we did this, then we did this, etc."), instead it **should convey what choices you made, and why, and what you found**.
 
 {{% notice tip %}}
-Before you finalize your presentation, make sure your chunks are turned off with `echo = FALSE`.
+Before you finalize your presentation, make sure your code chunks are turned off (not displaying the code) with `echo = FALSE`.
 {{% /notice %}}
 
 Presentation schedule: Presentations will take place during the last workshop of the semester (29 November). All teams will give them as a live presentation in the workshop. During your workshop you will watch presentations from other teams in your workshop and will be able to ask questions at the end. The presentation line-up will be generated randomly, later during the semester.
@@ -215,8 +215,7 @@ Presentation schedule: Presentations will take place during the last workshop of
 Along with your presentation slides, we want you to provide a brief summary of your project. 
 
 - This can be a markdown (`.md`) or an rmarkdown (`.Rmd`) file, depending on whether you want to include code in your report. 
-- The report should be around 1,500 words, not including figures, tables, code chunk parts and references. 
-You can think of the upper limit as 1,500 words + 10% extra like 1,650 at most (as we discussed recently).
+- The report should be around 1,500 words, not including figures, tables, code chunk parts and references. There will be some flexibility when marking, so no penalty will be applied if the word count is less than 1,500 words + 10% extra, that is 1,650 words at most.
 
 This report should provide information on;
 
@@ -246,14 +245,14 @@ You will be asked to fill out a survey where you rate the contribution and teamw
 **IMPORTANT**: If you are concerned that a member of your team is severely under contributing to your group project, then please contact the course organiser as soon as possible.
 <br>
 <br>
-When completing the peer evaluation, if you are suggesting that an individual did less than 10% of the work then you must provide a justifiable explanation.   
+When completing the peer evaluation, if you are suggesting that an individual did less than 5% of the work ("No contribution" or "Very poor" contribution) then you must provide a justifiable explanation.   
 
 <!-- Reduced percentage from 20% to 10% as there are some groups with 5 members -->
 {{% /notice %}}
 
-This survey will be available on Gradescope, accessible via the course Learn page (Learn > Assessment > Gradescope > Peer Evaluation). 
+This survey will be available on WebPA, accessible via the course Learn page (Learn > Assessment > WebPA). 
 
-- The deadline for the peer evaluation is the day after the deadline for submitting the project and presentation just in case you forget to do it in time but we would recommend submitting this at the same time as your project and presentation. 
+- The deadline for the peer evaluation is Monday 2nd December, @ 10:00 GMT.
 
 ## Project Repository structure
 
@@ -334,7 +333,8 @@ Team peer evaluation           | 10 pts
 - **There is no late submission / make up for the presentation**. You must be in class on the day of the presentation to get credit for it 
 (In case of illness, requirement to self-isolate or similar, special circumstances can be applied for from the university: see the <a id="policies">Policies page</a>).
 
-- The late work accepted for the written component of the project up to 3 days after the deadline, with 5% penalty for each 24 hours late.
+- Late submissions are not accepted for the written component of the project, but extensions are permitted (up to 4 days).
+<!-- The late work accepted for the written component of the project up to 4 days after the deadline, with 5% penalty for each 24 hours late. -->
 
 
 
