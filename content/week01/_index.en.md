@@ -19,7 +19,8 @@ hidden: no
 
 # Welcome to IDS
 
-_Week 1 (16 Sep 2024 - 20 Sep 2024)_
+<!-- _Week 1 (16 Sep 2024 - 20 Sep 2024)_ -->
+_Week 1_
 
 Get acquainted with the course, the technology, the workflow, and the skills you will acquire throughout the semester.
 

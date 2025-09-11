@@ -12,7 +12,8 @@ hidden: no
 
 # Wrangling and Tidying Data
 
-_Week 2 (23 Sep 2024 - 27 Sep 2024)_
+<!-- _Week 2 (23 Sep 2024 - 27 Sep 2024)_ -->
+_Week 2_
 
 Getting started with data science by wrangling data, Yee-Haw!
 
