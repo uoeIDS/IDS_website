@@ -1,6 +1,6 @@
 ---
 title: "Final Projects"
-weight: 3
+weight: 4
 ---
 
 You, as part of a __team__, will be responsible for the completion of an open ended final project for this course, the goal of which is to tackle an “interesting” real life problem using the tools and techniques covered in this class. 

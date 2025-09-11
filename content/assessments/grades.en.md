@@ -1,6 +1,6 @@
 ---
 title: Feedback and Grades
-weight: 4
+weight: 5
 ---
 
 Grades on Quiz exercises can be found on __Learn__ in the "GradeBook" tab accessible by clicking in the top panel. For homework assignments and projects, feedback and grades will be available in GradeScope during the semester. 

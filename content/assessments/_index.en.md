@@ -12,8 +12,9 @@ date: "2021-08-03"
 
 Your overall course grade will be comprised of the following components, and their weights:
 
-- Homework: 30%
-- Project: 50%
-- Quiz: 20%
+- In-class test: 10%
+- Homework assignments (2): 20%
+- Project: 60%
+- Quiz: 10%
 
 For more information on moderation and scaling, please review the official University and School policies <a id="assessPol">here</a>.
