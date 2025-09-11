@@ -12,7 +12,9 @@ tags:
 - workshop
 - assignments
 - tutorials
-description: 'Week 1 (16 Sep 2024 - 20 Sep 2024): Get acquainted with the course,
+# description: 'Week 1 (16 Sep 2024 - 20 Sep 2024): Get acquainted with the course,
+#   the technology, the workflow, and the skills you will acquire throughout the semester.'
+description: 'Week 1: Get acquainted with the course,
   the technology, the workflow, and the skills you will acquire throughout the semester.'
 hidden: no
 ---

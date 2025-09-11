@@ -5,7 +5,8 @@ title: "2. Wrangling and Tidying Data"
 menuTitle: "Wrangling and Tidying Data"
 weight: 2
 tags: ["week 2", "tasks", "videos", "assignments", "readings", "tutorials"]
-description: "Week 2 (23 Sep 2024 - 27 Sep 2024): Data wrangling, joining, and tidying."
+# description: "Week 2 (23 Sep 2024 - 27 Sep 2024): Data wrangling, joining, and tidying."
+description: "Week 2: Data wrangling, joining, and tidying."
 
 hidden: no
 ---
