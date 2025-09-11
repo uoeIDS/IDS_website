@@ -5,7 +5,7 @@ title: "4. Visualizing Data"
 menuTitle: "Visualizing Data"
 weight: 4
 tags: ["week 4", "tasks", "videos", "assignments", "readings", "tutorials"]
-description: "Week 4 (07 Oct 2024 - 11 Oct 2024): Data visualization and interpretation of graphical information."
+description: "Week 4: Data visualization and interpretation of graphical information."
 
 hidden: no
 ---
@@ -14,7 +14,7 @@ hidden: no
   
   # Visualizing Data
   
-  _Week 4 (07 Oct 2024 - 11 Oct 2024)_
+  _Week 4_
 
 Data visualization and interpretation of graphical information.
 

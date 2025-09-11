@@ -5,14 +5,14 @@ title: "9. Classification and Model Building"
 menuTitle: "Classification and Model Building"
 weight: 9
 tags: ["week 9", "tasks", "videos", "assignments", "readings", "tutorials"]
-Description: "Week 9 (11 Nov 2024 - 15 Nov 2024): Logistic regression for predicting categorical data and model building."
+Description: "Week 9: Logistic regression for predicting categorical data and model building."
 
 hidden: false
 ---
   
   # Classification and Model Building
   
-  _Week 9 (11 Nov 2024 - 15 Nov 2024)_
+  _Week 9_
 
 Logistic regression for predicting categorical data and model building.
 

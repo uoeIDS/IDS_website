@@ -5,14 +5,14 @@ title: "10. Model Validation and Uncertainty Quantification"
 menuTitle: "Model Validation and Uncertainty Quantification"
 weight: 10
 tags: ["week 10", "tasks", "videos", "assignments", "readings", "tutorials"]
-description: "Week 10 (18 Nov 2024 - 22 Nov 2024): Evaluating models with cross validation and uncertainty quantification with bootstrap confidence intervals. quantification."
+description: "Week 10: Evaluating models with cross validation and uncertainty quantification with bootstrap confidence intervals. quantification."
 
 hidden: false
 ---
 
 # Model Validation and Uncertainty Quantification
 
-_Week 10 (18 Nov 2023 - 22 Nov 2023)_
+_Week 10_
 
 Evaluating models with cross validation and uncertainty quantification with bootstrap confidence intervals.
 
