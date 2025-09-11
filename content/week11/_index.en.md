@@ -41,7 +41,7 @@ Lecture recordings are only available for IDS students via the University of Edi
 <ol>
   <li>Finish your project and peer evaluation and submit.</li>
   <li>Watch the <a href="#Videos and reading">Videos and reading</a>.</li>
-  <li>Complete the <a href="#assignments">Assignments</a>.</li>
+  <!-- <li>Complete the <a href="#assignments">Assignments</a>.</li> -->
 </ol>
 
 ## Videos and reading

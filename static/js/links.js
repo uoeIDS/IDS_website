@@ -29,7 +29,7 @@ try {document.getElementById('Error3').href = "/error";} catch { };
 try {document.getElementById('Error4').href = "/error";} catch { };
 
 
-try {document.getElementById('SoMTechnology').href = "https://teaching.maths.ed.ac.uk/main/undergraduate/studies/equipment";} catch { };
+try {document.getElementById('SoMTechnology').href = "https://teaching.maths.ed.ac.uk/undergraduate/studies/equipment";} catch { };
 try {document.getElementById('ISBorrowLaptops').href = "https://www.ed.ac.uk/information-services/library-museum-gallery/using-library/borrowing-a-book/borrowing-laptops";} catch { };
 
 
@@ -698,7 +698,7 @@ try {document.getElementById('timetable').href = "https://edadfed.ed.ac.uk/adfs/
 try {document.getElementById('timetableInfo').href = "https://edin.ac/student-timetables";} catch { };
 
 // ASSESSMENT
-try {document.getElementById('assessPol').href = "https://teaching.maths.ed.ac.uk/main/undergraduate/studies/assessment/rules";} catch { };
+try {document.getElementById('assessPol').href = "https://teaching.maths.ed.ac.uk/undergraduate/studies/assessment/rules";} catch { };
 
 // GRADES
 try {document.getElementById('UCMS').href = "https://edin.ac/common-marking-scheme";} catch { };
@@ -710,9 +710,9 @@ try {document.getElementById('Advice').href = "https://www.eusa.ed.ac.uk/support
 try {document.getElementById('Disability').href = "https://disability-learning-support-service.ed.ac.uk/";} catch { };
 
 // POLICIES
-try {document.getElementById('misconduct').href = "https://teaching.maths.ed.ac.uk/main/content-to-be-reused/pgt-and-ug-reusable-content/academic-misconduct";} catch { }; 
+try {document.getElementById('misconduct').href = "https://teaching.maths.ed.ac.uk/content-to-be-reused/pgt-and-ug-reusable-content/academic-misconduct";} catch { }; 
 try {document.getElementById("Gen-AI").href = "https://www.ed.ac.uk/bayes/ai-guidance-for-staff-and-students/ai-guidance-for-students";} catch { };
-try {document.getElementById('extensions').href = "https://teaching.maths.ed.ac.uk/main/undergraduate/support/extensions-exceptional-circumstances";} catch { }; 
+try {document.getElementById('extensions').href = "https://teaching.maths.ed.ac.uk/undergraduate/support/extensions-exceptional-circumstances";} catch { }; 
 try {document.getElementById('extensionsExplained').href = "https://registryservices.ed.ac.uk/exceptional-circumstances/coursework-extensions";} catch { };
 try {document.getElementById('specialCircumstancesExplained').href = "https://registryservices.ed.ac.uk/exceptional-circumstances/exceptional-circumstances";} catch { }; 
 

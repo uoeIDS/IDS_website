@@ -41,8 +41,9 @@ Lecture recordings are only available for IDS students via the University of Edi
 ## Tasks
 
 <ol>
-<li>Watch the <a href="#videos and readings">Videos and readings</a>.</li>
-  <li>Complete the <a href="#assignments">Assignments</a>.</li>
+  <li>Watch the <a href="#videos and readings">Videos and readings</a>.</li>
+  <li>Attend the <a href="#workshop">workshop</a>.</li>
+  <li>Complete the <a href="#assignment">Assignments</a>.</li>
 </ol>
 
 ## Videos and readings
