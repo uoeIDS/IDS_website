@@ -64,7 +64,7 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
-| Project |  <li><a id="projectEND">Instructions</a></li> | Fri, 29 Nov |
+| Project presentations |  <li><a id="projectEND">Instructions</a></li> | Friday |
 
 <!--
 ## Assignments

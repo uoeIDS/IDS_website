@@ -76,7 +76,7 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab07: Modelling course evaluations | <li><a id="LAB7I">Instructions</a></li> <li><a id="LAB7R">Repository</a></li><li><a id="LAB7K">Solutions</a>(<a id="LAB7Kraw">Raw</a>)</li> | Fri, 08 Nov |
+| Lab07: Modelling course evaluations | <li><a id="LAB7I">Instructions</a></li> <li><a id="LAB7R">Repository</a></li><li><a id="LAB7K">Solutions</a>(<a id="LAB7Kraw">Raw</a>)</li> | Friday |
 
 <!---
 | Lab06: 	Conveying the right message through visualisation | <li><a id="LAB5I">Instructions</a></li> <li><a id="LAB5R">Repository</a></li><li><a id="LAB5K">Solutions</a>(<a id="LAB5Kraw">Raw</a>)</li> | Fri, 10 Nov, 16:00 UK |
