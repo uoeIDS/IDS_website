@@ -80,9 +80,13 @@ It is highly recommended that you regularly _commit_ any changes you have made t
 
 In order for you to have the greatest chance of success with this project it is important that you choose a manageable dataset. This means that the data should be readily accessible and large enough that multiple relationships can be explored. 
 
+{{% notice warning %}}
+The list of recommended dataset has been temporarily removed while it gets finalized for this academic year.
+{{% /notice %}}
+
 <!-- Added: start -->
 
-For this, we recommend that you select one of the data sets listed below. Read all of the data descriptions and select **one** that interests you the most:
+<!-- For this, we recommend that you select one of the data sets listed below. Read all of the data descriptions and select **one** that interests you the most:
 
 
 | ID | Link | Description |
@@ -99,7 +103,7 @@ For this, we recommend that you select one of the data sets listed below. Read a
 | 10   | [Link](https://figshare.com/s/b990722d72a26b5bfead) | Bird morphological measurements, Ecology Letters  |
 | 11   | [Link](https://archive.ics.uci.edu/dataset/183/communities+and+crime) | Communities and Crime, UCI  |
 
-It is advised that you select a data set from the list above. However, feel free to search the internet for alternative data sets. Some suggested online data resources can be found at [Kaggle](https://www.kaggle.com), [Scottish Government](https://statistics.gov.scot/data), [Public Health Scotland](https://www.opendata.nhs.scot/dataset), [UK Government](https://www.gov.uk/), [TidyTuesday](https://github.com/rfordatascience/tidytuesday), [World Bank](https://www.worldbank.org/en/home) and [UCI machine learning repository](https://archive.ics.uci.edu/). The dataset you select should have at least 200 rows and a mix of numerical and categorical variables. **Please check with the course organiser or a lecturer as to whether the data you select is feasible for your project**
+It is advised that you select a data set from the list above. However, feel free to search the internet for alternative data sets. Some suggested online data resources can be found at [Kaggle](https://www.kaggle.com), [Scottish Government](https://statistics.gov.scot/data), [Public Health Scotland](https://www.opendata.nhs.scot/dataset), [UK Government](https://www.gov.uk/), [TidyTuesday](https://github.com/rfordatascience/tidytuesday), [World Bank](https://www.worldbank.org/en/home) and [UCI machine learning repository](https://archive.ics.uci.edu/). The dataset you select should have at least 200 rows and a mix of numerical and categorical variables. **Please check with the course organiser or a lecturer as to whether the data you select is feasible for your project** -->
 
 
 <!-- Added: end -->
