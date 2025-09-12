@@ -1,20 +1,20 @@
 ---
 chapter: true
 pre: "<b>5. </b>"
-title: "5. Communicating Data Science Results Effectively"
-menuTitle: "Communicating Data Science Results Effectively"
+title: "5. Doing Data Science & Visualizing Data"
+menuTitle: "Doing Data Science & Visualizing Data"
 weight: 5
 tags: ["week 5", "tasks", "videos", "assignments", "readings", "tutorials"]
-description: "Week 5: Tips for effective data visualization, communication of results, and collaboration."
+description: "Week 5: Tips for effective communication of results, and collaboration. Intro to Data Visualization."
 
 hidden: no
 ---
 
-# Communicating Data Science Results Effectively
+# Doing Data Science & Visualizing Data
 
 _Week 5_
 
-Tips for effective data visualization, communication of results, and collaboration.
+Tips for effective communication of results, and collaboration. Intro to Data Visualization.
 
 ## Lectures
 
@@ -23,7 +23,7 @@ Tips for effective data visualization, communication of results, and collaborati
 | <div style="text-align:center">No.</div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">Slides</div> | <div style="text-align:center">Additional</div> |
 |:---:|:---------------------|:--------:|:------|
 | 09  | Doing Data Science  | <span><a id = "lecture09"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL09">Raw<i class="fab fa-fw fa-github"/></a></span> |
-| 10  | Effective Data Visualisation  | <span><a id = "lecture10"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL10">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 10  | Visualising data  | <span><a id = "lecture10"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL10">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
 <br>
 <p  style="text-align: left"> 
@@ -54,11 +54,11 @@ Lecture recordings are only available for IDS students via the University of Edi
 -->
 |    |    |    |
 |:--:|:---|:--:|
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS7">Chp 7 - Exploratory data analysis</a> | **Required** |
-| <i class="fas fa-book"></i> | IMS: <a id="IMS6">Chp 6 - Applications: Explore</a> | **Required** |
 | <i class="fas fa-book"></i> | IMS: <a id="IMS2">Chp 2 - Study design</a> | **Required** |
 | <i class="fas fa-book"></i> | Tidyverse style guide: <a id="TSG1">Part 1 - Analyses (Chp 1-5)</a> | Optional |
 | <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a id = "YT_MinPhys_SimpsPara">minutephysics: Simpson's Paradox</a> | Optional |
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS3">Chp 3 - Data visualisation</a> | **Required** |
+| <i class="fas fa-book"></i> | Data Visualization: <a id="DV3">Chp 3 - Make a plot</a> | **Required** |
 
 <!--| <i class="fas fa-laptop"></i> | <a href="/assessments/project">Final Project Information</a> | **Required** |-->
 

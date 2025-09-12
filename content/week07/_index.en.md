@@ -1,20 +1,20 @@
 ---
 chapter: true
 pre: "<b>7. </b>"
-title: "7. Programming"
-menuTitle: "Programming"
+title: "7. Ethics"
+menuTitle: "Ethics"
 weight: 7
 tags: ["week 7", "tasks", "videos", "assignments", "readings", "tutorials"]
-description: "Week 7: Harvesting data from the web, writing functions, and iteration."
+description: "Week 7: Misrepresentation of findings, data privacy, and algorithmic bias."
 
 hidden: false
 ---
 
-# Programming
+# Ethics
 
 _Week 7_
 
-Writing custom functions and coding iteration loops.
+Misrepresentation of findings, data privacy, and algorithmic bias.
 
 ## Lectures
 
@@ -22,8 +22,8 @@ Writing custom functions and coding iteration loops.
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | -->
 | <div style="text-align:center">No.</div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">Slides</div> | <div style="text-align:center">Additional</div> |
 |:---:|:---------------------|:--------:|:------|
-| 13  | Programming: Functions  | <span><a id = "lecture13"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL13">Raw<i class="fab fa-fw fa-github"/></a></span> |
-| 14  | Programming: Iterations  | <span><a id = "lecture14"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL14">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 13  | Ethics: Misrepresentation  | <span><a id = "lecture13"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL13">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 14  | Ethics: Bias  | <span><a id = "lecture14"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL14">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
 <br>
 <p  style="text-align: left"> 
@@ -55,18 +55,32 @@ Lecture recordings are only available for IDS students via the University of Edi
 -->
 |    |    |    |
 |:--:|:---|:--:|
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS19">Chp 19 - Functions</a> | **Required** |
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS21">Chp 21 - Iteration</a> | **Required** |
+| <i class="fas fa-book"></i> | MDSR: <a id="MDSR8">Chp 8 - Data science ethics</a> | **Required** |
+| <i class="fab fa-readme"></i> | <a id="EthChal">Ethical challenges in online research: Public/private perceptions</a> | Optional |
+| <i class="fas fa-pen-fancy"></i> | <a id="AUWB">Algorithmic Unfairness Without Any Bias Baked In</a> | Optional |
+
+<p style="text-align: left">
+Below are a number of optional "guest lectures" from YouTube that illustrates why it is important to be aware of ethical issues when doing data science. Note that some videos are about 1 hour long, so we recommend watching as much as of them as you’re interested – they cover highly important topics without being highly technical.</p>
+
+|   |   |
+|:---:|:---------------------|
+|  <a id="W7GL1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> |  *Alberto Cairo - How charts lie*  |
+| <a id="W7GL2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a>  | *The Guardian - Cambridge Analytica whistleblower*|
+| <a id="W7GL3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *Joy Buolamwini - How I’m fighting bias in algorithms* |
+| <a id="W7GL4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *Cathy O’Neil - Weapons of Math Destruction* |
+| <a id="W7GL5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *Safiya Umoja Noble - Imagining a Future Free from the Algorithms of Oppression* |
+| <a id="W7GL6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *Kristian Lum - What’s An Algorithm Got To Do With It* |
+
 
 ## Workshop
 
-<p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
+<p style="text-align: left"> In this week's workshop you will continue to work on your group projects. Further information can be found <a id="projectEND">here</a>.</p>
 
-<!--
-| <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> | --->
+<!-- <p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
+
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab06: Functions and iterations | <li><a id="LAB6I">Instructions</a></li> <li><a id="LAB6R">Repository</a></li><li><a id="LAB6K">Solutions</a>(<a id="LAB6Kraw">Raw</a>)</li> | Fri, 01 Nov  |
+| Lab06: Functions and iterations | <li><a id="LAB6I">Instructions</a></li> <li><a id="LAB6R">Repository</a></li><li><a id="LAB6K">Solutions</a>(<a id="LAB6Kraw">Raw</a>)</li> | Fri, 01 Nov  | -->
 
 <!--
 | Project: Proposal |<li><a id="project_1">Instructions</a></li> <li><a id="projectR">Repository</a></li>| Fri, 28 Oct  |

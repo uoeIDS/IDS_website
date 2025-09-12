@@ -1,21 +1,21 @@
 ---
 chapter: true
 pre: "<b>6. </b>"
-title: "6. Ethics"
-menuTitle: "Ethics"
+title: "6. Visualizing Data"
+menuTitle: "Visualizing Data"
 weight: 6
 tags: ["week 6", "tasks", "videos", "assignments", "readings", "tutorials"]
-description: "Week 6: Misrepresentation of findings, data privacy, and algorithmic bias."
+description: "Week 6: Data visualization (part 2), interpretation of graphical information and tips for effective data visualization."
 
 
 hidden: false
 ---
   
-  # Ethics
+  # Visualizing Data
   
   _Week 6_
 
-Misrepresentation of findings, data privacy and biases.
+Data visualization (part 2), interpretation of graphical information and tips for effective data visualization.
 
 ## Lectures
 
@@ -23,8 +23,8 @@ Misrepresentation of findings, data privacy and biases.
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | -->
 | <div style="text-align:center">No.</div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">Slides</div> | <div style="text-align:center">Additional</div> |
 |:---:|:---------------------|:--------:|:------|
-  | 11  | Ethics: Misrepresentation  | <span><a id = "lecture11"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL11">Raw<i class="fab fa-fw fa-github"/></a></span> |
-  | 12  | Ethics: Bias  | <span><a id = "lecture12"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL12">Raw<i class="fab fa-fw fa-github"/></a></span> |
+  | 11  | Types of visualisations | <span><a id = "lecture11"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL11">Raw<i class="fab fa-fw fa-github"/></a></span> |
+  | 12  | Effective Data Visualisation  | <span><a id = "lecture12"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL12">Raw<i class="fab fa-fw fa-github"/></a></span> |
   
   <br>
 <p  style="text-align: left"> 
@@ -56,34 +56,22 @@ Lecture recordings are only available for IDS students via the University of Edi
 -->
 |    |    |    |
 |:--:|:---|:--:|
-| <i class="fas fa-book"></i> | MDSR: <a id="MDSR8">Chp 8 - Data science ethics</a> | **Required** |
-| <i class="fab fa-readme"></i> | <a id="EthChal">Ethical challenges in online research: Public/private perceptions</a> | Optional |
-| <i class="fas fa-pen-fancy"></i> | <a id="AUWB">Algorithmic Unfairness Without Any Bias Baked In</a> | Optional |
-
-<p style="text-align: left">
-Below are a number of optional "guest lectures" from YouTube that illustrates why it is important to be aware of ethical issues when doing data science. Note that some videos are about 1 hour long, so we recommend watching as much as of them as you’re interested – they cover highly important topics without being highly technical.</p>
-
-<!--
-| <div style="width:50px"></div>  | <div style="width:420px"></div>  |
--->
-
-|   |   |
-|:---:|:---------------------|
-|  <a id="W7GL1YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | 	*Alberto Cairo - How charts lie*  |
-| <a id="W7GL2YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a>  | *The Guardian - Cambridge Analytica whistleblower*|
-| <a id="W7GL3YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *Joy Buolamwini - How I’m fighting bias in algorithms* |
-| <a id="W7GL4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *Cathy O’Neil - Weapons of Math Destruction* |
-| <a id="W7GL5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *Safiya Umoja Noble - Imagining a Future Free from the Algorithms of Oppression* |
-| <a id="W7GL6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *Kristian Lum - What’s An Algorithm Got To Do With It* |
-
-
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS7">Chp 7 - Exploratory data analysis</a> | **Required** |
+| <i class="fas fa-book"></i> | IMS: <a id="IMS6">Chp 6 - Applications: Explore</a> | **Required** |
+| <i class="fab fa-readme"></i> | <a id="LayeredGG">A Layered Grammar of Graphics</a> | Optional |
 
 
 ## Workshop
 
-<p style="text-align: left"> In this week's workshop you will continue to work on your group projects. Further information can be found <a id="projectEND">here</a>.</p>
+<p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
 
-<p style="text-align: left"> During the workshop you will have your first 'check-in' with a tutor. You should demonstrate that you have a basic understanding of the data you have selected and have made initial steps in cleaning, summarising and visualising your data. We will be looking to understand whether you have a clear problem statement and that you have a plan as to how you would explore the data to answer your statement.</p>
+<!--
+| <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |--->
+| <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
+|:---|:---|:---|
+| Lab03: Take a sad plot and make it better | <li><a id="LAB3I">Instructions</a></li> <li><a id="LAB3R">Repository</a></li><li><a id="LAB3K">Solutions</a>(<a id="LAB3Kraw">Raw</a>)</li> | Fri, 11 Oct |
+
+<p style="text-align: left"> During the workshop you will have your first project 'check-in' with a tutor. You should demonstrate that you have a basic understanding of the data you have selected and have made initial steps in cleaning, summarising and visualising your data. We will be looking to understand whether you have a clear problem statement and that you have a plan as to how you would explore the data to answer your statement.</p>
 
 
 <!---

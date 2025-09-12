@@ -4,6 +4,7 @@
 // Webpage Links ---------------------------------------------------------------------------------------------------
 try {document.getElementById('assessments').href = "/assessments";} catch { };		// link to the assessments page
 try {document.getElementById('homework').href = "/assessments/homework";} catch { };		// link to the homework page
+try {document.getElementById('inclasstest').href = "/assessments/inclasstest";} catch { };		// link to the inclasstest page
 try {document.getElementById('errata').href = "/errata";} catch { };
 try {document.getElementById('components').href = "/components";} catch { };		// link to the help page
 try {document.getElementById('help').href = "/help";} catch { };					// link to the help page

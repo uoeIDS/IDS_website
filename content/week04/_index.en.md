@@ -1,23 +1,22 @@
 ---
 chapter: true
 pre: "<b>4. </b>"
-title: "4. Visualizing Data"
-menuTitle: "Visualizing Data"
+title: "4. Uncertainty quantification"
+menuTitle: "Uncertainty quantification"
 weight: 4
 tags: ["week 4", "tasks", "videos", "assignments", "readings", "tutorials"]
-description: "Week 4: Data visualization and interpretation of graphical information."
+description: "Week 4: Uncertainty quantification and hypothesis testing with bootstrap."
 
 hidden: no
 ---
   <!-- set 'hidden: true' to hide content, or 'hidden: no' to show-->
   
   
-  # Visualizing Data
+  # Uncertainty quantification
   
   _Week 4_
 
-Data visualization and interpretation of graphical information.
-
+Uncertainty quantification and hypothesis testing with bootstrap.
 
 ## Lectures
 
@@ -25,8 +24,12 @@ Data visualization and interpretation of graphical information.
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | -->
 | <div style="text-align:center">No.</div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">Slides</div> | <div style="text-align:center">Additional</div> |
 |:---:|:---------------------|:--------:|:------|
-  | 07  | Visualising data | <span><a id = "lecture07"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL07">Raw<i class="fab fa-fw fa-github"/></a></span> |
-  | 08  | Types of visualisations | <span><a id = "lecture08"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL08">Raw<i class="fab fa-fw fa-github"/></a></span> |
+  | 07  | Uncertainty Quantification | <span><a id = "lecture07"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL07">Raw<i class="fab fa-fw fa-github"/></a></span> |
+  | 08  | Hypothesis testing | <span><a id = "lecture08"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL08">Raw<i class="fab fa-fw fa-github"/></a></span> |
+
+{{% notice warning %}}
+The in-class test will take place this week, during the Wednesday lecture.
+{{% /notice %}}
   
 <br>
 <p  style="text-align: left"> 
@@ -75,13 +78,21 @@ If you have not completed the <em>first time setup instructions</em> found on th
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
 -->
-|    |    |    |
+
+{{% notice warning %}}
+The reading list for this week is currently under construction.
+{{% /notice %}}
+
+<!-- NOTE: uncomment the following 7 lines to recreate the table -->
+<!-- |    |    |    |
 |:--:|:---|:--:|
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS3">Chp 3 - Data visualisation</a> | **Required** |
 | <i class="fas fa-book"></i> | Data Visualization: <a id="DV3">Chp 3 - Make a plot</a> | **Required** |
 | <i class="fab fa-readme"></i> | <a id="LayeredGG">A Layered Grammar of Graphics</a> | Optional |
 | <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a id = "YT_BBC_Joy">BBC: The Joy of Stats</a> | Optional |
-| <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a id = "YT_TedEd_Missrepresentation">TedEd: How to spot a misleading graph</a> | Optional |
+| <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a id = "YT_TedEd_Missrepresentation">TedEd: How to spot a misleading graph</a> | Optional | -->
+
+
 <!--| <i class="fas fa-chart-bar"></i> | <a id="wealth">Wealth Shown to Scale</a> | Optional |-->
 <!--| <i class="fas fa-chart-bar"></i> | <a id="COVIDvis">COVID-19 Data Visualisations</a> | Optional |-->
 <!--| <i class="fas fa-chart-bar"></i> | <a id="COVIDsymptom">COVID-19 Search Trends</a> | Optional |-->
@@ -96,16 +107,19 @@ If you have not completed the <em>first time setup instructions</em> found on th
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |--->
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab03: Take a sad plot and make it better | <li><a id="LAB3I">Instructions</a></li> <li><a id="LAB3R">Repository</a></li><li><a id="LAB3K">Solutions</a>(<a id="LAB3Kraw">Raw</a>)</li> | Fri, 11 Oct |
+| Lab03: TBD | <li><a id="LAB3I">Instructions</a></li> <li><a id="LAB3R">Repository</a></li><li><a id="LAB3K">Solutions</a>(<a id="LAB3Kraw">Raw</a>)</li> | Fri, 11 Oct |
 
 
-## Assignment
+## In-class test
+
+<span><p style="text-align: left"> The in-class test (`inclass-test-A`) will take place this week, during the Wednesday lecture. You can find more information about the assignment <a id="inclasstest">here</a>.</p></span>
+
+<!-- ## Assignment
 
 <span><p style="text-align: left"> The first homework assignment (`hw-01`) is due by the end of this week. You will find more information about the assignment <a id="homework">here</a>.</p></span>
 
 <p style="text-align: left">If you are having difficulty accessing your homework or lab repository, see troubleshooting advice <a id="troubleshoot">here</a>.</p>
-
-
+ -->
 
 <!--
 ## Assignments
@@ -118,7 +132,6 @@ If you have not completed the <em>first time setup instructions</em> found on th
 | OQ01: Data visualization | <li><a id="OQ1">Quiz</a></li> | Mon, 03 Oct, 12:00 UK |
 
 
-<!--
 ## Code-along
 
 <p style="text-align: left"> Recordings and files from Thursday's code-along.</p>
@@ -144,7 +157,7 @@ If you have not completed the <em>first time setup instructions</em> found on th
 |:---|:---|
 | <a id="RT1">Data Visualization Basics</a> | Extra practice |
 | <a id="AE2">Application exercise 2 - Star Wars</a> | Help: <a id="OpeningaProject">Opening a Project</a> |
-<!-- | <a id="RT2">Airbnb Listings in Edinburgh</a> | Extra practice | -->
+| <a id="RT2">Airbnb Listings in Edinburgh</a> | Extra practice | -->
 
 
 
