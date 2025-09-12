@@ -640,7 +640,7 @@ try {document.getElementById("UCI").href = "https://archive.ics.uci.edu/ml/index
 
 
 try {document.getElementById("MailOzan").href = "mailto:oevkaya@ed.ac.uk";} catch { };
-try {document.getElementById("OzanWeb").href = "https://ozanevkaya.netlify.app/";} catch { };
+try {document.getElementById("OzanWeb").href = "https://oevkaya.netlify.app/home";} catch { };
 
 try {document.getElementById("MailCecilia").href = "mailto:cecilia.balocchi@ed.ac.uk";} catch { };
 try {document.getElementById("CeciliaWeb").href = "https://cecilia-balocchi.owlstown.net/";} catch { };
