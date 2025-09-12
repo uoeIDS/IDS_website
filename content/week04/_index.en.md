@@ -79,7 +79,7 @@ If you have not completed the <em>first time setup instructions</em> found on th
 |:---:|:---|:---:|
 -->
 
-{{% notice warning %}}
+{{% notice info %}}
 The reading list for this week is currently under construction.
 {{% /notice %}}
 
