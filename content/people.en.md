@@ -73,7 +73,7 @@ title: People
   </div>
   <div class="column_large">
     <p style="text-align: left; font-size: 1vw; overflow:hidden;">Office 2257, James Clerk Maxwell Building, King's Buildings Campus</p>
-    <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;"><em>My pronouns are he/him.</em>  I am University Teacher in Statistics at the School of Mathematics, at the University of Edinburgh, and a part-time lecturer TED University. Previously, I held postdoc positions at Padova University (2021) and KU Leuven (2020), after completing my PhD at Middle East Technical University in 2018. I am very interested in using statistical modelling to help people solve real-life problems - a crucial part of that is being able to extract the key messages from datasets and communicate those to non-statisticians!</p>
+    <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;"><em>My pronouns are he/him.</em>  I am Lecturer in Statistics at the School of Mathematics, at the University of Edinburgh, and a part-time lecturer TED University. Previously, I held postdoc positions at Padova University (2021) and KU Leuven (2020), after completing my PhD at Middle East Technical University in 2018. I am very interested in using statistical modelling to help people solve real-life problems - a crucial part of that is being able to extract the key messages from datasets and communicate those to non-statisticians!</p>
   </div>
 </div>
 
