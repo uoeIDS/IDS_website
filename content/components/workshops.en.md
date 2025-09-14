@@ -24,9 +24,9 @@ You are expected to bring a laptop to the workshops. Please read the school's [T
 
 During the workshops you will work in  __teams__ of 5 or 6 students on computing lab exercises. You can meet up with your team later to complete anything that you didn't manage to finish during the workshop. 
 
-{{% notice note %}}
+<!-- {{% notice note %}}
 For the allocation of teams for group projects, working as teams of 5 or 6 during workshops will be an important asses for all. Detailed allocations will be announced during the semester via Learn page, when it is necessary.
-{{% /notice %}}
+{{% /notice %}} -->
 
 {{% notice tip %}}
 Set up weekly team meetings between Friday and Tuesday.
@@ -38,8 +38,18 @@ Set up weekly team meetings between Friday and Tuesday.
 To take part in workshops you will need to first set up your GitHub account, download and install R and RStudio and link RStudio to your GitHub account. Instructions to do this are given in the <a id="troubleshoot">Setup & Troubleshooting</a> page.
 {{% /notice %}}
 
-A frequently asked question is “What happens if I can’t make my workshop time?” 
+**A frequently asked question is “What happens if I can’t make my workshop time?”**
 
-If you have another obligation every week at the time of your workshop, you should change into another group. You can change your allocated timetable slot on MyEd, by clicking on "Studies", and "Change tutorial, workshop or lab group". This will then be changed by the timetabling team. If you can’t make any of the times of the workshops, you should drop this class.
+If you have another obligation every week at the time of your workshop, you should change into another group. 
+To do this, you can use the new, self-service, Self-Change System which has been introduced in the University’s new Timetabling system, Timetabler. This allows you to reschedule group activities—such as tutorials, workshops and labs—when they conflict with other timetabled events.
+
+To make a change, go to Timetabler and open MyGroups. Use Self Change to move to an alternative group where space is available, or submit a change request for the event from that page if no suitable slot appears. The Self Change system will be open until the end of Week 3. Please note that availability depends on capacity and course requirements, so not all moves will be possible to facilitate.
+
+Video instructions how to use Self Change system can be found [here](https://registryservices.ed.ac.uk/timetabling-examinations/timetabling/continuous-improvement-and-systems/timetablingsystems/timetabling-applications/eventmap-timetabler/timetabler).
+
+ 
+
+
+<!-- You can change your allocated timetable slot on MyEd, by clicking on "Studies", and "Change tutorial, workshop or lab group". This will then be changed by the timetabling team. If you can’t make any of the times of the workshops, you should drop this class.
 <img src="/images/assessments/change_tutorial.png"/>
-
+ -->
