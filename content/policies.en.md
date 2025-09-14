@@ -10,30 +10,34 @@ Cheating or plagiarising on assignments, lying about an illness or absence and o
 
 ### Gen-AI University Guidance 
 
-The University strategy is to embrace curiosity and to pursue knowledge. As one of the first to teach and research in the field of Artificial Intelligence over 60 years ago we have set an ambition to be a global leader in Artificial Intelligence (AI) with integrity.
+Please read the <a id="Gen-AI">Gen-AI guidance for students</a>.
 
-There is currently a lot of interest in generative AI systems. ChatGPT (by OpenAI) is just one example, but there are others (such as DALLE-2, CoPilot, and Google Bard). It is an exciting area and naturally we want to explore what it can do and learn how to make use of it. 
+The University trusts you to act with integrity in your use of generative AI for your studies. It does not ban the use of generative AI, though its use is restricted for assessment.
 
-The University position is **not to impose a blanket restriction on the use of generative AI, but rather to**: 
+In contains general guidelines that describe: 
+- *unacceptable uses of generative AI for assessment*; however, please check also the specific guidelines below for the use of Gen-AI in this course's assignments;
+- *possible uses of generative AI to support your learning*;
+- *reasons to be cautious about your use of generative AI*;
+- *how to acknowledge your use of AI*.
 
-- Emphasise the expectation that assignments should contain students’ own original work; 
-- Highlight the limitations of generative AI and the dangers of relying on it as a source of information; 
-- Emphasise the need to acknowledge the use of generative AI where it is (permitted to be) used. 
+### Use of Gen-AI for IDS assignments
 
-Please check out the <a id="Gen-AI">Gen-AI guidance for students</a> for further details.
+This is the expectation for the IDS course assignments (in-class test, homework, quizzes, and final project).
 
-#### Use of Gen-AI for IDS assignments
+*Academic integrity is an underlying principle of research and academic practice. All submitted work is expected to be your own.*
 
-This is the expectation for the IDS course assignments (homework, quizzes, and final project).
+**In-class test, homework and quizzes**:
+- AI tools (e.g., chatGPT, ELM) should not be used for this assessment. Using AI without authorisation might constitute academic misconduct.
+- Please ensure that you do not input direct exercise questions into the AI prompts.
 
-Homework and quizzes:
-- You cannot use GenAI tools to help with substantive parts of this work (e.g. not to help with your coding). Please ensure that you do not input direct exercise questions into the AI prompts.
+**Final Project**:
+- AI tools (e.g., chatGPT, ELM) should not be used to generate content for this assessment. However, you are allowed to use these tools to identify ideas, help organize your thoughts, and plan your assessment. 
+- You may also use it to improve the clarity of your writing, but you should not use it in the final wording of your work. In particular, you should not copy-paste entire sentences produced by genAI. 
+- For example, you may use genAI tools for learning purposes, to enhance your understanding and develop your skills independently, similar to how you would use search engines to research information, or as a virtual tutor. 
+- Be aware that relying on GenAI tools for coding or simply copy-pasting their output will limit your ability to really learn and develop your coding skills. If you used a GenAI tool to get help with a coding task, make sure you type out the solution (after having fully understood what it does) instead of copy-pasting the output.
+- If you use AI software, you must acknowledge its use in your submission. [Here](https://www.ncl.ac.uk/academic-skills-kit/good-academic-practice/artificial-intelligence/acknowledging/) you can find some examples of how to acknowledge genAI use (note that you don't need to list the prompts and outputs used). 
 
-Final Project: 
-- You may use generative AI tools for learning purposes, to enhance your understanding and develop your skills independently, similar to how you would use search engines to research information.  Avoid copy-pasting genAI output<sup>1</sup>.
-- You may use GenAI tools to help you organize your thoughts particularly in preparing your writing, but you should not use it in the final wording of your work. In particular, you should not copy-paste entire sentences produced by genAI.
 
-<sup>1</sup> Be aware that relying on GenAI tools for coding or simply copy-pasting their output will limit your ability to really learn and develop your coding skills. If you used a GenAI tool to perform a coding task, make sure you type out the solution (after having fully understood what it does) instead of copy-pasting the output.
 
 ### Collaboration policy
 
