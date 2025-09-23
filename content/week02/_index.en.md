@@ -65,6 +65,7 @@ If you have not completed the <em>first time setup instructions</em> found on th
 |    |    |    |
 |:--:|:---|:--:|
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS4">Chp 4 - Workflow: basics</a> | Optional |
+| <i class="fas fa-book"></i> | tidy_main: <a id="tidy_main">Tidy data</a> | Optional |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS5">Chp 5 - Data transformation</a> | **Required** |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS15">Chp 15 - Factors</a> | **Required** |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS16">Chp 16 - Dates and times</a> | **Required** |
