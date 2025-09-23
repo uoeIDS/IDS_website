@@ -480,6 +480,7 @@ try {document.getElementById("nhsr").href = "https://nhsrcommunity.com/blog/how-
 
 // Wk2
 try {document.getElementById("tidydata").href = "http://www.jstatsoft.org/v59/i10/paper";} catch { };		// Jstatsoft paper
+try {document.getElementById("tidy_main").href = "https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html";} catch { };
 
 
 // Wk3
