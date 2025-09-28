@@ -78,7 +78,7 @@ Lecture recordings are only available for IDS students via the University of Edi
 |:---|:---|:---|
 | Lab02: Plastic Wasting | <li><a id="LAB2I">Instructions</a></li> <li><a id="LAB2R">Repository</a></li><li><a id="LAB2K">Solutions</a>(<a id="LAB2Kraw">Raw</a>)</li> |  Friday  |
 
-
+<!--
 ## Assignment
 
 <span><p style="text-align: left">The first homework assignment (`hw-01`) will become available this week, which needs to be completed and submitted next week. You will find more information about the assignment <a id="homework">here</a>.</p></span>
