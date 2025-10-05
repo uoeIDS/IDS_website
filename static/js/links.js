@@ -845,8 +845,8 @@ try {DateRestrictLink(document.getElementById("lecture07"), "06 October 2025", "
 try {DateRestrictLink(document.getElementById("GHL07"), "06 October 2025", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w04-L07");} catch { };
 //try {DateRestrictLink(document.getElementById("MHL07"), "11 October 2023", "https://echo360.org.uk/lesson/ae0e832a-1ae1-45de-bd5c-645a7f9a874d/classroom#sortDirection=desc");} catch { };
 
-try {DateRestrictLink(document.getElementById("lecture08"), "06 October 2025", "https://uoeids.github.io/slides/w04-L08/w04-L08.html");} catch { };
-try {DateRestrictLink(document.getElementById("GHL08"), "06 October 2025", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w04-L08");} catch { };
+try {DateRestrictLink(document.getElementById("lecture08"), "08 October 2025", "https://uoeids.github.io/slides/w04-L08/w04-L08.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL08"), "08 October 2025", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w04-L08");} catch { };
 //try {DateRestrictLink(document.getElementById("MHL08"), "13 October 2023", "https://echo360.org.uk/lesson/02a4a49d-3c14-40eb-a737-f0c8b9620409/classroom#sortDirection=desc");} catch { };
 // try {DateRestrictLink(document.getElementById("MHL08extra"), "13 October 2023", "https://ed-ac-uk.zoom.us/rec/play/8z7tvGas9rPb3zjlec2yySdB0lPuCxbTzI0vKWT3fI-LRjfvHjyemcBdk_toxMEYWNcqdL6PgC8mR656.OZmjFlaNW-7s5dhG");} catch { };
 
