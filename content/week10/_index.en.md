@@ -1,20 +1,20 @@
 ---
 chapter: true
 pre: "<b>10. </b>"
-title: "10. Model Validation and Uncertainty Quantification"
-menuTitle: "Model Validation and Uncertainty Quantification"
+title: "10. Model Validation"
+menuTitle: "Model Validation"
 weight: 10
 tags: ["week 10", "tasks", "videos", "assignments", "readings", "tutorials"]
-description: "Week 10: Evaluating models with cross validation and uncertainty quantification with bootstrap confidence intervals."
+description: "Week 10: Evaluating models with cross validation and further topics in modeling."
 
 hidden: false
 ---
 
-# Model Validation and Uncertainty Quantification
+# Model Validation
 
 _Week 10_
 
-Evaluating models with cross validation and uncertainty quantification with bootstrap confidence intervals.
+Evaluating models with cross validation and further topics in modeling.
 
 ## Lectures
 
@@ -23,7 +23,7 @@ Evaluating models with cross validation and uncertainty quantification with boot
 | <div style="text-align:center">No.</div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">Slides</div> | <div style="text-align:center">Additional</div> |
 |:---:|:---------------------|:--------:|:------|
 | 19  | Cross Validation  | <span><a id = "lecture19"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL19">Raw<i class="fab fa-fw fa-github"/></a></span> |
-| 20  | Uncertainty Quantification  | <span><a id = "lecture20"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL20">Raw<i class="fab fa-fw fa-github"/></a></span> |
+| 20  | TBA  | <span><a id = "lecture20"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL20">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
 <br>
 <p  style="text-align: left"> 
@@ -55,7 +55,6 @@ Lecture recordings are only available for IDS students via the University of Edi
 |    |    |    |
 |:--:|:---|:--:|
 | <i class="fab fa-readme"></i> | tidymodels: <a id="TMER">Evaluate your model with resampling</a> | **Required** |
-| <i class="fas fa-book"></i> | IMS: <a id="IMS12">Chp 12 - Confidence intervals with bootstrapping</a> | **Required** |
 
 ## Workshop
 
