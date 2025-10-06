@@ -500,6 +500,7 @@ try {document.getElementById("YT_TedEd_Missrepresentation").href = "https://www.
 try {document.getElementById("MD7").href = "https://moderndive.com/7-sampling.html";} catch { };		
 try {document.getElementById("MD8").href = "https://moderndive.com/8-confidence-intervals.html";} catch { };		
 try {document.getElementById("ISM3").href = "https://bookdown.org/dereksonderegger/570/3-confidence-intervals-via-bootstrapping.html";} catch { };		
+try {document.getElementById("StatQuest_bootstrap").href = "https://www.youtube.com/watch?v=Xz0x-8-cgaQ";} catch { };		
 
 // Wk5
 try {document.getElementById("TSG1").href = "https://style.tidyverse.org/files.html";} catch { };		// Tidyverse style
