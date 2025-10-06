@@ -471,6 +471,7 @@ try {document.getElementById("IMS25").href = "https://openintro-ims.netlify.app/
 try {document.getElementById("IMS26").href = "https://openintro-ims.netlify.app/inf-model-logistic";} catch { };  
 try {document.getElementById("IMS27").href = "https://openintro-ims.netlify.app/inf-model-applications";} catch { };  
 
+
 // Wk1 reading
 try {document.getElementById("RGit").href = "https://happygitwithr.com/";} catch { };
 try {document.getElementById("NatRepro").href = "https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970";} catch { };
@@ -486,7 +487,6 @@ try {document.getElementById("tidy_main").href = "https://cran.r-project.org/web
 // Wk3
 try {document.getElementById("YT_Computerphile_time").href = "https://www.youtube.com/watch?v=-5wpm-gesOY";} catch { };
 
-
 // Wk4
 try {document.getElementById("DV3").href = "https://socviz.co/makeplot.html";} catch { };		// Data Visualisation: Chapter 3
 try {document.getElementById("LayeredGG").href = "http://vita.had.co.nz/papers/layered-grammar.pdf";} catch { };
@@ -495,6 +495,11 @@ try {document.getElementById("YT_TedEd_Missrepresentation").href = "https://www.
 //try {document.getElementById("COVIDvis").href = "https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/";} catch { };
 //try {document.getElementById("COVIDsymptom").href = "https://pair-code.github.io/covid19_symptom_dataset/?date=2020-09-07&country=GB";} catch { };
 //try {document.getElementById("wealth").href = "https://mkorostoff.github.io/1-pixel-wealth/";} catch { };
+
+//--ModernDive Online Book (week 4)
+try {document.getElementById("MD7").href = "https://moderndive.com/7-sampling.html";} catch { };		
+try {document.getElementById("MD8").href = "https://moderndive.com/8-confidence-intervals.html";} catch { };		
+try {document.getElementById("ISM3").href = "https://bookdown.org/dereksonderegger/570/3-confidence-intervals-via-bootstrapping.html";} catch { };		
 
 // Wk5
 try {document.getElementById("TSG1").href = "https://style.tidyverse.org/files.html";} catch { };		// Tidyverse style

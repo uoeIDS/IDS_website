@@ -79,19 +79,15 @@ If you have not completed the <em>first time setup instructions</em> found on th
 |:---:|:---|:---:|
 -->
 
-{{% notice info %}}
-The reading list for this week is currently under construction.
-{{% /notice %}}
-
-<!-- NOTE: uncomment the following 7 lines to recreate the table -->
-<!-- |    |    |    |
+|    |    |    |
 |:--:|:---|:--:|
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS3">Chp 3 - Data visualisation</a> | **Required** |
-| <i class="fas fa-book"></i> | Data Visualization: <a id="DV3">Chp 3 - Make a plot</a> | **Required** |
-| <i class="fab fa-readme"></i> | <a id="LayeredGG">A Layered Grammar of Graphics</a> | Optional |
-| <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a id = "YT_BBC_Joy">BBC: The Joy of Stats</a> | Optional |
-| <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a id = "YT_TedEd_Missrepresentation">TedEd: How to spot a misleading graph</a> | Optional | -->
+| <i class="fas fa-book"></i> | IMS: <a id="IMS12">Chp 12 - Confidence intervals with bootstrapping</a> | **Required** |
+| <i class="fas fa-book"></i> | ModernDive: <a id="MD7">Chp 7 - Sampling</a> | Optional |
+| <i class="fas fa-book"></i> | ModernDive: <a id="MD8">Chp 8 - Bootstrapping and Confidence Intervals</a> | Optional |
+| <i class="fas fa-book"></i> | ISM: <a id="ISM3">Chp 3 - Confidence intervals via Bootstrapping</a> | Optional |
 
+
+**Note**: the ModernDive chapters are a longer read, but contains some useful details on how to use `tidyverse` for bootstrapping, so if you want to read more on the topic, we recommend you focus on Chapters 8.4.2, 8.4.3 and 8.5. Also, please note that the code examples in <a id="ISM3">Chapter 3 from ISM</a> rely on R packages different from the ones shown in class.
 
 <!--| <i class="fas fa-chart-bar"></i> | <a id="wealth">Wealth Shown to Scale</a> | Optional |-->
 <!--| <i class="fas fa-chart-bar"></i> | <a id="COVIDvis">COVID-19 Data Visualisations</a> | Optional |-->
