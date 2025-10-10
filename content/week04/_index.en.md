@@ -25,7 +25,9 @@ Uncertainty quantification and hypothesis testing with bootstrap.
 | <div style="text-align:center">No.</div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">Slides</div> | <div style="text-align:center">Additional</div> |
 |:---:|:---------------------|:--------:|:------|
   | 07  | Uncertainty Quantification | <span><a id = "lecture07"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL07">Raw<i class="fab fa-fw fa-github"/></a></span> |
-  | 08  | Hypothesis testing | <span><a id = "lecture08"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL08">Raw<i class="fab fa-fw fa-github"/></a></span> |
+  <!-- | 08  | Hypothesis testing | <span><a id = "lecture08"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL08">Raw<i class="fab fa-fw fa-github"/></a></span> | -->
+
+  <!-- IMPORTANT NOTE: uncomment the previous line if you want to bring back the table to its original two-row format (one of each lecture). It was removed because in 2025 we had an inclass test on Wednesday and we did not cover any slide material. -->
 
 {{% notice warning %}}
 The in-class test will take place this week, during the Wednesday lecture.
