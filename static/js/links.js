@@ -471,6 +471,9 @@ try {document.getElementById("IMS25").href = "https://openintro-ims.netlify.app/
 try {document.getElementById("IMS26").href = "https://openintro-ims.netlify.app/inf-model-logistic";} catch { };  
 try {document.getElementById("IMS27").href = "https://openintro-ims.netlify.app/inf-model-applications";} catch { };  
 
+// RSS Data Viz Guidance
+try {document.getElementById("RSS_WhyDataViz").href = "https://royal-statistical-society.github.io/datavisguide/docs/why-visualise.html";} catch { };  
+
 
 // Wk1 reading
 try {document.getElementById("RGit").href = "https://happygitwithr.com/";} catch { };
