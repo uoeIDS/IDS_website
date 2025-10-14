@@ -59,7 +59,7 @@ Lecture recordings are only available for IDS students via the University of Edi
 | <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a id = "YT_MinPhys_SimpsPara">minutephysics: Simpson's Paradox</a> | Optional |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS3">Chp 3 - Data visualisation</a> | **Required** |
 | <i class="fas fa-book"></i> | Data Visualization: <a id="DV3">Chp 3 - Make a plot</a> | **Required** |
-| <i class="fas fa-book"></i> | RSS Guide: <a id="RSS_WhyDataViz">Chp 3 - Why we visualise data</a> | Optional |
+| <i class="fas fa-book"></i> | RSS Guide: <a id="RSS_WhyDataViz">Why we visualise data</a> | Optional |
 
 <!--| <i class="fas fa-laptop"></i> | <a href="/assessments/project">Final Project Information</a> | **Required** |-->
 
