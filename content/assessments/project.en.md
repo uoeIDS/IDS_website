@@ -80,13 +80,13 @@ It is highly recommended that you regularly _commit_ any changes you have made t
 
 In order for you to have the greatest chance of success with this project it is important that you choose a manageable dataset. This means that the data should be readily accessible and large enough that multiple relationships can be explored. 
 
-{{% notice warning %}}
+<!-- {{% notice warning %}}
 The list of recommended dataset has been temporarily removed while it gets finalized for this academic year.
-{{% /notice %}}
+{{% /notice %}} -->
 
 <!-- Added: start -->
 
-<!-- For this, we recommend that you select one of the data sets listed below. Read all of the data descriptions and select **one** that interests you the most:
+For this, we recommend that you select one of the data sets listed below. Read all of the data descriptions and select **one** that interests you the most:
 
 
 | ID | Link | Description |
@@ -95,15 +95,18 @@ The list of recommended dataset has been temporarily removed while it gets final
 | 02   | [Link](https://www.opendata.nhs.scot/dataset/scottish-heart-disease-statistics) | Scottish heart disease statistics, Public Health Scotland |
 | 03   | [Link](https://www.opendata.nhs.scot/dataset/mental-health-inpatient-activity) | Mental health inpatient activity, Public Health Scotland |
 | 04   | [Link](https://www.scottishairquality.scot/data/data-selector) | Data on air pollutants in Scottish cities, Air Quality Scotland |
-| 05   | [Link](https://ssd.jpl.nasa.gov/tools/sbdb_query.html) | Small-Body Database of asteroids and comets, NASA |
+<!-- | 05   | [Link](https://ssd.jpl.nasa.gov/tools/sbdb_query.html) | Small-Body Database of asteroids and comets, NASA | -->
+| 05   | [Link](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) | House Prices, Kaggle |
 | 06   | [Link](https://www.ncdc.noaa.gov/cdo-web/search) | Precipitation and temperature measurements, National Centers for Environmental Information |
 | 07   | [Link](https://www.gov.uk/government/statistics/offender-management-statistics-quarterly-january-to-march-2023 ) | Prisoner population statistics (England & Wales), GOV.UK |
-| 08   | [Link](https://www.kaggle.com/datasets/mlandry/formula-e-championship) | Formula E championship data, Kaggle |
-| 09   | [Link](https://www.kaggle.com/datasets/gyanprakashkushwaha/laptop-price-prediction-cleaned-dataset ) | Laptop prices, Kaggle |
+<!-- | 08   | [Link](https://www.kaggle.com/datasets/mlandry/formula-e-championship) | Formula E championship data, Kaggle | -->
+<!-- | 09   | [Link](https://www.kaggle.com/datasets/gyanprakashkushwaha/laptop-price-prediction-cleaned-dataset ) | Laptop prices, Kaggle | -->
+| 08   | [Link](https://www.oecd.org/en/data/datasets/pisa-2022-database.html), [R package learningtower](https://cran.r-project.org/web/packages/learningtower/index.html) | PISA (Programme for International Student Assessment), OECD |
+| 09   | [Link](https://www.cdc.gov/nchs/nhanes/index.html), [R package NHANES](https://cran.r-project.org/web/packages/NHANES/index.html) | NHANES, CDC |
 | 10   | [Link](https://figshare.com/s/b990722d72a26b5bfead) | Bird morphological measurements, Ecology Letters  |
 | 11   | [Link](https://archive.ics.uci.edu/dataset/183/communities+and+crime) | Communities and Crime, UCI  |
 
-It is advised that you select a data set from the list above. However, feel free to search the internet for alternative data sets. Some suggested online data resources can be found at [Kaggle](https://www.kaggle.com), [Scottish Government](https://statistics.gov.scot/data), [Public Health Scotland](https://www.opendata.nhs.scot/dataset), [UK Government](https://www.gov.uk/), [TidyTuesday](https://github.com/rfordatascience/tidytuesday), [World Bank](https://www.worldbank.org/en/home) and [UCI machine learning repository](https://archive.ics.uci.edu/). The dataset you select should have at least 200 rows and a mix of numerical and categorical variables. **Please check with the course organiser or a lecturer as to whether the data you select is feasible for your project** -->
+It is advised that you select a data set from the list above. However, feel free to search the internet for alternative data sets. Some suggested online data resources can be found at [Kaggle](https://www.kaggle.com), [Scottish Government](https://statistics.gov.scot/data), [Public Health Scotland](https://www.opendata.nhs.scot/dataset), [UK Government](https://www.gov.uk/), [TidyTuesday](https://github.com/rfordatascience/tidytuesday), [World Bank](https://www.worldbank.org/en/home) and [UCI machine learning repository](https://archive.ics.uci.edu/). The dataset you select should have at least 200 rows and a mix of numerical and categorical variables. **Please check with the course organiser or a lecturer as to whether the data you select is feasible for your project**
 
 
 <!-- Added: end -->
@@ -242,7 +245,10 @@ To find the word count of your report, ensure that you have your report `.Rmd` f
 
 ### Team peer evaluation
 
-You will be asked to fill out a survey where you rate the contribution and teamwork of each team member at the end. Submitting this information is a prerequisite for getting credit on the team member evaluation. 
+You will be asked to fill out a survey where you rate the contribution and teamwork of each team member. 
+This will be used to calculate an individual mark for each team member, so that it reflects their contribution to the project. The score calculated by the peer assessment will affect 30% of the mark (multiplicatively). More information on how the final individual mark is calculated can be found [here](https://webpaproject.lboro.ac.uk/WorkedExample).
+If you do not complete this peer feedback for all members of your team, you will receive a penalty of 20% off your mark. Note that you will need to provide an explanation for each score, in particular for any score of "No contribution" or "Very poor". Remember that the teaching team will be able to use your project's commit history to assess the accuracy and validity of any strong statements made in the peer assessment.
+
 
 {{% notice warning %}}
 <!-- made edits to warning box -->
@@ -321,9 +327,13 @@ There are also 10pts available for reproducibility and organisation - the marks 
 Total                          | 100 pts
 -------------------------------|--------
 Presentation                   | 50 pts
-Report                         | 30 pts
-Reproducibility and organization | 10 pts
-Team peer evaluation           | 10 pts
+Report ( * )                       | 40 pts
+Reproducibility and organization ( * ) | 10 pts
+
+( * ) These two marks are readjusted using the peer evaluation and the webPA formula. 
+
+First the Report and Reproducibility marks are calculated at the team level. The individual mark is then calculated as: `(1-0.30) * (Report + Reproducibility) + 0.30 * individual_webPA_score * (Report + Reproducibility)`, where `0.30` is the webPA weighting (how much it affects the mark multiplicatively, i.e. 30%), and `individual_webPA_score` is calculated by webPA software (see the [worked example](https://webpaproject.lboro.ac.uk/WorkedExample) for further information).s
+Finally, the Presentation mark is added to this score to obtain the final (individual) mark, out of 100.
 
 ### Criteria
 
