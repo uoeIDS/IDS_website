@@ -332,7 +332,7 @@ Reproducibility and organization ( * ) | 10 pts
 
 ( * ) These two marks are readjusted using the peer evaluation and the webPA formula. 
 
-First the Report and Reproducibility marks are calculated at the team level. The individual mark is then calculated as: `(1-0.30) * (Report + Reproducibility) + 0.30 * individual_webPA_score * (Report + Reproducibility)`, where `0.30` is the webPA weighting (how much it affects the mark multiplicatively, i.e. 30%), and `individual_webPA_score` is calculated by webPA software (see the [worked example](https://webpaproject.lboro.ac.uk/WorkedExample) for further information).s
+First the Report and Reproducibility marks are calculated at the team level. The individual mark is then calculated as: `(1-0.30) * (Report + Reproducibility) + 0.30 * individual_webPA_score * (Report + Reproducibility)`, where `0.30` is the webPA weighting (how much it affects the mark multiplicatively, i.e. 30%), and `individual_webPA_score` is calculated by webPA software (see the [worked example](https://webpaproject.lboro.ac.uk/WorkedExample) for further information).
 Finally, the Presentation mark is added to this score to obtain the final (individual) mark, out of 100.
 
 ### Criteria
