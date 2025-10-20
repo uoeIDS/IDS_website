@@ -74,7 +74,7 @@ You must add the course GitHub account (`uoeIDS`) as a collaborator to your GitH
 <!-- Above 'project_template_repo' link does not work, doing a quick hard-code fix.  -->
 
 
-It is highly recommended that you regularly _commit_ any changes you have made to your work, and to frequently _pull_ & _push_ these changes with your repository on GitHub. Please be aware of any _merger conflicts_ and try to resolve them (if in doubt, contact your team members on how best to resolve a conflict). If you notice an unusual error message then please seek assistance, either from a tutor in workshops or via an informative post on Piazza.
+It is highly recommended that you regularly _commit_ any changes you have made to your work, and to frequently _pull_ & _push_ these changes with your repository on GitHub. Please be aware of any _merge conflicts_ and try to resolve them (if in doubt, contact your team members on how best to resolve a conflict). If you notice an unusual error message then please seek assistance, either from a tutor in workshops or via an informative post on Piazza.
 
 ### Data
 
