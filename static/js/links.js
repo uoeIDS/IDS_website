@@ -1074,11 +1074,19 @@ try {DateRestrictLink(document.getElementById("LAB4R"), "16 October 2025", "http
 try {DateRestrictLink(document.getElementById("LAB4K"), "18 October 2025", "https://uoeIDS.github.io/labs/lab-04-key/lab-04-key.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB4Kraw"), "18 October 2025", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-04-key");} catch { };
 
-// lab 5 - week 6
-try {DateRestrictLink(document.getElementById("LAB5I"), "23 October 2025", "https://uoeids.github.io/labs/lab-05/lab-05.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB5R"), "23 October 2025", "https://github.com/uoeIDS/lab-05-template");} catch { };
-try {DateRestrictLink(document.getElementById("LAB5K"), "25 October 2025", "https://uoeIDS.github.io/labs/lab-05-key/lab-05-key.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB5Kraw"), "25 October 2025", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-05-key");} catch { };
+// // lab 5 - week 6
+// try {DateRestrictLink(document.getElementById("LAB5I"), "23 October 2025", "https://uoeids.github.io/labs/lab-05/lab-05.html");} catch { };
+// try {DateRestrictLink(document.getElementById("LAB5R"), "23 October 2025", "https://github.com/uoeIDS/lab-05-template");} catch { };
+// try {DateRestrictLink(document.getElementById("LAB5K"), "25 October 2025", "https://uoeIDS.github.io/labs/lab-05-key/lab-05-key.html");} catch { };
+// try {DateRestrictLink(document.getElementById("LAB5Kraw"), "25 October 2025", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-05-key");} catch { };
+
+// lab 5 - week 6 (2025)
+// NOTE: i placed lab-05 material in lab-06 folders and repos
+try {DateRestrictLink(document.getElementById("LAB5I"), "23 October 2025", "https://uoeids.github.io/labs/lab-06/lab-05.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB5R"), "23 October 2025", "https://github.com/uoeIDS/lab-06-template");} catch { };
+try {DateRestrictLink(document.getElementById("LAB5K"), "25 October 2025", "https://uoeIDS.github.io/labs/lab-06-key/lab-05-key.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB5Kraw"), "25 October 2025", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-06-key");} catch { };
+
 
 //Project links (need to re-add!!!)
 try {DateRestrictLink(document.getElementById("project"), "16 October 2025", "https://uoeids.github.io/labs/lab-04/lab-04-projects.html");} catch { };
