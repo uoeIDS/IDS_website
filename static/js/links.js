@@ -500,6 +500,10 @@ try {document.getElementById("YT_TedEd_Missrepresentation").href = "https://www.
 //try {document.getElementById("wealth").href = "https://mkorostoff.github.io/1-pixel-wealth/";} catch { };
 try {document.getElementById("Bootstrap-Record").href = "https://media.ed.ac.uk/media/1_5sktkoh9";} catch { };
 
+// data viz, added in week 6 in 2025
+try {document.getElementById("data2viz").href = "https://www.data-to-viz.com/";} catch { };
+try {document.getElementById("RSdatavis").href = "https://royal-statistical-society.github.io/datavisguide/";} catch { };
+
 
 //--ModernDive Online Book (week 4)
 try {document.getElementById("MD7").href = "https://moderndive.com/7-sampling.html";} catch { };		

@@ -59,7 +59,8 @@ Lecture recordings are only available for IDS students via the University of Edi
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS7">Chp 7 - Exploratory data analysis</a> | **Required** |
 | <i class="fas fa-book"></i> | IMS: <a id="IMS6">Chp 6 - Applications: Explore</a> | **Required** |
 | <i class="fab fa-readme"></i> | <a id="LayeredGG">A Layered Grammar of Graphics</a> | Optional |
-
+| <i class="fas fa-laptop"></i> | <a id="data2viz">From data to viz</a> | Optional (**new**) | 
+| <i class="fab fa-readme"></i> | <a id="RSdatavis">Royal Society Data Viz guide</a> | Optional (**new**) |
 
 ## Workshop
 
