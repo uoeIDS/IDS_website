@@ -16,7 +16,7 @@ tags:
 #   the technology, the workflow, and the skills you will acquire throughout the semester.'
 description: 'Week 1: Get acquainted with the course,
   the technology, the workflow, and the skills you will acquire throughout the semester.'
-hidden: no
+hidden: yes
 ---
 
 # Welcome to IDS
