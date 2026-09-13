@@ -1,8 +1,10 @@
 ---
 title: "Final Projects"
 weight: 4
+draft: true
 ---
 
+::: {.content-hidden}
 You, as part of a __team__, will be responsible for the completion of an open ended final project for this course, the goal of which is to tackle an “interesting” real life problem using the tools and techniques covered in this class. 
 
 {{% notice tip %}}
@@ -349,6 +351,5 @@ Finally, the Presentation mark is added to this score to obtain the final (indiv
 
 - Late submissions are not accepted for the written component of the project, but extensions are permitted (up to 4 days).
 <!-- The late work accepted for the written component of the project up to 4 days after the deadline, with 5% penalty for each 24 hours late. -->
-
-
+:::
 
