@@ -26,6 +26,7 @@ _Week 1_
 
 Get acquainted with the course, the technology, the workflow, and the skills you will acquire throughout the semester.
 
+::: {.content-hidden}
 ## Tasks
 
 <p style="text-align: left">Each week you will be given a series of tasks to do. Normally these tasks can be done in any order, however this week it is strongly advised that you follow the order below. This week you have to...</p>
@@ -126,6 +127,7 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
 | Lab00: Hello IDS!| <li><a id="LAB0I">Instructions</a></li> <li><a id="LAB0R">Repository</a></li> <li><a id="LAB0K">Solutions</a>(<a id="LAB0Kraw">Raw</a>)</li>| Friday |
+:::
 
 <!--
 ## Assignments
