@@ -26,7 +26,7 @@ _Week 1_
 
 Get acquainted with the course, the technology, the workflow, and the skills you will acquire throughout the semester.
 
-::: {.content-hidden}
+
 ## Tasks
 
 <p style="text-align: left">Each week you will be given a series of tasks to do. Normally these tasks can be done in any order, however this week it is strongly advised that you follow the order below. This week you have to...</p>
@@ -146,5 +146,6 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
 | <a id="RT1">Data Visualization Basics</a> | Extra practice |
-| <a id="AE1a">Application exercise 1</a> | Help: <a id="OpeningaProject">Opening a Project</a> | -->
-:::
+| <a id="AE1a">Application exercise 1</a> | Help: <a id="OpeningaProject">Opening a Project</a> | 
+-->
+
