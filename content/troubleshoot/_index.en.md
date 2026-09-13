@@ -33,12 +33,15 @@ To effectively engage with the Introduction to Data Science course it is essenti
 
 <br>
 
-<p>If you have any issues following the setup above, or generally throughout the course, then best place to post a question is <a id="Piazza">Piazza</a>. For advice on posting on Piazza, see the page below:</p>
+<p>If you have any issues following the setup above, or generally throughout the course, then best place to post a question is <a id="EdStem">EdStem</a>. 
+<!-- For advice on posting on EdStem, see the page below:</p> -->
 
+<!--
 <div>
   <li><a id="PiazzaHelp">Posting on Piazza</a></li>
   <dt style= "font-size: 0.8em; margin-left:25px;">Guidance for posting on the course forum.</dt>
 </div>
+-->
 
 If you want to start working on an application exercise, homework, workshop, or your project, then follow the instructions provided under <a id="GitHubSetup2">GitHub Setup</a> to set up a GitHub repository for coursework. You will be able to access the files you need directly from the course GitHub page <a id="ids2022Git">here</a>.
 

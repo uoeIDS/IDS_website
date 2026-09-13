@@ -8,7 +8,7 @@ Most of you will need help at some point and we want to make sure you can identi
 We've already prepared instructions for dealing with common questions, so feel free to check that out first on the <a id="troubleshoot">Setup & Troubleshooting</a> page.
 {{% /notice %}}
 
-- **Piazza:** The best way to get any questions answered in a timely manner on course content, technology, logistics, and policies is to post your question on <a id="Piazza">Piazza</a>. You are encouraged to answer each others' questions here as well. For more information on using Piazza, please see the <a id="PiazzaHelp">Posting on Piazza</a> page.
+- **Ed Discussion:** The best way to get any questions answered in a timely manner on course content, technology, logistics, and policies is to post your question on <a id="EdStem">EdStem</a>. You are encouraged to answer each others' questions here as well. 
 - **Student hours:** Course organisers will hold students hours on Thursdays in person. Please feel free to call in with any questions!
 - **MathsBase:** MathsBase is our drop-in support centre which allows you to talk to a tutor about most of our year 1 and year 2 courses in Mathematics. 
 

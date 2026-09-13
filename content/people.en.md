@@ -32,9 +32,22 @@ title: People
 </style>
 
 
+### Dr. Ozan Evkaya (Course Organiser)
+
+    
+<div class="row">
+  <div class="column_small">
+    <img src="/images/people/Ozan.jpg" />
+    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailOzan"><i class="far fa-envelope" style="margin-right:1vw;"></i></a><a id="OzanWeb"><i class="fas fa-home"></i></a></p>
+  </div>
+  <div class="column_large">
+    <p style="text-align: left; font-size: 1vw; overflow:hidden;">Office 2257, James Clerk Maxwell Building, King's Buildings Campus</p>
+    <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;"><em>My pronouns are he/him.</em>  I am Lecturer in Statistics at the School of Mathematics, at the University of Edinburgh, and a part-time lecturer TED University. Previously, I held postdoc positions at Padova University (2021) and KU Leuven (2020), after completing my PhD at Middle East Technical University in 2018. I am very interested in using statistical modelling to help people solve real-life problems - a crucial part of that is being able to extract the key messages from datasets and communicate those to non-statisticians!</p>
+  </div>
+</div>
 
 
-### Dr. Cecilia Balocchi (Course Organiser)
+### Dr. Cecilia Balocchi (Lecturer)
 
 <div class="row">
   <div class="column_small">
@@ -63,19 +76,7 @@ title: People
  -->
 
 
-### Dr. Ozan Evkaya (Lecturer)
 
-    
-<div class="row">
-  <div class="column_small">
-    <img src="/images/people/Ozan.jpg" />
-    <p style="margin-top: -40px; text-align: center; font-size: 3vw;"><a id="MailOzan"><i class="far fa-envelope" style="margin-right:1vw;"></i></a><a id="OzanWeb"><i class="fas fa-home"></i></a></p>
-  </div>
-  <div class="column_large">
-    <p style="text-align: left; font-size: 1vw; overflow:hidden;">Office 2257, James Clerk Maxwell Building, King's Buildings Campus</p>
-    <p style= "text-align: left; font-size: 1.2vw; overflow:hidden;"><em>My pronouns are he/him.</em>  I am Lecturer in Statistics at the School of Mathematics, at the University of Edinburgh, and a part-time lecturer TED University. Previously, I held postdoc positions at Padova University (2021) and KU Leuven (2020), after completing my PhD at Middle East Technical University in 2018. I am very interested in using statistical modelling to help people solve real-life problems - a crucial part of that is being able to extract the key messages from datasets and communicate those to non-statisticians!</p>
-  </div>
-</div>
 
 
 

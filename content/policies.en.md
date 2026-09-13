@@ -26,9 +26,13 @@ This is the expectation for the IDS course assignments (in-class test, homework,
 
 *Academic integrity is an underlying principle of research and academic practice. All submitted work is expected to be your own.*
 
-**In-class test, homework and quizzes**:
-- AI tools (e.g., chatGPT, ELM) should not be used for this assessment. Using AI without authorisation might constitute academic misconduct.
+**In-class test**:
+- AI tools (e.g., ELM, chatGPT) should not be used for this assessment. Using AI without authorisation might constitute academic misconduct.
 - Please ensure that you do not input direct exercise questions into the AI prompts.
+
+**homework and quizzes**:
+- AI tools (e.g., ELM, chatGPT) may be used for specific components of this assessment for learning purposes and the development of AI literacy. Using AI without authorisation might constitute academic misconduct, unless it is suggested otherwise.
+- Please make sure that you do not input direct exercise questions into the AI prompts, unless it is suggested otherwise.
 
 **Final Project**:
 - AI tools (e.g., chatGPT, ELM) should not be used to generate content for this assessment. However, you are allowed to use these tools to identify ideas, help organize your thoughts, and plan your assessment. 
@@ -47,7 +51,10 @@ You are welcome to discuss the problems in general and ask for advice. Note that
 
 ### Sharing / reusing code
 
-I am well aware that a huge volume of code is available on the web to solve any number of problems. Unless I explicitly tell you not to use something the course's policy is that you may make use of any online resources (e.g. StackOverflow) but you must explicitly cite where you obtained any code you directly use (or use as inspiration). Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism. On individual assignments you may not directly share code with another student in this class, and on team assignments you may not directly share code with another team in this class. You are welcome to discuss the problems together and ask for advice, but you may not send or make use of code from another team.
+- We are well aware that a huge volume of code is available on the web to solve any number of problems. Unless I explicitly tell you not to use something the course's policy is that you may make use of any online resources (e.g. StackOverflow) but you must explicitly cite where you obtained any code you directly use (or use as inspiration). 
+- Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism. 
+- On individual assignments you may not directly share code with another student in this class, and on team assignments you may not directly share code with another team in this class. 
+- You are welcome to discuss the problems together and ask for advice, but you may not send or make use of code from another team.
 
 ### Late work, extensions, and special circumstances
 
