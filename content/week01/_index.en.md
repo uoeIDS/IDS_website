@@ -127,7 +127,7 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
 | Lab00: Hello IDS!| <li><a id="LAB0I">Instructions</a></li> <li><a id="LAB0R">Repository</a></li> <li><a id="LAB0K">Solutions</a>(<a id="LAB0Kraw">Raw</a>)</li>| Friday |
-:::
+
 
 <!--
 ## Assignments
@@ -147,3 +147,4 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 |:---|:---|
 | <a id="RT1">Data Visualization Basics</a> | Extra practice |
 | <a id="AE1a">Application exercise 1</a> | Help: <a id="OpeningaProject">Opening a Project</a> | -->
+:::
