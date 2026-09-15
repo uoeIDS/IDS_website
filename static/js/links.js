@@ -828,21 +828,21 @@ try {DateRestrictLink(document.getElementById("test8"), "01 August 2023", "/erro
 //try {document.getElementById("RecodingAlt").href = "https://www.learn.ed.ac.uk/ultra/courses/_98726_1/cl/outline";} catch { };
 
 // week 1 lecture 01/02
-try {DateRestrictLink(document.getElementById("lecture01"), "15 September 2025", "https://uoeids.github.io/slides/w01-L01/w01-L01.html");} catch { };
-try {DateRestrictLink(document.getElementById("GHL01"), "15 September 2025", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w01-L01");} catch { };
+try {DateRestrictLink(document.getElementById("lecture01"), "15 September 2026", "https://uoeids.github.io/slides/w01-L01/w01-L01.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL01"), "15 September 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w01-L01");} catch { };
 //try {DateRestrictLink(document.getElementById("MHL01"), "20 September 2023", "https://echo360.org.uk/lesson/f1b5fda8-7a25-45ff-b60d-464f6776cdad/classroom#sortDirection=desc");} catch { };
 
-try {DateRestrictLink(document.getElementById("lecture02"), "15 September 2025", "https://uoeids.github.io/slides/w01-L02/w01-L02.html");} catch { };
-try {DateRestrictLink(document.getElementById("GHL02"), "15 September 2025", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w01-L02");} catch { };
+try {DateRestrictLink(document.getElementById("lecture02"), "15 September 2026", "https://uoeids.github.io/slides/w01-L02/w01-L02.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL02"), "15 September 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w01-L02");} catch { };
 //try {DateRestrictLink(document.getElementById("MHL02"), "22 September 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-09-22T10:00:00.000_2022-09-22T10:55:00.000/classroom#sortDirection=desc");} catch { };
 
 // week 2 lecture 03/04
-try {DateRestrictLink(document.getElementById("lecture03"), "22 September 2025", "https://uoeids.github.io/slides/w02-L03/w02-L03.html");} catch { };
-try {DateRestrictLink(document.getElementById("GHL03"), "22 September 2025", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w02-L03");} catch { };
+try {DateRestrictLink(document.getElementById("lecture03"), "28 September 2026", "https://uoeids.github.io/slides/w02-L03/w02-L03.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL03"), "28 September 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w02-L03");} catch { };
 //try {DateRestrictLink(document.getElementById("MHL03"), "27 September 2023", "https://echo360.org.uk/lesson/11d4e729-ce16-4a21-b020-ba94939da9f2/classroom#sortDirection=desc");} catch { };
 
-try {DateRestrictLink(document.getElementById("lecture04"), "22 September 2025", "https://uoeids.github.io/slides/w02-L04/w02-L04.html");} catch { };
-try {DateRestrictLink(document.getElementById("GHL04"), "22 September 2025", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w02-L04");} catch { };
+try {DateRestrictLink(document.getElementById("lecture04"), "28 September 2026", "https://uoeids.github.io/slides/w02-L04/w02-L04.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL04"), "28 September 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w02-L04");} catch { };
 //try {DateRestrictLink(document.getElementById("MHL04"), "29 September 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-09-29T10:00:00.000_2022-09-29T10:55:00.000/classroom#sortDirection=desc");} catch { };
 
 // week 3 lecture 05/06

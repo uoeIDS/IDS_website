@@ -45,16 +45,17 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 
 ## Lectures
 
-TO BE UPDATED
 
-<!-- TO BE UPDATED
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | 
+
+<!--
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | -->
 
 | <div style="text-align:center">No.</div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">Slides</div> | <div style="text-align:center">Additional</div> |
 |:---:|:---------------------|:--------:|:------|
 | 01  | Welcome | <span><a id = "lecture01"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL01">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 02  | Introduction to the toolkit | <span><a id = "lecture02"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL02">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
+<!--
 <br>
 <p  style="text-align: left"> 
 <font size=4pt><b>Lecture Recordings</b></font>
@@ -66,6 +67,8 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 </p>
 -->
+
+TO BE UPDATED
 
 <!--
 ## TEST SPACE - TO DELETE!!!

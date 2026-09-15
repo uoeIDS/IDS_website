@@ -20,17 +20,16 @@ Getting started with data science by wrangling data, Yee-Haw!
 
 ## Lectures
 
-TO BE UPDATED
-
 
 <!-- TO BE UPDATED
-| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | 
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:170px;text-align:center">Additional Links</div> | -->
 
 | <div style="text-align:center">No.</div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">Slides</div> | <div style="text-align:center">Additional</div> |
 |:---:|:---------------------|:--------:|:------|
 | 03  | Tidy Data and Data Wrangling | <span><a id = "lecture03"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL03">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 04  | Data Types and Classes |<span><a id = "lecture04"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL04">Raw<i class="fab fa-fw fa-github"/></a></span> |
--->
+
+TO BE UPDATED
 
 <!--
 <br>
