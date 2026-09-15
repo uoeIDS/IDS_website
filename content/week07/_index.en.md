@@ -83,7 +83,7 @@ Below are a number of optional "guest lectures" from YouTube that illustrates wh
 
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab06: Functions and iterations | <li><a id="LAB6I">Instructions</a></li> <li><a id="LAB6R">Repository</a></li><li><a id="LAB6K">Solutions</a>(<a id="LAB6Kraw">Raw</a>)</li> | Fri, 01 Nov  | -->
+| Lab06: Functions and iterations | <li><a id="LAB6I">Instructions</a></li> <li><a id="LAB6R">Repository</a></li><li><a id="LAB6K">Solutions</a>(<a id="LAB6Kraw">Raw</a>)</li> | Fri, 01 Nov  | 
 -->
 
 <!--
