@@ -25,6 +25,10 @@ Additional topics beyond the course.
 | 21  | Projects Q&A  | <span><a id = "lecture21"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL21">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 22  | Recap and Looking Beyond IDS  | <span><a id = "lecture22"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL22">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
+TO BE UPDATED
+
+
+<!--
 <br>
 <p  style="text-align: left"> 
 <font size=4pt><b>Lecture Recordings</b></font>
@@ -35,36 +39,38 @@ Additional topics beyond the course.
 Lecture recordings are only available for IDS students via the University of Edinburgh virtual learning environment. To access the recordings, go to the Introduction to Data Science area on LEARN ULTRA and select <em>Lecture Recordings</em>  under the <em>Course Content</em> section. This will open <em>echovideo</em> where you will find a list of all lecture recordings to watch once they become available. 
 
 </p>
+-->
 
+
+<!--
 ## Tasks
 
 <ol>
   <li>Finish your project and peer evaluation and submit.</li>
   <li>Watch the <a href="#Videos and reading">Videos and reading</a>.</li>
-  <!-- <li>Complete the <a href="#assignments">Assignments</a>.</li> -->
+  <!-- <li>Complete the <a href="#assignments">Assignments</a>.</li>
 </ol>
+-->
 
+<!--
 ## Videos and reading
 
 <p style="text-align: left">There is no required reading for this week. The following is some suggested reading for learning more about the topics covered in the final lecture.</p>
 
-<!--
-| <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
-|:---:|:---|:---:|
--->
 |    |    |    |
 |:--:|:---|:--:|
 | <i class="fas fa-book"></i> | MS: <a id="MS1">Chp 1 - Your first Shiny app</a> | Optional |
 | <i class="fas fa-book"></i> | SMLTAR: <a id="SMLTAR7">Chp 7 - Classification</a> | Optional |
-
-## Workshop
+-->
 
 <!--
-| <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |  -->
+## Workshop
 
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
 | Project presentations |  <li><a id="projectEND">Instructions</a></li> | Friday |
+-->
+
 
 <!--
 ## Assignments

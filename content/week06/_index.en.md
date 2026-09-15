@@ -11,9 +11,9 @@ description: "Week 6: Data visualization (part 2), interpretation of graphical i
 hidden: false
 ---
   
-  # Visualizing Data
+# Visualizing Data
   
-  _Week 6_
+_Week 6_
 
 Data visualization (part 2), interpretation of graphical information and tips for effective data visualization.
 
@@ -26,6 +26,9 @@ Data visualization (part 2), interpretation of graphical information and tips fo
   | 11  | Types of visualisations | <span><a id = "lecture11"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL11">Raw<i class="fab fa-fw fa-github"/></a></span> |
   | 12  | Effective Data Visualisation  | <span><a id = "lecture12"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL12">Raw<i class="fab fa-fw fa-github"/></a></span> |
   
+TO BE UPDATED
+
+<!--
   <br>
 <p  style="text-align: left"> 
 <font size=4pt><b>Lecture Recordings</b></font>
@@ -36,8 +39,9 @@ Data visualization (part 2), interpretation of graphical information and tips fo
 Lecture recordings are only available for IDS students via the University of Edinburgh virtual learning environment. To access the recordings, go to the Introduction to Data Science area on LEARN ULTRA and select <em>Lecture Recordings</em>  under the <em>Course Content</em> section. This will open <em>echovideo</em> where you will find a list of all lecture recordings to watch once they become available. 
 
 </p>
+-->
 
-
+<!--
 ## Tasks
 
 <ol>
@@ -45,15 +49,13 @@ Lecture recordings are only available for IDS students via the University of Edi
 <li>Attend the <a href="#workshop">workshop</a>.</li>
   <li>Complete the <a href="#assignment">Assignments</a>.</li>
 </ol>
+-->
 
+<!--
 ## Videos and reading
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
 
-<!--
-| <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
-|:---:|:---|:---:|
--->
 |    |    |    |
 |:--:|:---|:--:|
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS7">Chp 7 - Exploratory data analysis</a> | **Required** |
@@ -61,19 +63,19 @@ Lecture recordings are only available for IDS students via the University of Edi
 | <i class="fab fa-readme"></i> | <a id="LayeredGG">A Layered Grammar of Graphics</a> | Optional |
 | <i class="fas fa-laptop"></i> | <a id="data2viz">From data to viz</a> | Optional (**new**) | 
 | <i class="fab fa-readme"></i> | <a id="RSdatavis">Royal Society Data Viz guide</a> | Optional (**new**) |
+-->
 
+<!--
 ## Workshop
 
 <p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
 
-<!--
-| <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |--->
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
 | Lab06: Take a sad plot and make it better | <li><a id="LAB5I">Instructions</a></li> <li><a id="LAB5R">Repository</a></li><li><a id="LAB5K">Solutions</a>(<a id="LAB5Kraw">Raw</a>)</li> | Friday |
 
 <p style="text-align: left"> During the workshop you will have your first project 'check-in' with a tutor. You should demonstrate that you have a basic understanding of the data you have selected and have made initial steps in cleaning, summarising and visualising your data. We will be looking to understand whether you have a clear problem statement and that you have a plan as to how you would explore the data to answer your statement.</p>
-
+-->
 
 <!---
 <p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
@@ -89,13 +91,13 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 <!--| Lab08: Work on projects |  <li><a id="LAB7I">Instructions</a></li>| Fri, 27 Oct, 16:00 UK |-->
 
-
+<!--
 ## Assignement
 
 <span><p style="text-align: left">The second homework assignment (`hw-02`) will become available this week, which needs to be completed and submitted next week. You will find more information about the assignment <a id="homework">here</a>.</p></span>
 
 <p style="text-align: left">If you are having difficulty accessing your homework or lab repository, see troubleshooting advice <a id="troubleshoot">here</a>.</p>
-
+-->
 
 
 <!--

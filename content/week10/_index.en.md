@@ -25,6 +25,9 @@ Evaluating models with cross validation and further topics in modeling.
 | 19  | Cross Validation  | <span><a id = "lecture19"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL19">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 20  | Bootstrap for regression  | <span><a id = "lecture20"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL20">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
+TO BE UPDATED
+
+<!--
 <br>
 <p  style="text-align: left"> 
 <font size=4pt><b>Lecture Recordings</b></font>
@@ -35,7 +38,9 @@ Evaluating models with cross validation and further topics in modeling.
 Lecture recordings are only available for IDS students via the University of Edinburgh virtual learning environment. To access the recordings, go to the Introduction to Data Science area on LEARN ULTRA and select <em>Lecture Recordings</em>  under the <em>Course Content</em> section. This will open <em>echovideo</em> where you will find a list of all lecture recordings to watch once they become available. 
 
 </p>
+-->
 
+<!--
 ## Tasks
 
 <ol>
@@ -43,39 +48,36 @@ Lecture recordings are only available for IDS students via the University of Edi
   <li>Attend the <a href="#workshop">workshop</a>.</li>
   <li>Complete the <a href="#assignment">Assignments</a>.</li>
 </ol>
+-->
 
+<!--
 ## Videos and reading
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
 
-<!--
-| <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
-|:---:|:---|:---:|
--->
 |    |    |    |
 |:--:|:---|:--:|
 | <i class="fab fa-readme"></i> | tidymodels: <a id="TMER">Evaluate your model with resampling</a> | **Required** |
-
-## Workshop
-
-
+-->
 
 <!--
-| <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> | -->
+## Workshop
+
 
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
 | Project |  <li><a id="LAB9Proj">Instructions</a></li> | Friday |
-
+-->
 
 <!---| Lab09: Make progress on projects |  <li><a id="LAB8I">Instructions</a></li>| Fri, 24 Nov, 16:00 UK |-->
 
-
+<!--
 ## Assignment
 
 <span><p style="text-align: left">The third homework assignment (`hw-03`) is due by the end of this week. You will find more information about the assignment <a id="homework">here</a>.</p></span>
 
 <p style="text-align: left">If you are having difficulty accessing your homework or lab repository, see troubleshooting advice <a id="troubleshoot">here</a>.</p>
+-->
 
 
 <!--

@@ -10,9 +10,9 @@ description: "Week 8: Linear models for predicting numerical data from single an
 hidden: false
 ---
   
-  # Modelling Data
+# Modelling Data
   
-  _Week 8_
+_Week 8_
 
 Linear models for predicting numerical data from single and multiple variables.
 
@@ -24,9 +24,13 @@ Linear models for predicting numerical data from single and multiple variables.
 |:---:|:---------------------|:--------:|:------|
   | 15  | Introducing Modelling  | <span><a id = "lecture15"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL15">Raw<i class="fab fa-fw fa-github"/></a></span> |
   | 16  | Model Checking  | <span><a id = "lecture16"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL16">Raw<i class="fab fa-fw fa-github"/></a></span> |
+  
+
+TO BE UPDATED
 
 <!-- <li><a id ="W8L4MH">Video 1**</a></li><li><a id = "W8L5MH">Video 2</a></li><li><a id = "W8L6MH">Video 3</a></li> ---><!-- Old video recoding links-->
 
+<!--
 <br>
 <p  style="text-align: left"> 
 <font size=4pt><b>Lecture Recordings</b></font>
@@ -37,7 +41,7 @@ Linear models for predicting numerical data from single and multiple variables.
 Lecture recordings are only available for IDS students via the University of Edinburgh virtual learning environment. To access the recordings, go to the Introduction to Data Science area on LEARN ULTRA and select <em>Lecture Recordings</em>  under the <em>Course Content</em> section. This will open <em>echovideo</em> where you will find a list of all lecture recordings to watch once they become available. 
 
 </p>
-
+-->
 
 <!--
 <p style="text-align: left">
@@ -45,38 +49,38 @@ Lecture recordings are only available for IDS students via the University of Edi
 </p>
 -->
 
+
+<!--
 ## Tasks
 
 <ol>
 <li>Watch the <a href="#videos and reading">Videos and reading</a>.</li>
 <li>Attend the <a href="#workshop">workshop</a>.</li>
-  <!-- <li>Complete the <a href="#assignments">Assignments</a>.</li> -->
+  <!-- <li>Complete the <a href="#assignments">Assignments</a>.</li> 
 </ol>
+-->
 
+<!--
 ## Videos and reading
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
 
-<!--
-| <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
-|:---:|:---|:---:|
--->
 |    |    |    |
 |:--:|:---|:--:|
 | <i class="fas fa-book"></i> | IMS: <a id="IMS7">Chp 7 - Linear regression with a single predictor</a> | **Required** |
 | <i class="fas fa-book"></i> | IMS: <a id="IMS8">Chp 8 - Linear regression with multiple predictors</a> | **Required** |
+-->
 
+<!--
 ## Workshop
 
 <p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
 
 
-<!--
-| <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> | -->
-
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
 | Lab07: Modelling course evaluations | <li><a id="LAB7I">Instructions</a></li> <li><a id="LAB7R">Repository</a></li><li><a id="LAB7K">Solutions</a>(<a id="LAB7Kraw">Raw</a>)</li> | Friday |
+-->
 
 <!---
 | Lab06: 	Conveying the right message through visualisation | <li><a id="LAB5I">Instructions</a></li> <li><a id="LAB5R">Repository</a></li><li><a id="LAB5K">Solutions</a>(<a id="LAB5Kraw">Raw</a>)</li> | Fri, 10 Nov, 16:00 UK |
@@ -94,6 +98,7 @@ Lecture recordings are only available for IDS students via the University of Edi
 <p style="text-align: left">
 <b>Reminder</b>: Homework assignment <em>hw-03</em> is due Fri, 4 Nov, 12:00 UK time (midday).
 </p>
+-->
 
 <!--
 ## Code-along

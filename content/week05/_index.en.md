@@ -25,6 +25,9 @@ Tips for effective communication of results, and collaboration. Intro to Data Vi
 | 09  | Doing Data Science  | <span><a id = "lecture09"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL09">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 10  | Visualising data  | <span><a id = "lecture10"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL10">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
+TO BE UPDATED
+
+<!--
 <br>
 <p  style="text-align: left"> 
 <font size=4pt><b>Lecture Recordings</b></font>
@@ -35,23 +38,22 @@ Tips for effective communication of results, and collaboration. Intro to Data Vi
 Lecture recordings are only available for IDS students via the University of Edinburgh virtual learning environment. To access the recordings, go to the Introduction to Data Science area on LEARN ULTRA and select <em>Lecture Recordings</em>  under the <em>Course Content</em> section. This will open <em>echovideo</em> where you will find a list of all lecture recordings to watch once they become available. 
 
 </p>
+-->
 
-
+<!--
 ## Tasks
 
 <ol>
   <li>Watch the <a href="#videos and readings">Videos and readings</a>.</li>
   <li>Attend the <a href="#workshop">workshop</a>.</li>
 </ol>
+-->
 
+<!--
 ## Videos and readings
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
 
-<!--
-| <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
-|:---:|:---|:---:|
--->
 |    |    |    |
 |:--:|:---|:--:|
 | <i class="fas fa-book"></i> | IMS: <a id="IMS2">Chp 2 - Study design</a> | **Required** |
@@ -60,16 +62,17 @@ Lecture recordings are only available for IDS students via the University of Edi
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS3">Chp 3 - Data visualisation</a> | **Required** |
 | <i class="fas fa-book"></i> | Data Visualization: <a id="DV3">Chp 3 - Make a plot</a> | **Required** |
 | <i class="fas fa-book"></i> | RSS Guide: <a id="RSS_WhyDataViz">Why we visualise data</a> | Optional |
+-->
 
 <!--| <i class="fas fa-laptop"></i> | <a href="/assessments/project">Final Project Information</a> | **Required** |-->
 
-
+<!--
 ## Workshop
 
 <p style="text-align: left"> In this week's workshop you will begin on your group projects. You will find all the information you will need about the group projects <a id="projectEND">here</a>. </p>
 
 <p style="text-align: left"> Next week you will have a 'check-in' discussion with a tutor. As such, it is highly recommended that you arrange a group meeting before the next workshop to discuss your data, perform some preliminary investigations and to think of a problem statement.</p>
-
+-->
 
 
 <!--
