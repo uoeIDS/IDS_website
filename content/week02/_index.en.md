@@ -55,7 +55,7 @@ If you have not completed the <em>first time setup instructions</em> found on th
 <ol>
   <li>Watch the <a href="#videos and readings">Videos and readings</a>.</li>
   <li>Attend the <a href="#workshop">workshop</a>.</li>
-  <!-- <li>Complete the <a href="#assignments">Assignments</a>.</li> 
+  <li>Complete the <a href="#assignments">Assignments</a>.</li> 
 </ol>
 -->
 
