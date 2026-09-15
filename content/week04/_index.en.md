@@ -6,8 +6,7 @@ menuTitle: "Uncertainty quantification"
 weight: 4
 tags: ["week 4", "tasks", "videos", "assignments", "readings", "tutorials"]
 description: "Week 4: Uncertainty quantification and hypothesis testing with bootstrap."
-
-hidden: 'true'
+hidden: true
 ---
   <!-- set 'hidden: true' to hide content, or 'hidden: no' to show-->
   
