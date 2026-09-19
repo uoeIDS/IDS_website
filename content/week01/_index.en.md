@@ -33,7 +33,7 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 
 <ol>
   <li> Complete the <em>first time setup instructions</em> found on the <a id="troubleshoot">Setup & Troubleshooting</a> page.</li>
-  <li> Review the <a id="Gen-AI">University guidance on generative AI use</a>. Guidance and policies on the use of genAI in this course are available in the <a id="policies">Policies</a> page.</li>
+  <li> Review the <a id="Gen-AI">University guidance on generative AI use</a>. Guidance and policies on the use of genAI in this course are available in the <a id="policies">Policies</a> page.</li> and week1 slides. 
   <li> Familiarize yourself with the course <a id="policies">Policies</a>, and in particular with the course specific rules on use of genAI.</li>
   <li> Attend the lectures. You are expected to read the slides and watch the recordings after the lecture if anything is not clear.</li>
   <li>Watch the required videos and read any required reading in <a href="#videos-and-reading">Videos and reading</a>.</li>
@@ -55,7 +55,7 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 | 01  | Welcome | <span><a id = "lecture01"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL01">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 02  | Introduction to the toolkit | <span><a id = "lecture02"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL02">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
-<!--
+
 <br>
 <p  style="text-align: left"> 
 <font size=4pt><b>Lecture Recordings</b></font>
@@ -66,9 +66,6 @@ Get acquainted with the course, the technology, the workflow, and the skills you
 Lecture recordings are only available for IDS students via the University of Edinburgh virtual learning environment. To access the recordings, go to the Introduction to Data Science area on LEARN ULTRA and select <em>Lecture Recordings</em>  under the <em>Course Content</em> section. This will open <em>echovideo</em> where you will find a list of all lecture recordings to watch once they become available. 
 
 </p>
--->
-
-TO BE UPDATED
 
 <!--
 ## TEST SPACE - TO DELETE!!!
@@ -92,7 +89,7 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 <!--and try to avoid having anything too complicated inside.
 </p> -->
 
-<!-- TO BE UPDATED
+
 ## Videos and reading
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
@@ -107,7 +104,7 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 | 05  | Meet the toolkit: programming     | <a id="W1L5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L5MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L5S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | <li><a href="/errata#W105">Errata</a></li> <li><a id="AE2">AE2. Repository</a></li> |
 | 06  | Meet the toolkit: version control and collaboration     | <a id="W1L6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | <a id="W1L6MH"><span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"/></span></a> | <a id="W1L6S"><span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"/></span></a> | <li><a href="/errata#W106">Errata</a></li> |-->
 
-<!-- TO BE UPDATED
+
 |    |    |    |
 |:--:|:---|:--:|
 | <i class="fas fa-laptop"></i> | <a id="components">Course Components</a>, <a id="assessments">Assessments</a>, <a id="policies">Policies</a> | **Required** |
@@ -117,9 +114,8 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 | <i class="fas fa-book"></i> | <a id="RGit">Happy Git and GitHub for the useR</a> | Optional |
 | <i class="fab fa-readme"></i> | <a id="HTRR">How to read an R help page</a> | Optional |
 |  <i class="fas fa-pen-fancy"></i> | <a id="nhsr">How R changed me as an analyst</a> | Optional|
--->
 
-<!-- TO BE UPDATED
+
 ## Workshop
 
 <p style="text-align: left"> This week's workshop will help you get familiar with the workflow for the rest of the course. The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
@@ -128,7 +124,6 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
 | Lab00: Hello IDS!| <li><a id="LAB0I">Instructions</a></li> <li><a id="LAB0R">Repository</a></li> <li><a id="LAB0K">Solutions</a>(<a id="LAB0Kraw">Raw</a>)</li>| Friday |
--->
 
 <!--
 ## Assignments
