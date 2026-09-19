@@ -109,11 +109,9 @@ Comment: see the examples at the bottom of 'link.js' for how the above time rest
 |:--:|:---|:--:|
 | <i class="fas fa-laptop"></i> | <a id="components">Course Components</a>, <a id="assessments">Assessments</a>, <a id="policies">Policies</a> | **Required** |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS1">Chp 1, Introduction</a> | **Required** |
-| <i class="fas fa-book"></i> | R4DS: <a id="R4DS6">Chp 6, Workflow: scripts</a> | **Required** |
+| <i class="fas fa-book"></i> | R4DS: <a id="R4DS6">Chp 6, Workflow: scripts</a> | Optional |
 | <i class="fas fa-book"></i> | IMS: <a id="IMS1">Chp 1, Hello Data</a> | **Required** |
-| <i class="fas fa-book"></i> | <a id="RGit">Happy Git and GitHub for the useR</a> | Optional |
-| <i class="fab fa-readme"></i> | <a id="HTRR">How to read an R help page</a> | Optional |
-|  <i class="fas fa-pen-fancy"></i> | <a id="nhsr">How R changed me as an analyst</a> | Optional|
+| <i class="fas fa-book"></i> | <a id="RGit">Happy Git and GitHub for the useR - Section 4-5-6-7</a> | **Required** |
 
 
 ## Workshop
