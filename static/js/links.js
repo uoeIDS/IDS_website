@@ -1051,8 +1051,8 @@ try {DateRestrictLink(document.getElementById("OQ10"), "21 November 2022", "http
 // Labs --------------------------------
 
 // lab 0 - Hello IDS! WEEK 01
-try {DateRestrictLink(document.getElementById("LAB0I"), "24 September 2026", "https://uoeids.github.io/labs/lab-00/lab-00.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB0R"), "24 September 2026", "https://github.com/uoeIDS/lab-00-template");} catch { };
+try {DateRestrictLink(document.getElementById("LAB0I"), "23 September 2026", "https://uoeids.github.io/labs/lab-00/lab-00.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB0R"), "23 September 2026", "https://github.com/uoeIDS/lab-00-template");} catch { };
 try {DateRestrictLink(document.getElementById("LAB0K"), "26 September 2026", "https://uoeIDS.github.io/labs/lab-00-key/lab-00-key.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB0Kraw"), "26 September 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-00-key");} catch { };
 
