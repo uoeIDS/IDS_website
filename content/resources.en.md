@@ -14,6 +14,7 @@ _All books on this course are free to read in full online at the links below. If
 The following books can be used to follow on from the topics taught on this course:
 
 <ul>
+  <li><a id="helloDS">Hello Data Science</a></li>
   <li><a id="advR">Advanced R</a></li>
   <li><a id="TMwR">Tidy Modeling with R</a></li>
 </ul>
@@ -24,7 +25,7 @@ The following books can be used to follow on from the topics taught on this cour
   <li><a id="Rproject">R</a></li>
   <li><a id="RStudio">RStudio</a></li>
   <li><a id="ids2022Git">GitHub</a></li>
-  <li><a id="Piazza">Piazza</a></li>
+  <li><a id="EdStem">EdStem</a></li>
 </ul>
 
 ## Cheatsheets
@@ -35,4 +36,7 @@ The following books can be used to follow on from the topics taught on this cour
   <li><a id="Github">Git and GitHub with Rstudio</a></li>
   <li><a id="ggplot2CS">Data visualization with ggplot2</a></li>
   <li><a id="dplyrCS">Data wrangling with dplyr</a></li>
+  <li><a id="tidyrCS">Tidy data creation with tidyr</a></li>
+
+  
 </ul>

@@ -740,6 +740,11 @@ try {document.getElementById("IMS").href = "https://openintro-ims.netlify.app/";
 try {document.getElementById('advR').href = "https://adv-r.hadley.nz/";} catch { };
 try {document.getElementById('TMwR').href = "https://www.tmwr.org/";} catch { };
 
+// New added open source book for 26/27
+try {document.getElementById('helloDS').href = "https://hellodata.science/";} catch { };
+
+
+
 // -- Tools
 try {document.getElementById('Rproject').href = "https://www.r-project.org/about.html";} catch { };
 try {document.getElementById('RStudio').href = "https://www.rstudio.com/products/rstudio/#rstudio-desktop";} catch { };
@@ -754,6 +759,9 @@ try {document.getElementById("rmarkdownCS").href = "https://github.com/rstudio/c
 try {document.getElementById("Github").href = "https://rstudio.github.io/cheatsheets/git-github.pdf";} catch { };
 try {document.getElementById("ggplot2CS").href = "https://github.com/rstudio/cheatsheets/blob/main/data-visualization-2.1.pdf";} catch { };
 try {document.getElementById("dplyrCS").href = "https://github.com/rstudio/cheatsheets/blob/main/data-transformation.pdf";} catch { };
+
+// New added cheatsheets for 26/27
+try {document.getElementById("tidyrCS").href = "https://github.com/rstudio/cheatsheets/blob/main/tidyr.pdf";} catch { };
 
 /*
 //try {document.getElementById('learnids').href = "https://www.learn.ed.ac.uk/ultra/courses/_116960_1/outline";} catch { };	// link to the IDS course on learn
