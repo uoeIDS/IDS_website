@@ -50,7 +50,7 @@ If you have not completed the <em>first time setup instructions</em> found on th
 
 
 <ol>
-  <li>Watch the <a href="#videos and readings">Videos and readings</a>.</li>
+  <li>Watch the last week recordings, if you could not attend the class.</li>
   <li>Attend the <a href="#workshop">workshop</a>.</li>
 </ol>
 
@@ -63,12 +63,12 @@ If you have not completed the <em>first time setup instructions</em> found on th
 |    |    |    |
 |:--:|:---|:--:|
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS4">Chp 4 - Workflow: basics</a> | Optional |
-| <i class="fas fa-book"></i> | BeingTidy: <a id="tidy_main">Tidy data</a> | Optional |
+| <i class="fas fa-book"></i> | BeingTidy: <a id="tidy_main">Tidy data</a> | **Required** |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS5">Chp 5 - Data transformation</a> | **Required** |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS15">Chp 15 - Factors</a> | **Required** |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS16">Chp 16 - Dates and times</a> | **Required** |
 | <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a id = "YT_Computerphile_time">Computerphile: The problem with time and timezones</a> | Optional |
-| <i class="fab fa-readme"></i> | <a id="NatRepro">1,500 scientists lift the lid on reproducibility</a> | Optional |
+<!--| <i class="fab fa-readme"></i> | <a id="NatRepro">1,500 scientists lift the lid on reproducibility</a> | Optional | -->
 
 <!--
 | <i class="fab fa-readme"></i> | <a id="tidydata">Tidy Data</a> | Optional |
@@ -77,6 +77,9 @@ If you have not completed the <em>first time setup instructions</em> found on th
 
 ## Workshop
 
+TO BE UPDATED
+
+<!--
 <p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
 
 <!--
@@ -85,9 +88,11 @@ If you have not completed the <em>first time setup instructions</em> found on th
 | Lab02: Make a sad plot better | <li><a id="LAB2I">Instructions</a></li> <li><a id="LAB2R">Repository</a></li><li><a id="LAB2K">Solutions</a>(<a id="LAB2Kraw">Raw</a>)</li> | Fri, 29 Sept, 16:00 UK  |
 -->
 
+<!--
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
 | Lab01: UK Attractions | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li><li><a id="LAB1K">Solutions</a>(<a id="LAB1Kraw">Raw</a>)</li> | Friday |
+-->
 
 <!--
 ## Assignments
