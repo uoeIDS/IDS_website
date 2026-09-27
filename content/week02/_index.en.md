@@ -29,9 +29,7 @@ Getting started with data science by wrangling data, Yee-Haw!
 | 03  | Tidy Data and Data Wrangling | <span><a id = "lecture03"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL03">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 04  | Data Types and Classes |<span><a id = "lecture04"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL04">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
-TO BE UPDATED
 
-<!--
 <br>
 <p  style="text-align: left"> 
 <font size=4pt><b>Lecture Recordings</b></font>
@@ -42,9 +40,8 @@ TO BE UPDATED
 Lecture recordings are only available for IDS students via the University of Edinburgh virtual learning environment. To access the recordings, go to the Introduction to Data Science area on LEARN ULTRA and select <em>Lecture Recordings</em>  under the <em>Course Content</em> section. This will open <em>echovideo</em> where you will find a list of all lecture recordings to watch once they become available. 
 
 </p>
--->
 
-<!--
+
 ## Tasks
 
 {{% notice warning %}}
@@ -55,11 +52,9 @@ If you have not completed the <em>first time setup instructions</em> found on th
 <ol>
   <li>Watch the <a href="#videos and readings">Videos and readings</a>.</li>
   <li>Attend the <a href="#workshop">workshop</a>.</li>
-  <li>Complete the <a href="#assignments">Assignments</a>.</li> 
 </ol>
--->
 
-<!--
+
 ## Videos and readings
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
@@ -74,16 +69,11 @@ If you have not completed the <em>first time setup instructions</em> found on th
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS16">Chp 16 - Dates and times</a> | **Required** |
 | <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a id = "YT_Computerphile_time">Computerphile: The problem with time and timezones</a> | Optional |
 | <i class="fab fa-readme"></i> | <a id="NatRepro">1,500 scientists lift the lid on reproducibility</a> | Optional |
--->
 
 <!--
 | <i class="fab fa-readme"></i> | <a id="tidydata">Tidy Data</a> | Optional |
 | <i class="fas fa-file-video"></i> | <a id="MHL05extra">L05 supplement</a>: extra explanation of logical operations in R | Optional |
 -->
-
-
-
-<!-- TO BE UPDATED
 
 ## Workshop
 
@@ -93,12 +83,11 @@ If you have not completed the <em>first time setup instructions</em> found on th
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |
 |:---|:---|:---|
 | Lab02: Make a sad plot better | <li><a id="LAB2I">Instructions</a></li> <li><a id="LAB2R">Repository</a></li><li><a id="LAB2K">Solutions</a>(<a id="LAB2Kraw">Raw</a>)</li> | Fri, 29 Sept, 16:00 UK  |
-
+-->
 
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
 | Lab01: UK Attractions | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li><li><a id="LAB1K">Solutions</a>(<a id="LAB1Kraw">Raw</a>)</li> | Friday |
--->
 
 <!--
 ## Assignments
