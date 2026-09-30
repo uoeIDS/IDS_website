@@ -77,8 +77,6 @@ If you have not completed the <em>first time setup instructions</em> found on th
 
 ## Workshop
 
-TO BE UPDATED
-
 <!--
 <p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
 
@@ -88,11 +86,9 @@ TO BE UPDATED
 | Lab02: Make a sad plot better | <li><a id="LAB2I">Instructions</a></li> <li><a id="LAB2R">Repository</a></li><li><a id="LAB2K">Solutions</a>(<a id="LAB2Kraw">Raw</a>)</li> | Fri, 29 Sept, 16:00 UK  |
 -->
 
-<!--
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
 | Lab01: UK Attractions | <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li><li><a id="LAB1K">Solutions</a>(<a id="LAB1Kraw">Raw</a>)</li> | Friday |
--->
 
 <!--
 ## Assignments

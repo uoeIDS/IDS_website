@@ -1065,8 +1065,8 @@ try {DateRestrictLink(document.getElementById("LAB0K"), "26 September 2026", "ht
 try {DateRestrictLink(document.getElementById("LAB0Kraw"), "26 September 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-00-key");} catch { };
 
 // lab 1 - Plastic Waste WEEK 02
-try {DateRestrictLink(document.getElementById("LAB1I"), "01 October 2026", "https://uoeids.github.io/labs/lab-01/lab-01.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB1R"), "01 October 2026", "https://github.com/uoeIDS/lab-01-template");} catch { };
+try {DateRestrictLink(document.getElementById("LAB1I"), "30 September 2026", "https://uoeids.github.io/labs/lab-01/lab-01.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB1R"), "30 September 2026", "https://github.com/uoeIDS/lab-01-template");} catch { };
 try {DateRestrictLink(document.getElementById("LAB1K"), "03 October 2026", "https://uoeIDS.github.io/labs/lab-01-key/lab-01-key.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB1Kraw"), "03 October 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-01-key");} catch { };
 
