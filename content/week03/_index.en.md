@@ -25,9 +25,7 @@ Importing data from different files, and joining them to explore more variable r
 | 05  | Importing/Exporting Data | <span><a id = "lecture05"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL05">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 06  | Joining and Organising Data  | <span><a id = "lecture06"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL06">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
-TO BE UPDATED
 
-<!---
 <br>
 <p  style="text-align: left"> 
 <font size=4pt><b>Lecture Recordings</b></font>
@@ -38,9 +36,8 @@ TO BE UPDATED
 Lecture recordings are only available for IDS students via the University of Edinburgh virtual learning environment. To access the recordings, go to the Introduction to Data Science area on LEARN ULTRA and select <em>Lecture Recordings</em>  under the <em>Course Content</em> section. This will open <em>echovideo</em> where you will find a list of all lecture recordings to watch once they become available. 
 
 </p>
--->
 
-<!---
+
 ## Tasks
 
 <ol>
@@ -48,9 +45,9 @@ Lecture recordings are only available for IDS students via the University of Edi
   <li>Attend the <a href="#workshop">workshop</a>.</li>
   <li>Complete the <a href="#assignment">weekly quiz</a>.</li>
 </ol>
--->
 
-<!---
+
+
 ## Videos and readings
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
@@ -60,16 +57,18 @@ Lecture recordings are only available for IDS students via the University of Edi
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS11">Chp 11 - Data import</a> | **Required** |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS12">Chp 12 - Tidy data</a> | **Required** |
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS13">Chp 13 - Relational data</a> | **Required** |
--->
 
 <!--
 | <i class="fas fa-laptop"></i> | <a href="/assessments/project">Final Project Information (starting soon)</a> | Recommended |
 | <i class="fas fa-file-video"></i> | <a id="MHL08extra">L08 supplement</a>: RStudio GUI, importing data | Optional |
 -->
 
-<!---
+
 ## Workshop
 
+TO BE UPDATED
+
+<!---
 <p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
 
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
