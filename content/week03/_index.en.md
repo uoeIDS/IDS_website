@@ -25,6 +25,8 @@ Importing data from different files, and joining them to explore more variable r
 | 05  | Importing/Exporting Data | <span><a id = "lecture05"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL05">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 06  | Joining and Organising Data  | <span><a id = "lecture06"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL06">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
+| 06-supp  | Animation for join  | <span><a id = "lecture06-supp"><i class="fas fa-desktop fa-lg"/></a></span> |  |
+
 
 <br>
 <p  style="text-align: left"> 

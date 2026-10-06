@@ -863,6 +863,7 @@ try {DateRestrictLink(document.getElementById("GHL05"), "05 October 2026", "http
 try {DateRestrictLink(document.getElementById("lecture06"), "05 October 2026", "https://uoeids.github.io/slides/w03-L06/w03-L06.html");} catch { };
 try {DateRestrictLink(document.getElementById("GHL06"), "05 October 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w03-L06");} catch { };
 //try {DateRestrictLink(document.getElementById("MHL06"), "06 October 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-10-06T10:00:00.000_2022-10-06T10:55:00.000/classroom#sortDirection=desc");} catch { };
+ try {DateRestrictLink(document.getElementById("lecture06-supp"), "05 October 2026", "https://uoeids.github.io/labs/lab-02/dplyr-joins.html");} catch { };
 
 // week 4 lecture 07/08
 try {DateRestrictLink(document.getElementById("lecture07"), "12 October 2026", "https://uoeids.github.io/slides/w04-L07/w04-L07.html");} catch { };
