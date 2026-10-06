@@ -27,7 +27,7 @@ Importing data from different files, and joining them to explore more variable r
 
 |     |    |     |
 |:---:|:---|:---:|
-| <i class="fas fa-book"></i> | Animation for join: <a id="lecture06-supp"> Explore join functions</a> | Check! |
+| <i class="fas fa-laptop"></i> | Animation for join: <a id="lecture06-supp"> Explore join functions</a> | Check! |
 
 
 <br>
