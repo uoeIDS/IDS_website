@@ -70,15 +70,11 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 ## Workshop
 
-TO BE UPDATED
-
-<!---
 <p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
 
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
 | Lab02: Plastic Wasting | <li><a id="LAB2I">Instructions</a></li> <li><a id="LAB2R">Repository</a></li><li><a id="LAB2K">Solutions</a>(<a id="LAB2Kraw">Raw</a>)</li> |  Friday  |
--->
 
 <!--
 ## Assignment

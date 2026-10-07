@@ -1072,8 +1072,8 @@ try {DateRestrictLink(document.getElementById("LAB1K"), "03 October 2026", "http
 try {DateRestrictLink(document.getElementById("LAB1Kraw"), "03 October 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-01-key");} catch { };
 
 // lab 2 - Take a sad plot and make it better WEEK 03
-try {DateRestrictLink(document.getElementById("LAB2I"), "08 October 2026", "https://uoeids.github.io/labs/lab-02/lab-02.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB2R"), "08 October 2026", "https://github.com/uoeIDS/lab-02-template");} catch { };
+try {DateRestrictLink(document.getElementById("LAB2I"), "07 October 2026", "https://uoeids.github.io/labs/lab-02/lab-02.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB2R"), "07 October 2026", "https://github.com/uoeIDS/lab-02-template");} catch { };
 try {DateRestrictLink(document.getElementById("LAB2K"), "10 October 2026", "https://uoeIDS.github.io/labs/lab-02-key/lab-02-key.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB2Kraw"), "10 October 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-02-key");} catch { };
 
