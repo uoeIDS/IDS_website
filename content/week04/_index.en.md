@@ -15,7 +15,7 @@ hidden: no
   
 _Week 4_
 
-Uncertainty quantification and hypothesis testing with bootstrap.
+Uncertainty quantification and confidence interval with bootstrap.
 
 ## Lectures
 
@@ -27,12 +27,10 @@ Uncertainty quantification and hypothesis testing with bootstrap.
   <!-- | 08  | Hypothesis testing | <span><a id = "lecture08"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL08">Raw<i class="fab fa-fw fa-github"/></a></span> | -->
 
   <!-- IMPORTANT NOTE: uncomment the previous line if you want to bring back the table to its original two-row format (one of each lecture). It was removed because in 2025 we had an inclass test on Wednesday and we did not cover any slide material. -->
-  
-TO BE UPDATED
 
-<!--
+
 {{% notice warning %}}
-The in-class test will take place this week, during the Wednesday lecture.
+The in-class test will take place this week, during the Wednesday lecture between 11.10-12.00. Please read the related announcements and do your practice in advance!
 {{% /notice %}}
   
 <br>
@@ -60,7 +58,7 @@ If you have not completed the <em>first time setup instructions</em> found on th
 </ol>
 -->
 
-<!--
+
 ## Videos and readings
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
@@ -82,7 +80,6 @@ If you have not completed the <em>first time setup instructions</em> found on th
 |:---:|:---|:---:|
 -->
 
-<!--
 |    |    |    |
 |:--:|:---|:--:|
 | <i class="fas fa-book"></i> | IMS: <a id="IMS12">Chp 12 - Confidence intervals with bootstrapping</a> | **Required** |
@@ -93,15 +90,21 @@ If you have not completed the <em>first time setup instructions</em> found on th
 | <span style="color: red;"><i class="fab fa-youtube fa-lg" /></span> | <a id = "StatQuest_bootstrap">StatQuest: Bootstrapping main ideas</a> | Optional |
 
 <p style="text-align: left">**Note**: the ModernDive chapters are a longer read, but contains some useful details on how to use `tidyverse` for bootstrapping, so if you want to read more on the topic, we recommend you focus on Chapters 8.4.2, 8.4.3 and 8.5. Also, please note that the code examples in <a id="ISM3">Chapter 3 from ISM</a> rely on R packages different from the ones shown in class.</p>
- -->
+
 
 <!--| <i class="fas fa-chart-bar"></i> | <a id="wealth">Wealth Shown to Scale</a> | Optional |-->
 <!--| <i class="fas fa-chart-bar"></i> | <a id="COVIDvis">COVID-19 Data Visualisations</a> | Optional |-->
 <!--| <i class="fas fa-chart-bar"></i> | <a id="COVIDsymptom">COVID-19 Search Trends</a> | Optional |-->
 
-<!--
+## In-class test
+
+<span><p style="text-align: left"> The in-class test (`inclass-test-A`) will take place this week, during the Wednesday lecture. You can find more information about the assignment <a id="inclasstest">here</a>.</p></span>
+
 ## Workshop
 
+TO BE UPDATED
+
+<!--
 <p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
 
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
@@ -109,11 +112,6 @@ If you have not completed the <em>first time setup instructions</em> found on th
 | Lab03: critical use of genAI | <li><a id="LAB3I">Instructions</a></li> <li><a id="LAB3R">Repository</a></li><li><a id="LAB3K">Solutions</a>(<a id="LAB3Kraw">Raw</a>)</li> | Friday |
  -->
 
-<!--
-## In-class test
-
-<span><p style="text-align: left"> The in-class test (`inclass-test-A`) will take place this week, during the Wednesday lecture. You can find more information about the assignment <a id="inclasstest">here</a>.</p></span>
- -->
 
 <!-- ## Assignment
 

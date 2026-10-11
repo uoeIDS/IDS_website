@@ -3,7 +3,9 @@ title: In-Class Test
 weight: 1
 ---
 
-You will complete an In-Class Test during Week 4, on Wednesday, 14 October 2026. The test will be accessible on Learn during the scheduled lecture time, and you will have a fixed period to complete it. Please note that you must attend class in person to take the test; attendance will be recorded.
+You will complete an In-Class Test during Week 4, on Wednesday, 14 October 2026 between 11.10-12.00. **The test will be accessible on Learn during the scheduled lecture time, and you will have a fixed period to complete it**. *
+
+**Please note that you must attend class in person to take the test; attendance will be recorded.**
 
 This assessment is to be completed __individually__ and will be automatically marked on Learn.
 
