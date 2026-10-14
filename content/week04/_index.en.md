@@ -107,7 +107,7 @@ If you have not completed the <em>first time setup instructions</em> found on th
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
 | Lab03: critical use of genAI | <li><a id="LAB3I">Instructions</a></li> <li><a id="LAB3R">Repository</a></li><li><a id="LAB3K">Solutions</a>(<a id="LAB3Kraw">Raw</a>)</li> | Friday |
-| Lab03: GenAI usage for IDS | <li><a id="LAB3I-GenAI">GenAI Instructions</a></li> <li><a id="LAB3R-GenAI">Repository</a></li> | Friday |
+| GenAI usage for IDS | <li><a id="LAB3I-GenAI">GenAI Instructions</a></li> <li><a id="LAB3R-GenAI">Repository</a></li> | Friday |
 
 
 
