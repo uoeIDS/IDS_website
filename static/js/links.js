@@ -1077,11 +1077,15 @@ try {DateRestrictLink(document.getElementById("LAB2R"), "07 October 2026", "http
 try {DateRestrictLink(document.getElementById("LAB2K"), "10 October 2026", "https://uoeIDS.github.io/labs/lab-02-key/lab-02-key.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB2Kraw"), "10 October 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-02-key");} catch { };
 
-// lab 3 - Nobel Laureates WEEK 04
+// lab 3 - Critical use of GEnAI - OLD: Nobel Laureates WEEK 04
 try {DateRestrictLink(document.getElementById("LAB3I"), "15 October 2026", "https://uoeids.github.io/labs/lab-03/lab-03.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB3R"), "15 October 2026", "https://github.com/uoeIDS/lab-03-template");} catch { };
 try {DateRestrictLink(document.getElementById("LAB3K"), "17 October 2026", "https://uoeIDS.github.io/labs/lab-03-key/lab-03-key.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB3Kraw"), "17 October 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-03-key");} catch { };
+
+// GenAI guidance share in lab-03 - 2026 2027 academic year 
+try {DateRestrictLink(document.getElementById("LAB3I-GenAI"), "15 October 2026", "https://uoeids.github.io/labs/lab-GenAI/IDS-GenAI.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB3R-GenAI"), "15 October 2026", "https://github.com/uoeIDS/lab-03-template");} catch { };
 
 // lab 4 - Project WEEK 05 AND WEEK 06
 try {DateRestrictLink(document.getElementById("LAB4I"), "22 October 2026", "https://uoeids.github.io/labs/lab-04/lab-04.html");} catch { };
