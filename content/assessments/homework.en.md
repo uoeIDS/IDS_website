@@ -8,7 +8,7 @@ You will be assigned a larger programming task to complete in weeks 6 and 9, wit
 The homework assignments will be posted on the website in the week that they are set and a GitHub repo will be set up that you can fork. These assignments will be completed __individually__, and submitted via Gradescope. You will need to submit a html file, so make sure you knit your rmarkdown file before you submit it. 
 
 {{% notice tip %}}
-If you fork the template repository for your homework, make sure that you set it to private. If your completed homework can be accessed by others then you are responsible for any academic misconduct that might occur. Remember to add the course GitHub account `uoeIDS` as a collaborator so that we can easily address any technical difficulties.
+If you fork the template repository for your homework, make sure that you set it to private. If your completed homework can be accessed by others then you are responsible for any academic misconduct that might occur.
 {{% /notice %}}
 
 Solution keys to the assignments will be accessed one week after the stated deadline.
@@ -18,6 +18,8 @@ Please visit the [policies](https://uoe-ids.netlify.app/policies/#late-work-exte
 <!--
 {{% notice tip %}}
 Do the (optional) R tutorials which will introduce you to the datasets and topics covered in the homework assignments.
+
+Remember to add the course GitHub account `uoeIDS` as a collaborator so that we can easily address any technical difficulties.
 {{% /notice %}}
 -->
 
