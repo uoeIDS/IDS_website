@@ -1011,8 +1011,8 @@ try {DateRestrictLink(document.getElementById("OQ10"), "21 November 2022", "http
 // week 5 hw 02
  try {DateRestrictLink(document.getElementById("HW2I"), "19 October 2026", "https://uoeids.github.io/homework/hw-02/hw-02.html");} catch { };
  try {DateRestrictLink(document.getElementById("HW2R"), "19 October 2026", "https://github.com/uoeIDS/hw-02-template");} catch { };
-// try {DateRestrictLink(document.getElementById("HW2K"), "08 November 2025", "https://uoeIDS.github.io/homework/hw-02-key/hw-02-key.html");} catch { };
-// try {DateRestrictLink(document.getElementById("HW2Kraw"), "08 November 2025", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/homework/hw-02-key");} catch { };
+ try {DateRestrictLink(document.getElementById("HW2K"), "07 November 2026", "https://uoeIDS.github.io/homework/hw-02-key/hw-02-key.html");} catch { };
+ try {DateRestrictLink(document.getElementById("HW2Kraw"), "07 November 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/homework/hw-02-key");} catch { };
 
 // 2023 Homework 3 ////////////////////////////
 // week 10 hw 03

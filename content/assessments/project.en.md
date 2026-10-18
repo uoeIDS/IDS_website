@@ -97,9 +97,9 @@ For this, we recommend that you select one of the data sets listed below. Read a
 | 02   | [Link](https://www.opendata.nhs.scot/dataset/scottish-heart-disease-statistics) | Scottish heart disease statistics, Public Health Scotland |
 | 03   | [Link](https://www.opendata.nhs.scot/dataset/mental-health-inpatient-activity) | Mental health inpatient activity, Public Health Scotland |
 | 04   | [Link](https://www.scottishairquality.scot/data/data-selector) | Data on air pollutants in Scottish cities, Air Quality Scotland |
-| 05   | [Link](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) | House Prices, Kaggle |
+<!--| 05   | [Link](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) | House Prices, Kaggle | -->
 | 06   | [Link](https://www.ncdc.noaa.gov/cdo-web/search) | Precipitation and temperature measurements, National Centers for Environmental Information |
-| 07   | [Link](https://www.gov.uk/government/statistics/offender-management-statistics-quarterly-january-to-march-2023 ) | Prisoner population statistics (England & Wales), GOV.UK |
+<!-- | 07   | [Link](https://www.gov.uk/government/statistics/offender-management-statistics-quarterly-january-to-march-2023 ) | Prisoner population statistics (England & Wales), GOV.UK | -->
 | 08   | [Link](https://www.oecd.org/en/data/datasets/pisa-2022-database.html), [R package](https://cran.r-project.org/web/packages/learningtower/index.html) | PISA (Programme for International Student Assessment), OECD [download data using using R package] |
 | 09   | [Link](https://www.cdc.gov/nchs/nhanes/index.html), [R package](https://cran.r-project.org/web/packages/NHANES/index.html) | NHANES, CDC [download data using using R package] |
 | 10   | [Link](https://figshare.com/s/b990722d72a26b5bfead) | Bird morphological measurements, Ecology Letters  |
@@ -108,7 +108,15 @@ For this, we recommend that you select one of the data sets listed below. Read a
 <!-- | 08   | [Link](https://www.kaggle.com/datasets/mlandry/formula-e-championship) | Formula E championship data, Kaggle | -->
 <!-- | 09   | [Link](https://www.kaggle.com/datasets/gyanprakashkushwaha/laptop-price-prediction-cleaned-dataset ) | Laptop prices, Kaggle | -->
 
+### How to Choose your own data?
+
 It is advised that you select a data set from the list above. However, feel free to search the internet for alternative data sets. Some suggested online data resources can be found at [Kaggle](https://www.kaggle.com), [Scottish Government](https://statistics.gov.scot/data), [Public Health Scotland](https://www.opendata.nhs.scot/dataset), [UK Government](https://www.gov.uk/), [TidyTuesday](https://github.com/rfordatascience/tidytuesday), [World Bank](https://www.worldbank.org/en/home) and [UCI machine learning repository](https://archive.ics.uci.edu/). The dataset you select should have at least 200 rows and a mix of numerical and categorical variables. **Please check with the course organiser or a lecturer as to whether the data you select is feasible for your project**
+
+To decide whether a data set suitable or not, you can follow the given instructions here
+
+- [Steps for Finding a Dataset for Your Assignment](https://www.icpsr.umich.edu/sites/icpsr/teaching-learning/build-your-data-skills/how-to-find-a-dataset)
+
+This given suggestion list, is matching with what we are aiming in IDS generally 
 
 
 <!-- Added: end -->
