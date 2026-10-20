@@ -24,3 +24,5 @@ Do the (optional) R tutorials which will introduce you to the datasets and topic
 |`hw-03`| Model building and investigations (Wks 8--9) | <ul><li><a id="HW3I">Worksheet</a></li><li><a id="HW3R">Template Repo</a></li><li><a id="HW3K">Solutions</a> (<a id="HW3Kraw">Raw</a>)</li></ul> | Mon Wk 9 | Fri Wk 10, 22/Nov/2024 @16:00 GMT | -->
 
 Solution the in-class test will be available on Friday 23 October 2026.
+
+Solution [key for the inclass test is available via that link](https://uoeids.github.io/homework/inclass-test-key/Inclass-key.html)
