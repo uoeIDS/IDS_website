@@ -78,7 +78,7 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 | <div style="text-align:center"> </div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">info</div> | <div style="text-align:center">Additional</div> |
 |:---:|:---------------------|:--------:|:------|
-| Project: Proposal | <li><a id="project">Instructions</a></li> <li><a id="projectR_1">Repository</a></li>| Fri, 20 Oct, 16:00 UK |
+| Project: Proposal | <li><a id="projectEND">Instructions</a></li> <li><a id="projectR_1">Repository</a></li>| |
 
 <!--
 |:---|:---|:---|
