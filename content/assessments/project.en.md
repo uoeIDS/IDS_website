@@ -4,7 +4,6 @@ weight: 4
 draft: true
 ---
 
-::: {.content-hidden}
 You, as part of a __team__, will be responsible for the completion of an open ended final project for this course, the goal of which is to tackle an “interesting” real life problem using the tools and techniques covered in this class. 
 
 {{% notice tip %}}
@@ -17,8 +16,8 @@ Generally, your goal is to do something reasonable with the selected data set us
 
 1. **Data set Selection and Understanding**
 
-- Choose a data set from the given list.
-- Familiarize yourself with the data set: What kind of data does it contain? What are the attributes? What kind of questions can this data potentially answer?
+- Choose a data set from the given list that we suggested or find your own suitable data
+- Familiarize yourself with the data set: What kind of data does it contain? What are the attributes/variables? What kind of research questions can this data potentially answer?
 
 2. **Problem Definition**
 
@@ -54,7 +53,7 @@ The final project for this class will consist of analysis on a dataset of your o
 
 The **goal is not to do an exhaustive data analysis** i.e., do not calculate every statistic and procedure you have learned for every variable, but rather let us know that you are proficient at asking meaningful questions and answering them with results of data analysis, that you are proficient in using R, and that you are proficient at interpreting and presenting the results. Focus on methods that help you begin to answer your research questions. You do not have to apply every statistical procedure we learned. <!-- Added: start--> Ensure that you focus on the data that you are investigating and be cautious against over interpretation. <!-- Added: end --> Also, critique your own methods and provide suggestions for improving your analysis. Issues pertaining to the reliability and validity of your data, and appropriateness of the statistical analysis should be discussed here.
 
-**The project is very open ended**. You should create some kind of compelling visualization(s) of this data in R. There is no limit on what tools or packages you may use, but sticking to packages we learned in class (e.g. `tidyverse`) is advised. You do not need to visualize all of the data at once. 
+**The project is very open ended**. You should create some kind of compelling visualization(s) of this data in R. There is no limit on what tools or packages you may use, but sticking to packages we learned in class (e.g. `tidyverse`) is advised. You do not need to visualize all of the data at once. You should be selective in terms of which data viz is suitable for your narrative. 
 
 A single high quality visualization will contribute much more to a good mark than a large number of poor quality visualizations. Also pay attention to your presentation. Neatness, coherency, and clarity will count. All analyses must be done in RStudio, using R. You must also set up and use a GitHub repository to collaborate with your team. 
 
@@ -71,7 +70,7 @@ One member of your team should be responsible for managing the repository of you
 The project template repository can be found [HERE](https://github.com/uoeIDS/project_template) <!--<a id="project_template_repo">HERE</a> -->.
 <br>
 <br>
-You must add the course GitHub account (`uoeIDS`) as a collaborator to your GitHub repository, similar to the homework process.  
+You must add the course GitHub account (`uoeIDS`) as a collaborator to your GitHub repository, for future communication.  
 {{% /notice %}}
 <!-- Above 'project_template_repo' link does not work, doing a quick hard-code fix.  -->
 
@@ -88,7 +87,7 @@ The list of recommended dataset has been temporarily removed while it gets final
 
 <!-- Added: start -->
 
-For this, we recommend that you select one of the data sets listed below. Read all of the data descriptions and select **one** that interests you the most:
+For this, we recommend that you select one of the data sets listed below (not an exhaustive list for sure). Read all of the data descriptions and select **one** that interests you the most. That list can be revisited at the beginning of the project starts, so if there is any update, you will be heard. 
 
 
 | ID | Link | Description |
@@ -98,26 +97,30 @@ For this, we recommend that you select one of the data sets listed below. Read a
 | 03   | [Link](https://www.opendata.nhs.scot/dataset/mental-health-inpatient-activity) | Mental health inpatient activity, Public Health Scotland |
 | 04   | [Link](https://www.scottishairquality.scot/data/data-selector) | Data on air pollutants in Scottish cities, Air Quality Scotland |
 <!--| 05   | [Link](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) | House Prices, Kaggle | -->
-| 06   | [Link](https://www.ncdc.noaa.gov/cdo-web/search) | Precipitation and temperature measurements, National Centers for Environmental Information |
+| 05   | [Link](https://www.ncdc.noaa.gov/cdo-web/search) | Precipitation and temperature measurements, National Centers for Environmental Information |
 <!-- | 07   | [Link](https://www.gov.uk/government/statistics/offender-management-statistics-quarterly-january-to-march-2023 ) | Prisoner population statistics (England & Wales), GOV.UK | -->
-| 08   | [Link](https://www.oecd.org/en/data/datasets/pisa-2022-database.html), [R package](https://cran.r-project.org/web/packages/learningtower/index.html) | PISA (Programme for International Student Assessment), OECD [download data using using R package] |
-| 09   | [Link](https://www.cdc.gov/nchs/nhanes/index.html), [R package](https://cran.r-project.org/web/packages/NHANES/index.html) | NHANES, CDC [download data using using R package] |
-| 10   | [Link](https://figshare.com/s/b990722d72a26b5bfead) | Bird morphological measurements, Ecology Letters  |
-| 11   | [Link](https://archive.ics.uci.edu/dataset/183/communities+and+crime) | Communities and Crime, UCI  |
-<!-- | 05   | [Link](https://ssd.jpl.nasa.gov/tools/sbdb_query.html) | Small-Body Database of asteroids and comets, NASA | -->
-<!-- | 08   | [Link](https://www.kaggle.com/datasets/mlandry/formula-e-championship) | Formula E championship data, Kaggle | -->
-<!-- | 09   | [Link](https://www.kaggle.com/datasets/gyanprakashkushwaha/laptop-price-prediction-cleaned-dataset ) | Laptop prices, Kaggle | -->
+| 06   | [Link](https://www.oecd.org/en/data/datasets/pisa-2022-database.html), [R package](https://cran.r-project.org/web/packages/learningtower/index.html) | PISA (Programme for International Student Assessment), OECD [download data using using R package] |
+| 07   | [Link](https://www.cdc.gov/nchs/nhanes/index.html), [R package](https://cran.r-project.org/web/packages/NHANES/index.html) | NHANES, CDC [download data using using R package] |
+| 08   | [Link](https://figshare.com/s/b990722d72a26b5bfead) | Bird morphological measurements, 
+Ecology Letters  |
+| 09   | [Link](https://archive.ics.uci.edu/dataset/183/communities+and+crime) | Communities and Crime, UCI  |
+| 10   | [Link](https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators) | CDC Diabetes Health Indicators |
+| 11   | [Link](https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand) | Seoul Bike Sharing Demand |
+| 12   | [Link](https://www.kaggle.com/datasets/mojtaba142/hotel-booking) | Hotel booking demand datasets |
+| 13   | [Link](https://www.openintro.org/data/index.php?data=ames) | Housing prices in Ames, Iowa |
+| 14   | [Link](https://archive.ics.uci.edu/dataset/222/bank+marketing) | Bank Marketing |
+| 15   | [Link](https://www.kaggle.com/datasets/mirichoi0218/insurance) | Medical Cost Personal Datasets |
 
 ### How to Choose your own data?
 
-It is advised that you select a data set from the list above. However, feel free to search the internet for alternative data sets. Some suggested online data resources can be found at [Kaggle](https://www.kaggle.com), [Scottish Government](https://statistics.gov.scot/data), [Public Health Scotland](https://www.opendata.nhs.scot/dataset), [UK Government](https://www.gov.uk/), [TidyTuesday](https://github.com/rfordatascience/tidytuesday), [World Bank](https://www.worldbank.org/en/home) and [UCI machine learning repository](https://archive.ics.uci.edu/). The dataset you select should have at least 200 rows and a mix of numerical and categorical variables. **Please check with the course organiser or a lecturer as to whether the data you select is feasible for your project**
+It is advised that you select a data set from the list above. However, feel free to search the internet for alternative data sets. Some suggested online data resources can be found at [Kaggle](https://www.kaggle.com), [Scottish Government](https://statistics.gov.scot/data), [Public Health Scotland](https://www.opendata.nhs.scot/dataset), [UK Government](https://www.gov.uk/), [TidyTuesday](https://github.com/rfordatascience/tidytuesday), [World Bank](https://www.worldbank.org/en/home) and [UCI machine learning repository](https://archive.ics.uci.edu/). OR some data-focused repos such as 
+[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
-To decide whether a data set suitable or not, you can follow the given instructions here
+- The dataset you select should have at least 100 rows (after removing the missing values if there is any) and a mix of numerical and categorical variables. **Please check with the course organiser or a lecturer as to whether the data you select is feasible for your project**
+
+To decide whether a data set suitable or not, you can use the given instructions here. This is generally matching with what we are aiming in IDS generally.
 
 - [Steps for Finding a Dataset for Your Assignment](https://www.icpsr.umich.edu/sites/icpsr/teaching-learning/build-your-data-skills/how-to-find-a-dataset)
-
-This given suggestion list, is matching with what we are aiming in IDS generally 
-
 
 <!-- Added: end -->
 
@@ -161,27 +164,29 @@ LIST must be updated
 
 <!-- 1. Proposal     - discussion with your tutor in the workshop (Week6 - Friday 27 October) -->
 
-1. Check-in     - Discussion with a tutor in the workshop (Week 6 - Friday 24 October and Week 9 - Friday 14 November) <!-- edit -->
-1. Presentation    - On Friday 28 November (during your workshop session)
-1. Report & Presentation Slides - Due Monday 1 December @ 10:00 GMT
-1. Peer Evaluation - Due Monday 1 December @ 10:00 GMT
+1. Check-in     - Discussion with a tutor in the workshop (Week 7 - Friday 6 November and Week 10 - Friday 27 November) <!-- edit --> In your second check-in, it will be kind of rehearsal for your original presentation. This means, you need to make a real progress and then get your draft until week 10. 
+1. Presentation    - On Friday 4 December (during your workshop session)
+1. Report & Presentation Slides - Due Monday 7 December @ 10:00 GMT
+1. Peer Evaluation - Due Monday 7 December @ 10:00 GMT
 
 <!-- Added -->
 
 ### Check-in
 
-The two 'check-in' points are not assessed and do not count towards your final grade. A check-in will consist of a discussion with a tutor to receive feedback on your current progress and on your future plans. We highly recommend that you put in some effort into preparing for these check-in discussions so that your check-in discussion runs smoothly and that you receive as much feedback as possible.
+The first 'check-in' points is not assessed and do not count towards your final grade. A check-in will consist of a discussion with a tutor to receive feedback on your current progress and on your future plans. We highly recommend that you put in some effort into preparing for these check-in discussions so that your check-in discussion runs smoothly and that you receive as much feedback as possible.
+
+The second 'check-in' has small marking that counts towards your final grade. The further details will be shared later on regarding its contribution, and how it can be organized. 
 
 **You can add any feedback and suggestions you receive from your tutor for you to refer back to in the future in your project_template *README.md* file**
 
 
-- **Week 6**: You should demonstrate that you have a basic understanding of the data you have selected and have made initial steps in cleaning, summarising and visualising your data. We will be looking to understand whether you have a clear problem statement and that you have a plan as to how you would explore the data to answer your statement.
+- **Week 7**: You should demonstrate that you have a basic understanding of the data you have selected and have made initial steps in cleaning, summarising and visualising your data. We will be looking to understand whether you have a clear problem statement and that you have a plan as to how you would explore the data to answer your statement.
 
 
-- **Week 9**: At this stage, you should be able to demonstrate a reasonable understanding of your data and to make some comments in relation to your problem statement, and thinking carefully about what type of model to use. We will be looking to see if your plans are appropriate and reasonable to be completed within the last two week, and that you have thought carefully about your presentation and report.
+- **Week 10**: At this stage, you should be able to demonstrate a reasonable understanding of your data and to make some comments in relation to your problem statement and your findings, based on carefully implemented type of model. We will be looking to see if you had some draft materials for your presentation before the presentation day on week 11, including remaining plans for the presentation and report.
 
 
-**It is important to NOT miss these workshops for the health of your final group project.**
+**It is important to NOT miss these workshops for the health of your final group project. Especially, for the week 10, at least one group member should show up for the second check-in**
 
 <!-- Delete -->
 <!--
@@ -222,10 +227,10 @@ You will need to prepare a slide deck using the template in the repo. There isn'
 Each team member should get a chance to speak during the presentation. Your presentation should not just be an account of everything you tried ("then we did this, then we did this, etc."), instead it **should convey what choices you made, and why, and what you found**.
 
 {{% notice tip %}}
-Before you finalize your presentation, make sure your code chunks are turned off (not displaying the code) with `echo = FALSE`.
+Before you finalize your presentation, make sure your code chunks are turned off (not displaying the code) with `echo = FALSE` in your presentetation .Rmd file content. 
 {{% /notice %}}
 
-Presentation schedule: Presentations will take place during the last workshop of the semester (28 November). All teams will give them as a live presentation in the workshop. During your workshop you will watch presentations from other teams in your workshop and will be able to ask questions at the end. The presentation line-up will be generated randomly, later during the semester.
+Presentation schedule: Presentations will take place during the last workshop of the semester (4 December). All teams will give them as a live presentation in the workshop. During your workshop you will watch presentations from other teams in your workshop and will be able to ask questions at the end. The presentation line-up will be generated randomly, later during the semester.
 
 #### Report
 
@@ -239,7 +244,7 @@ This report should provide information on;
 - the dataset you're using, 
 - your research question(s), 
 - your methodology, 
-- and your findings. 
+- and your findings and related discussion. 
 
 <!-- Following notice box has been moved to be earlier  -->
 <!--
@@ -256,7 +261,12 @@ To find the word count of your report, ensure that you have your report `.Rmd` f
 ### Team peer evaluation
 
 You will be asked to fill out a survey where you rate the contribution and teamwork of each team member. 
-This will be used to calculate an individual mark for each team member, so that it reflects their contribution to the project. The score calculated by the peer assessment will affect 30% of the mark (multiplicatively). More information on how the final individual mark is calculated can be found [here](https://webpaproject.lboro.ac.uk/WorkedExample).
+This will be used to calculate an individual mark for each team member, so that it reflects their contribution to the project. The score calculated by the peer assessment will affect 30% of the mark (multiplicatively). 
+
+<!--
+More information on how the final individual mark is calculated can be found [here](https://webpaproject.lboro.ac.uk/WorkedExample).
+-->
+
 If you do not complete this peer feedback for all members of your team, you will receive a penalty of 20% off your mark. Note that you will need to provide an explanation for each score, in particular for any score of "No contribution" or "Very poor". Remember that the teaching team will be able to use your project's commit history to assess the accuracy and validity of any strong statements made in the peer assessment.
 
 
@@ -270,9 +280,11 @@ When completing the peer evaluation, if you are suggesting that an individual di
 <!-- Reduced percentage from 20% to 10% as there are some groups with 5 members -->
 {{% /notice %}}
 
-This survey will be available on WebPA, accessible via the course Learn page (Learn > Assessment > WebPA). 
+- This survey will be available on the course Learn page later. 
 
-- The deadline for the peer evaluation is Monday 1st December, @ 10:00 GMT.
+<!-- This survey will be available on WebPA, accessible via the course Learn page (Learn > Assessment > WebPA). --> 
+
+- The deadline for the peer evaluation is Monday 7st December, @ 10:00 GMT.
 
 ## Project Repository structure
 
@@ -289,15 +301,15 @@ This is a template repository for your group project. One of your group members 
 
 ### Submission and GitHub repository
 
-You will need to submit your project report to Learn (Learn > Assessment > Gradescope > Final project - team) by Monday 1 December:
+You will need to submit your project report to Learn (Learn > Assessment > Gradescope > Final project - team) by Monday 7 December:
 
 * A `.html` version of your report (including a link to the GitHub repository) by 10:00
 * A `.html` version of your presentation by 10:00.
-* Your team peer evaluation (under peer evaluation on Gradescope) by 1 December at 10:00 at latest.
+* Your team peer evaluation (under peer evaluation on Gradescope) by 7 December at 10:00 at latest.
 
 Only _one_ member of your team should submit the report and presentation to Learn. This person will need to add the other team members from the drop down menu that appears under  _View or edit group_ after uploading the files and viewing the submission. Everyone should submit the peer evaluation individually. 
 
-As explained above, you _must_ also add the course GitHub account (username: uoeIDS) to your team GitHub repository by the time of the deadline. 
+**As explained above, you _must_ also add the course GitHub account (username: uoeIDS) to your team GitHub repository by the time of the deadline.** 
 
 We expect your GitHub repository to contain the following folders and files:
 
@@ -313,7 +325,7 @@ We expect your GitHub repository to contain the following folders and files:
 Style and format does count for this assignment, so please take the time to make sure everything looks good and your data and code are properly formatted.
 <br>
 <br>
-There are also 10pts available for reproducibility and organisation - the marks for this will be based on your GitHub repository so make sure you include this.
+There are also 5pts available for reproducibility and organisation - the marks for this will be based on your GitHub repository so make sure you include this.
 {{% /notice %}}
 
 ### Tips
@@ -338,19 +350,22 @@ Total                          | 100 pts
 -------------------------------|--------
 Presentation                   | 50 pts
 Report ( * )                       | 40 pts
-Reproducibility and organization ( * ) | 10 pts
+Reproducibility and organization ( * ) | 5 pts
+Second check-in | 5 pts
 
 ( * ) These two marks are readjusted using the peer evaluation and the webPA formula. 
 
 First the Report and Reproducibility marks are calculated at the team level. The individual mark is then calculated as: `(1-0.30) * (Report + Reproducibility) + 0.30 * individual_webPA_score * (Report + Reproducibility)`, where `0.30` is the webPA weighting (how much it affects the mark multiplicatively, i.e. 30%), and `individual_webPA_score` is calculated by webPA software (see the [worked example](https://webpaproject.lboro.ac.uk/WorkedExample) for further information).
-Finally, the Presentation mark is added to this score to obtain the final (individual) mark, out of 100.
+Finally, the Presentation and Second check-in mark is added to this score to obtain the final (individual) mark, out of 100.
 
+<!-- 
 ### Criteria
 
 - **Content:** What is the quality of research question and/or policy question, and the relevancy of data to that question/those questions?
 - **Correctness:** Are statistical procedures carried out and explained correctly?
 - **Writing and Presentation:** What is the quality of the statistical presentation, writing, and explanations?
 - **Creativity and Critical Thought:** Is the project carefully thought out? Are the limitations carefully considered? Does it appear that time and effort went into the planning and implementation of the project?
+-->
 
 ### Late work policy
 
@@ -359,5 +374,4 @@ Finally, the Presentation mark is added to this score to obtain the final (indiv
 
 - Late submissions are not accepted for the written component of the project, but extensions are permitted (up to 4 days).
 <!-- The late work accepted for the written component of the project up to 4 days after the deadline, with 5% penalty for each 24 hours late. -->
-:::
 

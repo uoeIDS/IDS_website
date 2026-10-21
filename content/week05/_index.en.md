@@ -64,13 +64,10 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 ## Workshop
 
-TO BE UDPATED 
+<p style="text-align: left"> In this week's workshop you will begin on your group projects. This will be the first exploration stage for the project start. It is crucial to finalize the your groups during this week's workshop. You will find all the information you will need about the group projects <a id="projectEND">here</a>. </p>
 
-<!--
-<p style="text-align: left"> In this week's workshop you will begin on your group projects. You will find all the information you will need about the group projects <a id="projectEND">here</a>. </p>
+<p style="text-align: left"> In week 7, you will have the first 'check-in' discussion with a tutor. As such, it is highly recommended that you arrange a group meeting before the next workshop to discuss your data, perform some preliminary investigations and to think of a problem statement.</p>
 
-<p style="text-align: left"> Next week you will have a 'check-in' discussion with a tutor. As such, it is highly recommended that you arrange a group meeting before the next workshop to discuss your data, perform some preliminary investigations and to think of a problem statement.</p>
--->
 
 
 <!--
@@ -87,7 +84,7 @@ TO BE UDPATED
 
 -->
 
-<!--| Project: Proposal | <li><a id="project">Instructions</a></li> <li><a id="projectR">Repository</a></li>| Fri, 20 Oct, 16:00 UK |-->
+| Project: Proposal | <li><a id="project">Instructions</a></li> <li><a id="projectR_1">Repository</a></li>| Fri, 20 Oct, 16:00 UK |
 
 <!--
 ## Assignments
