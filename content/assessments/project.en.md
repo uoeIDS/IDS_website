@@ -98,8 +98,7 @@ For this, we recommend that you select one of the data sets listed below (not an
 | 05   | [Link](https://www.ncdc.noaa.gov/cdo-web/search) | Precipitation and temperature measurements, National Centers for Environmental Information |
 | 06   | [Link](https://www.oecd.org/en/data/datasets/pisa-2022-database.html), [R package](https://cran.r-project.org/web/packages/learningtower/index.html) | PISA (Programme for International Student Assessment), OECD [download data using using R package] |
 | 07   | [Link](https://www.cdc.gov/nchs/nhanes/index.html), [R package](https://cran.r-project.org/web/packages/NHANES/index.html) | NHANES, CDC [download data using using R package] |
-| 08   | [Link](https://figshare.com/s/b990722d72a26b5bfead) | Bird morphological measurements, 
-Ecology Letters  |
+| 08   | [Link](https://figshare.com/s/b990722d72a26b5bfead) | Bird morphological measurements, Ecology Letters  |
 | 09   | [Link](https://archive.ics.uci.edu/dataset/183/communities+and+crime) | Communities and Crime, UCI  |
 | 10   | [Link](https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators) | CDC Diabetes Health Indicators |
 | 11   | [Link](https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand) | Seoul Bike Sharing Demand |
