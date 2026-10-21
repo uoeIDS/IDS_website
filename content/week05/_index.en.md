@@ -64,10 +64,19 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 ## Workshop
 
-<p style="text-align: left"> In this week's workshop you will begin on your group projects. This will be the first exploration stage for the project start. It is crucial to finalize the your groups during this week's workshop. You will find all the information you will need about the group projects <a id="projectEND">here</a>. </p>
+<p style="text-align: left"> In this week's workshop you will begin on your group projects. This will be the first exploration stage for the project start. It is crucial to finalize the your groups during this week's workshop. You will find all the information you will need about the group projects <a id="projectEND">HERE</a>. </p>
+
+You can find the project repo from here, <a id="projectR_1">Repository</a>
 
 <p style="text-align: left"> In week 7, you will have the first 'check-in' discussion with a tutor. As such, it is highly recommended that you arrange a group meeting before the next workshop to discuss your data, perform some preliminary investigations and to think of a problem statement.</p>
 
+<!--
+Below there is optional initial data viz exercises that you can explore, after project kick-off. 
+
+| <div style="text-align:center"> </div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">info</div> | <div style="text-align:center">Additional</div> |
+|:---:|:---------------------|:--------:|:------|
+| Lab04: Data Viz Exercise| <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li><li><a id="LAB1K">Solutions</a>(<a id="LAB1Kraw">Raw</a>)</li> | Friday |
+|-->
 
 
 <!--
@@ -75,10 +84,6 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 <!--
 | <div style="width:300px;text-align:left">Laboratory Title</div> | <div style="width:170px;text-align:left">Links</div> | <div style="width:180px;text-align:left">Date</div> |-->
-
-| <div style="text-align:center"> </div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">info</div> | <div style="text-align:center">Additional</div> |
-|:---:|:---------------------|:--------:|:------|
-| Project: Proposal | <li><a id="projectEND">Instructions</a></li> <li><a id="projectR_1">Repository</a></li>| |
 
 <!--
 |:---|:---|:---|
