@@ -1118,9 +1118,9 @@ try {DateRestrictLink(document.getElementById("LAB5Kraw"), "31 October 2026", "h
 
 //try {DateRestrictLink(document.getElementById("project_1"), "22 October 2025", "https://uoeids.github.io/labs/lab-05/lab-05-proposal.html");} catch { };
 
-try {DateRestrictLink(document.getElementById("projectR_1"), "21 October 2026", "https://github.com/uoeIDS/project_template");} catch { };
+try {DateRestrictLink(document.getElementById("projectR_1"), "23 October 2026", "https://github.com/uoeIDS/project_template");} catch { };
 
-try {DateRestrictLink(document.getElementById("projectEND"), "21 December 2026", "/assessments/project");} catch { };
+try {DateRestrictLink(document.getElementById("projectEND"), "23 October 2026", "/assessments/project");} catch { };
 
 //try {DateRestrictLink(document.getElementById("feedback_1"), "24 October 2025", "https://uoeids.github.io/labs/lab-05/9amworkshop.html");} catch { };
 
