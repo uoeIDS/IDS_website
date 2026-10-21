@@ -70,13 +70,11 @@ You can find the project repo from here, <a id="projectR_1">Repository</a>
 
 <p style="text-align: left"> In week 7, you will have the first 'check-in' discussion with a tutor. As such, it is highly recommended that you arrange a group meeting before the next workshop to discuss your data, perform some preliminary investigations and to think of a problem statement.</p>
 
-<!--
 Below there is optional initial data viz exercises that you can explore, after project kick-off. 
 
-| <div style="text-align:center"> </div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">info</div> | <div style="text-align:center">Additional</div> |
+| <div style="text-align:center"> Laboratory Title </div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">info</div> | <div style="text-align:center">Additional</div> |
 |:---:|:---------------------|:--------:|:------|
-| Lab04: Data Viz Exercise| <li><a id="LAB1I">Instructions</a></li> <li><a id="LAB1R">Repository</a></li><li><a id="LAB1K">Solutions</a>(<a id="LAB1Kraw">Raw</a>)</li> | Friday |
-|-->
+| Lab04: Data Viz Exercise| <li><a id="LAB4I">Instructions</a></li> <li><a id="LAB4R">Repository</a></li> | Friday |
 
 
 <!--
