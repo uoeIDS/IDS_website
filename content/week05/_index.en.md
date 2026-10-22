@@ -66,18 +66,16 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 <p style="text-align: left"> In this week's workshop you will begin on your group projects. This will be the first exploration stage for the project start. It is crucial to finalize the your groups during this week's workshop. 
 
-- Regarding the project details, you will find all the information that you need about the group projects from <a id="projectEND">HERE</a>. </p>
-
-- To work on the project collaboratively, you can find the project repo from that, <a id="projectR_1">Repository</a>
+<p style="text-align: left"> Regarding the project details, you will find all the information that you need about the group projects from <a id="projectEND">HERE</a>. </p>. To work on the project collaboratively, you can find the project repo from that, <a id="projectR_1">Repository</a>
 
 
 ### Group Assignments
 
-For checking the group you joined so far, please see the details of [the created group from learn page](https://www.learn.ed.ac.uk/ultra/courses/_136348_1/groups) and let us know if you see any issues about the allocation. If you have not joined any group so far, please talk with your tutor and find some peers to work together during the workshop session. We will create new groups based on these updates that we have. 
+<p style="text-align: left"> For checking the group you joined so far, please see the details of [the created group from learn page](https://www.learn.ed.ac.uk/ultra/courses/_136348_1/groups) and let us know if you see any issues about the allocation. If you have not joined any group so far, please talk with your tutor and find some peers to work together during the workshop session. We will create new groups based on these updates that we have. 
 
 <p style="text-align: left"> In week 7, you will have the first 'check-in' discussion with a tutor. As such, it is highly recommended that you arrange a group meeting before the next workshop to discuss your data, perform some preliminary investigations and to think of a problem statement.</p>
 
-Below there is optional initial data viz exercises that you can explore, after project kick-off. You can work on those after the workshop still as extra exercise questions. 
+<p style="text-align: left"> Below there is optional initial data viz exercises that you can explore, after project kick-off. You can work on those after the workshop still as extra exercise questions. 
 
 | <div style="text-align:center"> Laboratory Title </div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">info</div> | <div style="text-align:center">Additional</div> |
 |:---:|:---------------------|:--------:|:------|
