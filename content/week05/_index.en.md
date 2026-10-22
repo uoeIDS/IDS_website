@@ -69,9 +69,11 @@ Lecture recordings are only available for IDS students via the University of Edi
 <p style="text-align: left"> Regarding the project details, you will find all the information that you need about the group projects from <a id="projectEND">HERE</a>. </p>. To work on the project collaboratively, you can find the project repo from that, <a id="projectR_1">Repository</a>
 
 
-### Group Assignments
+## Group Assignments
 
-<p style="text-align: left"> For checking the group you joined so far, please see the details of [the created group from learn page](https://www.learn.ed.ac.uk/ultra/courses/_136348_1/groups) and let us know if you see any issues about the allocation. If you have not joined any group so far, please talk with your tutor and find some peers to work together during the workshop session. We will create new groups based on these updates that we have. 
+<p style="text-align: left"> For checking the group you joined so far, please see the details from below link and let us know if you see any issues about the allocation. If you have not joined any group so far, please talk with your tutor and find some peers to work together during the workshop session. We will create new groups based on these updates that we have.
+
+[the created group from learn page](https://www.learn.ed.ac.uk/ultra/courses/_136348_1/groups)
 
 <p style="text-align: left"> In week 7, you will have the first 'check-in' discussion with a tutor. As such, it is highly recommended that you arrange a group meeting before the next workshop to discuss your data, perform some preliminary investigations and to think of a problem statement.</p>
 
