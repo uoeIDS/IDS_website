@@ -493,7 +493,7 @@ try {document.getElementById("tidy_main").href = "https://cran.r-project.org/web
 try {document.getElementById("YT_Computerphile_time").href = "https://www.youtube.com/watch?v=-5wpm-gesOY";} catch { };
 
 // Wk4
-try {document.getElementById("DV3").href = "https://socviz.co/makeplot.html";} catch { };		// Data Visualisation: Chapter 3
+try {document.getElementById("DV3").href = "https://socviz.co/03-ggplot-basics.html";} catch { };		// Data Visualisation: Chapter 3
 try {document.getElementById("LayeredGG").href = "http://vita.had.co.nz/papers/layered-grammar.pdf";} catch { };
 try {document.getElementById("YT_BBC_Joy").href = "https://www.youtube.com/watch?v=jbkSRLYSojo";} catch { };
 try {document.getElementById("YT_TedEd_Missrepresentation").href = "https://www.youtube.com/watch?v=E91bGT9BjYk";} catch { };
