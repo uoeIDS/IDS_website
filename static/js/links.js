@@ -1089,11 +1089,11 @@ try {DateRestrictLink(document.getElementById("LAB3Kraw"), "17 October 2026", "h
 try {DateRestrictLink(document.getElementById("LAB3I-GenAI"), "15 October 2026", "https://uoeids.github.io/labs/lab-GenAI/IDS-GenAI.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB3R-GenAI"), "15 October 2026", "https://github.com/uoeIDS/lab-03-template");} catch { };
 
-// lab 4 - Project WEEK 05 AND WEEK 06
+// lab 4 - Project and data viz for WEEK 05
 try {DateRestrictLink(document.getElementById("LAB4I"), "22 October 2026", "https://uoeids.github.io/labs/lab-04/lab-04.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB4R"), "22 October 2026", "https://github.com/uoeIDS/lab-04-template");} catch { };
-// try {DateRestrictLink(document.getElementById("LAB4K"), "24 October 2026", "https://uoeIDS.github.io/labs/lab-04-key/lab-04-key.html");} catch { };
-// try {DateRestrictLink(document.getElementById("LAB4Kraw"), "24 October 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-04-key");} catch { };
+try {DateRestrictLink(document.getElementById("LAB4K"), "24 October 2026", "https://uoeIDS.github.io/labs/lab-04/lab-04-key.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB4Kraw"), "24 October 2026", "https://github.com/uoeIDS/uoeIDS.github.io/blob/main/labs/lab-04/lab-04-key.Rmd");} catch { };
 
 // try {DateRestrictLink(document.getElementById("project_template_repo"), "22 October 2026", "https://github.com/uoeIDS/project_template");} catch { };
 

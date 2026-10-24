@@ -81,7 +81,7 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 | <div style="text-align:center"> Laboratory Title </div> | <div style="text-align:left">Title</div> |  <div style="text-align:center">info</div> | <div style="text-align:center">Additional</div> |
 |:---:|:---------------------|:--------:|:------|
-| Lab04: Data Viz Exercise| <li><a id="LAB4I">Instructions</a></li> <li><a id="LAB4R">Repository</a></li> | Friday |
+| Lab04: Data Viz Exercise| <li><a id="LAB4I">Instructions</a></li> <li><a id="LAB4R">Repository</a></li> <li><a id="LAB4K">Solutions</a>(<a id="LAB4Kraw">Raw</a>)</li> | Friday |
 
 
 <!--
