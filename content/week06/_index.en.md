@@ -26,9 +26,7 @@ Data visualization (part 2), interpretation of graphical information and tips fo
   | 11  | Types of visualisations | <span><a id = "lecture11"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL11">Raw<i class="fab fa-fw fa-github"/></a></span> |
   | 12  | Effective Data Visualisation  | <span><a id = "lecture12"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL12">Raw<i class="fab fa-fw fa-github"/></a></span> |
   
-TO BE UPDATED
 
-<!--
   <br>
 <p  style="text-align: left"> 
 <font size=4pt><b>Lecture Recordings</b></font>
@@ -39,19 +37,17 @@ TO BE UPDATED
 Lecture recordings are only available for IDS students via the University of Edinburgh virtual learning environment. To access the recordings, go to the Introduction to Data Science area on LEARN ULTRA and select <em>Lecture Recordings</em>  under the <em>Course Content</em> section. This will open <em>echovideo</em> where you will find a list of all lecture recordings to watch once they become available. 
 
 </p>
--->
 
-<!--
+
 ## Tasks
 
 <ol>
 <li>Watch the <a href="#videos and reading">Videos and reading</a>.</li>
 <li>Attend the <a href="#workshop">workshop</a>.</li>
-  <li>Complete the <a href="#assignment">Assignments</a>.</li>
+<li>Complete the <a href="#assignment">Assignments</a>.</li>
 </ol>
--->
 
-<!--
+
 ## Videos and reading
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
@@ -61,12 +57,15 @@ Lecture recordings are only available for IDS students via the University of Edi
 | <i class="fas fa-book"></i> | R4DS: <a id="R4DS7">Chp 7 - Exploratory data analysis</a> | **Required** |
 | <i class="fas fa-book"></i> | IMS: <a id="IMS6">Chp 6 - Applications: Explore</a> | **Required** |
 | <i class="fab fa-readme"></i> | <a id="LayeredGG">A Layered Grammar of Graphics</a> | Optional |
-| <i class="fas fa-laptop"></i> | <a id="data2viz">From data to viz</a> | Optional (**new**) | 
-| <i class="fab fa-readme"></i> | <a id="RSdatavis">Royal Society Data Viz guide</a> | Optional (**new**) |
--->
+| <i class="fas fa-laptop"></i> | <a id="data2viz">From data to viz</a> | **Required** | 
+| <i class="fab fa-readme"></i> | <a id="RSdatavis">Royal Society Data Viz guide</a> | Optional |
+
+
+## Workshop
+
+TO BE UPDATED
 
 <!--
-## Workshop
 
 <p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
 
