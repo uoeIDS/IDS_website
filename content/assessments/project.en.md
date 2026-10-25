@@ -107,7 +107,7 @@ For this, we recommend that you select one of the data sets listed below (not an
 | 14   | [Link](https://archive.ics.uci.edu/dataset/222/bank+marketing) | Bank Marketing |
 | 15   | [Link](https://www.kaggle.com/datasets/mirichoi0218/insurance) | Medical Cost Personal Datasets |
 
-{{% notice tip %}}
+{{% notice warning %}}
 Note that for the Seoul Bike data set, you may face with issue on .csv file to import in Rstudio, getting some errors about the file type. You can open the .csv file, save the same file as .xlsx and the import as excel file. That is tested and worked last time!
 {{% /notice %}}
 
