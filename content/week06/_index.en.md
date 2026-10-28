@@ -63,18 +63,15 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 ## Workshop
 
-TO BE UPDATED
-
-<!--
-
 <p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
 
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
-| Lab06: Take a sad plot and make it better | <li><a id="LAB5I">Instructions</a></li> <li><a id="LAB5R">Repository</a></li><li><a id="LAB5K">Solutions</a>(<a id="LAB5Kraw">Raw</a>)</li> | Friday |
+| Lab06: Halloween candies & Data Viz Improvement | <li><a id="LAB5I">Instructions</a></li> <li><a id="LAB5R">Repository</a></li><li><a id="LAB5K">Solutions</a></li> | Friday |
 
+<!---
 <p style="text-align: left"> During the workshop you will have your first project 'check-in' with a tutor. You should demonstrate that you have a basic understanding of the data you have selected and have made initial steps in cleaning, summarising and visualising your data. We will be looking to understand whether you have a clear problem statement and that you have a plan as to how you would explore the data to answer your statement.</p>
--->
+--->
 
 <!---
 <p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
