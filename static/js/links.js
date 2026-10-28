@@ -1109,8 +1109,8 @@ try {DateRestrictLink(document.getElementById("projectEND"), "21 October 2026", 
 
 // lab 5 - week 6 (2025)
 // NOTE: i placed lab-05 material in lab-06 folders and repos
-try {DateRestrictLink(document.getElementById("LAB5I"), "29 October 2026", "https://uoeids.github.io/labs/lab-06/lab-05.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB5R"), "29 October 2026", "https://github.com/uoeIDS/lab-06-template");} catch { };
+try {DateRestrictLink(document.getElementById("LAB5I"), "28 October 2026", "https://uoeids.github.io/labs/lab-06/lab-05.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB5R"), "28 October 2026", "https://github.com/uoeIDS/lab-06-template");} catch { };
 try {DateRestrictLink(document.getElementById("LAB5K"), "31 October 2026", "https://uoeIDS.github.io/labs/lab-06-key/lab-05-key.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB5Kraw"), "31 October 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-06-key");} catch { };
 
