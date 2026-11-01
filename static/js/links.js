@@ -898,12 +898,12 @@ try {DateRestrictLink(document.getElementById("GHL12"), "26 October 2026", "http
 //try {DateRestrictLink(document.getElementById("MHL12"), "27 October 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-10-27T10:00:00.000_2022-10-27T10:55:00.000/classroom#sortDirection=desc");} catch { };
 
 // week 7 lecture 13/14
-try {DateRestrictLink(document.getElementById("lecture13"), "02 November 2026", "https://uoeids.github.io/slides/w07-L13/w07-L13.html");} catch { };
-try {DateRestrictLink(document.getElementById("GHL13"), "02 November 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w07-L13");} catch { };
+try {DateRestrictLink(document.getElementById("lecture13"), "01 November 2026", "https://uoeids.github.io/slides/w07-L13/w07-L13.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL13"), "01 November 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w07-L13");} catch { };
 //try {DateRestrictLink(document.getElementById("MHL13"), "01 November 2023", "https://echo360.org.uk/lesson/295216c2-ea9d-4797-ad85-8c179fd4ad1d/classroom#sortDirection=desc");} catch { };
 
-try {DateRestrictLink(document.getElementById("lecture14"), "02 November 2026", "https://uoeids.github.io/slides/w07-L14/w07-L14.html");} catch { };
-try {DateRestrictLink(document.getElementById("GHL14"), "02 November 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w07-L14");} catch { };
+try {DateRestrictLink(document.getElementById("lecture14"), "01 November 2026", "https://uoeids.github.io/slides/w07-L14/w07-L14.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL14"), "01 November 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w07-L14");} catch { };
 //try {DateRestrictLink(document.getElementById("MHL14"), "03 November 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-11-03T10:00:00.000_2022-11-03T10:55:00.000/classroom#sortDirection=desc");} catch { };
 
 
