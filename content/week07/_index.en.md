@@ -74,9 +74,9 @@ Below are a number of optional "guest lectures" from YouTube that illustrates wh
 
 ## Workshop
 
-<p style="text-align: left"> In this week's workshop you will continue to work on your group projects. Further information can be found <a id="projectEND">here</a> and this page will be updated regularly towards the end of semester. There will be the first check-in this week so it is highly recommended that you need to arrange a meeting in your team to work on your project before Friday.</p>
+<p style="text-align: left"> In this week's workshop you will continue to work on your group projects. Further information can be found <a id="projectEND">here</a> and this page will be updated regularly towards the end of semester. There will be the first check-in this week so it is highly recommended that you need to arrange a meeting in your team to work on your project before Friday. Please regularly follow the project related updates and announcement. </p>
 
-<p style="text-align: left"> The first ‘check-in’ points is not assessed and do not count towards your final grade. A check-in will consist of a discussion with a tutor to receive feedback on your current progress and on your future plans. You should demonstrate that you have a basic understanding of the data you have selected and have made initial steps in cleaning, summarising and visualising your data. We will be looking to understand whether you have a clear problem statement and that you have a plan as to how you would explore the data to answer your statement.</p>
+<p style="text-align: left"> A check-in will consist of a discussion with an allocated tutor to receive feedback on your current progress and on your future plans. You should demonstrate that you have a basic understanding of the data you have selected and have made initial steps in cleaning, summarising and visualising your data. We will be looking to understand whether you have a clear problem statement and that you have a plan as to how you would explore the data to answer your statement.</p>
 
 
 <!-- <p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
