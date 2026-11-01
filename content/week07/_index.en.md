@@ -44,8 +44,8 @@ Lecture recordings are only available for IDS students via the University of Edi
 <li> Check your group information on Learn and let us know if there is any issue there. You can check via Learn page -> Groups tab at the top panel (the far right) 
 -> Click the Project Groups item to see the members.</li>
 <li>Watch the <a href="#videos and readings">Videos and readings</a>.</li>
-<li>Attend the <a href="#workshop">workshop</a>.</li>
-<li>Complete the <a href="#assignment">Assignments</a>.</li>
+<li>Attend the <a href="#workshop">workshop for project progress</a>.</li>
+<li>Complete your weekly quiz. </li>
 </ol>
 
 
