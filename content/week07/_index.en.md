@@ -25,9 +25,7 @@ Misrepresentation of findings, data privacy, and algorithmic bias.
 | 13  | Ethics: Misrepresentation  | <span><a id = "lecture13"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL13">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 14  | Ethics: Bias  | <span><a id = "lecture14"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL14">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
-TO BE UPDATED
 
-<!--
 <br>
 <p  style="text-align: left"> 
 <font size=4pt><b>Lecture Recordings</b></font>
@@ -38,19 +36,17 @@ TO BE UPDATED
 Lecture recordings are only available for IDS students via the University of Edinburgh virtual learning environment. To access the recordings, go to the Introduction to Data Science area on LEARN ULTRA and select <em>Lecture Recordings</em>  under the <em>Course Content</em> section. This will open <em>echovideo</em> where you will find a list of all lecture recordings to watch once they become available. 
 
 </p>
--->
 
-<!--
+
 ## Tasks
 
 <ol>
 <li>Watch the <a href="#videos and readings">Videos and readings</a>.</li>
 <li>Attend the <a href="#workshop">workshop</a>.</li>
-  <li>Complete the <a href="#assignment">Assignments</a>.</li>
+<li>Complete the <a href="#assignment">Assignments</a>.</li>
 </ol>
--->
 
-<!--
+
 ## Videos and reading
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
@@ -72,10 +68,12 @@ Below are a number of optional "guest lectures" from YouTube that illustrates wh
 | <a id="W7GL4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *Cathy O’Neil - Weapons of Math Destruction* |
 | <a id="W7GL5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *Safiya Umoja Noble - Imagining a Future Free from the Algorithms of Oppression* |
 | <a id="W7GL6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *Kristian Lum - What’s An Algorithm Got To Do With It* |
--->
+
+
+## Workshop
 
 <!--
-## Workshop
+TO BE UPDATED
 
 <p style="text-align: left"> In this week's workshop you will continue to work on your group projects. Further information can be found <a id="projectEND">here</a>.</p>
 
