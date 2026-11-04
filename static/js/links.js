@@ -528,6 +528,9 @@ try {document.getElementById("W7GL3YT").href = "https://youtu.be/UG_X_7g63rY";} 
 try {document.getElementById("W7GL4YT").href = "https://youtu.be/TQHs8SA1qpk";} catch { };	// youtube
 try {document.getElementById("W7GL5YT").href = "https://youtu.be/tNi_U1Bb1S0";} catch { };	// youtube
 try {document.getElementById("W7GL6YT").href = "https://youtu.be/5zxDwA99soA";} catch { };	// youtube
+try {document.getElementById("W7GL7YT").href = "http://www.youtube.com/watch?v=ebEkn-BiW5k";} catch { };	// youtube
+try {document.getElementById("W7GL8YT").href = "https://www.youtube.com/watch?v=E_ME4P9fQbo";} catch { };	// youtube
+
 
 // Wk7
 
