@@ -70,10 +70,8 @@ Below are a number of optional "guest lectures" from YouTube that illustrates wh
 | <a id="W7GL4YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *Cathy O’Neil - Weapons of Math Destruction* |
 | <a id="W7GL5YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *Safiya Umoja Noble - Imagining a Future Free from the Algorithms of Oppression* |
 | <a id="W7GL6YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *Kristian Lum - What’s An Algorithm Got To Do With It* |
-| <a id="W7GL7YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *minutephysics - 
-Simpson's Paradox* |
-| <a id="W7GL8YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *minutephysics - 
-Are University Admissions Biased? Simpson's Paradox Part 2* |
+| <a id="W7GL7YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *minutephysics - Simpson's Paradox* |
+| <a id="W7GL8YT"><span style="color: red;"><i class="fab fa-youtube fa-lg" /></span></a> | *minutephysics - Are University Admissions Biased? Simpson's Paradox Part 2* |
 
 
 ## Workshop
