@@ -22,6 +22,10 @@ You will be asked to fill out a survey where you rate the contribution and teamw
 There will be another final peer assessment at the end of the semester in a similar format with marking contribution. Please see the **Team peer evaluation** section below for further details.
 {{% /notice %}}
 
+{{% notice tip %}}
+Also, start taking notes about any GenAI usage for the project, if you made any. There will be a specific GenAI disclosure area in the final report format at the end. This detail will be shared and updated here in that page.  
+{{% /notice %}}
+
 ---
 
 ## Final Project
