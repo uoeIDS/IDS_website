@@ -3,6 +3,23 @@ title: "Final Projects"
 weight: 4
 ---
 
+## Week 7 Updates
+
+<p style="text-align: left"> In this week's workshop you will continue to work on your group projects. A check-in will consist of a discussion with an allocated tutor to receive feedback on your current progress and on your future plans.
+
+Besides, there is a peer assessment check-in as well, via Learn WebPA survey system. We are testing it this time without any marking contribution but crucial to participate still. 
+
+### Team peer evaluation - Check-in
+
+You will be asked to fill out a survey where you rate the contribution and teamwork of each team member. This survey will be available on WebPA, accessible via the course Learn page (Learn > Assessment > WebPA).
+
+- The deadline for the test of peer evaluation is Wednesday 11st November, @ 16:00 GMT.
+- There will be another final peer assessment at the end of the semester in a similar format with marking contribution. Please see the **Team peer evaluation** section below for further details.
+
+---
+
+## Final Project
+
 You, as part of a __team__, will be responsible for the completion of an open ended final project for this course, the goal of which is to tackle an “interesting” real life problem using the tools and techniques covered in this class. 
 
 {{% notice tip %}}
