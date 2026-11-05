@@ -11,10 +11,16 @@ Besides, there is a peer assessment check-in as well, via Learn WebPA survey sys
 
 ### Team peer evaluation - Check-in
 
-You will be asked to fill out a survey where you rate the contribution and teamwork of each team member. This survey will be available on WebPA, accessible via the course Learn page (Learn > Assessment > WebPA).
+You will be asked to fill out a survey where you rate the contribution and teamwork of each team member. This survey will be available on WebPA, accessible via the course Learn page (Learn > Assessment > WebPA). IT should be visible when you open that item, under the **my assessments** section, and scheduled between 
 
-- The deadline for the test of peer evaluation is Wednesday 11st November, @ 16:00 GMT.
-- There will be another final peer assessment at the end of the semester in a similar format with marking contribution. Please see the **Team peer evaluation** section below for further details.
+**Fri, 6th November, 2026 at 9:00  -  Wed, 11th November, 2026 at 16:00**
+
+- So, the deadline for the test of peer evaluation is Wednesday 11st November, 
+@ 16:00 GMT.
+
+{{% notice tip %}}
+There will be another final peer assessment at the end of the semester in a similar format with marking contribution. Please see the **Team peer evaluation** section below for further details.
+{{% /notice %}}
 
 ---
 
