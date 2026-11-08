@@ -24,13 +24,11 @@ Linear models for predicting numerical data from single and multiple variables.
 |:---:|:---------------------|:--------:|:------|
   | 15  | Introducing Modelling  | <span><a id = "lecture15"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL15">Raw<i class="fab fa-fw fa-github"/></a></span> |
   | 16  | Model Checking  | <span><a id = "lecture16"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL16">Raw<i class="fab fa-fw fa-github"/></a></span> |
-  
 
-TO BE UPDATED
 
 <!-- <li><a id ="W8L4MH">Video 1**</a></li><li><a id = "W8L5MH">Video 2</a></li><li><a id = "W8L6MH">Video 3</a></li> ---><!-- Old video recoding links-->
 
-<!--
+
 <br>
 <p  style="text-align: left"> 
 <font size=4pt><b>Lecture Recordings</b></font>
@@ -41,7 +39,7 @@ TO BE UPDATED
 Lecture recordings are only available for IDS students via the University of Edinburgh virtual learning environment. To access the recordings, go to the Introduction to Data Science area on LEARN ULTRA and select <em>Lecture Recordings</em>  under the <em>Course Content</em> section. This will open <em>echovideo</em> where you will find a list of all lecture recordings to watch once they become available. 
 
 </p>
--->
+
 
 <!--
 <p style="text-align: left">
@@ -50,17 +48,16 @@ Lecture recordings are only available for IDS students via the University of Edi
 -->
 
 
-<!--
+
 ## Tasks
 
 <ol>
 <li>Watch the <a href="#videos and reading">Videos and reading</a>.</li>
 <li>Attend the <a href="#workshop">workshop</a>.</li>
-  <!-- <li>Complete the <a href="#assignments">Assignments</a>.</li> 
+<li>Work on your project as a group.</li> 
 </ol>
--->
 
-<!--
+
 ## Videos and reading
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
@@ -69,10 +66,12 @@ Lecture recordings are only available for IDS students via the University of Edi
 |:--:|:---|:--:|
 | <i class="fas fa-book"></i> | IMS: <a id="IMS7">Chp 7 - Linear regression with a single predictor</a> | **Required** |
 | <i class="fas fa-book"></i> | IMS: <a id="IMS8">Chp 8 - Linear regression with multiple predictors</a> | **Required** |
--->
+
+
+## Workshop
 
 <!--
-## Workshop
+TO BE UPDATED
 
 <p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
 
