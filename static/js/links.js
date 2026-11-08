@@ -535,6 +535,8 @@ try {document.getElementById("W7GL8YT").href = "https://www.youtube.com/watch?v=
 // Wk7
 
 // Wk8
+try {document.getElementById("MD5").href = "https://moderndive.com/5-regression.html";} catch { };
+try {document.getElementById("MD6").href = "https://moderndive.com/6-multiple-regression.html";} catch { };
 
 // Wk9
 try {document.getElementById("TMBaM").href = "https://www.tidymodels.org/start/models/";} catch { };		// TidyModels

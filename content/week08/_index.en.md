@@ -65,7 +65,10 @@ Lecture recordings are only available for IDS students via the University of Edi
 |    |    |    |
 |:--:|:---|:--:|
 | <i class="fas fa-book"></i> | IMS: <a id="IMS7">Chp 7 - Linear regression with a single predictor</a> | **Required** |
+| <i class="fas fa-book"></i> | IMS: <a id="MD5">Chp 5 - Basic Regression </a> | Optional |
 | <i class="fas fa-book"></i> | IMS: <a id="IMS8">Chp 8 - Linear regression with multiple predictors</a> | **Required** |
+| <i class="fas fa-book"></i> | IMS: <a id="MD6">Chp 6 - Multiple Regression </a> | Optional |
+
 
 
 ## Workshop
