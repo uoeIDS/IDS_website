@@ -73,9 +73,9 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 ## Workshop
 
-<!--
 TO BE UPDATED
 
+<!--
 <p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
 
 
