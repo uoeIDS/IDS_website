@@ -28,8 +28,10 @@ Before diving into homework, if you need, recall what we covered during workshop
 | ID | Topics | Links | Release | Deadline |
 |:--:|:-------|:------|:--------|:---------|
 |`hw-B`| Data visualisation (Wks 5--6) | <ul><li><a id="HW2I">Worksheet</a></li><li><a id="HW2R">Template Repo</a></li><li><a id="HW2K">Solutions</a> (<a id="HW2Kraw">Raw</a>)</li></ul> | Mon Wk 5 | Fri Wk 6, 30/Oct/2026 @16:00 GMT |
-<!-- 
-|`hw-C`| Model building and investigations | <ul><li><a id="HW3I">Worksheet</a></li><li><a id="HW3R">Template Repo</a></li><li><a id="HW3K">Solutions</a> (<a id="HW3Kraw">Raw</a>)</li></ul> | Mon Wk 8 | Fri Wk 9, 20/Nov/2026 @16:00 GMT | -->
+|`hw-C`| Model building and investigations | <ul><li><a id="HW3I">Worksheet</a></li><li><a id="HW3R">Template Repo</a></li><li><a id="HW3K">Solutions</a> (<a id="HW3Kraw">Raw</a>)</li></ul> | Mon Wk 8 | Fri Wk 9, 20/Nov/2026 @16:00 GMT |
+
+
+
 
 <!-- |`hw-01`| Data wrangling, processing and summarising (Wks 2--3) | <ul><li><a id="HW1I">Worksheet</a></li><li><a id="HW1R">Template Repo</a></li><li><a id="HW1K">Solutions</a> (<a id="HW1Kraw">Raw</a>)</li></ul> | Mon Wk 3 | Fri Wk 4, 11/Oct/2024 @16:00 BST |
 |`hw-02`| Data visualisation and ethical considerations (Wks 5--6) | <ul><li><a id="HW2I">Worksheet</a></li><li><a id="HW2R">Template Repo</a></li><li><a id="HW2K">Solutions</a> (<a id="HW2Kraw">Raw</a>)</li></ul> | Mon Wk 6 | Fri Wk 7, 01/Nov/2024 @16:00 GMT |
