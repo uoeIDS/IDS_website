@@ -1146,8 +1146,8 @@ try {DateRestrictLink(document.getElementById("LAB6K"), "07 November 2026", "htt
 try {DateRestrictLink(document.getElementById("LAB6Kraw"), "07 November 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-06-key");} catch { };
 
 // lab 7 - Course Evaluations WEEK 08
-try {DateRestrictLink(document.getElementById("LAB7I"), "12 November 2026", "https://uoeids.github.io/labs/lab-07/lab-07.html");} catch { };
-try {DateRestrictLink(document.getElementById("LAB7R"), "12 November 2026", "https://github.com/uoeIDS/lab-07-template");} catch { };
+try {DateRestrictLink(document.getElementById("LAB7I"), "11 November 2026", "https://uoeids.github.io/labs/lab-07/lab-07.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB7R"), "11 November 2026", "https://github.com/uoeIDS/lab-07-template");} catch { };
 try {DateRestrictLink(document.getElementById("LAB7K"), "14 November 2026", "https://uoeids.github.io/labs/lab-07-key/lab-07-key.html");} catch { };
 try {DateRestrictLink(document.getElementById("LAB7Kraw"), "14 November 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/labs/lab-07-key");} catch { };
 
