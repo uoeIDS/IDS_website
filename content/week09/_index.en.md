@@ -25,9 +25,7 @@ Logistic regression for predicting categorical data and model building.
   | 17  | Logistic regression  | <span><a id = "lecture17"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL17">Raw<i class="fab fa-fw fa-github"/></a></span> |
   | 18  | Model Building  | <span><a id = "lecture18"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL18">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
-TO BE UPDATED
-  
-<!--
+
 <br>
 <p  style="text-align: left"> 
 <font size=4pt><b>Lecture Recordings</b></font>
@@ -38,19 +36,18 @@ TO BE UPDATED
 Lecture recordings are only available for IDS students via the University of Edinburgh virtual learning environment. To access the recordings, go to the Introduction to Data Science area on LEARN ULTRA and select <em>Lecture Recordings</em>  under the <em>Course Content</em> section. This will open <em>echovideo</em> where you will find a list of all lecture recordings to watch once they become available. 
 
 </p>
--->
 
-<!--
+
 ## Tasks
 
 <ol>
 <li>Watch the <a href="#Videos and reading">Videos and reading</a>.</li>
 <li>Attend the <a href="#workshop">workshop</a>.</li>
-  <li>Complete the <a href="#assignment">Assignments</a>.</li>
+<li>Complete the <a href="#assignment">Assignments</a>.</li>
 </ol>
--->
 
-<!--
+
+
 ## Videos and reading
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
@@ -61,10 +58,13 @@ Lecture recordings are only available for IDS students via the University of Edi
 | <i class="fas fa-book"></i> | IMS: <a id="IMS9">Chp 9 - Logistic regression</a> | **Required** |
 | <i class="fab fa-readme"></i> | tidymodels: <a id="TMBaM">Build a model</a> | Optional |
 | <i class="fab fa-readme"></i> | tidymodels: <a id="TMP">Preprocess your data with recipes</a> | Optional |
--->
+
+
+## Workshop
+
+TO BE UPDATED
 
 <!--
-## Workshop
 <p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
 
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
