@@ -62,15 +62,13 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 ## Workshop
 
-TO BE UPDATED
-
-<!--
 <p style="text-align: left"> The lab sheet can be accessed the day before the workshop, and the solutions the day after the workshop.</p>
 
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
 | Lab08: Predicting rain | <li><a id="LAB8I">Instructions</a></li> <li><a id="LAB8R">Repository</a></li><li><a id="LAB8K">Solutions</a>(<a id="LAB8Kraw">Raw</a>)</li> | Friday |
 
+<!--
 <p style="text-align: left"> During the workshop you will have your second project 'check-in' with a tutor. You should be able to demonstrate a reasonable understanding of your data and to make some comments in relation to your problem statement, and thinking carefully about what type of model to use. We will be looking to see if your plans are appropriate and reasonable to be completed within the last two week, and that you have thought carefully about your presentation and report.</p>
 -->
 
