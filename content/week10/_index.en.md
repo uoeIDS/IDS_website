@@ -52,8 +52,9 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 |    |    |    |
 |:--:|:---|:--:|
-| <i class="fab fa-readme"></i> | tidymodels: <a id="TMER">Evaluate your model with resampling</a> | **Required** |
-| <i class="fab fa-readme"></i> | openintro: <a id="OPENINF">Inference for linear regression with a single predictor</a> | Optional |
+| <i class="fab fa-readme"></i> | openintro: <a id="OPENINF">Inference for linear regression with a single predictor</a> | **Required** |
+| <i class="fab fa-readme"></i> | tidymodels: <a id="TMER">Evaluate your model with resampling</a> | Optional |
+
 
 
 ## Workshop
