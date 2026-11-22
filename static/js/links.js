@@ -545,6 +545,7 @@ try {document.getElementById("TMP").href = "https://www.tidymodels.org/start/rec
 
 // Wk10
 try {document.getElementById("TMER").href = "https://www.tidymodels.org/start/resampling/";} catch { };		// TidyModels
+try {document.getElementById("OPENINF").href = "https://openintro-ims.netlify.app/inf-model-slr";} catch { };		// OPenintro 
 
 // Wk11
 try {document.getElementById("MS1").href = "https://mastering-shiny.org/basic-app.html";} catch { };
@@ -931,12 +932,12 @@ try {DateRestrictLink(document.getElementById("GHL18"), "13 November 2026", "htt
 //try {DateRestrictLink(document.getElementById("MHL18"), "17 November 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-11-17T10:00:00.000_2022-11-17T10:55:00.000/classroom#sortDirection=desc");} catch { };
 
 // week 10 lecture 19/20
-try {DateRestrictLink(document.getElementById("lecture19"), "23 November 2026", "https://uoeids.github.io/slides/w10-L19/w10-L19.html");} catch { };
-try {DateRestrictLink(document.getElementById("GHL19"), "23 November 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w10-L19");} catch { };
+try {DateRestrictLink(document.getElementById("lecture19"), "22 November 2026", "https://uoeids.github.io/slides/w10-L19/w10-L19.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL19"), "22 November 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w10-L19");} catch { };
 //try {DateRestrictLink(document.getElementById("MHL19"), "22 November 2023", "https://echo360.org.uk/lesson/25e320d4-0dd3-437a-b397-f878d5a26584/classroom#sortDirection=desc");} catch { };
 
-try {DateRestrictLink(document.getElementById("lecture20"), "23 November 2026", "https://uoeids.github.io/slides/w10-L20/w10-L20.html");} catch { };
-try {DateRestrictLink(document.getElementById("GHL20"), "23 November 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w10-L20");} catch { };
+try {DateRestrictLink(document.getElementById("lecture20"), "22 November 2026", "https://uoeids.github.io/slides/w10-L20/w10-L20.html");} catch { };
+try {DateRestrictLink(document.getElementById("GHL20"), "22 November 2026", "https://github.com/uoeIDS/uoeIDS.github.io/tree/main/slides/w10-L20");} catch { };
 //try {DateRestrictLink(document.getElementById("MHL20"), "24 November 2023", "https://echo360.org.uk/lesson/G_efe2d84a-4230-499d-9c17-c921a3e3494b_72dbeb50-863a-4fc5-8c6b-8f0be8a5ce6e_2022-11-24T10:00:00.000_2022-11-24T10:55:00.000/classroom#sortDirection=desc");} catch { };
 
 // week 11 lecture 20/21

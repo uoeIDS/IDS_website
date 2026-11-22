@@ -25,9 +25,7 @@ Evaluating models with cross validation and further topics in modeling.
 | 19  | Cross Validation  | <span><a id = "lecture19"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL19">Raw<i class="fab fa-fw fa-github"/></a></span> |
 | 20  | Bootstrap for regression  | <span><a id = "lecture20"><i class="fas fa-desktop fa-lg"/></a></span> | <span><a id = "GHL20">Raw<i class="fab fa-fw fa-github"/></a></span> |
 
-TO BE UPDATED
 
-<!--
 <br>
 <p  style="text-align: left"> 
 <font size=4pt><b>Lecture Recordings</b></font>
@@ -38,19 +36,16 @@ TO BE UPDATED
 Lecture recordings are only available for IDS students via the University of Edinburgh virtual learning environment. To access the recordings, go to the Introduction to Data Science area on LEARN ULTRA and select <em>Lecture Recordings</em>  under the <em>Course Content</em> section. This will open <em>echovideo</em> where you will find a list of all lecture recordings to watch once they become available. 
 
 </p>
--->
 
-<!--
+
 ## Tasks
 
 <ol>
   <li>Watch the <a href="#Videos and reading">Videos and reading</a>.</li>
-  <li>Attend the <a href="#workshop">workshop</a>.</li>
-  <li>Complete the <a href="#assignment">Assignments</a>.</li>
+  <li>Organize your group project meeting and make progress</li>
+  <li>Attend the <a href="#workshop">workshop for second check-in</a>.</li>
 </ol>
--->
 
-<!--
 ## Videos and reading
 
 <p style="text-align: left">Some of this material is required and some of it is optional. We expect you to watch the required videos and read the required reading. This required material is part of the course so it may be assessed in the assignments and it may not be covered in the lectures. The optional material is extra reading for those that are interested!</p>
@@ -58,11 +53,16 @@ Lecture recordings are only available for IDS students via the University of Edi
 |    |    |    |
 |:--:|:---|:--:|
 | <i class="fab fa-readme"></i> | tidymodels: <a id="TMER">Evaluate your model with resampling</a> | **Required** |
--->
+| <i class="fab fa-readme"></i> | openintro: <a id="OPENINF">Inference for linear regression with a single predictor</a> | Optional |
 
-<!--
+
 ## Workshop
 
+TO BE UPDATED
+
+<!--
+
+<p style="text-align: left"> During the workshop you will have your second project 'check-in' with a tutor. You should be able to demonstrate a reasonable understanding of your data and to make some comments in relation to your problem statement, and thinking carefully about what type of model to use. We will be looking to see if your plans are appropriate and reasonable to be completed within the last two week, and that you have thought carefully about your presentation and report.</p>
 
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
@@ -70,6 +70,8 @@ Lecture recordings are only available for IDS students via the University of Edi
 -->
 
 <!---| Lab09: Make progress on projects |  <li><a id="LAB8I">Instructions</a></li>| Fri, 24 Nov, 16:00 UK |-->
+
+
 
 <!--
 ## Assignment
