@@ -3,6 +3,12 @@ title: "Final Projects"
 weight: 4
 ---
 
+## Week 10 Updates
+
+<p style="text-align: left"> During the workshop you will have your second project 'check-in' with a tutor. Be ready to give a brief 3–4-minute walk through of your draft project to your tutor, covering your research question, progress on exploratory and main analysis, your chosen modeling tools and why they fit your data, any plausible results and what they mean so far. We will be looking at your draft report or presentation before the presentation day on week 11, including remaining plans that you need to act on. Tutors will interact you while that check-in by asking specific related questions and would like to see some walk through with group members about what you have done so far.</p>
+
+Please see the lab material for further instructions.
+
 ## Week 7 Updates
 
 <p style="text-align: left"> In this week's workshop you will continue to work on your group projects. A check-in will consist of a discussion with an allocated tutor to receive feedback on your current progress and on your future plans.
@@ -382,8 +388,9 @@ Second check-in | 5 pts
 
 ( * ) These two marks are readjusted using the peer evaluation and the webPA formula. 
 
-First the Report and Reproducibility marks are calculated at the team level. The individual mark is then calculated as: `(1-0.30) * (Report + Reproducibility) + 0.30 * individual_webPA_score * (Report + Reproducibility)`, where `0.30` is the webPA weighting (how much it affects the mark multiplicatively, i.e. 30%), and `individual_webPA_score` is calculated by webPA software (see the [worked example](https://webpaproject.lboro.ac.uk/WorkedExample) for further information).
-Finally, the Presentation and Second check-in mark is added to this score to obtain the final (individual) mark, out of 100.
+First the Report, Reproducibility and Second check-in marks are calculated at the team level. The individual mark is then calculated as: `(1-0.30) * (Report + Reproducibility + Check-in) + 0.30 * individual_webPA_score * (Report + Reproducibility + Check-in)`, where `0.30` is the webPA weighting (how much it affects the mark multiplicatively, i.e. 30%), and `individual_webPA_score` is calculated by webPA software (see the [worked example](https://webpaproject.lboro.ac.uk/WorkedExample) for further information).
+
+Finally, the Presentation mark is added to this score to obtain the final (individual) mark, out of 100.
 
 <!-- 
 ### Criteria

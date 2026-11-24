@@ -59,16 +59,11 @@ Lecture recordings are only available for IDS students via the University of Edi
 
 ## Workshop
 
-TO BE UPDATED
-
-<!--
-
-<p style="text-align: left"> During the workshop you will have your second project 'check-in' with a tutor. You should be able to demonstrate a reasonable understanding of your data and to make some comments in relation to your problem statement, and thinking carefully about what type of model to use. We will be looking to see if your plans are appropriate and reasonable to be completed within the last two week, and that you have thought carefully about your presentation and report.</p>
+<p style="text-align: left"> During the workshop you will have your second project 'check-in' with a tutor. Be ready to give a brief 3–4-minute walk through of your draft project to your tutor, covering your research question, progress on exploratory and main analysis, your chosen modeling tools and why they fit your data, any plausible results and what they mean so far. We will be looking at your draft report or presentation before the presentation day on week 11, including remaining plans that you need to act on. Tutors will interact you while that check-in by asking specific related questions and would like to see some walk through with group members about what you have done so far.</p>
 
 | <div style="text-align:left">Laboratory Title</div> | <div style="text-align:left">Links</div> | <div style="text-align:left">Date</div> |
 |:---|:---|:---|
 | Project |  <li><a id="LAB9Proj">Instructions</a></li> | Friday |
--->
 
 <!---| Lab09: Make progress on projects |  <li><a id="LAB8I">Instructions</a></li>| Fri, 24 Nov, 16:00 UK |-->
 
