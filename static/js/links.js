@@ -1160,7 +1160,7 @@ try {DateRestrictLink(document.getElementById("LAB8Kraw"), "21 November 2026", "
 //try {DateRestrictLink(document.getElementById("LAB7I"), "16 November 2023", "https://uoeids.github.io/labs/lab-08/lab-08.html");} catch { };
 
 // lab 9 - Make Progress on Projects WEEK 10
-try {DateRestrictLink(document.getElementById("LAB9Proj"), "26 November 2026", "https://uoeids.github.io/labs/lab-09/lab-09.html");} catch { };
+try {DateRestrictLink(document.getElementById("LAB9Proj"), "25 November 2026", "https://uoeids.github.io/labs/lab-09/lab-09.html");} catch { };
 
 // lab 9 & 10 - Project weeks
 try {DateRestrictLink(document.getElementById("projectEND"), "04 December 2026", "/assessments/project");} catch { };
